@@ -1,0 +1,73 @@
+{
+    "nomor": 114,
+    "nama": "الناس",
+    "nama_latin": "An-Nas",
+    "jumlah_ayat": 6,
+    "tempat_turun": "mekah",
+    "arti": "Manusia",
+    "deskripsi": "Surat ini terdiri atas 6 ayat, termasuk golongan surat-surat Makkiyah,  diturunkan sesudah surat Al Falaq. Nama <i>An Naas</i> diambil dari <i>An Naas</i> yang berulang kali disebut dalam surat ini yang artinya manusia.",
+    "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/114.mp3",
+    "status": true,
+    "ayat": [
+        {
+            "id": 6231,
+            "surah": 114,
+            "nomor": 1,
+            "ar": "قُلْ اَعُوْذُ بِرَبِّ النَّاسِۙ",
+            "tr": "qul a‘ūżu birabbin-nās(i).",
+            "idn": "Katakanlah, “Aku berlindung kepada Tuhannya manusia,"
+        },
+        {
+            "id": 6232,
+            "surah": 114,
+            "nomor": 2,
+            "ar": "مَلِكِ النَّاسِۙ",
+            "tr": "malikin-nās(i).",
+            "idn": "Raja manusia,"
+        },
+        {
+            "id": 6233,
+            "surah": 114,
+            "nomor": 3,
+            "ar": "اِلٰهِ النَّاسِۙ",
+            "tr": "ilāhin-nās(i).",
+            "idn": "sembahan manusia,"
+        },
+        {
+            "id": 6234,
+            "surah": 114,
+            "nomor": 4,
+            "ar": "مِنْ شَرِّ الْوَسْوَاسِ ەۙ الْخَنَّاسِۖ",
+            "tr": "min syarril-waswāsil-khannās(i).",
+            "idn": "dari kejahatan (bisikan) setan yang bersembunyi,"
+        },
+        {
+            "id": 6235,
+            "surah": 114,
+            "nomor": 5,
+            "ar": "الَّذِيْ يُوَسْوِسُ فِيْ صُدُوْرِ النَّاسِۙ",
+            "tr": "allażī yuwaswisu fī ṣudūrin-nās(i).",
+            "idn": "yang membisikkan (kejahatan) ke dalam dada manusia,"
+        },
+        {
+            "id": 6236,
+            "surah": 114,
+            "nomor": 6,
+            "ar": "مِنَ الْجِنَّةِ وَالنَّاسِ ࣖ ",
+            "tr": "minal jinnati wan-nās(i).",
+            "idn": "dari (golongan) jin dan manusia.”"
+        }
+    ],
+    "surat_selanjutnya": false,
+    "surat_sebelumnya": {
+        "id": 113,
+        "nomor": 113,
+        "nama": "الفلق",
+        "nama_latin": "Al-Falaq",
+        "jumlah_ayat": 5,
+        "tempat_turun": "mekah",
+        "arti": "Subuh",
+        "deskripsi": "Surat ini terdiri atas 5 ayat, termasuk golongan surat-surat Makkiyah, diturunkan sesudah surat Al Fiil. Nama <i>Al Falaq</i> diambil dari kata <i>Al Falaq</i> yang terdapat pada ayat pertama surat ini yang artinya waktu subuh. Diriwayatkan oleh Abu Daud, At Tirmizi dan An Nasa-i dari 'Uqbah bin 'Aamir bahwa Rasulullah s.a.w. bersembahyang dengan membaca surat Al Falaq  dan surat An Naas dalam perjalanan.",
+        "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/113.mp3"
+    }
+}

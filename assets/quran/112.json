@@ -1,0 +1,67 @@
+{
+    "nomor": 112,
+    "nama": "الاخلاص",
+    "nama_latin": "Al-Ikhlas",
+    "jumlah_ayat": 4,
+    "tempat_turun": "mekah",
+    "arti": "Ikhlas",
+    "deskripsi": "Surat ini terdiri atas 4 ayat, termasuk golongan surat-surat  Makkiyyah, diturunkan sesudah sesudah surat An Naas. Dinamakan <i>Al Ikhlas</i> karena surat ini sepenuhnya menegaskan kemurnian keesaan Allah s.w.t.",
+    "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/112.mp3",
+    "status": true,
+    "ayat": [
+        {
+            "id": 6222,
+            "surah": 112,
+            "nomor": 1,
+            "ar": "قُلْ هُوَ اللّٰهُ اَحَدٌۚ",
+            "tr": "qul huwallāhu aḥad(un).",
+            "idn": "Katakanlah (Muhammad), “Dialah Allah, Yang Maha Esa."
+        },
+        {
+            "id": 6223,
+            "surah": 112,
+            "nomor": 2,
+            "ar": "اَللّٰهُ الصَّمَدُۚ",
+            "tr": "allāhuṣ-ṣamad(u).",
+            "idn": "Allah tempat meminta segala sesuatu."
+        },
+        {
+            "id": 6224,
+            "surah": 112,
+            "nomor": 3,
+            "ar": "لَمْ يَلِدْ وَلَمْ يُوْلَدْۙ",
+            "tr": "lam yalid wa lam yūlad.",
+            "idn": "(Allah) tidak beranak dan tidak pula diperanakkan."
+        },
+        {
+            "id": 6225,
+            "surah": 112,
+            "nomor": 4,
+            "ar": "وَلَمْ يَكُنْ لَّهٗ كُفُوًا اَحَدٌ ࣖ",
+            "tr": "wa lam yakul lahū kufuwan aḥad(un).",
+            "idn": "Dan tidak ada sesuatu yang setara dengan Dia.”"
+        }
+    ],
+    "surat_selanjutnya": {
+        "id": 113,
+        "nomor": 113,
+        "nama": "الفلق",
+        "nama_latin": "Al-Falaq",
+        "jumlah_ayat": 5,
+        "tempat_turun": "mekah",
+        "arti": "Subuh",
+        "deskripsi": "Surat ini terdiri atas 5 ayat, termasuk golongan surat-surat Makkiyah, diturunkan sesudah surat Al Fiil. Nama <i>Al Falaq</i> diambil dari kata <i>Al Falaq</i> yang terdapat pada ayat pertama surat ini yang artinya waktu subuh. Diriwayatkan oleh Abu Daud, At Tirmizi dan An Nasa-i dari 'Uqbah bin 'Aamir bahwa Rasulullah s.a.w. bersembahyang dengan membaca surat Al Falaq  dan surat An Naas dalam perjalanan.",
+        "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/113.mp3"
+    },
+    "surat_sebelumnya": {
+        "id": 111,
+        "nomor": 111,
+        "nama": "اللهب",
+        "nama_latin": "Al-Lahab",
+        "jumlah_ayat": 5,
+        "tempat_turun": "mekah",
+        "arti": "Api Yang Bergejolak",
+        "deskripsi": "Surat ini terdiri atas 5 ayat, termasuk golongan surat-surat Makkiyyah,  diturunkan sesudah surat Al Fath. Nama <i>Al Lahab</i> diambil dari kata  <i>Al Lahab</i> yang terdapat pada ayat ketiga surat ini yang artinya gejolak  api. Surat ini juga dinamakan surat <i>Al Masad</i>.",
+        "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/111.mp3"
+    }
+}

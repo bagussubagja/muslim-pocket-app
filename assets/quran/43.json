@@ -1,0 +1,747 @@
+{
+    "nomor": 43,
+    "nama": "الزخرف",
+    "nama_latin": "Az-Zukhruf",
+    "jumlah_ayat": 89,
+    "tempat_turun": "mekah",
+    "arti": "Perhiasan",
+    "deskripsi": "Surat Az Zukhruf terdiri atas 89 ayat, termasuk golongan  surat-surat Makkiyyah, diturunkan sesudah surat Asy Syuura. <br>Dinamai <i>Az Zukhruf</i> (Perhiasan) diambil dari perkataan <i>Az Zukhruf</i> yang terdapat pada ayat 35 surat ini.  Orang-orang musyrik mengukur tinggi rendahnya derajat seseorang tergantung kepada perhiasan dan harta benda yang ia punyai, karena Muhammad s.a.w. adalah seorang anak yatim lagi miskin, ia tidak pantas diangkat Allah sebagai seorang rasul dan nabi.  Pangkat rasul dan nabi harus diberikan kepada orang yang kaya.  Ayat ini menegaskan bahwa harta tidak dapat dijadikan dasar untuk mengukur tinggi rendahnya derajat seseorang, karena harta itu merupakan hiasan kehidupan duniawi, bukan berarti kesenangan akhirat.",
+    "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/043.mp3",
+    "status": true,
+    "ayat": [
+        {
+            "id": 4326,
+            "surah": 43,
+            "nomor": 1,
+            "ar": " حٰمۤ  ۚ ",
+            "tr": "Ḥā mīm.",
+            "idn": "Ha Mim"
+        },
+        {
+            "id": 4327,
+            "surah": 43,
+            "nomor": 2,
+            "ar": "وَالْكِتٰبِ الْمُبِيْنِ ۙ ",
+            "tr": "wal-kitābil-mubīn(i).",
+            "idn": "Demi Kitab (Al-Qur'an) yang jelas."
+        },
+        {
+            "id": 4328,
+            "surah": 43,
+            "nomor": 3,
+            "ar": "اِنَّا جَعَلْنٰهُ قُرْاٰنًا عَرَبِيًّا لَّعَلَّكُمْ تَعْقِلُوْنَۚ ",
+            "tr": "innā ja‘alnāhu qur'ānan ‘arabiyyal la‘allakum ta‘qilūn(a).",
+            "idn": "Kami menjadikan Al-Qur'an dalam bahasa Arab agar kamu mengerti."
+        },
+        {
+            "id": 4329,
+            "surah": 43,
+            "nomor": 4,
+            "ar": "وَاِنَّهٗ فِيْٓ اُمِّ الْكِتٰبِ لَدَيْنَا لَعَلِيٌّ حَكِيْمٌ ۗ ",
+            "tr": "wa innahū fī ummil-kitābi ladainā la‘aliyyun ḥakīm(un).",
+            "idn": "Dan sesungguhnya Al-Qur'an itu dalam Ummul Kitab (Lauh Mahfuzh) di sisi Kami, benar-benar (bernilai) tinggi dan penuh hikmah."
+        },
+        {
+            "id": 4330,
+            "surah": 43,
+            "nomor": 5,
+            "ar": "اَفَنَضْرِبُ عَنْكُمُ الذِّكْرَ صَفْحًا اَنْ كُنْتُمْ قَوْمًا مُّسْرِفِيْنَ",
+            "tr": "afa naḍribu ‘ankumuż-żikra ṣafḥan an kuntum qaumam musrifīn(a).",
+            "idn": "Maka apakah Kami akan berhenti menurunkan ayat-ayat (sebagai peringatan) Al-Qur'an kepadamu, karena kamu kaum yang melampaui batas?"
+        },
+        {
+            "id": 4331,
+            "surah": 43,
+            "nomor": 6,
+            "ar": "وَكَمْ اَرْسَلْنَا مِنْ نَّبِيٍّ فِى الْاَوَّلِيْنَ ",
+            "tr": "wa kam arsalnā min nabiyyin fil-awwalīn(a).",
+            "idn": "Dan betapa banyak nabi-nabi yang telah Kami utus kepada umat-umat yang terdahulu."
+        },
+        {
+            "id": 4332,
+            "surah": 43,
+            "nomor": 7,
+            "ar": "وَمَا يَأْتِيْهِمْ مِّنْ نَّبِيٍّ اِلَّا كَانُوْا بِهٖ يَسْتَهْزِءُوْنَ ",
+            "tr": "wa mā ya'tīhim min nabiyyin illā kānū bihī yastahzi'ūn(a).",
+            "idn": "Dan setiap kali seorang nabi datang kepada mereka, mereka selalu memperolok-olokkannya."
+        },
+        {
+            "id": 4333,
+            "surah": 43,
+            "nomor": 8,
+            "ar": "فَاَهْلَكْنَآ اَشَدَّ مِنْهُمْ بَطْشًا وَّمَضٰى مَثَلُ الْاَوَّلِيْنَ",
+            "tr": "fa ahlaknā asyadda minhum baṭsyaw wa maḍā maṡalul-awwalīn(a).",
+            "idn": "Karena itu Kami binasakan orang-orang yang lebih besar kekuatannya di antara mereka dan telah berlalu contoh umat-umat terdahulu."
+        },
+        {
+            "id": 4334,
+            "surah": 43,
+            "nomor": 9,
+            "ar": "وَلَىِٕنْ سَاَلْتَهُمْ مَّنْ خَلَقَ السَّمٰوٰتِ وَالْاَرْضَ لَيَقُوْلُنَّ خَلَقَهُنَّ الْعَزِيْزُ الْعَلِيْمُۙ",
+            "tr": "wa la'in sa'altahum man khalaqas-samāwāti wal-arḍa layaqūlunna khalaqahunnal-‘azīzul-‘alīm(u).",
+            "idn": "Dan jika kamu tanyakan kepada mereka, “Siapakah yang menciptakan langit dan bumi?” Pastilah mereka akan menjawab, “Semuanya diciptakan oleh Yang Mahaperkasa, Maha Mengetahui.”"
+        },
+        {
+            "id": 4335,
+            "surah": 43,
+            "nomor": 10,
+            "ar": "الَّذِيْ جَعَلَ لَكُمُ الْاَرْضَ مَهْدًا وَّجَعَلَ لَكُمْ فِيْهَا سُبُلًا لَّعَلَّكُمْ تَهْتَدُوْنَ ۚ ",
+            "tr": "allażī ja‘ala lakumul-arḍa mahdaw wa ja‘ala lakum fīhā subulal la‘allakum tahtadūn(a).",
+            "idn": "Yang menjadikan bumi sebagai tempat menetap bagimu dan Dia menjadikan jalan-jalan di atas bumi untukmu agar kamu mendapat petunjuk."
+        },
+        {
+            "id": 4336,
+            "surah": 43,
+            "nomor": 11,
+            "ar": "وَالَّذِيْ نَزَّلَ مِنَ السَّمَاۤءِ مَاۤءًۢ بِقَدَرٍۚ فَاَنْشَرْنَا بِهٖ بَلْدَةً مَّيْتًا ۚ كَذٰلِكَ تُخْرَجُوْنَ ",
+            "tr": "wal-lażī nazzala minas-samā'i mā'am biqadar(in), fa'ansyarnā bihī baldatam maitā(n), każālika tukhrajūn(a).",
+            "idn": "Dan yang menurunkan air dari langit menurut ukuran (yang diperlukan) lalu dengan air itu Kami hidupkan negeri yang mati (tandus). Seperti itulah kamu akan dikeluarkan (dari kubur)."
+        },
+        {
+            "id": 4337,
+            "surah": 43,
+            "nomor": 12,
+            "ar": "وَالَّذِيْ خَلَقَ الْاَزْوَاجَ كُلَّهَا وَجَعَلَ لَكُمْ مِّنَ الْفُلْكِ وَالْاَنْعَامِ مَا تَرْكَبُوْنَۙ ",
+            "tr": "wal-lażī khalaqal-azwāja kullahā wa ja‘ala lakum minal-fulki wal-an‘āmi mā tarkabūn(a).",
+            "idn": "Dan yang menciptakan semua berpasang-pasangan dan menjadikan kapal untukmu dan hewan ternak yang kamu tunggangi."
+        },
+        {
+            "id": 4338,
+            "surah": 43,
+            "nomor": 13,
+            "ar": "لِتَسْتَوٗا عَلٰى ظُهُوْرِهٖ ثُمَّ تَذْكُرُوْا نِعْمَةَ رَبِّكُمْ اِذَا اسْتَوَيْتُمْ عَلَيْهِ وَتَقُوْلُوْا سُبْحٰنَ الَّذِيْ سَخَّرَ لَنَا هٰذَا وَمَا كُنَّا لَهٗ مُقْرِنِيْنَۙ ",
+            "tr": "litastawū ‘alā ẓuhūrihī ṡumma tażkurū ni‘mata rabbikum iżastawaitum ‘alaihi wa taqūlū subḥānal-lażī sakhkhara lanā hāżā wa mā kunnā lahū muqrinīn(a).",
+            "idn": "Agar kamu duduk di atas punggungnya kemudian kamu ingat nikmat Tuhanmu apabila kamu telah duduk di atasnya; dan agar kamu mengucapkan, “Maha-suci (Allah) yang telah menundukkan semua ini bagi kami padahal kami sebelumnya tidak mampu menguasainya,"
+        },
+        {
+            "id": 4339,
+            "surah": 43,
+            "nomor": 14,
+            "ar": "وَاِنَّآ اِلٰى رَبِّنَا لَمُنْقَلِبُوْنَ ",
+            "tr": "wa innā ilā rabbinā lamunqalibūn(a).",
+            "idn": "dan sesungguhnya kami akan kembali kepada Tuhan kami.”"
+        },
+        {
+            "id": 4340,
+            "surah": 43,
+            "nomor": 15,
+            "ar": "وَجَعَلُوْا لَهٗ مِنْ عِبَادِهٖ جُزْءًا ۗاِنَّ الْاِنْسَانَ لَكَفُوْرٌ مُّبِيْنٌ ۗ ࣖ ",
+            "tr": "wa ja‘alū lahū min ‘ibādihī juz'ā(n), innal-insāna lakafūrum mubīn(un).",
+            "idn": "Dan mereka menjadikan sebagian dari hamba-hamba-Nya sebagai bagian dari-Nya. Sungguh, manusia itu pengingkar (nikmat Tuhan) yang nyata."
+        },
+        {
+            "id": 4341,
+            "surah": 43,
+            "nomor": 16,
+            "ar": "اَمِ اتَّخَذَ مِمَّا يَخْلُقُ بَنٰتٍ وَّاَصْفٰىكُمْ بِالْبَنِيْنَ ۗ ",
+            "tr": "amittakhażū mimmā yakhluqu banātiw wa aṣfākum bil-banīn(a).",
+            "idn": "Pantaskah Dia mengambil anak perempuan dari yang diciptakan-Nya dan memberikan anak laki-laki kepadamu?"
+        },
+        {
+            "id": 4342,
+            "surah": 43,
+            "nomor": 17,
+            "ar": "وَاِذَا بُشِّرَ اَحَدُهُمْ بِمَا ضَرَبَ لِلرَّحْمٰنِ مَثَلًا ظَلَّ وَجْهُهٗ مُسْوَدًّا وَّهُوَ كَظِيْمٌ ",
+            "tr": "wa iżā busysyira aḥaduhum bimā ḍaraba lir-raḥmāni maṡalan ẓalla wajhuhū muswaddaw wa huwa kaẓīm(un).",
+            "idn": "Dan apabila salah seorang di antara mereka diberi kabar gembira dengan apa (kelahiran anak perempuan) yang dijadikan sebagai perumpamaan bagi (Allah) Yang Maha Pengasih, jadilah wajahnya hitam pekat, karena menahan sedih (dan marah)."
+        },
+        {
+            "id": 4343,
+            "surah": 43,
+            "nomor": 18,
+            "ar": "اَوَمَنْ يُّنَشَّؤُا فِى الْحِلْيَةِ وَهُوَ فِى الْخِصَامِ غَيْرُ مُبِيْنٍ ",
+            "tr": "awamay yunasysya'u fil-ḥilyati wa huwa fil-khiṣāmi gairu mubīn(in).",
+            "idn": "Dan apakah patut (menjadi anak Allah) orang yang dibesarkan sebagai perhiasan sedang dia tidak mampu memberi alasan yang tegas dan jelas dalam pertengkaran."
+        },
+        {
+            "id": 4344,
+            "surah": 43,
+            "nomor": 19,
+            "ar": "وَجَعَلُوا الْمَلٰۤىِٕكَةَ الَّذِيْنَ هُمْ عِبٰدُ الرَّحْمٰنِ اِنَاثًا ۗ اَشَهِدُوْا خَلْقَهُمْ ۗسَتُكْتَبُ شَهَادَتُهُمْ وَيُسْـَٔلُوْنَ",
+            "tr": "wa ja‘alul-malā'ikatal-lażīna hum ‘ibādur raḥmāni ināṡā(n), asyahidū khalqahum, satuktabu syahādatuhum wa yus'alūn(a).",
+            "idn": "Dan mereka menjadikan malaikat-malaikat hamba-hamba (Allah) Yang Maha Pengasih itu sebagai jenis perempuan. Apakah mereka menyaksikan penciptaan (malaikat-malaikat itu)? Kelak akan dituliskan kesaksian mereka dan akan dimintakan pertanggungjawaban."
+        },
+        {
+            "id": 4345,
+            "surah": 43,
+            "nomor": 20,
+            "ar": "وَقَالُوْا لَوْ شَاۤءَ الرَّحْمٰنُ مَا عَبَدْنٰهُمْ ۗمَا لَهُمْ بِذٰلِكَ مِنْ عِلْمٍ اِنْ هُمْ اِلَّا يَخْرُصُوْنَۗ ",
+            "tr": "wa qālū lau syā'ar-raḥmānu mā ‘abadnāhum, mā lahum biżālika min ‘ilm(in), in hum illā yakhruṣūn(a).",
+            "idn": "Dan mereka berkata, “Sekiranya (Allah) Yang Maha Pengasih menghendaki, tentulah kami tidak menyembah mereka (malaikat).” Mereka tidak mempunyai ilmu sedikit pun tentang itu. Tidak lain mereka hanyalah menduga-duga belaka."
+        },
+        {
+            "id": 4346,
+            "surah": 43,
+            "nomor": 21,
+            "ar": "اَمْ اٰتَيْنٰهُمْ كِتٰبًا مِّنْ قَبْلِهٖ فَهُمْ بِهٖ مُسْتَمْسِكُوْنَ ",
+            "tr": "am ātaināhum kitābam min qablihī fahum bihī mustamsikūn(a).",
+            "idn": "Atau apakah pernah Kami berikan sebuah kitab kepada mereka sebelumnya, lalu mereka berpegang (pada kitab itu)?"
+        },
+        {
+            "id": 4347,
+            "surah": 43,
+            "nomor": 22,
+            "ar": "بَلْ قَالُوْٓا اِنَّا وَجَدْنَآ اٰبَاۤءَنَا عَلٰٓى اُمَّةٍ وَّاِنَّا عَلٰٓى اٰثٰرِهِمْ مُّهْتَدُوْنَ ",
+            "tr": "bal qālū innā wajadnā ābā'anā ‘alā ummatiw wa innā ‘alā āṡārihim muhtadūn(a).",
+            "idn": "Bahkan mereka berkata, “Sesungguhnya kami mendapati nenek moyang kami menganut suatu agama, dan kami mendapat petunjuk untuk mengikuti jejak mereka.”"
+        },
+        {
+            "id": 4348,
+            "surah": 43,
+            "nomor": 23,
+            "ar": "وَكَذٰلِكَ مَآ اَرْسَلْنَا مِنْ قَبْلِكَ فِيْ قَرْيَةٍ مِّنْ نَّذِيْرٍۙ اِلَّا قَالَ مُتْرَفُوْهَآ  ۙاِنَّا وَجَدْنَآ اٰبَاۤءَنَا عَلٰٓى اُمَّةٍ وَّاِنَّا عَلٰٓى اٰثٰرِهِمْ مُّقْتَدُوْنَ",
+            "tr": "wa każālika mā arsalnā min qablika fī qaryatim min nażīr(in), illā qāla mutrafūhā, innā wajadnā ābā'anā ‘alā ummatiw wa innā ‘alā āṡārihim muqtadūn(a).",
+            "idn": "Dan demikian juga ketika Kami mengutus seorang pemberi peringatan sebelum engkau (Muhammad) dalam suatu negeri, orang-orang yang hidup mewah (di negeri itu) selalu berkata, “Sesungguhnya kami mendapati nenek moyang kami menganut suatu (agama) dan sesungguhnya kami sekedar pengikut jejak-jejak mereka.”"
+        },
+        {
+            "id": 4349,
+            "surah": 43,
+            "nomor": 24,
+            "ar": "۞ قٰلَ اَوَلَوْ جِئْتُكُمْ بِاَهْدٰى مِمَّا وَجَدْتُّمْ عَلَيْهِ اٰبَاۤءَكُمْۗ قَالُوْٓا اِنَّا بِمَآ اُرْسِلْتُمْ بِهٖ كٰفِرُوْنَ ",
+            "tr": "qāla awalau ji'tukum bi'ahdā mimmā wajattum ‘alaihi ābā'akum, qālū innā bimā ursiltum bihī kāfirūn(a).",
+            "idn": "(Rasul itu) berkata, “Apakah (kamu akan mengikutinya juga) sekalipun aku membawa untukmu (agama) yang lebih baik daripada apa yang kamu peroleh dari (agama) yang dianut nenek moyangmu.” Mereka menjawab, “Sesungguhnya kami mengingkari (agama) yang kamu diperintahkan untuk menyampaikannya.”"
+        },
+        {
+            "id": 4350,
+            "surah": 43,
+            "nomor": 25,
+            "ar": "فَانْتَقَمْنَا مِنْهُمْ فَانْظُرْ كَيْفَ كَانَ عَاقِبَةُ الْمُكَذِّبِيْنَ ࣖ",
+            "tr": "fantaqamnā minhum fanẓur kaifa kāna ‘āqibatul-mukażżibīn(a).",
+            "idn": "Lalu Kami binasakan mereka, maka perhatikanlah bagaimana kesudahan orang-orang yang mendustakan (kebenaran)."
+        },
+        {
+            "id": 4351,
+            "surah": 43,
+            "nomor": 26,
+            "ar": "وَاِذْ قَالَ اِبْرٰهِيْمُ لِاَبِيْهِ وَقَوْمِهٖٓ اِنَّنِيْ بَرَاۤءٌ مِّمَّا تَعْبُدُوْنَۙ",
+            "tr": "wa iż qāla ibrāhīmu li'abīhi wa qaumihī innanī barā'um mimmā ta‘budūn(a).",
+            "idn": "Dan (ingatlah) ketika Ibrahim berkata kepada ayahnya dan kaumnya, “Sesungguhnya aku berlepas diri dari apa yang kamu sembah,"
+        },
+        {
+            "id": 4352,
+            "surah": 43,
+            "nomor": 27,
+            "ar": "اِلَّا الَّذِيْ فَطَرَنِيْ فَاِنَّهٗ سَيَهْدِيْنِ ",
+            "tr": "illāl-lażī faṭaranī fa'innahū sayahdīn(i).",
+            "idn": "kecuali (kamu menyembah) Allah yang menciptakanku; karena sungguh, Dia akan memberi petunjuk kepadaku.”"
+        },
+        {
+            "id": 4353,
+            "surah": 43,
+            "nomor": 28,
+            "ar": "وَجَعَلَهَا كَلِمَةً ۢ بَاقِيَةً فِيْ عَقِبِهٖ لَعَلَّهُمْ يَرْجِعُوْنَۗ ",
+            "tr": "wa ja‘alahā kalimatam bāqiyatan fī ‘aqibihī la‘allahum yarji‘ūn(a).",
+            "idn": "Dan (Ibrahim) menjadikan (kalimat tauhid) itu kalimat yang kekal pada keturunannya agar mereka kembali (kepada kalimat tauhid itu)."
+        },
+        {
+            "id": 4354,
+            "surah": 43,
+            "nomor": 29,
+            "ar": "بَلْ مَتَّعْتُ هٰٓؤُلَاۤءِ وَاٰبَاۤءَهُمْ حَتّٰى جَاۤءَهُمُ الْحَقُّ وَرَسُوْلٌ مُّبِيْنٌ",
+            "tr": "bal matta‘tu hā'ulā'i wa ābā'ahum ḥattā jā'ahumul-ḥaqqu wa rasūlum mubīn(un).",
+            "idn": "Bahkan Aku telah memberikan kenikmatan hidup kepada mereka dan nenek moyang mereka sampai kebenaran (Al-Qur'an) datang kepada mereka beserta seorang Rasul yang memberi penjelasan."
+        },
+        {
+            "id": 4355,
+            "surah": 43,
+            "nomor": 30,
+            "ar": "وَلَمَّا جَاۤءَهُمُ الْحَقُّ قَالُوْا هٰذَا سِحْرٌ وَّاِنَّا بِهٖ كٰفِرُوْنَ ",
+            "tr": "wa lammā jā'ahumul-ḥaqqu qālū hāżā siḥruw wa innā bihī kāfirūn(a).",
+            "idn": "Tetapi ketika kebenaran (Al-Qur'an) itu datang kepada mereka, mereka berkata, “Ini adalah sihir dan sesungguhnya kami mengingkarinya.”"
+        },
+        {
+            "id": 4356,
+            "surah": 43,
+            "nomor": 31,
+            "ar": "وَقَالُوْا لَوْلَا نُزِّلَ هٰذَا الْقُرْاٰنُ عَلٰى رَجُلٍ مِّنَ الْقَرْيَتَيْنِ عَظِيْمٍ",
+            "tr": "wa qālū lau lā nuzzila hāżal-qur'ānu ‘alā rajulim minal-qaryataini ‘aẓīm(in).",
+            "idn": "Dan mereka (juga) berkata, “Mengapa Al-Qur'an ini tidak diturunkan kepada orang besar (kaya dan berpengaruh) dari salah satu dua negeri ini (Mekah dan Taif)?”"
+        },
+        {
+            "id": 4357,
+            "surah": 43,
+            "nomor": 32,
+            "ar": "اَهُمْ يَقْسِمُوْنَ رَحْمَتَ رَبِّكَۗ نَحْنُ قَسَمْنَا بَيْنَهُمْ مَّعِيْشَتَهُمْ فِى الْحَيٰوةِ الدُّنْيَاۙ وَرَفَعْنَا بَعْضَهُمْ فَوْقَ بَعْضٍ دَرَجٰتٍ لِّيَتَّخِذَ بَعْضُهُمْ بَعْضًا سُخْرِيًّا ۗوَرَحْمَتُ رَبِّكَ خَيْرٌ مِّمَّا يَجْمَعُوْنَ ",
+            "tr": "ahum yaqsimūna raḥmata rabbik(a), naḥnu qasamnā bainahum ma‘īsyatahum fil-ḥayātid-dun-yā, wa rafa‘nā ba‘ḍahum fauqa ba‘ḍin darajātil liyattakhiża ba‘ḍuhum ba‘ḍan sukhriyyā(n), wa raḥmatu rabbika khairum mimmā yajma‘ūn(a).",
+            "idn": "Apakah mereka yang membagi-bagi rahmat Tuhanmu? Kamilah yang menentukan penghidupan mereka dalam kehidupan dunia, dan Kami telah meninggikan sebagian mereka atas sebagian yang lain beberapa derajat, agar sebagian mereka dapat memanfaatkan sebagian yang lain. Dan rahmat Tuhanmu lebih baik dari apa yang mereka kumpulkan."
+        },
+        {
+            "id": 4358,
+            "surah": 43,
+            "nomor": 33,
+            "ar": "وَلَوْلَآ اَنْ يَّكُوْنَ النَّاسُ اُمَّةً وَّاحِدَةً لَّجَعَلْنَا لِمَنْ يَّكْفُرُ بِالرَّحْمٰنِ لِبُيُوْتِهِمْ سُقُفًا مِّنْ فِضَّةٍ وَّمَعَارِجَ عَلَيْهَا يَظْهَرُوْنَۙ ",
+            "tr": "wa lau lā ay yakūnan-nāsu ummataw wāḥidatal laja‘alnā limay yakfuru bir-raḥmāni libuyūtihim suqufam min fiḍḍatiw wa ma‘ārija ‘alaihā yaẓharūn(a).",
+            "idn": "Dan sekiranya bukan karena menghindarkan manusia menjadi umat yang satu (dalam kekafiran), pastilah sudah Kami buatkan bagi orang-orang yang kafir kepada (Allah) Yang Maha Pengasih, loteng-loteng rumah mereka dari perak, demikian pula tangga-tangga yang mereka naiki,"
+        },
+        {
+            "id": 4359,
+            "surah": 43,
+            "nomor": 34,
+            "ar": "وَلِبُيُوْتِهِمْ اَبْوَابًا وَّسُرُرًا عَلَيْهَا يَتَّكِـُٔوْنَۙ ",
+            "tr": "wa libuyūtihim abwābaw wa sururan ‘alaihā yattaki'ūn(a).",
+            "idn": "dan (Kami buatkan pula) pintu-pintu (perak) bagi rumah-rumah mereka, dan (begitu pula) dipan-dipan tempat mereka bersandar,  "
+        },
+        {
+            "id": 4360,
+            "surah": 43,
+            "nomor": 35,
+            "ar": "وَزُخْرُفًاۗ وَاِنْ كُلُّ ذٰلِكَ لَمَّا مَتَاعُ الْحَيٰوةِ الدُّنْيَا ۗوَالْاٰخِرَةُ عِنْدَ رَبِّكَ لِلْمُتَّقِيْنَ ࣖ ",
+            "tr": "wa zukhrufā(n), wa in kullu żālika lammā matā‘ul-ḥayātid-dun-yā, wal-ākhiratu ‘inda rabbika lil-muttaqīn(a).",
+            "idn": "dan (Kami buatkan pula) perhiasan-perhiasan dari emas. Dan semuanya itu tidak lain hanyalah kesenangan kehidupan dunia, sedangkan kehidupan akhirat di sisi Tuhanmu disediakan bagi orang-orang yang bertakwa."
+        },
+        {
+            "id": 4361,
+            "surah": 43,
+            "nomor": 36,
+            "ar": "وَمَنْ يَّعْشُ عَنْ ذِكْرِ الرَّحْمٰنِ نُقَيِّضْ لَهٗ شَيْطٰنًا فَهُوَ لَهٗ قَرِيْنٌ ",
+            "tr": "wa may ya‘syu ‘an żikrir-raḥmāni nuqayyiḍ lahū syaiṭānan fahuwa lahū qarīn(un).",
+            "idn": "Dan barangsiapa berpaling dari pengajaran Allah Yang Maha Pengasih   (Al-Qur'an), Kami biarkan setan (menyesatkannya) dan menjadi teman karibnya."
+        },
+        {
+            "id": 4362,
+            "surah": 43,
+            "nomor": 37,
+            "ar": "وَاِنَّهُمْ لَيَصُدُّوْنَهُمْ عَنِ السَّبِيْلِ وَيَحْسَبُوْنَ اَنَّهُمْ مُّهْتَدُوْنَ ",
+            "tr": "wa innahum layaṣuddūnahum ‘anis-sabīli wa yaḥsabūna annahum muhtadūn(a).",
+            "idn": "Dan sungguh, mereka (setan-setan itu) benar-benar menghalang-halangi mereka dari jalan yang benar, sedang mereka menyangka bahwa mereka mendapat petunjuk."
+        },
+        {
+            "id": 4363,
+            "surah": 43,
+            "nomor": 38,
+            "ar": "حَتّٰىٓ اِذَا جَاۤءَنَا قَالَ يٰلَيْتَ بَيْنِيْ وَبَيْنَكَ بُعْدَ الْمَشْرِقَيْنِ فَبِئْسَ الْقَرِيْنُ",
+            "tr": "Ḥattā iżā jā'anā qāla yā laita bainī wa bainaka bu‘dal-masyriqaini fa bi'sal-qarīn(u).",
+            "idn": "Sehingga apabila orang–orang yang berpaling itu datang kepada Kami (pada hari Kiamat) dia berkata, “Wahai! Sekiranya (jarak) antara aku dan kamu seperti jarak antara timur dan barat! Memang (setan itu) teman yang paling jahat (bagi manusia).”"
+        },
+        {
+            "id": 4364,
+            "surah": 43,
+            "nomor": 39,
+            "ar": "وَلَنْ يَّنْفَعَكُمُ الْيَوْمَ اِذْ ظَّلَمْتُمْ اَنَّكُمْ فِى الْعَذَابِ مُشْتَرِكُوْنَ ",
+            "tr": "wa lay yanfa‘akumul-yauma iẓ ẓalamtum annakum fil-‘ażābi musytarikūn(a).",
+            "idn": "Dan (harapanmu itu) sekali-kali tidak akan memberi manfaat kepadamu pada hari itu karena kamu telah menzalimi (dirimu sendiri). Sesungguhnya kamu pantas bersama-sama dalam azab itu."
+        },
+        {
+            "id": 4365,
+            "surah": 43,
+            "nomor": 40,
+            "ar": "اَفَاَنْتَ تُسْمِعُ الصُّمَّ اَوْ تَهْدِى الْعُمْيَ وَمَنْ كَانَ فِيْ ضَلٰلٍ مُّبِيْنٍ ",
+            "tr": "afa anta tusmi‘uṣ-ṣumma au tahdil-‘umya wa man kāna fī ḍalālim mubīn(in).",
+            "idn": "Maka apakah engkau (Muhammad) dapat menjadikan orang yang tuli bisa mendengar, atau (dapatkah) engkau memberi petunjuk kepada orang yang buta (hatinya) dan kepada orang yang tetap dalam kesesatan yang nyata?"
+        },
+        {
+            "id": 4366,
+            "surah": 43,
+            "nomor": 41,
+            "ar": "فَاِمَّا نَذْهَبَنَّ بِكَ فَاِنَّا مِنْهُمْ مُّنْتَقِمُوْنَۙ ",
+            "tr": "fa immā nażhabanna bika fa innā minhum muntaqimūn(a).",
+            "idn": "Maka sungguh, sekiranya Kami mewafatkanmu (sebelum engkau mencapai kemenangan), maka sesungguhnya Kami akan tetap memberikan azab kepada mereka (di akhirat),"
+        },
+        {
+            "id": 4367,
+            "surah": 43,
+            "nomor": 42,
+            "ar": "اَوْ نُرِيَنَّكَ الَّذِيْ وَعَدْنٰهُمْ فَاِنَّا عَلَيْهِمْ مُّقْتَدِرُوْنَ ",
+            "tr": "au nuriyannakal-lażī wa‘adnāhum fa'innā ‘alaihim muqtadirūn(a).",
+            "idn": "atau Kami perlihatkan kepadamu (azab) yang telah Kami ancamkan kepada mereka. Maka sungguh, Kami berkuasa atas mereka."
+        },
+        {
+            "id": 4368,
+            "surah": 43,
+            "nomor": 43,
+            "ar": "فَاسْتَمْسِكْ بِالَّذِيْٓ اُوْحِيَ اِلَيْكَ ۚاِنَّكَ عَلٰى صِرَاطٍ مُّسْتَقِيْمٍ ",
+            "tr": "fastamsik bil-lażī ūḥiya ilaik(a), innaka ‘alā ṣirāṭim mustaqīm(in).",
+            "idn": "Maka berpegang teguhlah engkau kepada (agama) yang telah diwahyukan kepadamu. Sungguh, engkau berada di jalan yang lurus."
+        },
+        {
+            "id": 4369,
+            "surah": 43,
+            "nomor": 44,
+            "ar": "وَاِنَّهٗ لَذِكْرٌ لَّكَ وَلِقَوْمِكَ ۚوَسَوْفَ تُسْـَٔلُوْنَ",
+            "tr": "wa innahū lażikrul laka wa liqaumik(a), wa saufa tus'alūn(a).",
+            "idn": "Dan sungguh, Al-Qur'an itu benar-benar suatu peringatan bagimu dan bagi kaummu, dan kelak kamu akan diminta pertanggungjawaban."
+        },
+        {
+            "id": 4370,
+            "surah": 43,
+            "nomor": 45,
+            "ar": "وَسْـَٔلْ مَنْ اَرْسَلْنَا مِنْ قَبْلِكَ مِنْ رُّسُلِنَآ  ۖ اَجَعَلْنَا مِنْ دُوْنِ الرَّحْمٰنِ اٰلِهَةً يُّعْبَدُوْنَ ࣖ",
+            "tr": "was'al man arsalnā min qablika mir rusulinā, aja‘alnā min dūnir-raḥmāni ālihatay yu‘badūn(a).",
+            "idn": "Dan tanyakanlah (Muhammad) kepada rasul-rasul Kami yang telah Kami utus sebelum engkau, “Apakah Kami menentukan tuhan-tuhan selain (Allah) Yang Maha Pengasih untuk disembah?”"
+        },
+        {
+            "id": 4371,
+            "surah": 43,
+            "nomor": 46,
+            "ar": "وَلَقَدْ اَرْسَلْنَا مُوْسٰى بِاٰيٰتِنَآ اِلٰى فِرْعَوْنَ وَمَلَا۟ىِٕهٖ فَقَالَ اِنِّيْ رَسُوْلُ رَبِّ الْعٰلَمِيْنَ ",
+            "tr": "wa laqad arsalnā mūsā bi'āyātinā ilā fir‘auna wa mala'ihī fa qāla innī rasūlu rabbil-‘ālamīn(a).",
+            "idn": "Dan sungguh, Kami telah mengutus Musa dengan membawa mukjizat-mukjizat Kami kepada Fir’aun dan pemuka-pemuka kaumnya. Maka dia (Musa) berkata, “Sesungguhnya aku adalah utusan dari Tuhan seluruh alam.”"
+        },
+        {
+            "id": 4372,
+            "surah": 43,
+            "nomor": 47,
+            "ar": "فَلَمَّا جَاۤءَهُمْ بِاٰيٰتِنَآ اِذَا هُمْ مِّنْهَا يَضْحَكُوْنَ ",
+            "tr": "falammā jā'ahum bi'āyātinā iżā hum minhā yaḍḥakūn(a).",
+            "idn": "Maka ketika dia (Musa) datang kepada mereka membawa mukjizat-mukjizat Kami, seketika itu mereka menertawakannya."
+        },
+        {
+            "id": 4373,
+            "surah": 43,
+            "nomor": 48,
+            "ar": "وَمَا نُرِيْهِمْ مِّنْ اٰيَةٍ اِلَّا هِيَ اَكْبَرُ مِنْ اُخْتِهَاۗ وَاَخَذْنٰهُمْ بِالْعَذَابِ لَعَلَّهُمْ يَرْجِعُوْنَ ",
+            "tr": "wa mā nurīhim min āyatin illā hiya akbaru min ukhtihā, wa akhażnāhum bil-‘ażābi la‘allahum yarji‘ūn(a).",
+            "idn": "Dan tidaklah Kami perlihatkan suatu mukjizat kepada mereka kecuali (mukjizat itu) lebih besar dari mukjizat-mukjizat (yang sebelumnya). Dan Kami timpakan kepada mereka azab agar mereka kembali (ke jalan yang benar)."
+        },
+        {
+            "id": 4374,
+            "surah": 43,
+            "nomor": 49,
+            "ar": "وَقَالُوْا يٰٓاَيُّهَ السَّاحِرُ ادْعُ لَنَا رَبَّكَ بِمَا عَهِدَ عِنْدَكَۚ اِنَّنَا لَمُهْتَدُوْنَ ",
+            "tr": "wa qālū yā ayyuhas-sāḥirud‘u lanā rabbaka bimā ‘ahida ‘indak(a), innanā lamuhtadūn(a).",
+            "idn": "Dan mereka berkata, “Wahai pesihir! Berdoalah kepada Tuhanmu untuk (melepaskan) kami sesuai dengan apa yang telah dijanjikan-Nya kepadamu; sesungguhnya kami (jika doamu dikabulkan) akan menjadi orang yang mendapat petunjuk.”"
+        },
+        {
+            "id": 4375,
+            "surah": 43,
+            "nomor": 50,
+            "ar": "فَلَمَّا كَشَفْنَا عَنْهُمُ الْعَذَابَ اِذَا هُمْ يَنْكُثُوْنَ",
+            "tr": "falammā kasyafnā ‘anhumul-‘ażāba iżā hum yankuṡūn(a).",
+            "idn": "Maka ketika Kami hilangkan azab itu dari mereka, seketika itu (juga) mereka ingkar janji."
+        },
+        {
+            "id": 4376,
+            "surah": 43,
+            "nomor": 51,
+            "ar": "وَنَادٰى فِرْعَوْنُ فِيْ قَوْمِهٖ قَالَ يٰقَوْمِ اَلَيْسَ لِيْ مُلْكُ مِصْرَ وَهٰذِهِ الْاَنْهٰرُ تَجْرِيْ مِنْ تَحْتِيْۚ اَفَلَا تُبْصِرُوْنَۗ ",
+            "tr": "wa nādā fir‘aunu fī qaumihī qāla yā qaumi alaisa lī mulku miṣra wa hāżihil-anhāru tajrī min taḥtī, afalā tubṣirūn(a).",
+            "idn": "Dan Fir‘aun berseru kepada kaumnya (seraya) berkata, “Wahai kaumku! Bukankah kerajaan Mesir itu milikku dan (bukankah) sungai-sungai ini mengalir di bawahku; apakah kamu tidak melihat?"
+        },
+        {
+            "id": 4377,
+            "surah": 43,
+            "nomor": 52,
+            "ar": "اَمْ اَنَا۠ خَيْرٌ مِّنْ هٰذَا الَّذِيْ هُوَ مَهِيْنٌ ەۙ وَّلَا يَكَادُ يُبِيْنُ ",
+            "tr": "am ana khairum min hāżal-lażī huwa mahīn(un), wa lā yakādu yubīn(u).",
+            "idn": "Bukankah aku lebih baik dari orang (Musa) yang hina ini dan yang hampir tidak dapat menjelaskan (perkataannya)?"
+        },
+        {
+            "id": 4378,
+            "surah": 43,
+            "nomor": 53,
+            "ar": "فَلَوْلَآ اُلْقِيَ عَلَيْهِ اَسْوِرَةٌ مِّنْ ذَهَبٍ اَوْ جَاۤءَ مَعَهُ الْمَلٰۤىِٕكَةُ مُقْتَرِنِيْنَ",
+            "tr": "falau lā ulqiya ‘alaihi aswiratum min żahabin au jā'a ma‘ahul-malā'ikatu muqtarinīn(a).",
+            "idn": "Maka mengapa dia (Musa) tidak dipakaikan gelang dari emas atau malaikat datang bersama-sama dia untuk mengiringkannya?”"
+        },
+        {
+            "id": 4379,
+            "surah": 43,
+            "nomor": 54,
+            "ar": "فَاسْتَخَفَّ قَوْمَهٗ فَاَطَاعُوْهُ ۗاِنَّهُمْ كَانُوْا قَوْمًا فٰسِقِيْنَ ",
+            "tr": "fastakhaffa qaumahū fa aṭā‘ūh(u), innahum kānū qauman fāsiqīn(a).",
+            "idn": "Maka (Fir‘aun) dengan perkataan itu telah mempengaruhi kaumnya, sehingga mereka patuh kepadanya. Sungguh, mereka adalah kaum yang fasik."
+        },
+        {
+            "id": 4380,
+            "surah": 43,
+            "nomor": 55,
+            "ar": "فَلَمَّآ اٰسَفُوْنَا انْتَقَمْنَا مِنْهُمْ فَاَغْرَقْنٰهُمْ اَجْمَعِيْنَۙ ",
+            "tr": "falammā āsafūnantaqamnā minhum fa agraqnāhum ajma‘īn(a).",
+            "idn": "Maka ketika mereka membuat Kami murka, Kami hukum mereka, lalu Kami tenggelamkan mereka semuanya (di laut),"
+        },
+        {
+            "id": 4381,
+            "surah": 43,
+            "nomor": 56,
+            "ar": "فَجَعَلْنٰهُمْ سَلَفًا وَّمَثَلًا لِّلْاٰخِرِيْنَ ࣖ",
+            "tr": "fa ja‘alnāhum salafaw wa maṡalal lil-ākhirīn(a).",
+            "idn": "maka Kami jadikan mereka sebagai (kaum) terdahulu dan pelajaran bagi orang-orang yang kemudian."
+        },
+        {
+            "id": 4382,
+            "surah": 43,
+            "nomor": 57,
+            "ar": "۞ وَلَمَّا ضُرِبَ ابْنُ مَرْيَمَ مَثَلًا اِذَا قَوْمُكَ مِنْهُ يَصِدُّوْنَ",
+            "tr": "wa lammā ḍuribabnu maryama maṡalan iżā qaumuka minhu yaṣiddūn(a).",
+            "idn": "Dan ketika putra Maryam (Isa) dijadikan perumpamaan, tiba-tiba kaummu (Suku Quraisy) bersorak karenanya."
+        },
+        {
+            "id": 4383,
+            "surah": 43,
+            "nomor": 58,
+            "ar": "وَقَالُوْٓا ءَاٰلِهَتُنَا خَيْرٌ اَمْ هُوَ ۗمَا ضَرَبُوْهُ لَكَ اِلَّا جَدَلًا ۗبَلْ هُمْ قَوْمٌ خَصِمُوْنَ",
+            "tr": "wa qālū a'ālihatunā khairun am huw(a), mā ḍarabūhu laka illā jadalā(n), bal hum qaumun khaṣimūn(a).",
+            "idn": "Dan mereka berkata, “Manakah yang lebih baik tuhan-tuhan kami atau dia (Isa)?” Mereka tidak memberikan (perumpamaan itu) kepadamu melainkan dengan maksud membantah saja, sebenarnya mereka adalah kaum yang suka bertengkar."
+        },
+        {
+            "id": 4384,
+            "surah": 43,
+            "nomor": 59,
+            "ar": "اِنْ هُوَ اِلَّا عَبْدٌ اَنْعَمْنَا عَلَيْهِ وَجَعَلْنٰهُ مَثَلًا لِّبَنِيْٓ اِسْرَاۤءِيْلَ ۗ  ",
+            "tr": "in huwa illā ‘abdun an‘amnā ‘alaihi wa ja‘alnāhu maṡalal libanī isrā'īl(a).",
+            "idn": "Dia (Isa) tidak lain hanyalah seorang hamba yang Kami berikan nikmat (kenabian) kepadanya dan Kami jadikan dia sebagai contoh pelajaran bagi Bani Israil."
+        },
+        {
+            "id": 4385,
+            "surah": 43,
+            "nomor": 60,
+            "ar": "وَلَوْ نَشَاۤءُ لَجَعَلْنَا مِنْكُمْ مَّلٰۤىِٕكَةً فِى الْاَرْضِ يَخْلُفُوْنَ ",
+            "tr": "wa lau nasyā'u laja‘alnā minkum malā'ikatan fil-arḍi yakhlufūn(a).",
+            "idn": "Dan sekiranya Kami menghendaki, niscaya ada di antara kamu yang Kami jadikan malaikat-malaikat (yang turun temurun) sebagai pengganti kamu di bumi."
+        },
+        {
+            "id": 4386,
+            "surah": 43,
+            "nomor": 61,
+            "ar": "وَاِنَّهٗ لَعِلْمٌ لِّلسَّاعَةِ فَلَا تَمْتَرُنَّ بِهَا وَاتَّبِعُوْنِۗ هٰذَا صِرَاطٌ مُّسْتَقِيْمٌ ",
+            "tr": "wa innahū la‘ilmul lis-sā‘ati falā tamtarunna bihā wattabi‘ūn(i), hāżā ṣirāṭum mustaqīm(un).",
+            "idn": "Dan sungguh, dia (Isa) itu benar-benar menjadi pertanda akan datangnya hari Kiamat. Karena itu, janganlah kamu ragu-ragu tentang (Kiamat) itu dan ikutilah Aku. Inilah jalan yang lurus."
+        },
+        {
+            "id": 4387,
+            "surah": 43,
+            "nomor": 62,
+            "ar": "وَلَا يَصُدَّنَّكُمُ الشَّيْطٰنُۚ اِنَّهٗ لَكُمْ عَدُوٌّ مُّبِيْنٌ ",
+            "tr": "wa lā yaṣuddannakumusy-syaiṭān(u), innahū lakum ‘aduwwum mubīn(un).",
+            "idn": "Dan janganlah kamu sekali-kali dipalingkan oleh setan; sungguh, setan itu musuh yang nyata bagimu."
+        },
+        {
+            "id": 4388,
+            "surah": 43,
+            "nomor": 63,
+            "ar": "وَلَمَّا جَاۤءَ عِيْسٰى بِالْبَيِّنٰتِ قَالَ قَدْ جِئْتُكُمْ بِالْحِكْمَةِ وَلِاُبَيِّنَ لَكُمْ بَعْضَ الَّذِيْ تَخْتَلِفُوْنَ فِيْهِۚ فَاتَّقُوا اللّٰهَ وَاَطِيْعُوْنِ ",
+            "tr": "wa lammā jā'a ‘īsā bil-bayyināti qāla qad ji'tukum bil-ḥikmati wa li'ubayyina lakum ba‘ḍal-lażī takhtalifūna fīh(i), fattaqullāha wa aṭī‘ūn(i).",
+            "idn": "Dan ketika Isa datang membawa keterangan, dia berkata, “Sungguh, aku datang kepadamu dengan membawa hikmah dan untuk menjelaskan kepadamu sebagian dari apa yang kamu perselisihkan, maka bertakwalah kepada Allah dan taatlah kepadaku."
+        },
+        {
+            "id": 4389,
+            "surah": 43,
+            "nomor": 64,
+            "ar": "اِنَّ اللّٰهَ هُوَ رَبِّيْ وَرَبُّكُمْ فَاعْبُدُوْهُۗ هٰذَا صِرَاطٌ مُّسْتَقِيْمٌ ",
+            "tr": "innallāha huwa rabbī wa rabbukum fa‘budūh(u), hāżā ṣirāṭum mustaqīm(un).",
+            "idn": "Sungguh Allah, Dia Tuhanku dan Tuhanmu, maka sembahlah Dia. Ini adalah jalan yang lurus.”"
+        },
+        {
+            "id": 4390,
+            "surah": 43,
+            "nomor": 65,
+            "ar": "فَاخْتَلَفَ الْاَحْزَابُ مِنْۢ بَيْنِهِمْ ۚفَوَيْلٌ لِّلَّذِيْنَ ظَلَمُوْا مِنْ عَذَابِ يَوْمٍ اَلِيْمٍ ",
+            "tr": "fakhtalafal-aḥzābu mim bainihim, fawailul lil-lażīna ẓalamūmin ‘ażābi yaumin alīm(in).",
+            "idn": "Tetapi golongan-golongan (yang ada) saling berselisih di antara mereka; maka celakalah orang-orang yang zalim karena azab pada hari yang pedih (Kiamat)."
+        },
+        {
+            "id": 4391,
+            "surah": 43,
+            "nomor": 66,
+            "ar": "هَلْ يَنْظُرُوْنَ اِلَّا السَّاعَةَ اَنْ تَأْتِيَهُمْ بَغْتَةً وَّهُمْ لَا يَشْعُرُوْنَ ",
+            "tr": "hal yanẓurūna illas-sā‘ata an ta'tiyahum bagtataw wa hum lā yasy‘urūn(a).",
+            "idn": "Apakah mereka hanya menunggu saja kedatangan hari Kiamat yang datang kepada mereka secara mendadak sedang mereka tidak menyadarinya?"
+        },
+        {
+            "id": 4392,
+            "surah": 43,
+            "nomor": 67,
+            "ar": "اَلْاَخِلَّاۤءُ يَوْمَىِٕذٍۢ بَعْضُهُمْ لِبَعْضٍ عَدُوٌّ اِلَّا الْمُتَّقِيْنَ ۗ ࣖ",
+            "tr": "al-akhillā'u yauma'iżim ba‘ḍuhum liba‘ḍin ‘aduwwun illal-muttaqīn(a).",
+            "idn": "Teman-teman karib pada hari itu saling bermusuhan satu sama lain, kecuali mereka yang bertakwa."
+        },
+        {
+            "id": 4393,
+            "surah": 43,
+            "nomor": 68,
+            "ar": "يٰعِبَادِ لَاخَوْفٌ عَلَيْكُمُ الْيَوْمَ وَلَآ اَنْتُمْ تَحْزَنُوْنَۚ ",
+            "tr": "yā ‘ibādi lā khaufun ‘alaikumul-yauma wa lā antum taḥzanūn(a).",
+            "idn": "”Wahai hamba-hamba-Ku! Tidak ada ketakutan bagimu pada hari itu dan tidak pula kamu bersedih hati."
+        },
+        {
+            "id": 4394,
+            "surah": 43,
+            "nomor": 69,
+            "ar": "اَلَّذِيْنَ اٰمَنُوْا بِاٰيٰتِنَا وَكَانُوْا مُسْلِمِيْنَۚ ",
+            "tr": "allażīna āmanū bi'āyātinā wa kānū muslimīn(a).",
+            "idn": "(Yaitu) orang-orang yang beriman kepada ayat-ayat Kami dan mereka berserah diri."
+        },
+        {
+            "id": 4395,
+            "surah": 43,
+            "nomor": 70,
+            "ar": "اُدْخُلُوا الْجَنَّةَ اَنْتُمْ وَاَزْوَاجُكُمْ تُحْبَرُوْنَ ",
+            "tr": "udkhulul-jannata antum wa azwājukum tuḥbarūn(a).",
+            "idn": "Masuklah kamu ke dalam surga, kamu dan pasanganmu akan digembirakan.”"
+        },
+        {
+            "id": 4396,
+            "surah": 43,
+            "nomor": 71,
+            "ar": "يُطَافُ عَلَيْهِمْ بِصِحَافٍ مِّنْ ذَهَبٍ وَّاَكْوَابٍ ۚوَفِيْهَا مَا تَشْتَهِيْهِ الْاَنْفُسُ وَتَلَذُّ الْاَعْيُنُ ۚوَاَنْتُمْ فِيْهَا خٰلِدُوْنَۚ ",
+            "tr": "yuṭāfu ‘alaihim biṣiḥāfim min żahabiw wa akwāb(in), wa fīhā mā tasytahīhil-anfusu wa talażżul-a‘yun(u), wa antum fīhā khālidūn(a).",
+            "idn": "Kepada mereka diedarkan piring-piring dan gelas-gelas dari emas, dan di dalam surga itu terdapat apa yang diingini oleh hati dan segala yang sedap (dipandang) mata. Dan kamu kekal di dalamnya."
+        },
+        {
+            "id": 4397,
+            "surah": 43,
+            "nomor": 72,
+            "ar": "وَتِلْكَ الْجَنَّةُ الَّتِيْٓ اُوْرِثْتُمُوْهَا بِمَا كُنْتُمْ تَعْمَلُوْنَ ",
+            "tr": "wa tilkal-jannatul-latī ūriṡtumūhā bimā kuntum ta‘malūn(a).",
+            "idn": "Dan itulah surga yang diwariskan kepada kamu disebabkan amal perbuatan yang telah kamu kerjakan."
+        },
+        {
+            "id": 4398,
+            "surah": 43,
+            "nomor": 73,
+            "ar": "لَكُمْ فِيْهَا فَاكِهَةٌ كَثِيْرَةٌ مِّنْهَا تَأْكُلُوْنَ",
+            "tr": "lakum fīhā fākihatun kaṡīratum minhā ta'kulūn(a).",
+            "idn": "Di dalam surga itu terdapat banyak buah-buahan untukmu yang sebagiannya kamu makan."
+        },
+        {
+            "id": 4399,
+            "surah": 43,
+            "nomor": 74,
+            "ar": "اِنَّ الْمُجْرِمِيْنَ فِيْ عَذَابِ جَهَنَّمَ خٰلِدُوْنَۖ ",
+            "tr": "innal-mujrimīna fī ‘ażābi jahannama khālidūn(a).",
+            "idn": "Sungguh, orang-orang yang berdosa itu kekal di dalam azab neraka Jahanam."
+        },
+        {
+            "id": 4400,
+            "surah": 43,
+            "nomor": 75,
+            "ar": "لَا يُفَتَّرُ عَنْهُمْ وَهُمْ فِيْهِ مُبْلِسُوْنَ ۚ ",
+            "tr": "lā yufattaru ‘anhum wa hum fīhi mublisūn(a).",
+            "idn": "Tidak diringankan (azab) itu dari mereka, dan mereka berputus asa di dalamnya."
+        },
+        {
+            "id": 4401,
+            "surah": 43,
+            "nomor": 76,
+            "ar": "وَمَا ظَلَمْنٰهُمْ وَلٰكِنْ كَانُوْا هُمُ الظّٰلِمِيْنَ",
+            "tr": "wa mā ẓalamnāhum wa lākin kānū humuẓ-ẓālimīn(a).",
+            "idn": "Dan tidaklah Kami menzalimi mereka, tetapi merekalah yang menzalimi diri mereka sendiri."
+        },
+        {
+            "id": 4402,
+            "surah": 43,
+            "nomor": 77,
+            "ar": "وَنَادَوْا يٰمٰلِكُ لِيَقْضِ عَلَيْنَا رَبُّكَۗ قَالَ اِنَّكُمْ مّٰكِثُوْنَ",
+            "tr": "wa nādau yā māliku liyaqḍi ‘alainā rabbuk(a), qāla innakum mākiṡūn(a).",
+            "idn": "Dan mereka berseru, “Wahai (Malaikat) Malik! Biarlah Tuhanmu mematikan kami saja.” Dia menjawab, “Sungguh, kamu akan tetap tinggal (di neraka ini).”"
+        },
+        {
+            "id": 4403,
+            "surah": 43,
+            "nomor": 78,
+            "ar": "لَقَدْ جِئْنٰكُمْ بِالْحَقِّ وَلٰكِنَّ اَكْثَرَكُمْ لِلْحَقِّ كٰرِهُوْنَ",
+            "tr": "laqad ji'nākum bil-ḥaqqi wa lākinna akṡarakum lil-ḥaqqi kārihūn(a).",
+            "idn": "Sungguh, Kami telah datang membawa kebenaran kepada kamu tetapi kebanyakan di antara kamu benci pada kebenaran itu."
+        },
+        {
+            "id": 4404,
+            "surah": 43,
+            "nomor": 79,
+            "ar": "اَمْ اَبْرَمُوْٓا اَمْرًا فَاِنَّا مُبْرِمُوْنَۚ",
+            "tr": "am abramū amran fa innā mubrimūn(a).",
+            "idn": "Ataukah mereka telah merencanakan suatu tipu daya (jahat), maka sesungguhnya Kami telah berencana (mengatasi tipu daya mereka)."
+        },
+        {
+            "id": 4405,
+            "surah": 43,
+            "nomor": 80,
+            "ar": "اَمْ يَحْسَبُوْنَ اَنَّا لَا نَسْمَعُ سِرَّهُمْ وَنَجْوٰىهُمْ ۗ بَلٰى وَرُسُلُنَا لَدَيْهِمْ يَكْتُبُوْنَ ",
+            "tr": "am yaḥsabūna annā lā nasma‘u sirrahum wa najwāhum, balā wa rusulunā ladaihim yaktubūn(a).",
+            "idn": "Ataukah mereka mengira, bahwa Kami tidak mendengar rahasia dan bisikan-bisikan mereka? Sebenarnya (Kami mendengar), dan utusan-utusan Kami (malaikat) selalu mencatat di sisi mereka."
+        },
+        {
+            "id": 4406,
+            "surah": 43,
+            "nomor": 81,
+            "ar": "قُلْ اِنْ كَانَ لِلرَّحْمٰنِ وَلَدٌ  ۖفَاَنَا۠ اَوَّلُ الْعٰبِدِيْنَ ",
+            "tr": "qul in kāna lir-raḥmāni walad(un), fa ana awwalul-‘ābidīn(a).",
+            "idn": "Katakanlah (Muhammad), “Jika benar Tuhan Yang Maha Pengasih mempunyai anak, maka akulah orang yang mula-mula memuliakan  (anak itu)."
+        },
+        {
+            "id": 4407,
+            "surah": 43,
+            "nomor": 82,
+            "ar": "سُبْحٰنَ رَبِّ السَّمٰوٰتِ وَالْاَرْضِ رَبِّ الْعَرْشِ عَمَّا يَصِفُوْنَ ",
+            "tr": "subḥāna rabbis-samāwāti wal-arḍi rabbil-‘arsyi ‘ammā yaṣifūn(a).",
+            "idn": "Mahasuci Tuhan pemilik langit dan bumi, Tuhan pemilik ‘Arsy, dari apa yang mereka sifatkan itu.”"
+        },
+        {
+            "id": 4408,
+            "surah": 43,
+            "nomor": 83,
+            "ar": "فَذَرْهُمْ يَخُوْضُوْا وَيَلْعَبُوْا حَتّٰى يُلٰقُوْا يَوْمَهُمُ الَّذِيْ يُوْعَدُوْنَ",
+            "tr": "fa żarhum yakhūḍū wa yal‘abū ḥattā yulāqū yaumahumul-lażī yū‘adūn(a).",
+            "idn": "Maka biarkanlah mereka tenggelam (dalam kesesatan) dan bermain-main sampai mereka menemui hari yang dijanjikan kepada mereka."
+        },
+        {
+            "id": 4409,
+            "surah": 43,
+            "nomor": 84,
+            "ar": "وَهُوَ الَّذِيْ فِى السَّمَاۤءِ اِلٰهٌ وَّ فِى الْاَرْضِ اِلٰهٌ ۗوَهُوَ الْحَكِيْمُ الْعَلِيْمُ ",
+            "tr": "wa huwal-lażī fis-samā'i ilāhuw wa fil-arḍi ilāh(un), wa huwal-ḥakīmul-‘alīm(u).",
+            "idn": "Dan Dialah Tuhan (yang disembah) di langit dan Tuhan (yang disembah) di bumi dan Dialah Yang Mahabijaksana, Maha Mengetahui."
+        },
+        {
+            "id": 4410,
+            "surah": 43,
+            "nomor": 85,
+            "ar": "وَتَبٰرَكَ الَّذِيْ لَهٗ مُلْكُ السَّمٰوٰتِ وَالْاَرْضِ وَمَا بَيْنَهُمَا ۚوَعِنْدَهٗ عِلْمُ السَّاعَةِۚ وَاِلَيْهِ تُرْجَعُوْنَ",
+            "tr": "wa tabārakal-lażī lahū mulkus-samāwāti wal-arḍi wa mā bainahumā, wa ‘indahū ‘ilmus-sā‘ah(ti), wa ilaihi turja‘ūn(a).",
+            "idn": "Dan Mahasuci (Allah) yang memiliki kerajaan langit dan bumi, dan apa yang ada di antara keduanya; dan di sisi-Nyalah ilmu tentang hari Kiamat dan hanya kepada-Nyalah kamu dikembalikan."
+        },
+        {
+            "id": 4411,
+            "surah": 43,
+            "nomor": 86,
+            "ar": "وَلَا يَمْلِكُ الَّذِيْنَ يَدْعُوْنَ مِنْ دُوْنِهِ الشَّفَاعَةَ اِلَّا مَنْ شَهِدَ بِالْحَقِّ وَهُمْ يَعْلَمُوْنَ",
+            "tr": "wa lā yamlikul-lażīna yad‘ūna min dūnihisy-syafā‘ata illā man syahida bil-ḥaqqi wa hum ya‘lamūn(a).",
+            "idn": "Dan orang-orang yang menyeru kepada selain Allah tidak mendapat syafaat (pertolongan di akhirat); kecuali orang yang mengakui yang hak (tauhid) dan mereka meyakini."
+        },
+        {
+            "id": 4412,
+            "surah": 43,
+            "nomor": 87,
+            "ar": "وَلَىِٕنْ سَاَلْتَهُمْ مَّنْ خَلَقَهُمْ لَيَقُوْلُنَّ اللّٰهُ فَاَنّٰى يُؤْفَكُوْنَۙ",
+            "tr": "wa la'in sa'altahum man khalaqahum layaqūlunnallāhu fa annā yu'fakūn(a).",
+            "idn": "Dan jika engkau bertanya kepada mereka, “Siapakah yang menciptakan mereka, niscaya mereka menjawab, “Allah,” jadi bagaimana mereka dapat dipalingkan (dari menyembah Allah),”"
+        },
+        {
+            "id": 4413,
+            "surah": 43,
+            "nomor": 88,
+            "ar": "وَقِيْلِهٖ يٰرَبِّ اِنَّ هٰٓؤُلَاۤءِ قَوْمٌ لَّا يُؤْمِنُوْنَۘ",
+            "tr": "wa qīlihī yā rabbi inna hā'ulā'i qaumul lā yu'minūn(a).",
+            "idn": "dan (Allah mengetahui) ucapannya (Muhammad), “Ya Tuhanku, sesungguhnya mereka itu adalah kaum yang tidak beriman.”"
+        },
+        {
+            "id": 4414,
+            "surah": 43,
+            "nomor": 89,
+            "ar": "فَاصْفَحْ عَنْهُمْ وَقُلْ سَلٰمٌۗ فَسَوْفَ يَعْلَمُوْنَ ࣖ",
+            "tr": "faṣfaḥ ‘anhum wa qul salām(un), fa saufa ya‘lamūn(a).",
+            "idn": "Maka berpalinglah dari mereka dan katakanlah, “Salam (selamat tinggal).” Kelak mereka akan mengetahui (nasib mereka yang buruk)."
+        }
+    ],
+    "surat_selanjutnya": {
+        "id": 44,
+        "nomor": 44,
+        "nama": "الدخان",
+        "nama_latin": "Ad-Dukhan",
+        "jumlah_ayat": 59,
+        "tempat_turun": "mekah",
+        "arti": "Kabut",
+        "deskripsi": "Surat Ad Dukhaan terdiri atas 59 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah Az Zukhruf. <br>Dinamai <i>Ad Dukhaan</i> (kabut), diambil dari perkataan <i>Dukhaan</i> yang terdapat pada ayat 10 surat ini.<br>Menurut riwayat Bukhari secara ringkas dapat diterangkan sebagai berikut: Orang-orang kafir Mekah dalam menghalang-halangi agama Islam dan menyakiti serta mendurhakai Nabi Muhammad s.a.w. sudah melewati batas, karena itu Nabi mendoa kepada Allah agar diturunkan azab sebagaimana yang telah diturunkan kepada orang-orang yang durhaka kepada Nabi Yusuf yaitu musim kemarau yang panjang.  Do'a Nabi itu dikabulkan Allah sampai orang-orang kafir memakan tulang dan bangkai, karena kelaparan.  Mereka selalu menengadah ke langit mengharap pertolongan Allah.  Tetapi tidak satupun yang mereka lihat kecuali kabut yang menutupi pandangan mereka.<br>Akhirnya mereka datang kepada Nabi agar Nabi memohon kepada Allah supaya hujan diturunkan.  Setelah Allah mengabulkan doa Nabi, dan hujan di turunkan, mereka kembali kafir seperti semula; karena itu Allah menyatakan bahwa nanti mereka akan diazab dengan azab yang pedih.",
+        "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/044.mp3"
+    },
+    "surat_sebelumnya": {
+        "id": 42,
+        "nomor": 42,
+        "nama": "الشورى",
+        "nama_latin": "Asy-Syura",
+        "jumlah_ayat": 53,
+        "tempat_turun": "mekah",
+        "arti": "Musyawarah",
+        "deskripsi": "Surat Asy Syuura terdiri atas 53 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Fushshilat. Dinamai dengan <i>Asy Syuura</i> (musyawarat) diambil dari perkataan <i>Syuura</i> yang terdapat pada ayat 38 surat ini. Dalam ayat tersebut diletakkan salah satu dari dasar-dasar pemerintahan Islam ialah musyawarat. Dinamai juga <i>Haa Miim 'Ain Siin Qaaf</i> karena surat ini dimulai dengan huruf-huruf hijaiyah itu.",
+        "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/042.mp3"
+    }
+}

@@ -1,0 +1,531 @@
+{
+    "nomor": 53,
+    "nama": "النجم",
+    "nama_latin": "An-Najm",
+    "jumlah_ayat": 62,
+    "tempat_turun": "mekah",
+    "arti": "Bintang",
+    "deskripsi": "Surat An Najm terdiri atas 62 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Al Ikhlash. Nama <i>An Najm</i> (bintang), diambil dari perkataan  <i>An Najm</i> yang terdapat pada ayat pertama surat ini. Allah bersumpah dengan <i>An Najm</i> (bintang) adalah karena bintang-bintang yang timbul dan tenggelam, amat besar manfaatnya bagi manusia, sebagai pedoman bagi manusia dalam melakukan pelayaran di lautan, dalam perjalanan di padang pasir, untuk menentukan peredaran musim dan sebagainya.",
+    "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/053.mp3",
+    "status": true,
+    "ayat": [
+        {
+            "id": 4785,
+            "surah": 53,
+            "nomor": 1,
+            "ar": "وَالنَّجْمِ اِذَا هَوٰىۙ ",
+            "tr": "wan-najmi iżā hawā.",
+            "idn": "Demi bintang ketika terbenam, "
+        },
+        {
+            "id": 4786,
+            "surah": 53,
+            "nomor": 2,
+            "ar": "مَا ضَلَّ صَاحِبُكُمْ وَمَا غَوٰىۚ ",
+            "tr": "mā ḍalla ṣāḥibukum wa mā gawā.",
+            "idn": "kawanmu (Muhammad) tidak sesat dan tidak (pula) keliru,"
+        },
+        {
+            "id": 4787,
+            "surah": 53,
+            "nomor": 3,
+            "ar": "وَمَا يَنْطِقُ عَنِ الْهَوٰى",
+            "tr": "wa mā yanṭiqu ‘anil-hawā.",
+            "idn": "dan tidaklah yang diucapkannya itu (Al-Qur'an) menurut keinginannya. "
+        },
+        {
+            "id": 4788,
+            "surah": 53,
+            "nomor": 4,
+            "ar": "اِنْ هُوَ اِلَّا وَحْيٌ يُّوْحٰىۙ ",
+            "tr": "in huwa illā waḥyuy yūḥā.",
+            "idn": "Tidak lain (Al-Qur'an itu) adalah wahyu yang diwahyukan (kepadanya),"
+        },
+        {
+            "id": 4789,
+            "surah": 53,
+            "nomor": 5,
+            "ar": "عَلَّمَهٗ شَدِيْدُ الْقُوٰىۙ ",
+            "tr": "‘allamahū syadīdul-quwā.",
+            "idn": "yang diajarkan kepadanya oleh (Jibril) yang sangat kuat, "
+        },
+        {
+            "id": 4790,
+            "surah": 53,
+            "nomor": 6,
+            "ar": "ذُوْ مِرَّةٍۗ فَاسْتَوٰىۙ ",
+            "tr": "Żū mirrah(tin), fastawā.",
+            "idn": "yang mempunyai keteguhan; maka (Jibril itu) menampakkan diri dengan rupa yang asli (rupa yang bagus dan perkasa)"
+        },
+        {
+            "id": 4791,
+            "surah": 53,
+            "nomor": 7,
+            "ar": "وَهُوَ بِالْاُفُقِ الْاَعْلٰىۗ ",
+            "tr": "wa huwa bil-ufuqil-a‘lā.",
+            "idn": "Sedang dia berada di ufuk yang tinggi."
+        },
+        {
+            "id": 4792,
+            "surah": 53,
+            "nomor": 8,
+            "ar": "ثُمَّ دَنَا فَتَدَلّٰىۙ  ",
+            "tr": "Ṡumma danā fa tadallā.",
+            "idn": "Kemudian dia mendekat (pada Muhammad), lalu bertambah dekat, "
+        },
+        {
+            "id": 4793,
+            "surah": 53,
+            "nomor": 9,
+            "ar": "فَكَانَ قَابَ قَوْسَيْنِ اَوْ اَدْنٰىۚ",
+            "tr": "fa kāna qāba qausaini au adnā.",
+            "idn": "sehingga jaraknya (sekitar) dua busur panah atau lebih dekat (lagi)."
+        },
+        {
+            "id": 4794,
+            "surah": 53,
+            "nomor": 10,
+            "ar": "فَاَوْحٰىٓ اِلٰى عَبْدِهٖ مَآ اَوْحٰىۗ",
+            "tr": "fa auḥā ilā ‘abdihī mā auḥā.",
+            "idn": "Lalu disampaikannya wahyu kepada hamba-Nya (Muhammad) apa yang telah diwahyukan Allah. "
+        },
+        {
+            "id": 4795,
+            "surah": 53,
+            "nomor": 11,
+            "ar": "مَا كَذَبَ الْفُؤَادُ مَا رَاٰى",
+            "tr": "mā każabal-fu'ādu mā ra'ā.",
+            "idn": "Hatinya tidak mendustakan apa yang telah dilihatnya. "
+        },
+        {
+            "id": 4796,
+            "surah": 53,
+            "nomor": 12,
+            "ar": "اَفَتُمٰرُوْنَهٗ عَلٰى مَا يَرٰى ",
+            "tr": "afa tumārūnahū ‘alā mā yarā.",
+            "idn": "Maka apakah kamu (musyrikin Mekah) hendak membantahnya tentang apa yang dilihatnya itu?"
+        },
+        {
+            "id": 4797,
+            "surah": 53,
+            "nomor": 13,
+            "ar": "وَلَقَدْ رَاٰهُ نَزْلَةً اُخْرٰىۙ",
+            "tr": "wa laqad ra'āhu nazlatan ukhrā.",
+            "idn": "Dan sungguh, dia (Muhammad) telah melihatnya (dalam rupanya yang asli) pada waktu yang lain,"
+        },
+        {
+            "id": 4798,
+            "surah": 53,
+            "nomor": 14,
+            "ar": "عِنْدَ سِدْرَةِ الْمُنْتَهٰى ",
+            "tr": "‘inda sidratil-muntahā.",
+            "idn": "(yaitu) di Sidratul Muntaha,"
+        },
+        {
+            "id": 4799,
+            "surah": 53,
+            "nomor": 15,
+            "ar": "عِنْدَهَا جَنَّةُ الْمَأْوٰىۗ  ",
+            "tr": "‘indahā jannatul-ma'wā.",
+            "idn": "di dekatnya ada surga tempat tinggal,"
+        },
+        {
+            "id": 4800,
+            "surah": 53,
+            "nomor": 16,
+            "ar": "اِذْ يَغْشَى السِّدْرَةَ مَا يَغْشٰىۙ ",
+            "tr": "iż yagsyas-sidrata mā yagsyā.",
+            "idn": "(Muhammad melihat Jibril) ketika Sidratil muntaha diliputi oleh sesuatu yang meliputinya,"
+        },
+        {
+            "id": 4801,
+            "surah": 53,
+            "nomor": 17,
+            "ar": "مَا زَاغَ الْبَصَرُ وَمَا طَغٰى",
+            "tr": "mā zāgal-baṣaru wa mā ṭagā.",
+            "idn": "penglihatannya (Muhammad) tidak menyimpang dari yang dilihatnya itu dan tidak (pula) melampauinya."
+        },
+        {
+            "id": 4802,
+            "surah": 53,
+            "nomor": 18,
+            "ar": "لَقَدْ رَاٰى مِنْ اٰيٰتِ رَبِّهِ الْكُبْرٰى",
+            "tr": "laqad ra'ā min āyāti rabbihil-kubrā.",
+            "idn": "Sungguh, dia telah melihat sebagian tanda-tanda (kebesaran) Tuhannya yang paling besar.          "
+        },
+        {
+            "id": 4803,
+            "surah": 53,
+            "nomor": 19,
+            "ar": "اَفَرَءَيْتُمُ اللّٰتَ وَالْعُزّٰى",
+            "tr": "afa ra'aitumul-lāta wal-‘uzzā.",
+            "idn": "Maka apakah patut kamu (orang-orang musyrik) menganggap (berhala) Al-Lata dan Al-‘Uzza,"
+        },
+        {
+            "id": 4804,
+            "surah": 53,
+            "nomor": 20,
+            "ar": "وَمَنٰوةَ الثَّالِثَةَ الْاُخْرٰى ",
+            "tr": "wa manātaṡ-ṡāliṡatal-ukhrā.",
+            "idn": "dan Manat, yang ketiga (yang) kemudian (sebagai anak perempuan Allah)."
+        },
+        {
+            "id": 4805,
+            "surah": 53,
+            "nomor": 21,
+            "ar": "اَلَكُمُ الذَّكَرُ وَلَهُ الْاُنْثٰى ",
+            "tr": "alakumuż-żakaru wa lahul-unṡā.",
+            "idn": "Apakah (pantas) untuk kamu yang laki-laki dan untuk-Nya yang perempuan?"
+        },
+        {
+            "id": 4806,
+            "surah": 53,
+            "nomor": 22,
+            "ar": "تِلْكَ اِذًا قِسْمَةٌ ضِيْزٰى ",
+            "tr": "tilka iżan qismatun ḍīzā.",
+            "idn": "Yang demikian itu tentulah suatu pembagian yang tidak adil. "
+        },
+        {
+            "id": 4807,
+            "surah": 53,
+            "nomor": 23,
+            "ar": "اِنْ هِيَ اِلَّآ اَسْمَاۤءٌ سَمَّيْتُمُوْهَآ اَنْتُمْ وَاٰبَاۤؤُكُمْ مَّآ اَنْزَلَ اللّٰهُ بِهَا مِنْ سُلْطٰنٍۗ اِنْ يَّتَّبِعُوْنَ اِلَّا الظَّنَّ وَمَا تَهْوَى الْاَنْفُسُۚ وَلَقَدْ جَاۤءَهُمْ مِّنْ رَّبِّهِمُ الْهُدٰىۗ",
+            "tr": "in hiya illā asmā'un sammaitumūhā antum wa ābā'ukum mā anzalallāhu bihā min sulṭān(in), iy yattabi‘ūna illaẓ-ẓanna wa mā tahwal-anfus(u), wa laqad jā'ahum mir rabbihimul-hudā.",
+            "idn": "Itu tidak lain hanyalah nama-nama yang kamu dan nenek moyangmu mengada-adakannya; Allah tidak menurunkan suatu keterangan apa pun untuk (menyembah)nya. Mereka hanya mengikuti dugaan, dan apa yang diingini oleh keinginannya. Padahal sungguh, telah datang petunjuk dari Tuhan mereka. "
+        },
+        {
+            "id": 4808,
+            "surah": 53,
+            "nomor": 24,
+            "ar": "اَمْ لِلْاِنْسَانِ مَا تَمَنّٰىۖ  ",
+            "tr": "am lil-insāni mā tamannā.",
+            "idn": "Atau apakah manusia akan mendapat segala yang dicita-citakannya?"
+        },
+        {
+            "id": 4809,
+            "surah": 53,
+            "nomor": 25,
+            "ar": "فَلِلّٰهِ الْاٰخِرَةُ وَالْاُوْلٰى ࣖ ",
+            "tr": "fa lillāhil-ākhiratu wal-ūlā.",
+            "idn": "(Tidak!) Maka milik Allah-lah kehidupan akhirat dan kehidupan dunia. "
+        },
+        {
+            "id": 4810,
+            "surah": 53,
+            "nomor": 26,
+            "ar": "۞ وَكَمْ مِّنْ مَّلَكٍ فِى السَّمٰوٰتِ لَا تُغْنِيْ شَفَاعَتُهُمْ شَيْـًٔا اِلَّا مِنْۢ بَعْدِ اَنْ يَّأْذَنَ اللّٰهُ لِمَنْ يَّشَاۤءُ وَيَرْضٰى ",
+            "tr": "wa kam mim malakin fis-samāwāti lā tugnī syafā‘atuhum syai'an illā mim ba‘di ay ya'żanallāhu limay yasyā'u wa yarḍā.",
+            "idn": "Dan betapa banyak malaikat di langit, syafaat (pertolongan) mereka sedikit pun tidak berguna kecuali apabila Allah telah mengizinkan (dan hanya) bagi siapa yang Dia kehendaki dan Dia ridai. "
+        },
+        {
+            "id": 4811,
+            "surah": 53,
+            "nomor": 27,
+            "ar": "اِنَّ الَّذِيْنَ لَا يُؤْمِنُوْنَ بِالْاٰخِرَةِ لَيُسَمُّوْنَ الْمَلٰۤىِٕكَةَ تَسْمِيَةَ الْاُنْثٰى ",
+            "tr": "innal-lażīna lā yu'minūna bil-ākhirati layusammūnal-malā'ikata tasmiyatal-unṡā.",
+            "idn": "Sesungguhnya orang-orang yang tidak beriman kepada kehidupan akhirat, sungguh mereka menamakan para malaikat dengan nama perempuan. "
+        },
+        {
+            "id": 4812,
+            "surah": 53,
+            "nomor": 28,
+            "ar": "وَمَا لَهُمْ بِهٖ مِنْ عِلْمٍۗ اِنْ يَّتَّبِعُوْنَ اِلَّا الظَّنَّ وَاِنَّ الظَّنَّ لَا يُغْنِيْ مِنَ الْحَقِّ شَيْـًٔاۚ ",
+            "tr": "wa mā lahum bihī min ‘ilm(in), iy yattabi‘ūna illaẓ-ẓann(a), wa innaẓ-ẓanna lā yugnī minal-ḥaqqi syai'ā(n).",
+            "idn": "Dan mereka tidak mempunyai ilmu tentang itu. Mereka tidak lain hanyalah mengikuti dugaan, dan sesungguhnya dugaan itu tidak berfaedah sedikit pun terhadap kebenaran. "
+        },
+        {
+            "id": 4813,
+            "surah": 53,
+            "nomor": 29,
+            "ar": "فَاَعْرِضْ عَنْ مَّنْ تَوَلّٰىۙ عَنْ ذِكْرِنَا وَلَمْ يُرِدْ اِلَّا الْحَيٰوةَ الدُّنْيَاۗ  ",
+            "tr": "fa a‘riḍ ‘am man tawallā, ‘an żikrinā wa lam yurid illal-ḥayātad-dun-yā.",
+            "idn": "Maka tinggalkanlah (Muhammad) orang yang berpaling dari peringatan Kami, dan dia hanya mengingini kehidupan dunia."
+        },
+        {
+            "id": 4814,
+            "surah": 53,
+            "nomor": 30,
+            "ar": "ذٰلِكَ مَبْلَغُهُمْ مِّنَ الْعِلْمِۗ اِنَّ رَبَّكَ هُوَ اَعْلَمُ بِمَنْ ضَلَّ عَنْ سَبِيْلِهٖۙ وَهُوَ اَعْلَمُ بِمَنِ اهْتَدٰى",
+            "tr": "Żālika mablaguhum minal-‘ilm(i), inna rabbaka huwa a‘lamu biman ḍalla ‘an sabīlih(ī), wa huwa a‘lamu bimanihtadā.",
+            "idn": "Itulah kadar ilmu mereka. Sungguh, Tuhanmu, Dia lebih mengetahui siapa yang tersesat dari jalan-Nya dan Dia pula yang mengetahui siapa yang mendapat petunjuk. "
+        },
+        {
+            "id": 4815,
+            "surah": 53,
+            "nomor": 31,
+            "ar": "وَلِلّٰهِ مَا فِى السَّمٰوٰتِ وَمَا فِى الْاَرْضِۗ لِيَجْزِيَ الَّذِيْنَ اَسَاۤءُوْا بِمَا عَمِلُوْا وَيَجْزِيَ الَّذِيْنَ اَحْسَنُوْا بِالْحُسْنٰىۚ ",
+            "tr": "wa lillāhi mā fis-samāwāti wa mā fil-arḍ(i), liyajziyal-lażīna asā'ū bimā ‘amilū wa yajziyal-lażīna aḥsanū bil-ḥusnā.",
+            "idn": "Dan milik Allah-lah apa yang ada di langit dan apa yang ada di bumi. (Dengan demikian) Dia akan memberi balasan kepada orang-orang yang berbuat jahat sesuai dengan apa yang telah mereka kerjakan dan Dia akan memberi balasan kepada orang-orang yang berbuat baik dengan pahala yang lebih baik (surga). "
+        },
+        {
+            "id": 4816,
+            "surah": 53,
+            "nomor": 32,
+            "ar": "اَلَّذِيْنَ يَجْتَنِبُوْنَ كَبٰۤىِٕرَ الْاِثْمِ وَالْفَوَاحِشَ اِلَّا اللَّمَمَۙ اِنَّ رَبَّكَ وَاسِعُ الْمَغْفِرَةِۗ هُوَ اَعْلَمُ بِكُمْ اِذْ اَنْشَاَكُمْ مِّنَ الْاَرْضِ وَاِذْ اَنْتُمْ اَجِنَّةٌ فِيْ بُطُوْنِ اُمَّهٰتِكُمْۗ فَلَا تُزَكُّوْٓا اَنْفُسَكُمْۗ  هُوَ اَعْلَمُ بِمَنِ اتَّقٰى ࣖ ",
+            "tr": "allażīna yajtanibūna kabā'iral-iṡmi wal-fawāḥisya illal-lamam(a), inna rabbaka wāsi‘ul-magfirah(ti), huwa a‘lamu bikum iż ansya'akum minal-arḍi wa iż antum ajinnatun fī buṭūni ummahātikum, falā tuzakkū anfusakum, huwa a‘lamu bimanittaqā.",
+            "idn": "Yaitu) mereka yang menjauhi dosa-dosa besar dan perbuatan keji, kecuali kesalahan-kesalahan kecil. Sungguh, Tuhanmu Mahaluas ampunan-Nya. Dia mengetahui tentang kamu, sejak Dia menjadikan kamu dari tanah lalu ketika kamu masih janin dalam perut ibumu. Maka janganlah kamu menganggap dirimu suci. Dia mengetahui tentang orang yang bertakwa. "
+        },
+        {
+            "id": 4817,
+            "surah": 53,
+            "nomor": 33,
+            "ar": "اَفَرَءَيْتَ الَّذِيْ تَوَلّٰىۙ  ",
+            "tr": "afa ra'aital-lażī tawallā.",
+            "idn": "Maka tidakkah engkau melihat orang yang berpaling (dari Al-Qur'an)?"
+        },
+        {
+            "id": 4818,
+            "surah": 53,
+            "nomor": 34,
+            "ar": "وَاَعْطٰى قَلِيْلًا وَّاَكْدٰى ",
+            "tr": "wa a‘ṭā qalīlaw wa akdā.",
+            "idn": "dan dia memberikan sedikit (dari apa yang dijanjikan) lalu menahan sisanya."
+        },
+        {
+            "id": 4819,
+            "surah": 53,
+            "nomor": 35,
+            "ar": "اَعِنْدَهٗ عِلْمُ الْغَيْبِ فَهُوَ يَرٰى ",
+            "tr": "a‘indahū ‘ilmul-gaibi fahuwa yarā.",
+            "idn": "Apakah dia mempunyai ilmu tentang yang gaib sehingga dia dapat melihat(nya)?"
+        },
+        {
+            "id": 4820,
+            "surah": 53,
+            "nomor": 36,
+            "ar": "اَمْ لَمْ يُنَبَّأْ بِمَا فِيْ صُحُفِ مُوْسٰى  ",
+            "tr": "am lam yunabba' bimā fī ṣuḥufi mūsā.",
+            "idn": "Ataukah belum diberitakan (kepadanya) apa yang ada dalam lembaran-lembaran (Kitab Suci yang diturunkan kepada) Musa?"
+        },
+        {
+            "id": 4821,
+            "surah": 53,
+            "nomor": 37,
+            "ar": "وَاِبْرٰهِيْمَ الَّذِيْ وَفّٰىٓ ۙ ",
+            "tr": "wa ibrāhīmal-lażī waffā.",
+            "idn": "Dan (lembaran-lembaran) Ibrahim yang selalu menyempurnakan janji?"
+        },
+        {
+            "id": 4822,
+            "surah": 53,
+            "nomor": 38,
+            "ar": "اَلَّا تَزِرُ وَازِرَةٌ وِّزْرَ اُخْرٰىۙ  ",
+            "tr": "allā taziru wāziratuw wizra ukhrā.",
+            "idn": "(yaitu) bahwa seseorang yang berdosa tidak akan memikul dosa orang lain,"
+        },
+        {
+            "id": 4823,
+            "surah": 53,
+            "nomor": 39,
+            "ar": "وَاَنْ لَّيْسَ لِلْاِنْسَانِ اِلَّا مَا سَعٰىۙ  ",
+            "tr": "wa al laisa lil-insāni illā mā sa‘ā.",
+            "idn": "dan bahwa manusia hanya memperoleh apa yang telah diusahakannya,"
+        },
+        {
+            "id": 4824,
+            "surah": 53,
+            "nomor": 40,
+            "ar": "وَاَنَّ سَعْيَهٗ سَوْفَ يُرٰىۖ",
+            "tr": "wa anna sa‘yahū saufa yurā.",
+            "idn": "dan sesungguhnya usahanya itu kelak akan diperlihatkan (kepadanya),"
+        },
+        {
+            "id": 4825,
+            "surah": 53,
+            "nomor": 41,
+            "ar": "ثُمَّ يُجْزٰىهُ الْجَزَاۤءَ الْاَوْفٰىۙ ",
+            "tr": "Ṡumma yujzāhul-jazā'al-aufā.",
+            "idn": "kemudian akan diberi balasan kepadanya dengan balasan yang paling  sempurna,"
+        },
+        {
+            "id": 4826,
+            "surah": 53,
+            "nomor": 42,
+            "ar": "وَاَنَّ اِلٰى رَبِّكَ الْمُنْتَهٰىۙ  ",
+            "tr": "wa anna ilā rabbikal-muntahā.",
+            "idn": "dan sesungguhnya kepada Tuhanmulah kesudahannya (segala sesuatu),"
+        },
+        {
+            "id": 4827,
+            "surah": 53,
+            "nomor": 43,
+            "ar": "وَاَنَّهٗ هُوَ اَضْحَكَ وَاَبْكٰى",
+            "tr": "wa annahū huwa aḍḥaka wa abkā.",
+            "idn": "dan sesungguhnya Dialah yang menjadikan orang tertawa dan menangis, "
+        },
+        {
+            "id": 4828,
+            "surah": 53,
+            "nomor": 44,
+            "ar": "وَاَنَّهٗ هُوَ اَمَاتَ وَاَحْيَاۙ  ",
+            "tr": "wa annahū huwa amāta wa aḥyā.",
+            "idn": "dan sesungguhnya Dialah yang mematikan dan menghidupkan, "
+        },
+        {
+            "id": 4829,
+            "surah": 53,
+            "nomor": 45,
+            "ar": "وَاَنَّهٗ خَلَقَ الزَّوْجَيْنِ الذَّكَرَ وَالْاُنْثٰىۙ ",
+            "tr": "wa annahū khalaqaz-zaujainiż-żakara wal-unṡā.",
+            "idn": "dan sesungguhnya Dialah yang men-ciptakan pasangan laki-laki dan perempuan,"
+        },
+        {
+            "id": 4830,
+            "surah": 53,
+            "nomor": 46,
+            "ar": "مِنْ نُّطْفَةٍ اِذَا تُمْنٰىۙ  ",
+            "tr": "min nuṭfatin iżā tumnā.",
+            "idn": "dari mani, apabila dipancarkan,"
+        },
+        {
+            "id": 4831,
+            "surah": 53,
+            "nomor": 47,
+            "ar": "وَاَنَّ عَلَيْهِ النَّشْاَةَ الْاُخْرٰىۙ ",
+            "tr": "wa anna ‘alaihin nasy'atal-ukhrā.",
+            "idn": "dan sesungguhnya Dialah yang menetapkan penciptaan yang lain (kebangkitan setelah mati),"
+        },
+        {
+            "id": 4832,
+            "surah": 53,
+            "nomor": 48,
+            "ar": "وَاَنَّهٗ هُوَ اَغْنٰى وَاَقْنٰىۙ ",
+            "tr": "wa annahū huwa agnā wa aqnā.",
+            "idn": "dan sesungguhnya Dialah yang memberikan kekayaan dan kecukupan. "
+        },
+        {
+            "id": 4833,
+            "surah": 53,
+            "nomor": 49,
+            "ar": "وَاَنَّهٗ هُوَ رَبُّ الشِّعْرٰىۙ",
+            "tr": "wa annahū huwa rabbusy-syi‘rā.",
+            "idn": "dan sesungguhnya Dialah Tuhan (yang memiliki) bintang Syi‘ra, "
+        },
+        {
+            "id": 4834,
+            "surah": 53,
+            "nomor": 50,
+            "ar": "وَاَنَّهٗٓ اَهْلَكَ عَادًا ۨالْاُوْلٰىۙ",
+            "tr": "wa annahū ahlaka ‘ādanil-ūlā.",
+            "idn": "dan sesungguhnya Dialah yang telah membinasakan kaum ‘Ad dahulu kala, "
+        },
+        {
+            "id": 4835,
+            "surah": 53,
+            "nomor": 51,
+            "ar": "وَثَمُوْدَا۟ فَمَآ اَبْقٰىۙ",
+            "tr": "wa ṡamūda famā abqā.",
+            "idn": "dan kaum Samud, tidak seorang pun yang ditinggalkan-Nya (hidup), "
+        },
+        {
+            "id": 4836,
+            "surah": 53,
+            "nomor": 52,
+            "ar": "وَقَوْمَ نُوْحٍ مِّنْ قَبْلُۗ اِنَّهُمْ كَانُوْا هُمْ اَظْلَمَ وَاَطْغٰىۗ  ",
+            "tr": "wa qauma nūḥim min qabl(u), innahum kānū hum aẓlama wa aṭgā.",
+            "idn": "dan (juga) kaum Nuh sebelum itu. Sungguh, mereka adalah orang-orang yang paling zalim dan paling durhaka."
+        },
+        {
+            "id": 4837,
+            "surah": 53,
+            "nomor": 53,
+            "ar": "وَالْمُؤْتَفِكَةَ اَهْوٰىۙ  ",
+            "tr": "wal-mu'tafikata ahwā.",
+            "idn": "Dan prahara angin telah meruntuhkan (negeri kaum Lut), "
+        },
+        {
+            "id": 4838,
+            "surah": 53,
+            "nomor": 54,
+            "ar": "فَغَشّٰىهَا مَا غَشّٰىۚ  ",
+            "tr": "fa gasysyāhā mā gasysyā.",
+            "idn": "lalu menimbuni negeri itu (sebagai azab) dengan (puing-puing) yang menimpanya. "
+        },
+        {
+            "id": 4839,
+            "surah": 53,
+            "nomor": 55,
+            "ar": "فَبِاَيِّ اٰلَاۤءِ رَبِّكَ تَتَمَارٰى",
+            "tr": "fa bi'ayyi ālā'i rabbika tatamārā.",
+            "idn": "Maka terhadap nikmat Tuhanmu yang manakah yang masih kamu ragukan?"
+        },
+        {
+            "id": 4840,
+            "surah": 53,
+            "nomor": 56,
+            "ar": "هٰذَا نَذِيْرٌ مِّنَ النُّذُرِ الْاُوْلٰى",
+            "tr": "hāżā nażīrum minan-nużuril-ūlā.",
+            "idn": "Ini (Muhammad) salah seorang pemberi peringatan di antara para pemberi peringatan yang telah terdahulu. "
+        },
+        {
+            "id": 4841,
+            "surah": 53,
+            "nomor": 57,
+            "ar": "اَزِفَتِ الْاٰزِفَةُ ۚ ",
+            "tr": "azifatil-āzifah(tu).",
+            "idn": "Yang dekat (hari Kiamat) telah makin mendekat. "
+        },
+        {
+            "id": 4842,
+            "surah": 53,
+            "nomor": 58,
+            "ar": "لَيْسَ لَهَا مِنْ دُوْنِ اللّٰهِ كَاشِفَةٌ  ۗ ",
+            "tr": "laisa lahā min dūnillāhi kāsyifah(tun).",
+            "idn": "Tidak ada yang akan dapat mengungkapkan (terjadinya hari itu) selain Allah."
+        },
+        {
+            "id": 4843,
+            "surah": 53,
+            "nomor": 59,
+            "ar": "اَفَمِنْ هٰذَا الْحَدِيْثِ تَعْجَبُوْنَۙ  ",
+            "tr": "afamin hāżal-ḥadīṡi ta‘jabūn(a).",
+            "idn": "Maka apakah kamu merasa heran terhadap pemberitaan ini?"
+        },
+        {
+            "id": 4844,
+            "surah": 53,
+            "nomor": 60,
+            "ar": "وَتَضْحَكُوْنَ وَلَا تَبْكُوْنَۙ  ",
+            "tr": "wa taḍḥakūna wa lā tabkūn(a).",
+            "idn": "dan kamu tertawakan dan tidak menangis, "
+        },
+        {
+            "id": 4845,
+            "surah": 53,
+            "nomor": 61,
+            "ar": "وَاَنْتُمْ سٰمِدُوْنَ ",
+            "tr": "wa antum sāmidūn(a).",
+            "idn": "sedang kamu lengah (darinya)."
+        },
+        {
+            "id": 4846,
+            "surah": 53,
+            "nomor": 62,
+            "ar": "فَاسْجُدُوْا لِلّٰهِ وَاعْبُدُوْا ࣖ ۩ ",
+            "tr": "fasjudū lillāhi wa‘budū.",
+            "idn": "Maka bersujudlah kepada Allah dan sembahlah (Dia). "
+        }
+    ],
+    "surat_selanjutnya": {
+        "id": 54,
+        "nomor": 54,
+        "nama": "القمر",
+        "nama_latin": "Al-Qamar",
+        "jumlah_ayat": 55,
+        "tempat_turun": "mekah",
+        "arti": "Bulan",
+        "deskripsi": "Surat Al Qamar terdiri atas 55 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesedah surat Ath Thaariq. Nama <i>Al Qamar</i> (bulan) diambil dari perkataan <i>Al Qamar</i> yang terdapat pada ayat pertama surat ini. Pada ayat ini diterangkan tentang terbelahnya bulan sebagai mukjizat Nabi Muhammad s.a.w.",
+        "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/054.mp3"
+    },
+    "surat_sebelumnya": {
+        "id": 52,
+        "nomor": 52,
+        "nama": "الطور",
+        "nama_latin": "At-Tur",
+        "jumlah_ayat": 49,
+        "tempat_turun": "mekah",
+        "arti": "Bukit Tursina",
+        "deskripsi": "Surat Ath Thuur terdiri atas 49 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat As Sajdah. Dinamai <i>Ath Thuur</i> (Bukit) diambil dari perkataan <i>Ath Thuur</i> yang terdapat pada ayat pertama surat ini. Yang dimaksud dengan <i>bukit</i> di sini ialah bukit Thursina yang terletak di semenanjung Sinai, tempat Nabi Musa menerima wahyu dari Tuhannya.",
+        "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/052.mp3"
+    }
+}

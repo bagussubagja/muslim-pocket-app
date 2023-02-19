@@ -1,0 +1,475 @@
+{
+    "nomor": 54,
+    "nama": "القمر",
+    "nama_latin": "Al-Qamar",
+    "jumlah_ayat": 55,
+    "tempat_turun": "mekah",
+    "arti": "Bulan",
+    "deskripsi": "Surat Al Qamar terdiri atas 55 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesedah surat Ath Thaariq. Nama <i>Al Qamar</i> (bulan) diambil dari perkataan <i>Al Qamar</i> yang terdapat pada ayat pertama surat ini. Pada ayat ini diterangkan tentang terbelahnya bulan sebagai mukjizat Nabi Muhammad s.a.w.",
+    "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/054.mp3",
+    "status": true,
+    "ayat": [
+        {
+            "id": 4847,
+            "surah": 54,
+            "nomor": 1,
+            "ar": "اِقْتَرَبَتِ السَّاعَةُ وَانْشَقَّ الْقَمَرُ ",
+            "tr": "iqtarabatis-sā‘atu wansyaqqal-qamar(u).",
+            "idn": " Saat (hari Kiamat) semakin dekat, bulan pun terbelah. "
+        },
+        {
+            "id": 4848,
+            "surah": 54,
+            "nomor": 2,
+            "ar": "وَاِنْ يَّرَوْا اٰيَةً يُّعْرِضُوْا وَيَقُوْلُوْا سِحْرٌ مُّسْتَمِرٌّ",
+            "tr": "wa iy yarau āyatay yu‘riḍū wa yaqūlū siḥrum mustamirr(un).",
+            "idn": "Dan jika mereka (orang-orang musyrikin) melihat suatu tanda (mukjizat), mereka berpaling dan berkata, “(Ini adalah) sihir yang terus menerus.” "
+        },
+        {
+            "id": 4849,
+            "surah": 54,
+            "nomor": 3,
+            "ar": "وَكَذَّبُوْا وَاتَّبَعُوْٓا اَهْوَاۤءَهُمْ وَكُلُّ اَمْرٍ مُّسْتَقِرٌّ",
+            "tr": "wa każżabū wattaba‘ū ahwā'ahum wa kullu amrim mustaqirr(un).",
+            "idn": "Dan mereka mendustakan (Muhammad) dan mengikuti keinginannya, padahal setiap urusan telah ada ketetapannya."
+        },
+        {
+            "id": 4850,
+            "surah": 54,
+            "nomor": 4,
+            "ar": "وَلَقَدْ جَاۤءَهُمْ مِّنَ الْاَنْۢبَاۤءِ مَا فِيْهِ مُزْدَجَرٌۙ  ",
+            "tr": "wa laqad jā'ahum minal-ambā'i mā fīhi muzdajar(un).",
+            "idn": "Dan sungguh, telah datang kepada mereka beberapa kisah yang di dalamnya terdapat ancaman (terhadap kekafiran),"
+        },
+        {
+            "id": 4851,
+            "surah": 54,
+            "nomor": 5,
+            "ar": "حِكْمَةٌ ۢ بَالِغَةٌ فَمَا تُغْنِ النُّذُرُۙ  ",
+            "tr": "Ḥikmatum bāligatun famā tugnin-nużur(u).",
+            "idn": "(itulah) suatu hikmah yang sempurna, tetapi peringatan-peringatan itu tidak berguna (bagi mereka),"
+        },
+        {
+            "id": 4852,
+            "surah": 54,
+            "nomor": 6,
+            "ar": "فَتَوَلَّ عَنْهُمْ ۘ يَوْمَ يَدْعُ الدَّاعِ اِلٰى شَيْءٍ نُّكُرٍۙ  ",
+            "tr": "fa tawalla ‘anhum, yauma yad‘ud-dā‘i ilā syai'in nukur(in).",
+            "idn": "maka berpalinglah engkau (Muhammad) dari mereka pada hari (ketika) penyeru (malaikat) mengajak (mereka) kepada sesuatu yang tidak menyenangkan (hari pembalasan), "
+        },
+        {
+            "id": 4853,
+            "surah": 54,
+            "nomor": 7,
+            "ar": "خُشَّعًا اَبْصَارُهُمْ يَخْرُجُوْنَ مِنَ الْاَجْدَاثِ كَاَنَّهُمْ جَرَادٌ مُّنْتَشِرٌۙ  ",
+            "tr": "khusysya‘an abṣāruhum yakhrujūna minal-ajdāṡi ka'annahum jarādum muntasyir(un).",
+            "idn": "pandangan mereka tertunduk, ketika mereka keluar dari kuburan, seakan-akan mereka belalang yang beterbangan,"
+        },
+        {
+            "id": 4854,
+            "surah": 54,
+            "nomor": 8,
+            "ar": "مُّهْطِعِيْنَ اِلَى الدَّاعِۗ يَقُوْلُ الْكٰفِرُوْنَ هٰذَا يَوْمٌ عَسِرٌ ",
+            "tr": "muhṭi‘īna ilad-dā‘(i), yaqūlul-kāfirūna hāżā yaumun ‘asir(un).",
+            "idn": "dengan patuh mereka segera datang kepada penyeru itu. Orang-orang kafir berkata, “Ini adalah hari yang sulit.” "
+        },
+        {
+            "id": 4855,
+            "surah": 54,
+            "nomor": 9,
+            "ar": "۞ كَذَّبَتْ قَبْلَهُمْ قَوْمُ نُوْحٍ فَكَذَّبُوْا عَبْدَنَا وَقَالُوْا مَجْنُوْنٌ وَّازْدُجِرَ",
+            "tr": "każżabat qablahum qaumu nūḥin fakażżabū ‘abdanā wa qālū majnūnuw wazdujir(a).",
+            "idn": "Sebelum mereka, kaum Nuh juga telah mendustakan (rasul), maka mereka mendustakan hamba Kami (Nuh) dan mengatakan, “Dia orang gila!” Lalu diusirnya dengan ancaman. "
+        },
+        {
+            "id": 4856,
+            "surah": 54,
+            "nomor": 10,
+            "ar": "فَدَعَا رَبَّهٗٓ اَنِّيْ مَغْلُوْبٌ فَانْتَصِرْ",
+            "tr": "fa da‘ā rabbahū annī maglūbun fantaṣir.",
+            "idn": "Maka dia (Nuh) mengadu kepada Tuhannya, “Sesungguhnya aku telah dikalahkan, maka tolonglah (aku).”"
+        },
+        {
+            "id": 4857,
+            "surah": 54,
+            "nomor": 11,
+            "ar": "فَفَتَحْنَآ اَبْوَابَ السَّمَاۤءِ بِمَاۤءٍ مُّنْهَمِرٍۖ  ",
+            "tr": "fa fataḥnā abwābas-samā'i bimā'im munhamir(in).",
+            "idn": "Lalu Kami bukakan pintu-pintu langit dengan (menurunkan) air yang tercurah,"
+        },
+        {
+            "id": 4858,
+            "surah": 54,
+            "nomor": 12,
+            "ar": "وَّفَجَّرْنَا الْاَرْضَ عُيُوْنًا فَالْتَقَى الْمَاۤءُ عَلٰٓى اَمْرٍ قَدْ قُدِرَ ۚ",
+            "tr": "wa fajjarnal-arḍa ‘uyūnan faltaqal-mā'u ‘alā amrin qad qudir(a).",
+            "idn": "dan Kami jadikan bumi menyemburkan mata-mata air maka bertemulah (air-air) itu sehingga (meluap menimbulkan) keadaan (bencana) yang telah ditetapkan. "
+        },
+        {
+            "id": 4859,
+            "surah": 54,
+            "nomor": 13,
+            "ar": "وَحَمَلْنٰهُ عَلٰى ذَاتِ اَلْوَاحٍ وَّدُسُرٍۙ  ",
+            "tr": "wa ḥamalnāhu ‘alā żāti alwāḥiw wa dusur(in).",
+            "idn": "Dan Kami angkut dia (Nuh) ke atas (kapal) yang terbuat dari papan dan pasak, "
+        },
+        {
+            "id": 4860,
+            "surah": 54,
+            "nomor": 14,
+            "ar": "تَجْرِيْ بِاَعْيُنِنَاۚ جَزَاۤءً لِّمَنْ كَانَ كُفِرَ ",
+            "tr": "tajrī bi'a‘yuninā, jazā'al liman kāna kufir(a).",
+            "idn": "yang berlayar dengan pemeliharaan (pengawasan) Kami sebagai balasan bagi orang yang telah diingkari (kaumnya)."
+        },
+        {
+            "id": 4861,
+            "surah": 54,
+            "nomor": 15,
+            "ar": "وَلَقَدْ تَّرَكْنٰهَآ اٰيَةً فَهَلْ مِنْ مُّدَّكِرٍ",
+            "tr": "wa laqat taraknāhā āyatan fahal mim muddakir(in).",
+            "idn": "Dan sungguh, kapal itu telah Kami jadikan sebagai tanda (pelajaran). Maka adakah orang yang mau mengambil pelajaran?"
+        },
+        {
+            "id": 4862,
+            "surah": 54,
+            "nomor": 16,
+            "ar": "فَكَيْفَ كَانَ عَذَابِيْ وَنُذُرِ ",
+            "tr": "fa kaifa kāna ‘ażābī wa nużur(i).",
+            "idn": "Maka betapa dahsyatnya azab-Ku dan peringatan-Ku! "
+        },
+        {
+            "id": 4863,
+            "surah": 54,
+            "nomor": 17,
+            "ar": "وَلَقَدْ يَسَّرْنَا الْقُرْاٰنَ لِلذِّكْرِ فَهَلْ مِنْ مُّدَّكِرٍ ",
+            "tr": "wa laqad yassarnal-qur'āna liż-żikri fahal mim muddakir(in).",
+            "idn": "Dan sungguh, telah Kami mudahkan Al-Qur'an untuk peringatan, maka adakah orang yang mau mengambil pelajaran?"
+        },
+        {
+            "id": 4864,
+            "surah": 54,
+            "nomor": 18,
+            "ar": "كَذَّبَتْ عَادٌ فَكَيْفَ كَانَ عَذَابِيْ وَنُذُرِ ",
+            "tr": "każżabat ‘ādun fa kaifa kāna ‘ażābī wa nużur(i).",
+            "idn": "Kaum ‘Ad pun telah mendustakan. Maka betapa dahsyatnya azab-Ku dan peringatan-Ku! "
+        },
+        {
+            "id": 4865,
+            "surah": 54,
+            "nomor": 19,
+            "ar": "اِنَّآ اَرْسَلْنَا عَلَيْهِمْ رِيْحًا صَرْصَرًا فِيْ يَوْمِ نَحْسٍ مُّسْتَمِرٍّۙ  ",
+            "tr": "innā arsalnā ‘alaihim rīḥan ṣarṣaran fī yaumi naḥsim mustamirr(in).",
+            "idn": "Sesungguhnya Kami telah menghembuskan angin yang sangat kencang kepada mereka pada hari nahas yang terus menerus, "
+        },
+        {
+            "id": 4866,
+            "surah": 54,
+            "nomor": 20,
+            "ar": "تَنْزِعُ النَّاسَۙ كَاَنَّهُمْ اَعْجَازُ نَخْلٍ مُّنْقَعِرٍ ",
+            "tr": "tanzi‘un-nās(a), ka'annahum a‘jāzu nakhlim munqa‘ir(in).",
+            "idn": "yang membuat manusia bergelimpangan, mereka bagaikan pohon-pohon kurma yang tumbang dengan akar-akarnya. "
+        },
+        {
+            "id": 4867,
+            "surah": 54,
+            "nomor": 21,
+            "ar": "فَكَيْفَ كَانَ عَذَابِيْ وَنُذُرِ",
+            "tr": "fa kaifa kāna ‘ażābī wa nużur(i).",
+            "idn": "Maka betapa dahsyatnya azab-Ku dan peringatan-Ku! "
+        },
+        {
+            "id": 4868,
+            "surah": 54,
+            "nomor": 22,
+            "ar": "وَلَقَدْ يَسَّرْنَا الْقُرْاٰنَ لِلذِّكْرِ فَهَلْ مِنْ مُّدَّكِرٍ ࣖ ",
+            "tr": "wa laqad yassarnal-qur'āna liż-żikri fahal mim muddakir(in).",
+            "idn": "Dan sungguh, telah Kami mudahkan Al-Qur'an untuk peringatan, maka adakah orang yang mau mengambil pelajaran?"
+        },
+        {
+            "id": 4869,
+            "surah": 54,
+            "nomor": 23,
+            "ar": "كَذَّبَتْ ثَمُوْدُ بِالنُّذُرِ",
+            "tr": "każżabat ṡamūdu bin-nużur(i).",
+            "idn": "Kaum Samud pun telah mendustakan peringatan itu."
+        },
+        {
+            "id": 4870,
+            "surah": 54,
+            "nomor": 24,
+            "ar": "فَقَالُوْٓا اَبَشَرًا مِّنَّا وَاحِدًا نَّتَّبِعُهٗٓ  ۙاِنَّآ اِذًا لَّفِيْ ضَلٰلٍ وَّسُعُرٍ",
+            "tr": "fa qālū abasyaram minnā wāḥidan nattabi‘uh(ū), innā iżal lafī ḍalāliw wa su‘ur(in).",
+            "idn": "Maka mereka berkata, “Bagaimana kita akan mengikuti seorang manusia (biasa) di antara kita? Sungguh, kalau begitu kita benar-benar telah sesat dan gila. "
+        },
+        {
+            "id": 4871,
+            "surah": 54,
+            "nomor": 25,
+            "ar": "ءَاُلْقِيَ الذِّكْرُ عَلَيْهِ مِنْۢ بَيْنِنَا بَلْ هُوَ كَذَّابٌ اَشِرٌ ",
+            "tr": "a'ulqiyaż-żikru ‘alaihi mim baininā bal huwa każżābun asyir(un).",
+            "idn": "Apakah wahyu itu diturunkan kepadanya di antara kita? Pastilah dia (Saleh) seorang yang sangat pendusta (dan) sombong.” "
+        },
+        {
+            "id": 4872,
+            "surah": 54,
+            "nomor": 26,
+            "ar": "سَيَعْلَمُوْنَ غَدًا مَّنِ الْكَذَّابُ الْاَشِرُ ",
+            "tr": "saya‘lamūna gadam manil-każżābul-asyir(u).",
+            "idn": "Kelak mereka akan mengetahui siapa yang sebenarnya sangat pendusta (dan) sombong itu."
+        },
+        {
+            "id": 4873,
+            "surah": 54,
+            "nomor": 27,
+            "ar": "اِنَّا مُرْسِلُوا النَّاقَةِ فِتْنَةً لَّهُمْ فَارْتَقِبْهُمْ وَاصْطَبِرْۖ  ",
+            "tr": "innā mursilun-nāqati fitnatal lahum fartaqibhum waṣṭabir.",
+            "idn": "Sesungguhnya Kami akan mengirimkan unta betina sebagai cobaan bagi mereka, maka tunggulah mereka dan bersabarlah (Saleh)."
+        },
+        {
+            "id": 4874,
+            "surah": 54,
+            "nomor": 28,
+            "ar": "وَنَبِّئْهُمْ اَنَّ الْمَاۤءَ قِسْمَةٌ ۢ بَيْنَهُمْۚ  كُلُّ شِرْبٍ مُّحْتَضَرٌ ",
+            "tr": "wa nabbi'hum annal-mā'a qismatum bainahum, kullu syirbim muḥtaḍar(un).",
+            "idn": "Dan beritahukanlah kepada mereka bahwa air itu dibagi di antara mereka (dengan unta betina itu); setiap orang berhak mendapat giliran minum."
+        },
+        {
+            "id": 4875,
+            "surah": 54,
+            "nomor": 29,
+            "ar": "فَنَادَوْا صَاحِبَهُمْ فَتَعَاطٰى فَعَقَرَ ",
+            "tr": "fa nādau ṣāḥibahum fa ta‘āṭā fa ‘aqar(a).",
+            "idn": "Maka mereka memanggil kawannya, lalu dia menangkap (unta itu) dan memotongnya. "
+        },
+        {
+            "id": 4876,
+            "surah": 54,
+            "nomor": 30,
+            "ar": "فَكَيْفَ كَانَ عَذَابِيْ وَنُذُرِ ",
+            "tr": "fakaifa kāna ‘ażābī wa nużur(i).",
+            "idn": "Maka betapa dahsyatnya azab-Ku dan peringatan-Ku!"
+        },
+        {
+            "id": 4877,
+            "surah": 54,
+            "nomor": 31,
+            "ar": "اِنَّآ اَرْسَلْنَا عَلَيْهِمْ صَيْحَةً وَّاحِدَةً فَكَانُوْا كَهَشِيْمِ الْمُحْتَظِرِ",
+            "tr": "innā arsalnā ‘alaihim ṣaiḥataw wāḥidatan fa kānū kahasyīmil-muḥtaẓir(i).",
+            "idn": "Kami kirimkan atas mereka satu suara yang keras mengguntur, maka jadilah mereka seperti batang-batang kering yang lapuk. "
+        },
+        {
+            "id": 4878,
+            "surah": 54,
+            "nomor": 32,
+            "ar": "وَلَقَدْ يَسَّرْنَا الْقُرْاٰنَ لِلذِّكْرِ فَهَلْ مِنْ مُّدَّكِرٍ ",
+            "tr": "wa laqad yassarnal-qur'āna liż-żikri fahal mim muddakir(in).",
+            "idn": "Dan sungguh, telah Kami mudahkan Al-Qur'an untuk peringatan, maka adakah orang yang mau mengambil pelajaran?"
+        },
+        {
+            "id": 4879,
+            "surah": 54,
+            "nomor": 33,
+            "ar": "كَذَّبَتْ قَوْمُ لُوْطٍ ۢبِالنُّذُرِ ",
+            "tr": "każżabat qaumu lūṭim bin-nużur(i).",
+            "idn": "Kaum Lut pun telah mendustakan peringatan itu. "
+        },
+        {
+            "id": 4880,
+            "surah": 54,
+            "nomor": 34,
+            "ar": "اِنَّآ اَرْسَلْنَا عَلَيْهِمْ حَاصِبًا اِلَّآ اٰلَ لُوْطٍ ۗنَجَّيْنٰهُمْ بِسَحَرٍۙ",
+            "tr": "innā arsalnā ‘alaihim ḥāṣiban illā āla lūṭ(in), najjaināhum bisaḥar(in).",
+            "idn": "Sesungguhnya Kami kirimkan kepada mereka badai yang membawa batu-batu (yang menimpa mereka), kecuali keluarga Lut. Kami selamatkan mereka sebelum fajar menyingsing,"
+        },
+        {
+            "id": 4881,
+            "surah": 54,
+            "nomor": 35,
+            "ar": "نِّعْمَةً مِّنْ عِنْدِنَاۗ  كَذٰلِكَ نَجْزِيْ مَنْ شَكَرَ ",
+            "tr": "ni‘matam min ‘indinā, każālika najzī man syakar(a).",
+            "idn": "sebagai nikmat dari Kami. Demikianlah Kami memberi balasan kepada orang-orang yang bersyukur. "
+        },
+        {
+            "id": 4882,
+            "surah": 54,
+            "nomor": 36,
+            "ar": "وَلَقَدْ اَنْذَرَهُمْ بَطْشَتَنَا فَتَمَارَوْا بِالنُّذُرِ ",
+            "tr": "wa laqad anżarahum baṭsyatanā fa tamārau bin-nużur(i).",
+            "idn": "Dan sungguh, dia (Lut) telah memperingatkan mereka akan hukuman Kami, tetapi mereka mendustakan peringatan-Ku. "
+        },
+        {
+            "id": 4883,
+            "surah": 54,
+            "nomor": 37,
+            "ar": "وَلَقَدْ رَاوَدُوْهُ عَنْ ضَيْفِهٖ فَطَمَسْنَآ اَعْيُنَهُمْ فَذُوْقُوْا عَذَابِيْ وَنُذُرِ ",
+            "tr": "wa laqad rāwadūhu ‘an ḍaifihī fa ṭamasnā a‘yunahum fa żūqū ‘ażābī wa nużur(i).",
+            "idn": "Dan sungguh, mereka telah membujuknya (agar menyerahkan) tamunya (kepada mereka), lalu Kami butakan mata mereka, maka rasakanlah azab-Ku dan peringatan-Ku!"
+        },
+        {
+            "id": 4884,
+            "surah": 54,
+            "nomor": 38,
+            "ar": "وَلَقَدْ صَبَّحَهُمْ بُكْرَةً عَذَابٌ مُّسْتَقِرٌّۚ  ",
+            "tr": "wa laqad ṣabbaḥahum bukratan ‘ażābum mustaqirr(un).",
+            "idn": "Dan sungguh, pada esok harinya mereka benar-benar ditimpa azab yang tetap."
+        },
+        {
+            "id": 4885,
+            "surah": 54,
+            "nomor": 39,
+            "ar": "فَذُوْقُوْا عَذَابِيْ وَنُذُرِ ",
+            "tr": "fa żūqū ‘ażābī wa nużur(i).",
+            "idn": "Maka rasakanlah azab-Ku dan peringatan-Ku!"
+        },
+        {
+            "id": 4886,
+            "surah": 54,
+            "nomor": 40,
+            "ar": "وَلَقَدْ يَسَّرْنَا الْقُرْاٰنَ لِلذِّكْرِ فَهَلْ مِنْ مُّدَّكِرٍ ࣖ",
+            "tr": "wa laqad yassarnal-qur'āna liż-żikri fahal mim muddakir(in).",
+            "idn": "Dan sungguh, telah Kami mudahkan Al-Qur'an untuk peringatan, maka adakah orang yang mau mengambil pelajaran? "
+        },
+        {
+            "id": 4887,
+            "surah": 54,
+            "nomor": 41,
+            "ar": "وَلَقَدْ جَاۤءَ اٰلَ فِرْعَوْنَ النُّذُرُۚ  ",
+            "tr": "wa laqad jā'a āla fir‘aunan-nużur(u).",
+            "idn": "Dan sungguh, peringatan telah datang kepada keluarga Fir‘aun. "
+        },
+        {
+            "id": 4888,
+            "surah": 54,
+            "nomor": 42,
+            "ar": "كَذَّبُوْا بِاٰيٰتِنَا كُلِّهَا فَاَخَذْنٰهُمْ اَخْذَ عَزِيْزٍ مُّقْتَدِرٍ ",
+            "tr": "każżabū bi'āyātinā kullihā fa'akhażnāhum akhża ‘azīzim muqtadir(in).",
+            "idn": "Mereka mendustakan mukjizat-mukjizat Kami semuanya, maka Kami azab mereka dengan azab dari Yang Mahaperkasa, Mahakuasa."
+        },
+        {
+            "id": 4889,
+            "surah": 54,
+            "nomor": 43,
+            "ar": "اَكُفَّارُكُمْ خَيْرٌ مِّنْ اُولٰۤىِٕكُمْ اَمْ لَكُمْ بَرَاۤءَةٌ فِى الزُّبُرِۚ",
+            "tr": "akuffārukum khairum min ulā'ikum am lakum barā'atun fiz-zubur(i).",
+            "idn": "Apakah orang-orang kafir di lingkunganmu (kaum musyrikin) lebih baik dari mereka, ataukah kamu telah mempunyai jaminan kebebasan (dari azab) dalam kitab-kitab terdahulu? "
+        },
+        {
+            "id": 4890,
+            "surah": 54,
+            "nomor": 44,
+            "ar": "اَمْ يَقُوْلُوْنَ نَحْنُ جَمِيْعٌ مُّنْتَصِرٌ ",
+            "tr": "am yaqūlūna naḥnu jamī‘um muntaṣir(un).",
+            "idn": "Atau mereka mengatakan, “Kami ini golongan yang bersatu yang pasti menang.” "
+        },
+        {
+            "id": 4891,
+            "surah": 54,
+            "nomor": 45,
+            "ar": "سَيُهْزَمُ الْجَمْعُ وَيُوَلُّوْنَ الدُّبُرَ",
+            "tr": "sayuhzamul-jam‘u wa yuwallūnad-dubur(a).",
+            "idn": "Golongan itu pasti akan dikalahkan dan mereka akan mundur ke belakang. "
+        },
+        {
+            "id": 4892,
+            "surah": 54,
+            "nomor": 46,
+            "ar": "بَلِ السَّاعَةُ مَوْعِدُهُمْ وَالسَّاعَةُ اَدْهٰى وَاَمَرُّ ",
+            "tr": "balis-sā‘atu mau‘iduhum was-sā‘atu adhā wa amarr(u).",
+            "idn": "Bahkan hari Kiamat itulah hari yang dijanjikan kepada mereka dan hari Kiamat itu lebih dahsyat dan lebih pahit. "
+        },
+        {
+            "id": 4893,
+            "surah": 54,
+            "nomor": 47,
+            "ar": "اِنَّ الْمُجْرِمِيْنَ فِيْ ضَلٰلٍ وَّسُعُرٍۘ ",
+            "tr": "innal-mujrimīna fī ḍalāliw wa su‘ur(in).",
+            "idn": "Sungguh, orang-orang yang berdosa berada dalam kesesatan (di dunia) dan akan berada dalam neraka (di akhirat). "
+        },
+        {
+            "id": 4894,
+            "surah": 54,
+            "nomor": 48,
+            "ar": "يَوْمَ يُسْحَبُوْنَ فِى النَّارِ عَلٰى وُجُوْهِهِمْۗ ذُوْقُوْا مَسَّ سَقَرَ",
+            "tr": "yauma yusḥabūna fin-nāri ‘alā wujūhihim, żūqū massa saqar(a).",
+            "idn": "Pada hari mereka diseret ke neraka pada wajahnya. (Dikatakan kepada mereka), “Rasakanlah sentuhan api neraka.”"
+        },
+        {
+            "id": 4895,
+            "surah": 54,
+            "nomor": 49,
+            "ar": "اِنَّا كُلَّ شَيْءٍ خَلَقْنٰهُ بِقَدَرٍ ",
+            "tr": "innā kulla syai'in khalaqnāhu biqadar(in).",
+            "idn": "Sungguh, Kami menciptakan segala sesuatu menurut ukuran. "
+        },
+        {
+            "id": 4896,
+            "surah": 54,
+            "nomor": 50,
+            "ar": "وَمَآ اَمْرُنَآ اِلَّا وَاحِدَةٌ كَلَمْحٍ ۢبِالْبَصَرِ ",
+            "tr": "wa mā amrunā illā wāḥidatun kalamḥim bil-baṣar(i).",
+            "idn": "Dan perintah Kami hanyalah (dengan) satu perkataan seperti kejapan mata. "
+        },
+        {
+            "id": 4897,
+            "surah": 54,
+            "nomor": 51,
+            "ar": "وَلَقَدْ اَهْلَكْنَآ اَشْيَاعَكُمْ فَهَلْ مِنْ مُّدَّكِرٍ ",
+            "tr": "wa laqad ahlaknā asy-yā‘akum fahal mim muddakir(in).",
+            "idn": "Dan sungguh, telah Kami binasakan orang yang serupa dengan kamu (kekafirannya). Maka adakah orang yang mau mengambil pelajaran?"
+        },
+        {
+            "id": 4898,
+            "surah": 54,
+            "nomor": 52,
+            "ar": "وَكُلُّ شَيْءٍ فَعَلُوْهُ فِى الزُّبُرِ ",
+            "tr": "wa kullu syai'in fa‘alūhu fiz-zubur(i).",
+            "idn": "Dan segala sesuatu yang telah mereka perbuat tercatat dalam buku-buku catatan."
+        },
+        {
+            "id": 4899,
+            "surah": 54,
+            "nomor": 53,
+            "ar": "وَكُلُّ صَغِيْرٍ وَّكَبِيْرٍ مُّسْتَطَرٌ ",
+            "tr": "wa kullu ṣagīriw wa kabīrim mustaṭar(un).",
+            "idn": "Dan segala (sesuatu) yang kecil maupun yang besar (semuanya) tertulis. "
+        },
+        {
+            "id": 4900,
+            "surah": 54,
+            "nomor": 54,
+            "ar": "اِنَّ الْمُتَّقِيْنَ فِيْ جَنّٰتٍ وَّنَهَرٍۙ  ",
+            "tr": "innal-muttaqīna fī jannātiw wa nahar(in).",
+            "idn": "Sungguh, orang-orang yang bertakwa berada di taman-taman dan sungai-sungai,"
+        },
+        {
+            "id": 4901,
+            "surah": 54,
+            "nomor": 55,
+            "ar": "فِيْ مَقْعَدِ صِدْقٍ عِنْدَ مَلِيْكٍ مُّقْتَدِرٍ ࣖ ",
+            "tr": "fī maq‘adi ṣidqin ‘inda malīkim muqtadir(in).",
+            "idn": "di tempat yang disenangi di sisi Tuhan Yang Mahakuasa."
+        }
+    ],
+    "surat_selanjutnya": {
+        "id": 55,
+        "nomor": 55,
+        "nama": "الرحمن",
+        "nama_latin": "Ar-Rahman",
+        "jumlah_ayat": 78,
+        "tempat_turun": "madinah",
+        "arti": "Maha Pengasih",
+        "deskripsi": "Surat Ar Rahmaan terdiri atas 78 ayat, termasuk golongan surat- surat Makkiyyah, diturunkan sesudah surat Ar Ra'du. Dinamai <i>Ar Rahmaan</i> (Yang Maha Pemurah), diambil dari perkataan <i>Ar Rahmaan</i> yang terdapat pada ayat pertama surat ini. Ar Rahmaan adalah salah satu dari nama-nama Allah. Sebagian besar dari surat ini menerangkan kepemurahan Allah s.w.t. kepada hamba-hamba-Nya, yaitu dengan memberikan nikmat-nikmat yang tidak terhingga baik di dunia maupun di akhirat nanti.",
+        "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/055.mp3"
+    },
+    "surat_sebelumnya": {
+        "id": 53,
+        "nomor": 53,
+        "nama": "النجم",
+        "nama_latin": "An-Najm",
+        "jumlah_ayat": 62,
+        "tempat_turun": "mekah",
+        "arti": "Bintang",
+        "deskripsi": "Surat An Najm terdiri atas 62 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Al Ikhlash. Nama <i>An Najm</i> (bintang), diambil dari perkataan  <i>An Najm</i> yang terdapat pada ayat pertama surat ini. Allah bersumpah dengan <i>An Najm</i> (bintang) adalah karena bintang-bintang yang timbul dan tenggelam, amat besar manfaatnya bagi manusia, sebagai pedoman bagi manusia dalam melakukan pelayaran di lautan, dalam perjalanan di padang pasir, untuk menentukan peredaran musim dan sebagainya.",
+        "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/053.mp3"
+    }
+}

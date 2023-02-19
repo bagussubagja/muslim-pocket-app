@@ -1,0 +1,67 @@
+{
+    "nomor": 106,
+    "nama": "قريش",
+    "nama_latin": "Quraisy",
+    "jumlah_ayat": 4,
+    "tempat_turun": "mekah",
+    "arti": "Quraisy",
+    "deskripsi": "Surat ini terdiri atas 4 ayat, termasuk golongan surat-surat Makkiyyah dan diturunkan sesudah surat At Tiin. Nama <i>Quraisy</i> diambil dari kata <i>Quraisy</i> yang terdapat pada ayat pertama, artinya suku Quraisy. Suku Quraisy adalah suku yang mendapat  kehormatan untuk memelihara Ka'bah.",
+    "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/106.mp3",
+    "status": true,
+    "ayat": [
+        {
+            "id": 6194,
+            "surah": 106,
+            "nomor": 1,
+            "ar": "لِاِيْلٰفِ قُرَيْشٍۙ",
+            "tr": "li'īlāfi quraisy(in).",
+            "idn": "Karena kebiasaan orang-orang Quraisy,"
+        },
+        {
+            "id": 6195,
+            "surah": 106,
+            "nomor": 2,
+            "ar": "اٖلٰفِهِمْ رِحْلَةَ الشِّتَاۤءِ وَالصَّيْفِۚ",
+            "tr": "´lāfihim riḥlatasy-syitā'i waṣ-ṣaif(i).",
+            "idn": "(yaitu) kebiasaan mereka bepergian pada musim dingin dan musim panas."
+        },
+        {
+            "id": 6196,
+            "surah": 106,
+            "nomor": 3,
+            "ar": "فَلْيَعْبُدُوْا رَبَّ هٰذَا الْبَيْتِۙ",
+            "tr": "falya‘budū rabba hāżal-bait(i).",
+            "idn": "Maka hendaklah mereka menyembah Tuhan (pemilik) rumah ini (Ka‘bah),"
+        },
+        {
+            "id": 6197,
+            "surah": 106,
+            "nomor": 4,
+            "ar": "الَّذِيْٓ اَطْعَمَهُمْ مِّنْ جُوْعٍ ەۙ وَّاٰمَنَهُمْ مِّنْ خَوْفٍ ࣖ",
+            "tr": "allażī aṭ‘amahum min jū‘(in), wa āmanahum min khauf(in).",
+            "idn": "yang telah memberi makanan kepada mereka untuk menghilangkan lapar dan mengamankan mereka dari rasa ketakutan."
+        }
+    ],
+    "surat_selanjutnya": {
+        "id": 107,
+        "nomor": 107,
+        "nama": "الماعون",
+        "nama_latin": "Al-Ma'un",
+        "jumlah_ayat": 7,
+        "tempat_turun": "mekah",
+        "arti": "Barang Yang Berguna",
+        "deskripsi": "Surat ini terdiri atas 7 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat At Taakatsur. Nama <i>Al Maa'uun</i> diambil dari kata <i>Al Maa'uun</i> yang terdapat pada ayat 7, artinya barang-barang yang berguna.",
+        "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/107.mp3"
+    },
+    "surat_sebelumnya": {
+        "id": 105,
+        "nomor": 105,
+        "nama": "الفيل",
+        "nama_latin": "Al-Fil",
+        "jumlah_ayat": 5,
+        "tempat_turun": "mekah",
+        "arti": "Gajah",
+        "deskripsi": "Surat ini terdiri atas 5 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Al Kaafirun. Nama <i>Al Fiil</i> diambil dari kata <i>Al Fiil</i> yang terdapat pada ayat pertama surat ini, artinya <i>gajah</i>. Surat Al Fiil mengemukakan cerita pasukan bergajah dari Yaman yang dipimpin oleh Abrahah yang ingin meruntuhkan Ka'bah di Mekah. Peristiwa ini terjadi pada tahun Nabi Muhammad s.a.w. dilahirkan.",
+        "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/105.mp3"
+    }
+}

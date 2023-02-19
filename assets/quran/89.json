@@ -1,0 +1,275 @@
+{
+    "nomor": 89,
+    "nama": "الفجر",
+    "nama_latin": "Al-Fajr",
+    "jumlah_ayat": 30,
+    "tempat_turun": "mekah",
+    "arti": "Fajar",
+    "deskripsi": "Surat ini terdiri atas 30 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Al Lail. Nama <i>Al Fajr</i> diambil dari kata <i>Al Fajr</i> yang terdapat pada ayat pertama surat ini yang artinya <i>fajar</i>.",
+    "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/089.mp3",
+    "status": true,
+    "ayat": [
+        {
+            "id": 5994,
+            "surah": 89,
+            "nomor": 1,
+            "ar": "وَالْفَجْرِۙ",
+            "tr": "wal-fajr(i).",
+            "idn": "Demi fajar,"
+        },
+        {
+            "id": 5995,
+            "surah": 89,
+            "nomor": 2,
+            "ar": "وَلَيَالٍ عَشْرٍۙ",
+            "tr": "wa layālin ‘asyr(in).",
+            "idn": "demi malam yang sepuluh,"
+        },
+        {
+            "id": 5996,
+            "surah": 89,
+            "nomor": 3,
+            "ar": "وَّالشَّفْعِ وَالْوَتْرِۙ",
+            "tr": "wasy-syaf‘i wal-watr(i).",
+            "idn": "demi yang genap dan yang ganjil,"
+        },
+        {
+            "id": 5997,
+            "surah": 89,
+            "nomor": 4,
+            "ar": "وَالَّيْلِ اِذَا يَسْرِۚ",
+            "tr": "wal-laili iżā yasr(i).",
+            "idn": "demi malam apabila berlalu."
+        },
+        {
+            "id": 5998,
+            "surah": 89,
+            "nomor": 5,
+            "ar": "هَلْ فِيْ ذٰلِكَ قَسَمٌ لِّذِيْ حِجْرٍۗ",
+            "tr": "hal fī żālika qasamul liżī ḥijr(in).",
+            "idn": "Adakah pada yang demikian itu terdapat sumpah (yang dapat diterima) bagi orang-orang yang berakal?"
+        },
+        {
+            "id": 5999,
+            "surah": 89,
+            "nomor": 6,
+            "ar": "اَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِعَادٍۖ",
+            "tr": "alam tara kaifa fa‘ala rabbuka bi‘ād(in).",
+            "idn": "Tidakkah engkau (Muhammad) memperhatikan bagaimana Tuhanmu berbuat terhadap (kaum) ‘Ad?"
+        },
+        {
+            "id": 6000,
+            "surah": 89,
+            "nomor": 7,
+            "ar": "اِرَمَ ذَاتِ الْعِمَادِۖ",
+            "tr": "irama żātil-‘imād(i).",
+            "idn": "(yaitu) penduduk Iram (ibukota kaum ‘Ad) yang mempunyai bangunan-bangunan yang tinggi,"
+        },
+        {
+            "id": 6001,
+            "surah": 89,
+            "nomor": 8,
+            "ar": "الَّتِيْ لَمْ يُخْلَقْ مِثْلُهَا فِى الْبِلَادِۖ",
+            "tr": "allatī lam yukhlaq miṡluhā fil-bilād(i).",
+            "idn": "yang belum pernah dibangun (suatu kota) seperti itu di negeri-negeri lain,"
+        },
+        {
+            "id": 6002,
+            "surah": 89,
+            "nomor": 9,
+            "ar": "وَثَمُوْدَ الَّذِيْنَ جَابُوا الصَّخْرَ بِالْوَادِۖ",
+            "tr": "wa ṡamūdal-lażīna jābuṣ-ṣakhra bil-wād(i).",
+            "idn": "dan (terhadap) kaum samud yang memotong batu-batu besar di lembah,"
+        },
+        {
+            "id": 6003,
+            "surah": 89,
+            "nomor": 10,
+            "ar": "وَفِرْعَوْنَ ذِى الْاَوْتَادِۖ",
+            "tr": "wa fir‘auna żil-autād(i).",
+            "idn": "dan (terhadap) Fir‘aun yang mempunyai pasak-pasak (bangunan yang besar),"
+        },
+        {
+            "id": 6004,
+            "surah": 89,
+            "nomor": 11,
+            "ar": "الَّذِيْنَ طَغَوْا فِى الْبِلَادِۖ",
+            "tr": "allażīna ṭagau fil-bilād(i).",
+            "idn": "yang berbuat sewenang-wenang dalam negeri,"
+        },
+        {
+            "id": 6005,
+            "surah": 89,
+            "nomor": 12,
+            "ar": "فَاَكْثَرُوْا فِيْهَا الْفَسَادَۖ",
+            "tr": "fa akṡarū fīhal-fasād(a).",
+            "idn": "lalu mereka banyak berbuat kerusakan dalam negeri itu,"
+        },
+        {
+            "id": 6006,
+            "surah": 89,
+            "nomor": 13,
+            "ar": "فَصَبَّ عَلَيْهِمْ رَبُّكَ سَوْطَ عَذَابٍۖ",
+            "tr": "fa ṣabba ‘alaihim rabbuka sauṭa ‘ażāb(in).",
+            "idn": "karena itu Tuhanmu menimpakan cemeti azab kepada mereka,"
+        },
+        {
+            "id": 6007,
+            "surah": 89,
+            "nomor": 14,
+            "ar": "اِنَّ رَبَّكَ لَبِالْمِرْصَادِۗ",
+            "tr": "inna rabbaka labil-mirṣād(i).",
+            "idn": "sungguh, Tuhanmu benar-benar mengawasi."
+        },
+        {
+            "id": 6008,
+            "surah": 89,
+            "nomor": 15,
+            "ar": "فَاَمَّا الْاِنْسَانُ اِذَا مَا ابْتَلٰىهُ رَبُّهٗ فَاَكْرَمَهٗ وَنَعَّمَهٗۙ فَيَقُوْلُ رَبِّيْٓ اَكْرَمَنِۗ",
+            "tr": "fa ammal-insānu iżā mabtalāhu rabbuhū fa akramahū wa na‘‘amah(ū), fa yaqūlu rabbī akraman(i).",
+            "idn": "Maka adapun manusia, apabila Tuhan mengujinya lalu memuliakannya dan memberinya kesenangan, maka dia berkata, “Tuhanku telah memuliakanku.”"
+        },
+        {
+            "id": 6009,
+            "surah": 89,
+            "nomor": 16,
+            "ar": "وَاَمَّآ اِذَا مَا ابْتَلٰىهُ فَقَدَرَ عَلَيْهِ رِزْقَهٗ ەۙ فَيَقُوْلُ رَبِّيْٓ اَهَانَنِۚ",
+            "tr": "wa ammā iżā mabtalāhu fa qadara ‘alaihi rizqah(ū), fa yaqūlu rabbī ahānan(i).",
+            "idn": "Namun apabila Tuhan mengujinya lalu membatasi rezekinya, maka dia berkata, “Tuhanku telah menghinaku.”"
+        },
+        {
+            "id": 6010,
+            "surah": 89,
+            "nomor": 17,
+            "ar": "كَلَّا بَلْ لَّا تُكْرِمُوْنَ الْيَتِيْمَۙ",
+            "tr": "kallā bal lā tukrimūnal-yatīm(a).",
+            "idn": "Sekali-kali tidak! Bahkan kamu tidak memuliakan anak yatim,"
+        },
+        {
+            "id": 6011,
+            "surah": 89,
+            "nomor": 18,
+            "ar": "وَلَا تَحٰۤضُّوْنَ عَلٰى طَعَامِ الْمِسْكِيْنِۙ",
+            "tr": "wa lā taḥāḍḍūna ‘alā ṭa‘āmil-miskīn(i).",
+            "idn": "dan kamu tidak saling mengajak memberi makan orang miskin,"
+        },
+        {
+            "id": 6012,
+            "surah": 89,
+            "nomor": 19,
+            "ar": "وَتَأْكُلُوْنَ التُّرَاثَ اَكْلًا لَّمًّاۙ",
+            "tr": "wa ta'kulūnat-turāṡa aklal lammā(n).",
+            "idn": "sedangkan kamu memakan harta warisan dengan cara mencampurbaurkan (yang halal dan yang haram),"
+        },
+        {
+            "id": 6013,
+            "surah": 89,
+            "nomor": 20,
+            "ar": "وَّتُحِبُّوْنَ الْمَالَ حُبًّا جَمًّاۗ",
+            "tr": "wa tuḥibbūnal-māla ḥubban jammā(n).",
+            "idn": "dan kamu mencintai harta dengan kecintaan yang berlebihan."
+        },
+        {
+            "id": 6014,
+            "surah": 89,
+            "nomor": 21,
+            "ar": "كَلَّآ اِذَا دُكَّتِ الْاَرْضُ دَكًّا دَكًّاۙ",
+            "tr": "kallā iżā dukkatil-arḍu dakkan dakkā(n).",
+            "idn": "Sekali-kali tidak! Apabila bumi diguncangkan berturut-turut (berbenturan),"
+        },
+        {
+            "id": 6015,
+            "surah": 89,
+            "nomor": 22,
+            "ar": "وَّجَاۤءَ رَبُّكَ وَالْمَلَكُ صَفًّا صَفًّاۚ",
+            "tr": "wa jā'a rabbuka wal-malaku ṣaffan ṣaffā(n).",
+            "idn": "dan datanglah Tuhanmu; dan malaikat berbaris-baris,"
+        },
+        {
+            "id": 6016,
+            "surah": 89,
+            "nomor": 23,
+            "ar": "وَجِايْۤءَ يَوْمَىِٕذٍۢ بِجَهَنَّمَۙ يَوْمَىِٕذٍ يَّتَذَكَّرُ الْاِنْسَانُ وَاَنّٰى لَهُ الذِّكْرٰىۗ",
+            "tr": "wa jī'a yauma'iżim bijahannam(a), yauma'iżiy yatażakkarul-insānu wa annā lahuż-żikrā.",
+            "idn": "dan pada hari itu diperlihatkan neraka Jahanam; pada hari itu sadarlah manusia, tetapi tidak berguna lagi baginya kesadaran itu."
+        },
+        {
+            "id": 6017,
+            "surah": 89,
+            "nomor": 24,
+            "ar": "يَقُوْلُ يٰلَيْتَنِيْ قَدَّمْتُ لِحَيَاتِيْۚ",
+            "tr": "yaqūlu yā laitanī qaddamtu liḥayātī.",
+            "idn": "Dia berkata, “Alangkah baiknya sekiranya dahulu aku mengerjakan (kebajikan) untuk hidupku ini.”"
+        },
+        {
+            "id": 6018,
+            "surah": 89,
+            "nomor": 25,
+            "ar": "فَيَوْمَىِٕذٍ لَّا يُعَذِّبُ عَذَابَهٗٓ اَحَدٌ ۙ",
+            "tr": "fa yauma'iżil lā yu‘ażżibu ‘ażābahū aḥad(un).",
+            "idn": "Maka pada hari itu tidak ada seorang pun yang mengazab seperti azab-Nya (yang adil),"
+        },
+        {
+            "id": 6019,
+            "surah": 89,
+            "nomor": 26,
+            "ar": "وَّلَا يُوْثِقُ وَثَاقَهٗٓ اَحَدٌ ۗ",
+            "tr": "wa lā yūṡiqu waṡāqahū aḥad(un).",
+            "idn": "dan tidak ada seorang pun yang mengikat seperti ikatan-Nya."
+        },
+        {
+            "id": 6020,
+            "surah": 89,
+            "nomor": 27,
+            "ar": "يٰٓاَيَّتُهَا النَّفْسُ الْمُطْمَىِٕنَّةُۙ",
+            "tr": "yā ayyatuhan-nafsul-muṭma'innah(tu).",
+            "idn": "Wahai jiwa yang tenang!"
+        },
+        {
+            "id": 6021,
+            "surah": 89,
+            "nomor": 28,
+            "ar": "ارْجِعِيْٓ اِلٰى رَبِّكِ رَاضِيَةً مَّرْضِيَّةً ۚ",
+            "tr": "irji‘ī ilā rabbiki rāḍiyatam marḍiyyah(tan).",
+            "idn": "Kembalilah kepada Tuhanmu dengan hati yang rida dan diridai-Nya."
+        },
+        {
+            "id": 6022,
+            "surah": 89,
+            "nomor": 29,
+            "ar": "فَادْخُلِيْ فِيْ عِبٰدِيْۙ",
+            "tr": "fadkhuli fī ‘ibādī.",
+            "idn": "Maka masuklah ke dalam golongan hamba-hamba-Ku,"
+        },
+        {
+            "id": 6023,
+            "surah": 89,
+            "nomor": 30,
+            "ar": "وَادْخُلِيْ جَنَّتِيْ ࣖࣖ",
+            "tr": "wadkhulī jannatī.",
+            "idn": "dan masuklah ke dalam surga-Ku."
+        }
+    ],
+    "surat_selanjutnya": {
+        "id": 90,
+        "nomor": 90,
+        "nama": "البلد",
+        "nama_latin": "Al-Balad",
+        "jumlah_ayat": 20,
+        "tempat_turun": "mekah",
+        "arti": "Negeri",
+        "deskripsi": "Surat Al Balad terdiri atas 20 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Qaaf. Dinamai <i>Al Balad</i>, diambil dari perkataan <i>Al Balad</i> yang terdapat  pada ayat pertama surat ini. Yang dimaksud dengan kota di sini ialah kota Mekah.",
+        "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/090.mp3"
+    },
+    "surat_sebelumnya": {
+        "id": 88,
+        "nomor": 88,
+        "nama": "الغاشية",
+        "nama_latin": "Al-Gasyiyah",
+        "jumlah_ayat": 26,
+        "tempat_turun": "mekah",
+        "arti": "Hari Kiamat",
+        "deskripsi": "Surat ini terdiri atas 26 ayat, termasuk surat-surat Makkiyah, diturunkan sesudah surat Adz Dzaariat. Nama <i>Ghaasyiyah</i> diambil dari kata <i>Al Ghaasyiyah</i> yang terdapat pada ayat pertama surat ini yang  artinya peristiwa yang dahsyat, tapi yang dimaksud adalah hari kiamat. Surat ini adalah surat yang kerap kali dibaca Nabi pada rakaat kedua  pada shalat hari-hari Raya dan shalat Jum'at",
+        "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/088.mp3"
+    }
+}

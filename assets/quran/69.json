@@ -1,0 +1,451 @@
+{
+    "nomor": 69,
+    "nama": "الحاۤقّة",
+    "nama_latin": "Al-Haqqah",
+    "jumlah_ayat": 52,
+    "tempat_turun": "mekah",
+    "arti": "Hari Kiamat",
+    "deskripsi": "Surat ini terdiri atas 52 ayat,termasuk golongan surat-surat Makkiyah,diturunkan sesudah surat Al Mulk. <br> Nama <i>Al Haaqqah</i> diambil dari kata <i>Al Haaqqah</i> yang terdapat pada ayat pertama surat ini yang artinya <i>hari kiamat</i>",
+    "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/069.mp3",
+    "status": true,
+    "ayat": [
+        {
+            "id": 5324,
+            "surah": 69,
+            "nomor": 1,
+            "ar": "اَلْحَاۤقَّةُۙ",
+            "tr": "al-ḥāqqah(tu).",
+            "idn": "Hari Kiamat,"
+        },
+        {
+            "id": 5325,
+            "surah": 69,
+            "nomor": 2,
+            "ar": "مَا الْحَاۤقَّةُ ۚ ",
+            "tr": "mal-ḥāqqah(tu).",
+            "idn": "apakah hari Kiamat itu?"
+        },
+        {
+            "id": 5326,
+            "surah": 69,
+            "nomor": 3,
+            "ar": "وَمَآ اَدْرٰىكَ مَا الْحَاۤقَّةُ ۗ ",
+            "tr": "wa mā adrāka mal-ḥāqqah(tu).",
+            "idn": "Dan tahukah kamu apakah hari Kiamat itu?"
+        },
+        {
+            "id": 5327,
+            "surah": 69,
+            "nomor": 4,
+            "ar": "كَذَّبَتْ ثَمُوْدُ وَعَادٌ ۢبِالْقَارِعَةِ ",
+            "tr": "każżabat ṡamūdu wa ‘ādum bil-qāri‘ah(ti).",
+            "idn": "Kaum Samud, dan ‘Ad telah mendustakan hari Kiamat."
+        },
+        {
+            "id": 5328,
+            "surah": 69,
+            "nomor": 5,
+            "ar": "فَاَمَّا ثَمُوْدُ فَاُهْلِكُوْا بِالطَّاغِيَةِ ",
+            "tr": "fa'ammā ṡamūdu fa uhlikū biṭ-ṭāgiyah(ti).",
+            "idn": "Maka adapun kaum Samud, mereka telah dibinasakan dengan suara yang sangat keras,"
+        },
+        {
+            "id": 5329,
+            "surah": 69,
+            "nomor": 6,
+            "ar": "وَاَمَّا عَادٌ فَاُهْلِكُوْا بِرِيْحٍ صَرْصَرٍ عَاتِيَةٍۙ",
+            "tr": "wa ammā ‘ādun fa'uhlikū birīḥin ṣarṣarin ‘ātiyah(tin).",
+            "idn": "sedangkan kaum ‘Ad, mereka telah dibinasakan dengan angin topan yang sangat dingin,"
+        },
+        {
+            "id": 5330,
+            "surah": 69,
+            "nomor": 7,
+            "ar": "سَخَّرَهَا عَلَيْهِمْ سَبْعَ لَيَالٍ وَّثَمٰنِيَةَ اَيَّامٍۙ حُسُوْمًا فَتَرَى الْقَوْمَ فِيْهَا صَرْعٰىۙ  كَاَنَّهُمْ اَعْجَازُ نَخْلٍ خَاوِيَةٍۚ",
+            "tr": "sakhkharahā ‘alaihim sab‘a layāliw wa ṡamāniyata ayyām(in), ḥusūman fataral-qauma fīhā ṣar‘ā, ka'annahum a‘jāzu nakhlin khāwiyah(tin).",
+            "idn": "Allah menimpakan angin itu kepada mereka selama tujuh malam delapan hari terus-menerus; maka kamu melihat kaum ‘Ad pada waktu itu mati bergelimpangan seperti batang-batang pohon kurma yang telah kosong (lapuk)."
+        },
+        {
+            "id": 5331,
+            "surah": 69,
+            "nomor": 8,
+            "ar": "فَهَلْ تَرٰى لَهُمْ مِّنْۢ بَاقِيَةٍ ",
+            "tr": "fahal tarā lahum mim bāqiyah(tin).",
+            "idn": "Maka adakah kamu melihat seorang pun yang masih tersisa di antara mereka?"
+        },
+        {
+            "id": 5332,
+            "surah": 69,
+            "nomor": 9,
+            "ar": "وَجَاۤءَ فِرْعَوْنُ وَمَنْ قَبْلَهٗ وَالْمُؤْتَفِكٰتُ بِالْخَاطِئَةِۚ",
+            "tr": "wa jā'a fir‘aunu wa man qablahū wal-mu'tafikātu bil-khāṭi'ah(ti).",
+            "idn": "Kemudian datang Fir‘aun dan orang-orang yang sebelumnya dan (penduduk) negeri-negeri yang dijungkirbalikkan karena kesalahan yang besar."
+        },
+        {
+            "id": 5333,
+            "surah": 69,
+            "nomor": 10,
+            "ar": "فَعَصَوْا رَسُوْلَ رَبِّهِمْ فَاَخَذَهُمْ اَخْذَةً رَّابِيَةً ",
+            "tr": "fa ‘aṣau rasūla rabbihim fa akhażahum akhżatar rābiyah(tan).",
+            "idn": "Maka mereka mendurhakai utusan Tuhannya, Allah menyiksa mereka dengan siksaan yang sangat keras. "
+        },
+        {
+            "id": 5334,
+            "surah": 69,
+            "nomor": 11,
+            "ar": "اِنَّا لَمَّا طَغَا الْمَاۤءُ حَمَلْنٰكُمْ فِى الْجَارِيَةِۙ",
+            "tr": "innā lammā ṭagal-mā'u ḥamalnākum fil-jāriyah(ti).",
+            "idn": "Sesungguhnya ketika air naik (sampai ke gunung), Kami membawa (nenek moyang) kamu ke dalam kapal, "
+        },
+        {
+            "id": 5335,
+            "surah": 69,
+            "nomor": 12,
+            "ar": "لِنَجْعَلَهَا لَكُمْ تَذْكِرَةً وَّتَعِيَهَآ اُذُنٌ وَّاعِيَةٌ ",
+            "tr": "linaj‘alahā lakum tażkirataw wa ta‘iyahā użunuw wā‘iyah(tun).",
+            "idn": "agar Kami jadikan (peristiwa itu) sebagai peringatan bagi kamu dan agar diperhatikan oleh telinga yang mau mendengar. "
+        },
+        {
+            "id": 5336,
+            "surah": 69,
+            "nomor": 13,
+            "ar": "فَاِذَا نُفِخَ فِى الصُّوْرِ نَفْخَةٌ وَّاحِدَةٌ ۙ",
+            "tr": "fa iżā nufikha fiṣ-ṣūri nafkhatuw wāḥidah(tun).",
+            "idn": "Maka apabila sangkakala ditiup sekali tiup,"
+        },
+        {
+            "id": 5337,
+            "surah": 69,
+            "nomor": 14,
+            "ar": "وَّحُمِلَتِ الْاَرْضُ وَالْجِبَالُ فَدُكَّتَا دَكَّةً وَّاحِدَةًۙ",
+            "tr": "wa ḥumilatil-arḍu wal-jibālu fa dukkatā dakkataw wāḥidah(tan).",
+            "idn": "dan diangkatlah bumi dan gunung-gunung, lalu dibenturkan keduanya sekali benturan."
+        },
+        {
+            "id": 5338,
+            "surah": 69,
+            "nomor": 15,
+            "ar": "فَيَوْمَىِٕذٍ وَّقَعَتِ الْوَاقِعَةُۙ",
+            "tr": "fayauma'iżiw waqa‘atil-wāqi‘ah(tu).",
+            "idn": "Maka pada hari itu terjadilah hari Kiamat, "
+        },
+        {
+            "id": 5339,
+            "surah": 69,
+            "nomor": 16,
+            "ar": "وَانْشَقَّتِ السَّمَاۤءُ فَهِيَ يَوْمَىِٕذٍ وَّاهِيَةٌۙ",
+            "tr": "wansyaqqatis-samā'u fahiya yauma'iżiw wāhiyah(tun).",
+            "idn": "dan terbelahlah langit, karena pada hari itu langit menjadi rapuh."
+        },
+        {
+            "id": 5340,
+            "surah": 69,
+            "nomor": 17,
+            "ar": "وَّالْمَلَكُ عَلٰٓى اَرْجَاۤىِٕهَاۗ وَيَحْمِلُ عَرْشَ رَبِّكَ فَوْقَهُمْ يَوْمَىِٕذٍ ثَمٰنِيَةٌ  ۗ",
+            "tr": "wal-malaku ‘alā arjā'ihā, wa yaḥmilu ‘arsya rabbika fauqahum yauma'iżin ṡamāniyah(tun).",
+            "idn": "Dan para malaikat berada di berbagai penjuru langit. Pada hari itu delapan malaikat menjunjung ‘Arsy (singgasana) Tuhanmu di atas (kepala) mereka. "
+        },
+        {
+            "id": 5341,
+            "surah": 69,
+            "nomor": 18,
+            "ar": "يَوْمَىِٕذٍ تُعْرَضُوْنَ لَا تَخْفٰى مِنْكُمْ خَافِيَةٌ ",
+            "tr": "yauma'iżin tu‘raḍūna lā takhfā minkum khāfiyah(tun).",
+            "idn": "Pada hari itu kamu dihadapkan (kepada Tuhanmu), tidak ada sesuatu pun dari kamu yang tersembunyi (bagi Allah). "
+        },
+        {
+            "id": 5342,
+            "surah": 69,
+            "nomor": 19,
+            "ar": "فَاَمَّا مَنْ اُوْتِيَ كِتٰبَهٗ بِيَمِيْنِهٖ فَيَقُوْلُ هَاۤؤُمُ اقْرَءُوْا كِتٰبِيَهْۚ ",
+            "tr": "fa ammā man ūtiya kitābahū biyamīnihī fa yaqūlu hā'umuqra'ū kitābiyah.",
+            "idn": "Adapun orang yang kitabnya  diberikan di tangan kanannya, maka dia berkata, “Ambillah, bacalah kitabku (ini).” "
+        },
+        {
+            "id": 5343,
+            "surah": 69,
+            "nomor": 20,
+            "ar": "اِنِّيْ ظَنَنْتُ اَنِّيْ مُلٰقٍ حِسَابِيَهْۚ",
+            "tr": "innī ẓanantu annī mulāqin ḥisābiyah.",
+            "idn": "Sesungguhnya aku yakin, bahwa (suatu saat) aku akan menerima perhitungan terhadap diriku. "
+        },
+        {
+            "id": 5344,
+            "surah": 69,
+            "nomor": 21,
+            "ar": "فَهُوَ فِيْ عِيْشَةٍ رَّاضِيَةٍۚ",
+            "tr": "fa huwa fī ‘īsyatir rāḍiyah(tin).",
+            "idn": "Maka orang itu berada dalam kehidupan yang diridai,"
+        },
+        {
+            "id": 5345,
+            "surah": 69,
+            "nomor": 22,
+            "ar": "فِيْ جَنَّةٍ عَالِيَةٍۙ",
+            "tr": "fī jannatin ‘āliyah(tin).",
+            "idn": "dalam surga yang tinggi, "
+        },
+        {
+            "id": 5346,
+            "surah": 69,
+            "nomor": 23,
+            "ar": "قُطُوْفُهَا دَانِيَةٌ ",
+            "tr": "quṭūfuhā dāniyah(tun).",
+            "idn": "buah-buahannya dekat,"
+        },
+        {
+            "id": 5347,
+            "surah": 69,
+            "nomor": 24,
+            "ar": "كُلُوْا وَاشْرَبُوْا هَنِيْۤـًٔا ۢبِمَآ اَسْلَفْتُمْ فِى الْاَيَّامِ الْخَالِيَةِ ",
+            "tr": "kulū wasyrabū hanī'am bimā aslaftum fil-ayyāmil-khāliyah(ti).",
+            "idn": "(kepada mereka dikatakan), “Makan dan minumlah dengan nikmat karena amal yang telah kamu kerjakan pada hari-hari yang telah lalu.” "
+        },
+        {
+            "id": 5348,
+            "surah": 69,
+            "nomor": 25,
+            "ar": "وَاَمَّا مَنْ اُوْتِيَ كِتٰبَهٗ بِشِمَالِهٖ ەۙ فَيَقُوْلُ يٰلَيْتَنِيْ لَمْ اُوْتَ كِتٰبِيَهْۚ",
+            "tr": "wa ammā man ūtiya kitābahū bisyimālih(ī), fa yaqūlu yā laitanī lam ūta kitābiyah.",
+            "idn": "Dan adapun orang yang kitabnya diberikan di tangan kirinya, maka dia berkata, “Alangkah baiknya jika kitabku (ini) tidak diberikan kepadaku."
+        },
+        {
+            "id": 5349,
+            "surah": 69,
+            "nomor": 26,
+            "ar": "وَلَمْ اَدْرِ مَا حِسَابِيَهْۚ",
+            "tr": "wa lam adri mā ḥisābiyah.",
+            "idn": "Sehingga aku tidak mengetahui bagaimana perhitunganku. "
+        },
+        {
+            "id": 5350,
+            "surah": 69,
+            "nomor": 27,
+            "ar": "يٰلَيْتَهَا كَانَتِ الْقَاضِيَةَۚ",
+            "tr": "yā laitahā kānatil-qāḍiyah(ta).",
+            "idn": "Wahai, kiranya (kematian) itulah yang menyudahi segala sesuatu. "
+        },
+        {
+            "id": 5351,
+            "surah": 69,
+            "nomor": 28,
+            "ar": "مَآ اَغْنٰى عَنِّيْ مَالِيَهْۚ ",
+            "tr": "mā agnā ‘annī māliyah.",
+            "idn": "Hartaku sama sekali tidak berguna bagiku. "
+        },
+        {
+            "id": 5352,
+            "surah": 69,
+            "nomor": 29,
+            "ar": "هَلَكَ عَنِّيْ سُلْطٰنِيَهْۚ",
+            "tr": "halaka ‘annī sulṭāniyah.",
+            "idn": "Kekuasaanku telah hilang dariku.”"
+        },
+        {
+            "id": 5353,
+            "surah": 69,
+            "nomor": 30,
+            "ar": "خُذُوْهُ فَغُلُّوْهُۙ",
+            "tr": "khużūhu fagullūh(u).",
+            "idn": "(Allah berfirman), “Tangkaplah dia lalu belenggulah tangannya ke lehernya.” "
+        },
+        {
+            "id": 5354,
+            "surah": 69,
+            "nomor": 31,
+            "ar": "ثُمَّ الْجَحِيْمَ صَلُّوْهُۙ",
+            "tr": "Ṡummal-jaḥīma ṣallūh(u).",
+            "idn": "Kemudian masukkanlah dia ke dalam api neraka yang menyala-nyala. "
+        },
+        {
+            "id": 5355,
+            "surah": 69,
+            "nomor": 32,
+            "ar": "ثُمَّ فِيْ سِلْسِلَةٍ ذَرْعُهَا سَبْعُوْنَ ذِرَاعًا فَاسْلُكُوْهُۗ",
+            "tr": "Ṡumma fī silsilatin żar‘uhā sab‘ūna żirā‘an faslukūh(u).",
+            "idn": "Kemudian belitlah dia dengan rantai yang panjangnya tujuh puluh hasta. "
+        },
+        {
+            "id": 5356,
+            "surah": 69,
+            "nomor": 33,
+            "ar": "اِنَّهٗ كَانَ لَا يُؤْمِنُ بِاللّٰهِ الْعَظِيْمِۙ",
+            "tr": "innahū kāna lā yu'minu billāhil-‘aẓīm(i).",
+            "idn": "Sesungguhnya dialah orang yang tidak beriman kepada Allah Yang Mahabesar. "
+        },
+        {
+            "id": 5357,
+            "surah": 69,
+            "nomor": 34,
+            "ar": "وَلَا يَحُضُّ عَلٰى طَعَامِ الْمِسْكِيْنِۗ",
+            "tr": "wa lā yaḥuḍḍu ‘alā ṭa‘āmil-miskīn(i).",
+            "idn": "Dan juga dia tidak mendorong (orang lain) untuk memberi makan orang miskin. "
+        },
+        {
+            "id": 5358,
+            "surah": 69,
+            "nomor": 35,
+            "ar": "فَلَيْسَ لَهُ الْيَوْمَ هٰهُنَا حَمِيْمٌۙ",
+            "tr": "fa laisa lahul-yauma hāhunā ḥamīm(un).",
+            "idn": "Maka pada hari ini di sini tidak ada seorang teman pun baginya. "
+        },
+        {
+            "id": 5359,
+            "surah": 69,
+            "nomor": 36,
+            "ar": "وَّلَا طَعَامٌ اِلَّا مِنْ غِسْلِيْنٍۙ",
+            "tr": "wa lā ṭa‘āmun illā min gislīn(in).",
+            "idn": "Dan tidak ada makanan (baginya) kecuali dari darah dan nanah. "
+        },
+        {
+            "id": 5360,
+            "surah": 69,
+            "nomor": 37,
+            "ar": "لَّا يَأْكُلُهٗٓ اِلَّا الْخٰطِـُٔوْنَ ࣖ ",
+            "tr": "lā ya'kuluhū illal-khāṭi'ūn(a).",
+            "idn": "Tidak ada yang memakannya kecuali orang-orang yang berdosa. "
+        },
+        {
+            "id": 5361,
+            "surah": 69,
+            "nomor": 38,
+            "ar": "فَلَآ اُقْسِمُ بِمَا تُبْصِرُوْنَۙ",
+            "tr": "falā uqsimu bimā tubṣirūn(a).",
+            "idn": "Maka Aku bersumpah demi apa yang kamu lihat, "
+        },
+        {
+            "id": 5362,
+            "surah": 69,
+            "nomor": 39,
+            "ar": "وَمَا لَا تُبْصِرُوْنَۙ",
+            "tr": "wa mā lā tubṣirūn(a).",
+            "idn": "dan demi apa yang tidak kamu lihat."
+        },
+        {
+            "id": 5363,
+            "surah": 69,
+            "nomor": 40,
+            "ar": "اِنَّهٗ لَقَوْلُ رَسُوْلٍ كَرِيْمٍۙ",
+            "tr": "innahū laqaulu rasūlin karīm(in).",
+            "idn": "Sesungguhnya ia (Al-Qur'an) itu benar-benar wahyu (yang diturunkan kepada) Rasul yang mulia,"
+        },
+        {
+            "id": 5364,
+            "surah": 69,
+            "nomor": 41,
+            "ar": "وَّمَا هُوَ بِقَوْلِ شَاعِرٍۗ قَلِيْلًا مَّا تُؤْمِنُوْنَۙ",
+            "tr": "wa mā huwa biqauli syā‘ir(in), qalīlam mā tu'minūn(a).",
+            "idn": "dan ia (Al-Qur'an) bukanlah perkataan seorang penyair. Sedikit sekali kamu beriman kepadanya. "
+        },
+        {
+            "id": 5365,
+            "surah": 69,
+            "nomor": 42,
+            "ar": "وَلَا بِقَوْلِ كَاهِنٍۗ قَلِيْلًا مَّا تَذَكَّرُوْنَۗ",
+            "tr": "wa lā biqauli kāhin(in), qalīlam mā tażakkarūn(a).",
+            "idn": "Dan bukan pula perkataan tukang tenung. Sedikit sekali kamu mengambil pelajaran darinya. "
+        },
+        {
+            "id": 5366,
+            "surah": 69,
+            "nomor": 43,
+            "ar": "تَنْزِيْلٌ مِّنْ رَّبِّ الْعٰلَمِيْنَ ",
+            "tr": "tanzīlum mir rabbil-‘ālamīn(a).",
+            "idn": "Ia (Al-Qur'an) adalah wahyu yang diturunkan dari Tuhan seluruh alam. "
+        },
+        {
+            "id": 5367,
+            "surah": 69,
+            "nomor": 44,
+            "ar": "وَلَوْ تَقَوَّلَ عَلَيْنَا بَعْضَ الْاَقَاوِيْلِۙ",
+            "tr": "wa lau taqawwala ‘alainā ba‘ḍal-aqāwīl(i).",
+            "idn": "Dan sekiranya dia (Muhammad) mengada-adakan sebagian perkataan atas (nama) Kami, "
+        },
+        {
+            "id": 5368,
+            "surah": 69,
+            "nomor": 45,
+            "ar": "لَاَخَذْنَا مِنْهُ بِالْيَمِيْنِۙ",
+            "tr": "la'akhażnā minhu bil-yamīn(i).",
+            "idn": "pasti Kami pegang dia pada tangan kanannya. "
+        },
+        {
+            "id": 5369,
+            "surah": 69,
+            "nomor": 46,
+            "ar": "ثُمَّ لَقَطَعْنَا مِنْهُ الْوَتِيْنَۖ",
+            "tr": "Ṡumma laqaṭa‘nā minhul-watīn(a).",
+            "idn": "Kemudian Kami potong pembuluh jantungnya. "
+        },
+        {
+            "id": 5370,
+            "surah": 69,
+            "nomor": 47,
+            "ar": "فَمَا مِنْكُمْ مِّنْ اَحَدٍ عَنْهُ حٰجِزِيْنَۙ",
+            "tr": "famā minkum min aḥadin ‘anhu ḥājizīn(a).",
+            "idn": "Maka tidak seorang pun dari kamu yang dapat menghalangi (Kami untuk menghukumnya). "
+        },
+        {
+            "id": 5371,
+            "surah": 69,
+            "nomor": 48,
+            "ar": "وَاِنَّهٗ لَتَذْكِرَةٌ لِّلْمُتَّقِيْنَ ",
+            "tr": "wa innahū latażkiratul lil-muttaqīn(a).",
+            "idn": "Dan sungguh, (Al-Qur'an) itu pelajaran bagi orang-orang yang bertakwa. "
+        },
+        {
+            "id": 5372,
+            "surah": 69,
+            "nomor": 49,
+            "ar": "وَاِنَّا لَنَعْلَمُ اَنَّ مِنْكُمْ مُّكَذِّبِيْنَۗ",
+            "tr": "wa innā lana‘lamu anna minkum mukażżibīn(a).",
+            "idn": "Dan sungguh, Kami mengetahui bahwa di antara kamu ada orang yang mendustakan."
+        },
+        {
+            "id": 5373,
+            "surah": 69,
+            "nomor": 50,
+            "ar": "وَاِنَّهٗ لَحَسْرَةٌ عَلَى الْكٰفِرِيْنَۚ",
+            "tr": "wa innahū laḥasratun ‘alal-kāfirīn(a).",
+            "idn": "Dan sungguh, (Al-Qur'an) itu akan menimbulkan penyesalan bagi orang-orang kafir (di akhirat)."
+        },
+        {
+            "id": 5374,
+            "surah": 69,
+            "nomor": 51,
+            "ar": "وَاِنَّهٗ لَحَقُّ الْيَقِيْنِ ",
+            "tr": "wa innahū laḥaqqul-yaqīn(i).",
+            "idn": "Dan Sungguh, (Al-Qur'an) itu kebenaran yang meyakinkan. "
+        },
+        {
+            "id": 5375,
+            "surah": 69,
+            "nomor": 52,
+            "ar": "فَسَبِّحْ بِاسْمِ رَبِّكَ الْعَظِيْمِ ࣖ",
+            "tr": "fa sabbiḥ bismi rabbikal-‘aẓīm(i).",
+            "idn": "Maka bertasbihlah dengan (menyebut) nama Tuhanmu Yang Mahaagung. "
+        }
+    ],
+    "surat_selanjutnya": {
+        "id": 70,
+        "nomor": 70,
+        "nama": "المعارج",
+        "nama_latin": "Al-Ma'arij",
+        "jumlah_ayat": 44,
+        "tempat_turun": "mekah",
+        "arti": "Tempat Naik",
+        "deskripsi": "Surat ini terdiri atas 44 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Al Haaqqah.<br>Perkataan <i>Al Ma'arij</i> yang menjadi nama bagi surat ini adalah kata jamak dari <i>Mi'raj</i>, diambil dari perkataan Al Ma'arij yang terdapat pada ayat 3, yang artinya menurut bahasa <i>tempat naik</i>. Sedang para ahli  tafsir memberi arti bermacam-macam, di antaranya <i>langit</i>, nikmat karunia dan derajat atau tingkatan yang diberikan Allah s.w.t kepada ahli surga.",
+        "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/070.mp3"
+    },
+    "surat_sebelumnya": {
+        "id": 68,
+        "nomor": 68,
+        "nama": "القلم",
+        "nama_latin": "Al-Qalam",
+        "jumlah_ayat": 52,
+        "tempat_turun": "mekah",
+        "arti": "Pena",
+        "deskripsi": "Surat ini terdiri atas 52 ayat,termasuk golongan surat-surat Makkiyah,diturunkan sesudah surat Al Alaq. <br>Nama <i>Al Qalam</i> diambil dari kata Al Qalam yang terdapat pada ayat pertama surat iniyang artinya <i>pena</i>. Surat ini dinamai pula dengan surat <i>Nun</i> (huruf <i>nun</i>).",
+        "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/068.mp3"
+    }
+}

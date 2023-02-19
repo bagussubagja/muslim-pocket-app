@@ -1,0 +1,53 @@
+{
+    "status": true,
+    "nomor": 103,
+    "nama": "العصر",
+    "nama_latin": "Al-'Asr",
+    "jumlah_ayat": 3,
+    "tempat_turun": "mekah",
+    "arti": "Asar",
+    "deskripsi": "Surat Al 'Ashr terdiri atas 3 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Alam Nasyrah. Dinamai <i>Al 'Ashr</i> (masa) diambil dari perkataan <i>Al 'Ashr</i> yang terdapat pada ayat pertama surat ini.",
+    "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/103.mp3",
+    "tafsir": [
+        {
+            "id": 6177,
+            "surah": 103,
+            "ayat": 1,
+            "tafsir": "Dalam ayat ini, Allah bersumpah dengan masa yang terjadi di dalamnya bermacam-macam kejadian dan pengalaman yang menjadi bukti atas kekuasaan Allah yang mutlak, hikmah-Nya yang tinggi, dan Ilmu-Nya yang sangat luas. Perubahan-perubahan besar yang terjadi pada masa itu sendiri, seperti pergantian siang dengan malam yang terus-menerus, habisnya umur manusia, dan sebagainya merupakan tanda keagungan Allah.\n\nDalam ayat lain, Allah berfirman:\n\nDan sebagian dari tanda-tanda kebesaran-Nya ialah malam, siang, matahari, dan bulan. (Fussilat/41: 37)\n\nApa yang dialami manusia dalam masa itu dari senang dan susah, miskin dan kaya, senggang dan sibuk, suka dan duka, dan lain-lain menunjukkan secara gamblang bahwa bagi alam semesta ini ada pencipta dan pengaturnya. Dialah Tuhan yang harus disembah dan hanya kepada-Nya kita memohon untuk menolak bahaya dan menarik manfaat. Adapun orang-orang kafir menghubungkan peristiwa-peristiwa tersebut hanya kepada suatu masa saja, sehingga mereka beranggapan bahwa bila ditimpa oleh sesuatu bencana, hal itu hanya kemauan alam saja. Allah menjelaskan bahwa masa (waktu) adalah salah satu makhluk-Nya dan di dalamnya terjadi bermacam-macam kejadian, kejahatan, dan kebaikan. Bila seseorang ditimpa musibah, hal itu merupakan akibat tindakannya. Masa (waktu) tidak campur tangan dengan terjadinya musibah itu."
+        },
+        {
+            "id": 6178,
+            "surah": 103,
+            "ayat": 2,
+            "tafsir": "Dalam ayat ini, Allah mengungkapkan bahwa manusia sebagai makhluk Allah sungguh secara keseluruhan berada dalam kerugian bila tidak menggunakan waktu dengan baik atau dipakai untuk melakukan keburukan. Perbuatan buruk manusia merupakan sumber kecelakaan yang menjerumuskannya ke dalam kebinasaan. Dosa seseorang terhadap Tuhannya yang memberi nikmat tidak terkira kepadanya adalah suatu pelanggaran yang tidak ada bandingannya sehingga merugikan dirinya."
+        },
+        {
+            "id": 6179,
+            "surah": 103,
+            "ayat": 3,
+            "tafsir": "Dalam ayat ini, Allah menjelaskan bahwa jika manusia tidak mau hidupnya merugi, maka ia harus beriman kepada-Nya, melaksanakan ibadah sebagaimana yang diperintahkannya, berbuat baik untuk dirinya sendiri, dan berusaha menimbulkan manfaat kepada orang lain.\n\nDi samping beriman dan beramal saleh, mereka harus saling nasihat-menasihati untuk menaati kebenaran dan tetap berlaku sabar, menjauhi perbuatan maksiat yang setiap orang cenderung kepadanya, karena dorongan hawa nafsunya."
+        }
+    ],
+    "surat_selanjutnya": {
+        "id": 104,
+        "nomor": 104,
+        "nama": "الهمزة",
+        "nama_latin": "Al-Humazah",
+        "jumlah_ayat": 9,
+        "tempat_turun": "mekah",
+        "arti": "Pengumpat",
+        "deskripsi": "Surat Al Humazah terdiri atas 9 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Al Qiyaamah. Dinamai <i>Al Humazah</i> (pengumpat) diambil dari perkataan <i>Humazah</i> yang terdapat pada ayat pertama surat ini.",
+        "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/104.mp3"
+    },
+    "surat_sebelumnya": {
+        "id": 102,
+        "nomor": 102,
+        "nama": "التكاثر",
+        "nama_latin": "At-Takasur",
+        "jumlah_ayat": 8,
+        "tempat_turun": "mekah",
+        "arti": "Bermegah-Megahan",
+        "deskripsi": "Surat At Takaatsur terdiri atas 8 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Al Kautsar. Dinamai <i>At Takaatsur</i> (bermegah-megahan) diambil dari perkataan <i>At Takaatsur</i> yang terdapat pada ayat pertama surat ini.",
+        "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/102.mp3"
+    }
+}

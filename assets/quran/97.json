@@ -1,0 +1,75 @@
+{
+    "nomor": 97,
+    "nama": "القدر",
+    "nama_latin": "Al-Qadr",
+    "jumlah_ayat": 5,
+    "tempat_turun": "mekah",
+    "arti": "Kemuliaan",
+    "deskripsi": "Surat Al Qadr terdiri atas 5 ayat, termasuk golongan surat-surat Makkiyah, diturunkan sesudah surat 'Abasa. Surat ini dinamai <i>Al Qadr</i> (kemuliaan), diambil dari perkataan <i>Al Qadr</i> yang terdapat pada ayat pertama surat ini.",
+    "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/097.mp3",
+    "status": true,
+    "ayat": [
+        {
+            "id": 6126,
+            "surah": 97,
+            "nomor": 1,
+            "ar": "اِنَّآ اَنْزَلْنٰهُ فِيْ لَيْلَةِ الْقَدْرِ ",
+            "tr": "innā anzalnāhu fī lailatil-qadr(i).",
+            "idn": "Sesungguhnya Kami telah menurunkannya (Al-Qur'an) pada malam qadar."
+        },
+        {
+            "id": 6127,
+            "surah": 97,
+            "nomor": 2,
+            "ar": "وَمَآ اَدْرٰىكَ مَا لَيْلَةُ الْقَدْرِۗ",
+            "tr": "wa mā adrāka mā lailatul-qadr(i).",
+            "idn": "Dan tahukah kamu apakah malam kemuliaan itu?"
+        },
+        {
+            "id": 6128,
+            "surah": 97,
+            "nomor": 3,
+            "ar": "لَيْلَةُ الْقَدْرِ ەۙ خَيْرٌ مِّنْ اَلْفِ شَهْرٍۗ",
+            "tr": "lailatul-qadri khairum min alfi syahr(in).",
+            "idn": "Malam kemuliaan itu lebih baik daripada seribu bulan."
+        },
+        {
+            "id": 6129,
+            "surah": 97,
+            "nomor": 4,
+            "ar": "تَنَزَّلُ الْمَلٰۤىِٕكَةُ وَالرُّوْحُ فِيْهَا بِاِذْنِ رَبِّهِمْۚ مِنْ كُلِّ اَمْرٍۛ",
+            "tr": "tanazzalul-malā'ikatu war rūḥu fīhā bi'iżni rabbihim min kulli amr(in).",
+            "idn": "Pada malam itu turun para malaikat dan Ruh (Jibril) dengan izin Tuhannya untuk mengatur semua urusan."
+        },
+        {
+            "id": 6130,
+            "surah": 97,
+            "nomor": 5,
+            "ar": "سَلٰمٌ ۛهِيَ حَتّٰى مَطْلَعِ الْفَجْرِ ࣖ",
+            "tr": "salāmun hiya ḥattā maṭla‘il-fajr(i).",
+            "idn": "Sejahteralah (malam itu) sampai terbit fajar."
+        }
+    ],
+    "surat_selanjutnya": {
+        "id": 98,
+        "nomor": 98,
+        "nama": "البيّنة",
+        "nama_latin": "Al-Bayyinah",
+        "jumlah_ayat": 8,
+        "tempat_turun": "madinah",
+        "arti": "Bukti Nyata",
+        "deskripsi": "Surat Al Bayyinah terdiri atas 8 ayat, termasuk golongan surat-surat Madaniyyah, diturunkan sesudah surat Ath Thalaq. Dinamai <i>Al Bayyinah</i> (bukti yang nyata) diambil dari perkataan <i>Al Bayyinah</i> yang terdapat pada ayat pertama surat ini.",
+        "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/098.mp3"
+    },
+    "surat_sebelumnya": {
+        "id": 96,
+        "nomor": 96,
+        "nama": "العلق",
+        "nama_latin": "Al-'Alaq",
+        "jumlah_ayat": 19,
+        "tempat_turun": "mekah",
+        "arti": "Segumpal Darah",
+        "deskripsi": "Surat Al 'Alaq terdiri atas 19 ayat, termasuk golongan surat-surat Makkiyah. Ayat 1 sampai dengan 5 dari surat ini adalah ayat-ayat Al Quran yang pertama sekali diturunkan, yaitu di waktu Nabi Muhammad s.a.w. berkhalwat di gua Hira'. Surat ini dinamai <i>Al 'Alaq</i> (segumpal darah), diambil dari perkataan <i>Alaq</i> yang terdapat pada ayat 2 surat ini. Surat ini dinamai juga dengan <i>Iqra</i> atau <i>Al Qalam</i>.",
+        "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/096.mp3"
+    }
+}

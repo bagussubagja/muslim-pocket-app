@@ -1,0 +1,467 @@
+{
+    "nomor": 41,
+    "nama": "فصّلت",
+    "nama_latin": "Fussilat",
+    "jumlah_ayat": 54,
+    "tempat_turun": "mekah",
+    "arti": "Yang Dijelaskan",
+    "deskripsi": "Surat Fushshilat terdiri atas 54 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Al Mu'min. Dinamai <i>Fushshilat</i> (yang dijelaskan) karena ada hubungannya dengan perkataan <i>Fushshilat</i> yang terdapat pada permulaan surat ini yang berarti <i>yang dijelaskan</i>. Maksudnya ayat-ayatnya diperinci dengan jelas tentang hukum-hukum, keimanan, janji dan ancaman, budi pekerti, kisah, dan sebagainya. Dinamai juga dengan <i>Haa Miim dan As Sajdah</i> karena surat ini dimulai dengan <i>Haa Miim</i> dan dalam surat ini terdapat ayat Sajdah.",
+    "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/041.mp3",
+    "status": true,
+    "ayat": [
+        {
+            "id": 4219,
+            "surah": 41,
+            "nomor": 1,
+            "ar": " حٰمۤ ۚ ",
+            "tr": "Ḥā mīm.",
+            "idn": "Ha Mim"
+        },
+        {
+            "id": 4220,
+            "surah": 41,
+            "nomor": 2,
+            "ar": "تَنْزِيْلٌ مِّنَ الرَّحْمٰنِ الرَّحِيْمِ ۚ ",
+            "tr": "tanzīlum minar-raḥmānir-raḥīm(i).",
+            "idn": "(Al-Qur'an ini) diturunkan dari Tuhan Yang Maha Pengasih, Maha Penyayang."
+        },
+        {
+            "id": 4221,
+            "surah": 41,
+            "nomor": 3,
+            "ar": "كِتٰبٌ فُصِّلَتْ اٰيٰتُهٗ قُرْاٰنًا عَرَبِيًّا لِّقَوْمٍ يَّعْلَمُوْنَۙ ",
+            "tr": "kitābun fuṣṣilat āyātuhū qur'ānan ‘arabiyyal liqaumiy ya‘lamūn(a).",
+            "idn": "Kitab yang ayat-ayatnya dijelaskan, bacaan dalam bahasa Arab, untuk kaum yang mengetahui,"
+        },
+        {
+            "id": 4222,
+            "surah": 41,
+            "nomor": 4,
+            "ar": "بَشِيْرًا وَّنَذِيْرًاۚ فَاَعْرَضَ اَكْثَرُهُمْ فَهُمْ لَا يَسْمَعُوْنَ ",
+            "tr": "basyīraw wa nażīrā(n), fa'a‘raḍa akṡaruhum fahum lā yasma‘ūn(a).",
+            "idn": "yang membawa berita gembira dan peringatan, tetapi kebanyakan mereka berpaling (darinya) serta tidak mendengarkan."
+        },
+        {
+            "id": 4223,
+            "surah": 41,
+            "nomor": 5,
+            "ar": "وَقَالُوْا قُلُوْبُنَا فِيْٓ اَكِنَّةٍ مِّمَّا تَدْعُوْنَآ اِلَيْهِ وَفِيْٓ اٰذَانِنَا وَقْرٌ وَّمِنْۢ بَيْنِنَا وَبَيْنِكَ حِجَابٌ فَاعْمَلْ اِنَّنَا عٰمِلُوْنَ",
+            "tr": "wa qālū qulūbunā fī akinnatim mimmā tad‘ūnā ilaihi wa fī āżāninā waqruw wa mim baininā wa bainika ḥijābun fa‘mal innanā ‘āmilūn(a).",
+            "idn": "Dan mereka berkata, “Hati kami sudah tertutup dari apa yang engkau seru kami kepadanya dan telinga kami sudah tersumbat, dan di antara kami dan engkau ada dinding, karena itu lakukanlah (sesuai kehendakmu), sesungguhnya kami akan melakukan (sesuai kehendak kami).”"
+        },
+        {
+            "id": 4224,
+            "surah": 41,
+            "nomor": 6,
+            "ar": "قُلْ اِنَّمَآ اَنَا۟ بَشَرٌ مِّثْلُكُمْ يُوْحٰىٓ اِلَيَّ اَنَّمَآ اِلٰهُكُمْ اِلٰهٌ وَّاحِدٌ فَاسْتَقِيْمُوْٓا اِلَيْهِ وَاسْتَغْفِرُوْهُ ۗوَوَيْلٌ لِّلْمُشْرِكِيْنَۙ ",
+            "tr": "qul innamā ana basyarum miṡlukum yūḥā ilayya annamā ilāhukum ilāhuw wāḥidun fastaqīmū ilaihi wastagfirūh(u), wa wailul lil-musyrikīn(a).",
+            "idn": "Katakanlah (Muhammad), “Aku ini hanyalah seorang manusia seperti kamu, yang diwahyukan kepadaku bahwa Tuhan kamu adalah Tuhan Yang Maha Esa, karena itu tetaplah kamu (beribadah) kepada-Nya dan mohonlah ampunan kepada-Nya. Dan celakalah bagi orang-orang yang mempersekutukan-(Nya),"
+        },
+        {
+            "id": 4225,
+            "surah": 41,
+            "nomor": 7,
+            "ar": "الَّذِيْنَ لَا يُؤْتُوْنَ الزَّكٰوةَ وَهُمْ بِالْاٰخِرَةِ هُمْ كٰفِرُوْنَ",
+            "tr": "allażīna lā yu'tūnaz-zakāta wa hum bil-ākhirati hum kāfirūn(a).",
+            "idn": "(yaitu) orang-orang yang tidak menunaikan zakat dan mereka ingkar terhadap kehidupan akhirat."
+        },
+        {
+            "id": 4226,
+            "surah": 41,
+            "nomor": 8,
+            "ar": "اِنَّ الَّذِيْنَ اٰمَنُوْا وَعَمِلُوا الصّٰلِحٰتِ لَهُمْ اَجْرٌ غَيْرُ مَمْنُوْنٍ ࣖ ",
+            "tr": "innal-lażīna āmanū wa ‘amiluṣ-ṣāliḥāti lahum ajrun gairu mamnūn(in).",
+            "idn": "Sesungguhnya orang-orang yang beriman dan mengerjakan kebajikan, mereka mendapat pahala yang tidak ada putus-putusnya.”"
+        },
+        {
+            "id": 4227,
+            "surah": 41,
+            "nomor": 9,
+            "ar": "۞ قُلْ اَىِٕنَّكُمْ لَتَكْفُرُوْنَ بِالَّذِيْ خَلَقَ الْاَرْضَ فِيْ يَوْمَيْنِ وَتَجْعَلُوْنَ لَهٗٓ اَنْدَادًا ۗذٰلِكَ رَبُّ الْعٰلَمِيْنَ ۚ ",
+            "tr": "qul a'innakum latakfurūna bil-lażī khalaqal-arḍa fī yaumaini wa taj‘alūna lahū andādā(n), żālika rabbul-‘ālamīn(a).",
+            "idn": "Katakanlah, “Pantaskah kamu ingkar kepada Tuhan yang menciptakan bumi dalam dua masa dan kamu adakan pula sekutu-sekutu bagi-Nya? Itulah Tuhan seluruh alam.”"
+        },
+        {
+            "id": 4228,
+            "surah": 41,
+            "nomor": 10,
+            "ar": "وَجَعَلَ فِيْهَا رَوَاسِيَ مِنْ فَوْقِهَا وَبٰرَكَ فِيْهَا وَقَدَّرَ فِيْهَآ اَقْوَاتَهَا فِيْٓ اَرْبَعَةِ اَيَّامٍۗ سَوَاۤءً لِّلسَّاۤىِٕلِيْنَ",
+            "tr": "wa ja‘ala fīhā rawāsiya min fauqihā wa bāraka fīhā wa qaddara fīhā aqwātahā fī arba‘ati ayyām(in), sawā'al lis-sā'ilīn(a).",
+            "idn": "Dan Dia ciptakan padanya gunung-gunung yang kokoh di atasnya. Dan kemudian Dia berkahi, dan Dia tentukan makanan-makanan (bagi penghuni)nya dalam empat masa, memadai untuk (memenuhi kebutuhan) mereka yang memerlukannya."
+        },
+        {
+            "id": 4229,
+            "surah": 41,
+            "nomor": 11,
+            "ar": "ثُمَّ اسْتَوٰىٓ اِلَى السَّمَاۤءِ وَهِيَ دُخَانٌ فَقَالَ لَهَا وَلِلْاَرْضِ ائْتِيَا طَوْعًا اَوْ كَرْهًاۗ قَالَتَآ اَتَيْنَا طَاۤىِٕعِيْنَ ",
+            "tr": "Ṡummastawā ilas-samā'i wa hiya dukhānun faqāla lahā wa lil-arḍi'tiyā ṭau‘an au karhā(n), qālatā atainā ṭā'i‘īn(a).",
+            "idn": "Kemudian Dia menuju ke langit dan (langit) itu masih berupa asap, lalu Dia berfirman kepadanya dan kepada bumi, “Datanglah kamu berdua menurut perintah-Ku dengan patuh atau terpaksa.” Keduanya menjawab, “Kami datang dengan patuh.”"
+        },
+        {
+            "id": 4230,
+            "surah": 41,
+            "nomor": 12,
+            "ar": "فَقَضٰىهُنَّ سَبْعَ سَمٰوَاتٍ فِيْ يَوْمَيْنِ وَاَوْحٰى فِيْ كُلِّ سَمَاۤءٍ اَمْرَهَا ۗوَزَيَّنَّا السَّمَاۤءَ الدُّنْيَا بِمَصَابِيْحَۖ وَحِفْظًا ۗذٰلِكَ تَقْدِيْرُ الْعَزِيْزِ الْعَلِيْمِ",
+            "tr": "fa qaḍāhunna sab‘a samāwātin fī yaumaini wa auḥā fī kulli samā'in amrahā, wa zayyannas-samā'ad-dun-yā bimaṣābīḥa wa ḥifẓā(n), żālika taqdīrul-‘azīzil-‘alīm(i).",
+            "idn": "Lalu diciptakan-Nya tujuh langit dalam dua masa dan pada setiap langit Dia mewahyukan urusan masing-masing. Kemudian langit yang dekat (dengan bumi), Kami hiasi dengan bintang-bintang, dan (Kami ciptakan itu) untuk memelihara. Demikianlah ketentuan (Allah) Yang Mahaperkasa, Maha Mengetahui."
+        },
+        {
+            "id": 4231,
+            "surah": 41,
+            "nomor": 13,
+            "ar": "فَاِنْ اَعْرَضُوْا فَقُلْ اَنْذَرْتُكُمْ صٰعِقَةً مِّثْلَ صٰعِقَةِ عَادٍ وَّثَمُوْدَ ۗ ",
+            "tr": "fa in a‘raḍū faqul anżartukum ṣā‘iqatam miṡla ṣā‘iqati ‘ādiw wa ṡamūd(a).",
+            "idn": "Jika mereka berpaling maka katakanlah, “Aku telah memperingatkan kamu akan (bencana) petir seperti petir yang menimpa kaum ’Ad dan kaum Samud.”"
+        },
+        {
+            "id": 4232,
+            "surah": 41,
+            "nomor": 14,
+            "ar": "اِذْ جَاۤءَتْهُمُ الرُّسُلُ مِنْۢ بَيْنِ اَيْدِيْهِمْ وَمِنْ خَلْفِهِمْ اَلَّا تَعْبُدُوْٓا اِلَّا اللّٰهَ ۗقَالُوْا لَوْ شَاۤءَ رَبُّنَا لَاَنْزَلَ مَلٰۤىِٕكَةً فَاِنَّا بِمَآ اُرْسِلْتُمْ بِهٖ كٰفِرُوْنَ ",
+            "tr": "iż jā'athumur-rusulu mim baini aidīhim wa min khalfihim allā ta‘budū illallāh(a), qālū lau syā'a rabbunā la'anzala malā'ikatan fa'innā bimā ursiltum bihī kāfirūn(a).",
+            "idn": "Ketika para rasul datang kepada mereka dari depan dan dari belakang mereka (dengan menyerukan), “Janganlah kamu menyembah selain Allah.” Mereka menjawab, “Kalau Tuhan kami menghendaki tentu Dia menurunkan malaikat-malaikat-Nya, maka sesungguhnya kami mengingkari wahyu yang engkau diutus menyampaikannya.”"
+        },
+        {
+            "id": 4233,
+            "surah": 41,
+            "nomor": 15,
+            "ar": "فَاَمَّا عَادٌ فَاسْتَكْبَرُوْا فِى الْاَرْضِ بِغَيْرِ الْحَقِّ وَقَالُوْا مَنْ اَشَدُّ مِنَّا قُوَّةً ۗ اَوَلَمْ يَرَوْا اَنَّ اللّٰهَ الَّذِيْ خَلَقَهُمْ هُوَ اَشَدُّ مِنْهُمْ قُوَّةً ۗ وَكَانُوْا بِاٰيٰتِنَا يَجْحَدُوْنَ",
+            "tr": "fa ammā ‘ādun fastakbarū fil-arḍi bigairil-ḥaqqi wa qālū man asyaddu minnā quwwah(tan), awalam yarau annallāhal-lażī khalaqahum huwa asyaddu minhum quwwah(tan), wa kānū bi'āyātinā yajḥadūn(a).",
+            "idn": "Maka adapun kaum ‘Ad, mereka menyombongkan diri di bumi tanpa (mengindahkan) kebenaran dan mereka berkata, “Siapakah yang lebih hebat kekuatannya dari kami?” Tidakkah mereka memperhatikan bahwa sesungguhnya Allah yang menciptakan mereka. Dia lebih hebat kekuatan-Nya dari mereka? Dan mereka telah mengingkari tanda-tanda (kebesaran) Kami."
+        },
+        {
+            "id": 4234,
+            "surah": 41,
+            "nomor": 16,
+            "ar": "فَاَرْسَلْنَا عَلَيْهِمْ رِيْحًا صَرْصَرًا فِيْٓ اَيَّامٍ نَّحِسَاتٍ لِّنُذِيْقَهُمْ عَذَابَ الْخِزْيِ فِى الْحَيٰوةِ الدُّنْيَا ۗوَلَعَذَابُ الْاٰخِرَةِ اَخْزٰى وَهُمْ لَا يُنْصَرُوْنَ",
+            "tr": "fa arsalnā ‘alaihim rīḥan ṣarṣaran fī ayyāmin naḥisātil linużīqahum-‘ażābal khizyi fil-ḥayātid-dun-yā, wa la‘ażābul-ākhirati akhzā wa hum lā yunṣarūn(a).",
+            "idn": "Maka Kami tiupkan angin yang sangat bergemuruh kepada mereka dalam beberapa hari yang nahas, karena Kami ingin agar mereka itu merasakan siksaan yang menghinakan dalam kehidupan di dunia. Sedangkan azab akhirat pasti lebih menghinakan dan mereka tidak diberi pertolongan."
+        },
+        {
+            "id": 4235,
+            "surah": 41,
+            "nomor": 17,
+            "ar": "وَاَمَّا ثَمُوْدُ فَهَدَيْنٰهُمْ فَاسْتَحَبُّوا الْعَمٰى عَلَى الْهُدٰى فَاَخَذَتْهُمْ صٰعِقَةُ الْعَذَابِ الْهُوْنِ بِمَا كَانُوْا يَكْسِبُوْنَ ۚ ",
+            "tr": "wa ammā ṡamūdu fa hadaināhum fastaḥabbul-‘amā ‘alal-hudā fa akhażathum ṣā‘iqatul-‘ażābil-hūni bimā kānū yaksibūn(a).",
+            "idn": "Dan adapun kaum Samud, mereka telah Kami beri petunjuk tetapi mereka lebih menyukai kebutaan (kesesatan) daripada petunjuk itu, maka mereka disambar petir sebagai azab yang menghinakan disebabkan apa yang telah mereka kerjakan."
+        },
+        {
+            "id": 4236,
+            "surah": 41,
+            "nomor": 18,
+            "ar": "وَنَجَّيْنَا الَّذِيْنَ اٰمَنُوْا وَكَانُوْا يَتَّقُوْنَ ࣖ ",
+            "tr": "wa najjainal-lażīna āmanū wa kānū yattaqūn(a).",
+            "idn": "Dan Kami selamatkan orang-orang yang beriman karena mereka adalah orang-orang yang bertakwa."
+        },
+        {
+            "id": 4237,
+            "surah": 41,
+            "nomor": 19,
+            "ar": "وَيَوْمَ يُحْشَرُ اَعْدَاۤءُ اللّٰهِ اِلَى النَّارِ فَهُمْ يُوْزَعُوْنَ",
+            "tr": "wa yauma yuḥsyaru a‘dā'ullāhi ilan-nāri fahum yūza‘ūn(a).",
+            "idn": "Dan (ingatlah) pada hari (ketika) musuh-musuh Allah digiring ke neraka lalu mereka dipisah-pisahkan."
+        },
+        {
+            "id": 4238,
+            "surah": 41,
+            "nomor": 20,
+            "ar": "حَتّٰىٓ اِذَا مَا جَاۤءُوْهَا شَهِدَ عَلَيْهِمْ سَمْعُهُمْ وَاَبْصَارُهُمْ وَجُلُوْدُهُمْ بِمَا كَانُوْا يَعْمَلُوْنَ ",
+            "tr": "Ḥattā iżā mā jā'ūhā syahida ‘alaihim sam‘uhum wa abṣāruhum wa julūduhum bimā kānū ya‘malūn(a).",
+            "idn": "Sehingga apabila mereka sampai ke neraka, pendengaran, penglihatan dan kulit mereka menjadi saksi terhadap apa yang telah mereka lakukan."
+        },
+        {
+            "id": 4239,
+            "surah": 41,
+            "nomor": 21,
+            "ar": "وَقَالُوْا لِجُلُوْدِهِمْ لِمَ شَهِدْتُّمْ عَلَيْنَا ۗقَالُوْٓا اَنْطَقَنَا اللّٰهُ الَّذِيْٓ اَنْطَقَ كُلَّ شَيْءٍ وَّهُوَ خَلَقَكُمْ اَوَّلَ مَرَّةٍۙ وَّاِلَيْهِ تُرْجَعُوْنَ",
+            "tr": "wa qālū lijulūdihim lima syahittum ‘alainā, qālū anṭaqanallāhul-lażī anṭaqa kulla syai'iw wa huwa khalaqakum awwala marrah(tin), wa ilaihi turja‘ūn(a).",
+            "idn": "Dan mereka berkata kepada kulit mereka, “Mengapa kamu menjadi saksi terhadap kami?” (Kulit) mereka men-jawab, “Yang menjadikan kami dapat berbicara adalah Allah, yang (juga) menjadikan segala sesuatu dapat berbicara, dan Dialah yang menciptakan kamu yang pertama kali dan hanya kepada-Nya kamu dikembalikan.”"
+        },
+        {
+            "id": 4240,
+            "surah": 41,
+            "nomor": 22,
+            "ar": "وَمَا كُنْتُمْ تَسْتَتِرُوْنَ اَنْ يَّشْهَدَ عَلَيْكُمْ سَمْعُكُمْ وَلَآ اَبْصَارُكُمْ وَلَا جُلُوْدُكُمْ وَلٰكِنْ ظَنَنْتُمْ اَنَّ اللّٰهَ لَا يَعْلَمُ كَثِيْرًا مِّمَّا تَعْمَلُوْنَ",
+            "tr": "wa mā kuntum tastatirūna ay yasyhada ‘alaikum sam‘ukum wa lā abṣārukum wa lā julūdukum wa lākin ẓanantum annallāha lā ya‘lamu kaṡīram mimmā ta‘malūn(a).",
+            "idn": "Dan kamu tidak dapat bersembunyi dari kesaksian pendengaran, penglihatan dan kulitmu terhadapmu ) bahkan kamu mengira Allah tidak mengetahui banyak tentang apa yang kamu lakukan."
+        },
+        {
+            "id": 4241,
+            "surah": 41,
+            "nomor": 23,
+            "ar": "وَذٰلِكُمْ ظَنُّكُمُ الَّذِيْ ظَنَنْتُمْ بِرَبِّكُمْ اَرْدٰىكُمْ فَاَصْبَحْتُمْ مِّنَ الْخٰسِرِيْنَ",
+            "tr": "wa żālikum ẓannukumul-lażī ẓanantum birabbikum ardākum fa aṣbaḥtum minal-khāsirīn(a).",
+            "idn": "Dan itulah dugaanmu yang telah kamu sangkakan terhadap Tuhanmu (dugaan itu) telah membinasakan kamu, sehingga jadilah kamu termasuk orang yang rugi."
+        },
+        {
+            "id": 4242,
+            "surah": 41,
+            "nomor": 24,
+            "ar": "فَاِنْ يَّصْبِرُوْا فَالنَّارُ مَثْوًى لَّهُمْ ۚوَاِنْ يَّسْتَعْتِبُوْا فَمَا هُمْ مِّنَ الْمُعْتَبِيْنَ",
+            "tr": "fa iy yaṣbirū fan-nāru maṡwal lahum, wa iy yasta‘tibū famā hum minal-mu‘tabīn(a).",
+            "idn": "Meskipun mereka bersabar (atas azab neraka) maka nerakalah tempat tinggal mereka dan jika mereka minta belas kasihan, maka mereka itu tidak termasuk orang yang pantas dikasihani."
+        },
+        {
+            "id": 4243,
+            "surah": 41,
+            "nomor": 25,
+            "ar": "۞ وَقَيَّضْنَا لَهُمْ قُرَنَاۤءَ فَزَيَّنُوْا لَهُمْ مَّا بَيْنَ اَيْدِيْهِمْ وَمَا خَلْفَهُمْ وَحَقَّ عَلَيْهِمُ الْقَوْلُ فِيْٓ اُمَمٍ قَدْ خَلَتْ مِنْ قَبْلِهِمْ مِّنَ الْجِنِّ وَالْاِنْسِۚ اِنَّهُمْ كَانُوْا خٰسِرِيْنَ ࣖ ",
+            "tr": "wa qayyaḍnā lahum quranā'a fa zayyanū lahum mā baina aidīhim wa mā khalfahum wa ḥaqqa ‘alaihimul-qaulu fī umamin qad khalat min qablihim minal-jinni wal-ins(i), innahum kānū khāsirīn(a).",
+            "idn": "Dan Kami tetapkan bagi mereka teman-teman (setan) yang memuji-muji apa saja yang ada di hadapan dan di belakang mereka dan tetaplah atas mereka putusan azab bersama umat-umat yang terdahulu sebelum mereka dari (golongan) jin dan manusia. Sungguh, mereka adalah orang-orang yang rugi."
+        },
+        {
+            "id": 4244,
+            "surah": 41,
+            "nomor": 26,
+            "ar": "وَقَالَ الَّذِيْنَ كَفَرُوْا لَا تَسْمَعُوْا لِهٰذَا الْقُرْاٰنِ وَالْغَوْا فِيْهِ لَعَلَّكُمْ تَغْلِبُوْنَ",
+            "tr": "wa qālal-lażīna kafarū lā tasma‘ū lihāżal-qur'āni walgau fīhi la‘allakum taglibūn(a).",
+            "idn": "Dan orang-orang yang kafir berkata, “Janganlah kamu mendengarkan (bacaan) Al-Qur'an ini dan buatlah kegaduhan terhadapnya, agar kamu dapat mengalahkan (mereka).”"
+        },
+        {
+            "id": 4245,
+            "surah": 41,
+            "nomor": 27,
+            "ar": "فَلَنُذِيْقَنَّ الَّذِيْنَ كَفَرُوْا عَذَابًا شَدِيْدًاۙ وَّلَنَجْزِيَنَّهُمْ اَسْوَاَ الَّذِيْ كَانُوْا يَعْمَلُوْنَ",
+            "tr": "fa lanużīqannal-lażīna kafarū ‘ażāban syadīdā(n), wa lanajziyannahum aswa'al-lażī kānū ya‘malūn(a).",
+            "idn": "Maka sungguh, akan Kami timpakan azab yang keras kepada orang-orang yang kafir itu dan sungguh, akan Kami beri balasan mereka dengan seburuk-buruk balasan terhadap apa yang telah mereka kerjakan."
+        },
+        {
+            "id": 4246,
+            "surah": 41,
+            "nomor": 28,
+            "ar": "ذٰلِكَ جَزَاۤءُ اَعْدَاۤءِ اللّٰهِ النَّارُ لَهُمْ فِيْهَا دَارُ الْخُلْدِ ۗجَزَاۤءً ۢبِمَا كَانُوْا بِاٰيٰتِنَا يَجْحَدُوْنَ",
+            "tr": "Żālika jazā'u a‘dā'illāhin-nāru lahum fīhā dārul-khuld(i), jazā'am bimā kānū bi'āyātinā yajḥadūn(a).",
+            "idn": "Demikianlah balasan (terhadap) musuh-musuh Allah (yaitu) neraka; mereka mendapat tempat tinggal yang kekal di dalamnya sebagai balasan atas keingkaran mereka terhadap ayat-ayat Kami."
+        },
+        {
+            "id": 4247,
+            "surah": 41,
+            "nomor": 29,
+            "ar": "وَقَالَ الَّذِيْنَ كَفَرُوْا رَبَّنَآ اَرِنَا الَّذَيْنِ اَضَلّٰنَا مِنَ الْجِنِّ وَالْاِنْسِ نَجْعَلْهُمَا تَحْتَ اَقْدَامِنَا لِيَكُوْنَا مِنَ الْاَسْفَلِيْنَ",
+            "tr": "wa qālal-lażīna kafarū rabbanā arinal-lażaini aḍallānā minal-jinni wal-insi naj‘alhumā taḥta aqdāminā liyakūnā minal-asfalīn(a).",
+            "idn": "Dan orang-orang yang kafir berkata, “Ya Tuhan kami, perlihatkanlah kepada kami dua golongan yang telah menyesatkan kami yaitu (golongan) jin dan manusia, agar kami letakkan keduanya di bawah telapak kaki kami agar kedua golongan itu menjadi yang paling bawah (hina).”"
+        },
+        {
+            "id": 4248,
+            "surah": 41,
+            "nomor": 30,
+            "ar": "اِنَّ الَّذِيْنَ قَالُوْا رَبُّنَا اللّٰهُ ثُمَّ اسْتَقَامُوْا تَتَنَزَّلُ عَلَيْهِمُ الْمَلٰۤىِٕكَةُ اَلَّا تَخَافُوْا وَلَا تَحْزَنُوْا وَاَبْشِرُوْا بِالْجَنَّةِ الَّتِيْ كُنْتُمْ تُوْعَدُوْنَ",
+            "tr": "innal-lażīna qālū rabbunallāhu ṡummastaqāmū tatanazzalu ‘alaihimul-malā'ikatu allā takhāfū wa lā taḥzanū wa absyirū bil-jannatil-latī kuntum tū‘adūn(a).",
+            "idn": "Sesungguhnya orang-orang yang berkata, “Tuhan kami adalah Allah” kemudian mereka meneguhkan pendirian mereka, maka malaikat-malaikat akan turun kepada mereka (dengan berkata), “Janganlah kamu merasa takut dan janganlah kamu bersedih hati; dan bergembiralah kamu dengan (memperoleh) surga yang telah dijanjikan kepadamu.”"
+        },
+        {
+            "id": 4249,
+            "surah": 41,
+            "nomor": 31,
+            "ar": "نَحْنُ اَوْلِيَاۤؤُكُمْ فِى الْحَيٰوةِ الدُّنْيَا وَفِى الْاٰخِرَةِ ۚوَلَكُمْ فِيْهَا مَا تَشْتَهِيْٓ اَنْفُسُكُمْ وَلَكُمْ فِيْهَا مَا تَدَّعُوْنَ ۗ ",
+            "tr": "naḥnu auliyā'ukum fil-ḥayātid-dun-yā wa fil-ākhirah(ti), wa lakum fīhā mā tasytahī anfusukum wa lakum fīhā mā tadda‘ūn(a).",
+            "idn": "Kamilah pelindung-pelindungmu dalam kehidupan dunia dan akhirat; di dalamnya (surga) kamu memperoleh apa yang kamu inginkan dan memperoleh apa yang kamu minta."
+        },
+        {
+            "id": 4250,
+            "surah": 41,
+            "nomor": 32,
+            "ar": "نُزُلًا مِّنْ غَفُوْرٍ رَّحِيْمٍ ࣖ ",
+            "tr": "nuzulam min gafūrir raḥīm(in).",
+            "idn": "Sebagai penghormatan (bagimu) dari (Allah) Yang Maha Pengampun, Maha Penyayang."
+        },
+        {
+            "id": 4251,
+            "surah": 41,
+            "nomor": 33,
+            "ar": "وَمَنْ اَحْسَنُ قَوْلًا مِّمَّنْ دَعَآ اِلَى اللّٰهِ وَعَمِلَ صَالِحًا وَّقَالَ اِنَّنِيْ مِنَ الْمُسْلِمِيْنَ ",
+            "tr": "wa man aḥsanu qaulam mimman da‘ā ilallāhi wa ‘amila ṣāliḥaw wa qāla innanī minal-muslimīn(a).",
+            "idn": "Dan siapakah yang lebih baik perkataannya daripada orang yang menyeru kepada Allah dan mengerjakan kebajikan dan berkata, “Sungguh, aku termasuk orang-orang muslim (yang berserah diri)?”"
+        },
+        {
+            "id": 4252,
+            "surah": 41,
+            "nomor": 34,
+            "ar": "وَلَا تَسْتَوِى الْحَسَنَةُ وَلَا السَّيِّئَةُ ۗاِدْفَعْ بِالَّتِيْ هِيَ اَحْسَنُ فَاِذَا الَّذِيْ بَيْنَكَ وَبَيْنَهٗ عَدَاوَةٌ كَاَنَّهٗ وَلِيٌّ حَمِيْمٌ  ",
+            "tr": "wa lā tastawil-ḥasanatu wa las-sayyi'ah(tu), idfa‘ bil-latī hiya aḥsanu fa'iżal-lażī bainaka wa bainahū ‘adāwatun ka'annahū waliyyun ḥamīm(un).",
+            "idn": "Dan tidaklah sama kebaikan dengan kejahatan. Tolaklah (kejahatan itu) dengan cara yang lebih baik, sehingga orang yang ada rasa permusuhan an-tara kamu dan dia akan seperti teman yang setia."
+        },
+        {
+            "id": 4253,
+            "surah": 41,
+            "nomor": 35,
+            "ar": "وَمَا يُلَقّٰىهَآ اِلَّا الَّذِيْنَ صَبَرُوْاۚ وَمَا يُلَقّٰىهَآ اِلَّا ذُوْ حَظٍّ عَظِيْمٍ",
+            "tr": "wa mā yulaqqāhā illal-lażīna ṣabarū, wa mā yulaqqāhā illā żū ḥaẓẓin ‘aẓīm(in).",
+            "idn": "Dan (sifat-sifat yang baik itu) tidak akan dianugerahkan kecuali kepada orang-orang yang sabar dan tidak dianugerahkan kecuali kepada orang-orang yang mempunyai keberuntungan yang besar."
+        },
+        {
+            "id": 4254,
+            "surah": 41,
+            "nomor": 36,
+            "ar": "وَاِمَّا يَنْزَغَنَّكَ مِنَ الشَّيْطٰنِ نَزْغٌ فَاسْتَعِذْ بِاللّٰهِ ۗاِنَّهٗ هُوَ السَّمِيْعُ الْعَلِيْمُ ",
+            "tr": "wa immā yanzagannaka minasy-syaiṭāni nazgun fasta‘iż billāh(i), innahū huwas-samī‘ul-‘alīm(u).",
+            "idn": "Dan jika setan mengganggumu dengan suatu godaan, maka mohonlah perlindungan kepada Allah. Sungguh, Dialah Yang Maha Mendengar, Maha Mengetahui."
+        },
+        {
+            "id": 4255,
+            "surah": 41,
+            "nomor": 37,
+            "ar": "وَمِنْ اٰيٰتِهِ الَّيْلُ وَالنَّهَارُ وَالشَّمْسُ وَالْقَمَرُۗ  لَا تَسْجُدُوْا لِلشَّمْسِ وَلَا لِلْقَمَرِ وَاسْجُدُوْا لِلّٰهِ الَّذِيْ خَلَقَهُنَّ اِنْ كُنْتُمْ اِيَّاهُ تَعْبُدُوْنَ  ",
+            "tr": "wa min āyātihil-lailu wan-nahāru wasy-syamsu wal-qamar(u), lā tasjudū lisy-syamsi wa lā lil-qamari wasjudū lillāhil-lażī khalaqahunna in kuntum iyyāhu ta‘budūn(a).",
+            "idn": "Dan sebagian dari tanda-tanda kebesaran-Nya ialah malam, siang, mata-hari dan bulan. Janganlah bersujud kepada matahari dan jangan (pula) kepada bulan, tetapi bersujudlah kepada Allah yang menciptakannya, jika kamu hanya menyembah kepada-Nya."
+        },
+        {
+            "id": 4256,
+            "surah": 41,
+            "nomor": 38,
+            "ar": "فَاِنِ اسْتَكْبَرُوْا فَالَّذِيْنَ عِنْدَ رَبِّكَ يُسَبِّحُوْنَ لَهٗ بِالَّيْلِ وَالنَّهَارِ وَهُمْ لَا يَسْـَٔمُوْنَ ۩",
+            "tr": "fa inistakbarū fal-lażīna ‘inda rabbika yusabbiḥūna lahū bil-laili wan-nahāri wa hum lā yas'amūn(a).",
+            "idn": "Jika mereka menyombongkan diri, maka mereka (malaikat) yang di sisi Tuhanmu bertasbih kepada-Nya pada malam dan siang hari, sedang mereka tidak pernah jemu."
+        },
+        {
+            "id": 4257,
+            "surah": 41,
+            "nomor": 39,
+            "ar": "وَمِنْ اٰيٰتِهٖٓ اَنَّكَ تَرَى الْاَرْضَ خَاشِعَةً فَاِذَآ اَنْزَلْنَا عَلَيْهَا الْمَاۤءَ اهْتَزَّتْ وَرَبَتْۗ اِنَّ الَّذِيْٓ اَحْيَاهَا لَمُحْيِ الْمَوْتٰى ۗاِنَّهٗ عَلٰى كُلِّ شَيْءٍ قَدِيْرٌ ",
+            "tr": "wa min āyātihī annaka taral-arḍa khāsyi‘atan fa iżā anzalnā ‘alaihal-mā'ahtazzat wa rabat, innal-lażī aḥyāhā lamuḥyil-mautā, innahū ‘alā kulli syai'in qadīr(un).",
+            "idn": "Dan sebagian dari tanda-tanda (kebesaran)-Nya, engkau melihat bumi itu kering dan tandus, tetapi apabila Kami turunkan hujan di atasnya, niscaya ia bergerak dan subur. Sesungguhnya (Allah) yang menghidupkannya pasti dapat menghidupkan yang mati; sesungguhnya Dia Mahakuasa atas segala sesuatu."
+        },
+        {
+            "id": 4258,
+            "surah": 41,
+            "nomor": 40,
+            "ar": "اِنَّ الَّذِيْنَ يُلْحِدُوْنَ فِيْٓ اٰيٰتِنَا لَا يَخْفَوْنَ عَلَيْنَاۗ اَفَمَنْ يُّلْقٰى فِى النَّارِ خَيْرٌ اَمَّنْ يَّأْتِيْٓ اٰمِنًا يَّوْمَ الْقِيٰمَةِ ۗاِعْمَلُوْا مَا شِئْتُمْ ۙاِنَّهٗ بِمَا تَعْمَلُوْنَ بَصِيْرٌ ",
+            "tr": "innal-lażīna yulḥidūna fī āyātinā lā yakhfauna ‘alainā, afamay yulqā fin-nāri khairun am may ya'tī āminay yaumal-qiyāmah(ti), i‘malū mā syi'tum, innahū bimā ta‘malūna baṣīr(un).",
+            "idn": "Sesungguhnya orang-orang yang mengingkari tanda-tanda (kebesaran) Kami, mereka tidak tersembunyi dari Kami. Apakah orang-orang yang dilemparkan ke dalam neraka yang lebih baik ataukah mereka yang datang dengan aman sentosa pada hari Kiamat? Lakukanlah apa yang kamu kehendaki! Sungguh, Dia Maha Melihat apa yang kamu kerjakan."
+        },
+        {
+            "id": 4259,
+            "surah": 41,
+            "nomor": 41,
+            "ar": "اِنَّ الَّذِيْنَ كَفَرُوْا بِالذِّكْرِ لَمَّا جَاۤءَهُمْ ۗوَاِنَّهٗ لَكِتٰبٌ عَزِيْزٌ ۙ",
+            "tr": "innal-lażīna kafarū biż-żikri lammā jā'ahum, wa innahū lakitābun ‘azīz(un).",
+            "idn": "Sesungguhnya orang-orang yang mengingkari Al-Qur'an ketika (Al-Qur'an) itu disampaikan kepada mereka (mereka itu pasti akan celaka), dan sesungguhnya (Al-Qur'an) itu adalah Kitab yang mulia,"
+        },
+        {
+            "id": 4260,
+            "surah": 41,
+            "nomor": 42,
+            "ar": "لَّا يَأْتِيْهِ الْبَاطِلُ مِنْۢ بَيْنِ يَدَيْهِ وَلَا مِنْ خَلْفِهٖ ۗتَنْزِيْلٌ مِّنْ حَكِيْمٍ حَمِيْدٍ ",
+            "tr": "lā ya'tīhil-bāṭilu mim baini yadaihi wa lā min khalfih(ī), tanzīlum min ḥakīmin ḥamīd(in).",
+            "idn": "yang) tidak akan didatangi oleh kebatilan baik dari depan maupun dari belakang (pada masa lalu dan yang akan datang), yang diturunkan dari Tuhan Yang Mahabijaksana, Maha Terpuji."
+        },
+        {
+            "id": 4261,
+            "surah": 41,
+            "nomor": 43,
+            "ar": "مَا يُقَالُ لَكَ اِلَّا مَا قَدْ قِيْلَ لِلرُّسُلِ مِنْ قَبْلِكَ ۗاِنَّ رَبَّكَ لَذُوْ مَغْفِرَةٍ وَّذُوْ عِقَابٍ اَلِيْمٍ ",
+            "tr": "mā yuqālu laka illā mā qad qīla lir-rusuli min qablik(a), inna rabbaka lażū magfiratiw wa żū ‘iqābin alīm(in).",
+            "idn": "Apa yang dikatakan (oleh orang-orang kafir) kepadamu tidak lain adalah apa yang telah dikatakan kepada rasul-rasul sebelummu. Sungguh, Tuhanmu mempunyai ampunan dan azab yang pedih."
+        },
+        {
+            "id": 4262,
+            "surah": 41,
+            "nomor": 44,
+            "ar": "وَلَوْ جَعَلْنٰهُ قُرْاٰنًا اَعْجَمِيًّا لَّقَالُوْا لَوْلَا فُصِّلَتْ اٰيٰتُهٗ ۗ ءَاَ۬عْجَمِيٌّ وَّعَرَبِيٌّ ۗ قُلْ هُوَ لِلَّذِيْنَ اٰمَنُوْا هُدًى وَّشِفَاۤءٌ ۗوَالَّذِيْنَ لَا يُؤْمِنُوْنَ فِيْٓ اٰذَانِهِمْ وَقْرٌ وَّهُوَ عَلَيْهِمْ عَمًىۗ اُولٰۤىِٕكَ يُنَادَوْنَ مِنْ مَّكَانٍۢ بَعِيْدٍ ࣖ",
+            "tr": "wa lau ja‘alnāhu qur'ānan a‘jamiyyal laqālū lau lā fuṣṣilat āyātuh(ū), a'a‘jamiyyuw wa ‘arabiyy(un), qul huwa lil-lażīna āmanū hudaw wa syifā'(un), wal-lażīna lā yu'minūna fī āżānihim waqruw wa huwa ‘alaihim ‘amā(n), ulā'ika yunādauna mim makānim ba‘īd(in).",
+            "idn": "Dan sekiranya Al-Qur'an Kami jadikan sebagai bacaan dalam bahasa selain bahasa Arab niscaya mereka mengatakan, “Mengapa tidak dijelaskan ayat-ayatnya?” Apakah patut (Al-Qur'an) dalam bahasa selain bahasa Arab sedang (rasul), orang Arab? Katakanlah, “Al-Qur'an adalah petunjuk dan penyembuh bagi orang-orang yang beriman. Dan orang-orang yang tidak beriman pada telinga mereka ada sumbatan, dan (Al-Qur'an) itu merupakan kegelapan bagi mereka. Mereka itu (seperti) orang-orang yang dipanggil dari tempat yang jauh.”"
+        },
+        {
+            "id": 4263,
+            "surah": 41,
+            "nomor": 45,
+            "ar": "وَلَقَدْ اٰتَيْنَا مُوْسَى الْكِتٰبَ فَاخْتُلِفَ فِيْهِ ۗوَلَوْلَا كَلِمَةٌ سَبَقَتْ مِنْ رَّبِّكَ لَقُضِيَ بَيْنَهُمْ ۗوَاِنَّهُمْ لَفِيْ شَكٍّ مِّنْهُ مُرِيْبٍ ",
+            "tr": "wa laqad ātainā mūsal-kitāba fakhtulifa fīh(i), wa lau lā kalimatun sabaqat mir rabbika laquḍiya bainahum, wa innahum lafī syakkim minhu murīb(in).",
+            "idn": "Dan sungguh, telah Kami berikan kepada Musa Kitab (Taurat) lalu diperselisihkan. Sekiranya tidak ada keputusan yang terdahulu dari Tuhanmu, orang-orang kafir itu pasti sudah dibinasakan. Dan sesungguhnya mereka benar-benar dalam keraguan yang mendalam terhadapnya."
+        },
+        {
+            "id": 4264,
+            "surah": 41,
+            "nomor": 46,
+            "ar": "مَنْ عَمِلَ صَالِحًا فَلِنَفْسِهٖ ۙوَمَنْ اَسَاۤءَ فَعَلَيْهَا ۗوَمَا رَبُّكَ بِظَلَّامٍ لِّلْعَبِيْدِ  ۔ ",
+            "tr": "man ‘amila ṣāliḥan fa linafsih(ī), wa man asā'a fa ‘alaihā, wa mā rabbuka biẓallāmil lil-‘abīd(i).",
+            "idn": "Barangsiapa mengerjakan kebajikan maka (pahalanya) untuk dirinya sendiri dan barangsiapa berbuat jahat maka (dosanya) menjadi tanggungan dirinya sendiri. Dan Tuhanmu sama sekali tidak menzalimi hamba-hamba(-Nya)."
+        },
+        {
+            "id": 4265,
+            "surah": 41,
+            "nomor": 47,
+            "ar": "۞ اِلَيْهِ يُرَدُّ عِلْمُ السَّاعَةِ ۗوَمَا تَخْرُجُ مِنْ ثَمَرٰتٍ مِّنْ اَكْمَامِهَا وَمَا تَحْمِلُ مِنْ اُنْثٰى وَلَا تَضَعُ اِلَّا بِعِلْمِهٖ ۗوَيَوْمَ يُنَادِيْهِمْ اَيْنَ شُرَكَاۤءِيْۙ قَالُوْٓا اٰذَنّٰكَ مَا مِنَّا مِنْ شَهِيْدٍ ۚ ",
+            "tr": "ilaihi yuraddu ‘ilmus-sā‘ah(ti), wa mā takhruju min ṡamarātim min akmāmihā wa mā taḥmilu min unṡā wa lā taḍa‘u illā bi‘ilmih(ī), wa yauma yunādīhim aina syurakā'ī, qālū āżannāka mā minnā min syahīd(in).",
+            "idn": "Kepada-Nyalah ilmu tentang hari Kiamat itu dikembalikan. Tidak ada buah-buahan yang keluar dari kelopaknya dan tidak seorang perempuan pun yang mengandung dan yang melahirkan, melainkan semuanya dengan sepengetahuan-Nya. Pada hari ketika Dia (Allah) menyeru mereka, “Dimanakah sekutu-sekutu-Ku itu?” Mereka menjawab, “Kami nyatakan kepada Engkau bahwa tidak ada seorang pun di antara kami yang dapat memberi kesaksian (bahwa Engkau mempunyai sekutu).”"
+        },
+        {
+            "id": 4266,
+            "surah": 41,
+            "nomor": 48,
+            "ar": "وَضَلَّ عَنْهُمْ مَّا كَانُوْا يَدْعُوْنَ مِنْ قَبْلُ وَظَنُّوْا مَا لَهُمْ مِّنْ مَّحِيْصٍ ",
+            "tr": "wa ḍalla ‘anhum mā kānū yad‘ūna min qablu wa ẓannū mā lahum mim maḥīṣ(in).",
+            "idn": "Dan lenyaplah dari mereka apa yang dahulu selalu mereka sembah, dan mereka pun tahu bahwa tidak ada jalan keluar (dari azab Allah) bagi mereka."
+        },
+        {
+            "id": 4267,
+            "surah": 41,
+            "nomor": 49,
+            "ar": "لَا يَسْـَٔمُ الْاِنْسَانُ مِنْ دُعَاۤءِ الْخَيْرِۖ وَاِنْ مَّسَّهُ الشَّرُّ فَيَـُٔوْسٌ قَنُوْطٌ ",
+            "tr": "lā yas'amul-insānu min du‘ā'il-khair(i), wa im massahusy-syarru fa ya'ūsun qanūṭ(un).",
+            "idn": "Manusia tidak jemu memohon kebaikan, dan jika ditimpa malapetaka, mereka berputus asa dan hilang harapannya."
+        },
+        {
+            "id": 4268,
+            "surah": 41,
+            "nomor": 50,
+            "ar": "وَلَىِٕنْ اَذَقْنٰهُ رَحْمَةً مِّنَّا مِنْۢ بَعْدِ ضَرَّاۤءَ مَسَّتْهُ لَيَقُوْلَنَّ هٰذَا لِيْۙ وَمَآ اَظُنُّ السَّاعَةَ قَاۤىِٕمَةًۙ وَّلَىِٕنْ رُّجِعْتُ اِلٰى رَبِّيْٓ اِنَّ لِيْ عِنْدَهٗ لَلْحُسْنٰىۚ فَلَنُنَبِّئَنَّ الَّذِيْنَ كَفَرُوْا بِمَا عَمِلُوْاۖ وَلَنُذِيْقَنَّهُمْ مِّنْ عَذَابٍ غَلِيْظٍ ",
+            "tr": "wa la'in ażaqnāhu raḥmatam minnā mim ba‘di ḍarrā'a massathu layaqūlunna hāżā lī, wa mā aẓunnus-sā‘ata qā'imah(tan), wa la'ir ruji‘tu ilā rabbī inna lī ‘indahū lal-ḥusnā, fa lanunabbi'annal-lażīna kafarū bimā ‘amilū, wa lanużīqannahum min ‘ażābin galīẓ(in).",
+            "idn": "Dan jika Kami berikan kepadanya suatu rahmat dari Kami setelah ditimpa kesusahan, pastilah dia berkata, “Ini adalah hakku, dan aku tidak yakin bahwa hari Kiamat itu akan terjadi. Dan jika aku dikembalikan kepada Tuhanku, sesungguhnya aku akan memperoleh kebaikan di sisi-Nya.” Maka sungguh, akan Kami beritahukan kepada orang-orang kafir tentang apa yang telah mereka kerjakan, dan sungguh, akan Kami timpakan kepada mereka azab yang berat."
+        },
+        {
+            "id": 4269,
+            "surah": 41,
+            "nomor": 51,
+            "ar": "وَاِذَآ اَنْعَمْنَا عَلَى الْاِنْسَانِ اَعْرَضَ وَنَاٰ بِجَانِبِهٖۚ وَاِذَا مَسَّهُ الشَّرُّ فَذُوْ دُعَاۤءٍ عَرِيْضٍ ",
+            "tr": "wa iżā an‘amnā ‘alal-insāni a‘raḍa wa na'ā bijānibih(ī), wa iżā massahusy-syarru fażū du‘ā'in ‘arīḍ(in).",
+            "idn": "Dan apabila Kami berikan nikmat kepada manusia, dia berpaling dan menjauhkan diri (dengan sombong); tetapi apabila ditimpa malapetaka maka dia banyak berdoa."
+        },
+        {
+            "id": 4270,
+            "surah": 41,
+            "nomor": 52,
+            "ar": "قُلْ اَرَءَيْتُمْ اِنْ كَانَ مِنْ عِنْدِ اللّٰهِ ثُمَّ كَفَرْتُمْ بِهٖ مَنْ اَضَلُّ مِمَّنْ هُوَ فِيْ شِقَاقٍۢ بَعِيْدٍ ",
+            "tr": "qul ara'aitum in kāna min ‘indillāhi ṡumma kafartum bihī man aḍallu mimman huwa fī syiqāqim ba‘īd(in).",
+            "idn": "Katakanlah, “Bagaimana pendapatmu jika (Al-Qur'an) itu datang dari sisi Allah, kemudian kamu mengingkarinya. Siapakah yang lebih sesat daripada orang yang selalu berada dalam penyimpangan yang jauh (dari kebenaran)?”"
+        },
+        {
+            "id": 4271,
+            "surah": 41,
+            "nomor": 53,
+            "ar": "سَنُرِيْهِمْ اٰيٰتِنَا فِى الْاٰفَاقِ وَفِيْٓ اَنْفُسِهِمْ حَتّٰى يَتَبَيَّنَ لَهُمْ اَنَّهُ الْحَقُّۗ اَوَلَمْ يَكْفِ بِرَبِّكَ اَنَّهٗ عَلٰى كُلِّ شَيْءٍ شَهِيْدٌ ",
+            "tr": "sanurīhim āyātinā fil-āfāqi wa fī anfusihim ḥattā yatabayyana lahum annahul-ḥaqq(u), awalam yakfi birabbika annahū ‘alā kulli syai'in syahīd(un).",
+            "idn": "Kami akan memperlihatkan kepada mereka tanda-tanda (kebesaran) Kami di segenap penjuru dan pada diri mereka sendiri, sehingga jelaslah bagi mereka bahwa Al-Qur'an itu adalah benar. Tidak cukupkah (bagi kamu) bahwa Tuhanmu menjadi saksi atas segala sesuatu?"
+        },
+        {
+            "id": 4272,
+            "surah": 41,
+            "nomor": 54,
+            "ar": "اَلَآ اِنَّهُمْ  فِيْ مِرْيَةٍ مِّنْ لِّقَاۤءِ رَبِّهِمْ ۗ اَلَآ اِنَّهٗ بِكُلِّ شَيْءٍ مُّحِيْطٌ ࣖ",
+            "tr": "alā innahum fī miryatim mil liqā'i rabbihim, alā innahū bikulli syai'im muḥīṭ(un).",
+            "idn": "Ingatlah, sesungguhnya mereka dalam keraguan tentang pertemuan dengan Tuhan mereka. Ingatlah, sesungguhnya Dia Maha Meliputi segala sesuatu.  "
+        }
+    ],
+    "surat_selanjutnya": {
+        "id": 42,
+        "nomor": 42,
+        "nama": "الشورى",
+        "nama_latin": "Asy-Syura",
+        "jumlah_ayat": 53,
+        "tempat_turun": "mekah",
+        "arti": "Musyawarah",
+        "deskripsi": "Surat Asy Syuura terdiri atas 53 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Fushshilat. Dinamai dengan <i>Asy Syuura</i> (musyawarat) diambil dari perkataan <i>Syuura</i> yang terdapat pada ayat 38 surat ini. Dalam ayat tersebut diletakkan salah satu dari dasar-dasar pemerintahan Islam ialah musyawarat. Dinamai juga <i>Haa Miim 'Ain Siin Qaaf</i> karena surat ini dimulai dengan huruf-huruf hijaiyah itu.",
+        "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/042.mp3"
+    },
+    "surat_sebelumnya": {
+        "id": 40,
+        "nomor": 40,
+        "nama": "غافر",
+        "nama_latin": "Gafir",
+        "jumlah_ayat": 85,
+        "tempat_turun": "mekah",
+        "arti": "Maha Pengampun",
+        "deskripsi": "Surat Al Mu'min terdiri atas 85 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Az Zumar. Dinamai <i>Al Mu'min</i> (Orang yang beriman), berhubung dengan perkataan <i>mukmin</i> yang terdapat pada ayat 28 surat ini. Pada ayat 28 diterangkan bahwa salah seorang dari kaum Fir'aun telah beriman kepada Nabi Musa a.s. dengan menyembunyikan imannya kepada kaumnya, setelah mendengar keterangan dan melihat mukjizat yang dikemukakan oleh Nabi Musa a.s. Hati kecil orang ini mencela Fir'aun dan kaumnya yang tidak mau beriman kepada Nabi Musa a.s., sekalipun telah dikemukakan keterangan dan mukjizat yang diminta mereka.<br>Dinamakan pula <i>Ghafir</i> (yang mengampuni), karena ada hubungannya dengan kalimat <i>Ghafir</i> yang terdapat pada ayat 3 surat ini. Ayat ini mengingatkan bahwa <i>Maha Pengampun</i> dan <i>Maha Penerima Taubat</i> adalah sebagian dari sifat-sifat Allah, karena itu hamba-hamba Allah tidak usah khawatir terhadap  perbuatan-perbuatan dosa yang telah terlanjur mereka lakukan, semuanya itu akan diampuni Allah asal benar-benar memohon ampun dan bertaubat kepada-Nya dan berjanji tidak akan mengerjakan  perbuatan-perbuatan dosa itu lagi. Dan surat ini dinamai <i>Dzit Thaul</i> (Yang Mempunyai Kurnia) karena perkataan tersebut terdapat pada ayat 3.",
+        "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/040.mp3"
+    }
+}

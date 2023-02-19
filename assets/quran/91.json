@@ -1,0 +1,155 @@
+{
+    "nomor": 91,
+    "nama": "الشمس",
+    "nama_latin": "Asy-Syams",
+    "jumlah_ayat": 15,
+    "tempat_turun": "mekah",
+    "arti": "Matahari",
+    "deskripsi": "Surat Asy Syams terdiri atas 15 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Al Qadar.  Dinamai <i>Asy Syams</i> (matahari) diambil dari perkataan <i>Asy Syams</i> yang terdapat pada ayat permulaan surat ini.",
+    "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/091.mp3",
+    "status": true,
+    "ayat": [
+        {
+            "id": 6044,
+            "surah": 91,
+            "nomor": 1,
+            "ar": "وَالشَّمْسِ وَضُحٰىهَاۖ",
+            "tr": "wasy-syamsi wa ḍuḥāhā.",
+            "idn": "Demi matahari dan sinarnya pada pagi hari,"
+        },
+        {
+            "id": 6045,
+            "surah": 91,
+            "nomor": 2,
+            "ar": "وَالْقَمَرِ اِذَا تَلٰىهَاۖ",
+            "tr": "wal-qamari iżā talāhā.",
+            "idn": "demi bulan apabila mengiringinya,"
+        },
+        {
+            "id": 6046,
+            "surah": 91,
+            "nomor": 3,
+            "ar": "وَالنَّهَارِ اِذَا جَلّٰىهَاۖ",
+            "tr": "wan-nahāri iżā jallāhā.",
+            "idn": "demi siang apabila menampakkannya,"
+        },
+        {
+            "id": 6047,
+            "surah": 91,
+            "nomor": 4,
+            "ar": "وَالَّيْلِ اِذَا يَغْشٰىهَاۖ",
+            "tr": "wal-laili iżā yagsyāhā.",
+            "idn": "demi malam apabila menutupinya (gelap gulita),"
+        },
+        {
+            "id": 6048,
+            "surah": 91,
+            "nomor": 5,
+            "ar": "وَالسَّمَاۤءِ وَمَا بَنٰىهَاۖ",
+            "tr": "was-samā'i wa mā banāhā.",
+            "idn": "demi langit serta pembinaannya (yang menakjubkan),"
+        },
+        {
+            "id": 6049,
+            "surah": 91,
+            "nomor": 6,
+            "ar": "وَالْاَرْضِ وَمَا طَحٰىهَاۖ",
+            "tr": "wal-arḍi wa mā ṭaḥāhā.",
+            "idn": "demi bumi serta penghamparannya,"
+        },
+        {
+            "id": 6050,
+            "surah": 91,
+            "nomor": 7,
+            "ar": "وَنَفْسٍ وَّمَا سَوّٰىهَاۖ",
+            "tr": "wa nafsiw wa mā sawwāhā.",
+            "idn": "demi jiwa serta penyempurnaan (ciptaan)nya,"
+        },
+        {
+            "id": 6051,
+            "surah": 91,
+            "nomor": 8,
+            "ar": "فَاَلْهَمَهَا فُجُوْرَهَا وَتَقْوٰىهَاۖ",
+            "tr": "fa alhamahā fujūrahā wa taqwāhā.",
+            "idn": "maka Dia mengilhamkan kepadanya (jalan) kejahatan dan ketakwaannya,"
+        },
+        {
+            "id": 6052,
+            "surah": 91,
+            "nomor": 9,
+            "ar": "قَدْ اَفْلَحَ مَنْ زَكّٰىهَاۖ",
+            "tr": "qad aflaḥa man zakkāhā.",
+            "idn": "sungguh beruntung orang yang menyucikannya (jiwa itu),"
+        },
+        {
+            "id": 6053,
+            "surah": 91,
+            "nomor": 10,
+            "ar": "وَقَدْ خَابَ مَنْ دَسّٰىهَاۗ",
+            "tr": "wa qad khāba man dassāhā.",
+            "idn": "dan sungguh rugi orang yang mengotorinya."
+        },
+        {
+            "id": 6054,
+            "surah": 91,
+            "nomor": 11,
+            "ar": "كَذَّبَتْ ثَمُوْدُ بِطَغْوٰىهَآ  ۖ",
+            "tr": "każżabat ṡamūdu biṭagwāhā.",
+            "idn": "(Kaum) samud telah mendustakan (rasulnya) karena mereka melampaui batas (zalim),"
+        },
+        {
+            "id": 6055,
+            "surah": 91,
+            "nomor": 12,
+            "ar": "اِذِ انْۢبَعَثَ اَشْقٰىهَاۖ",
+            "tr": "iżimba‘aṡa asyqāhā.",
+            "idn": "ketika bangkit orang yang paling celaka di antara mereka,"
+        },
+        {
+            "id": 6056,
+            "surah": 91,
+            "nomor": 13,
+            "ar": "فَقَالَ لَهُمْ رَسُوْلُ اللّٰهِ نَاقَةَ اللّٰهِ وَسُقْيٰهَاۗ",
+            "tr": "fa qāla lahum rasūlullāhi nāqatallāhi wa suqyāhā.",
+            "idn": "lalu Rasul Allah (Saleh) berkata kepada mereka, “(Biarkanlah) unta betina dari Allah ini dengan minumannya.”"
+        },
+        {
+            "id": 6057,
+            "surah": 91,
+            "nomor": 14,
+            "ar": "فَكَذَّبُوْهُ فَعَقَرُوْهَاۖ فَدَمْدَمَ عَلَيْهِمْ رَبُّهُمْ بِذَنْۢبِهِمْ فَسَوّٰىهَاۖ",
+            "tr": "fa każżabūhu fa ‘aqarūhā fa damdama ‘alaihim rabbuhum biżambihim fa sawwāhā.",
+            "idn": "Namun mereka mendustakannya dan menyembelihnya, karena itu Tuhan membinasakan mereka karena dosanya, lalu diratakan-Nya (dengan tanah),"
+        },
+        {
+            "id": 6058,
+            "surah": 91,
+            "nomor": 15,
+            "ar": "وَلَا يَخَافُ عُقْبٰهَا ࣖ",
+            "tr": "wa lā yakhāfu ‘uqbāhā.",
+            "idn": "dan Dia tidak takut terhadap akibatnya."
+        }
+    ],
+    "surat_selanjutnya": {
+        "id": 92,
+        "nomor": 92,
+        "nama": "الّيل",
+        "nama_latin": "Al-Lail",
+        "jumlah_ayat": 21,
+        "tempat_turun": "mekah",
+        "arti": "Malam",
+        "deskripsi": "Surat ini terdiri atas 21 ayat, termasuk golongan surat-surat Makkiyah, diturunkan sesudah surat Al A'laa. Surat ini dinamai <i>Al Lail</i> (malam), diambil dari perkataan <i>Al Lail</i> yang terdapat pada ayat pertama surat ini",
+        "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/092.mp3"
+    },
+    "surat_sebelumnya": {
+        "id": 90,
+        "nomor": 90,
+        "nama": "البلد",
+        "nama_latin": "Al-Balad",
+        "jumlah_ayat": 20,
+        "tempat_turun": "mekah",
+        "arti": "Negeri",
+        "deskripsi": "Surat Al Balad terdiri atas 20 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Qaaf. Dinamai <i>Al Balad</i>, diambil dari perkataan <i>Al Balad</i> yang terdapat  pada ayat pertama surat ini. Yang dimaksud dengan kota di sini ialah kota Mekah.",
+        "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/090.mp3"
+    }
+}

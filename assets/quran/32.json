@@ -1,0 +1,275 @@
+{
+    "nomor": 32,
+    "nama": "السّجدة",
+    "nama_latin": "As-Sajdah",
+    "jumlah_ayat": 30,
+    "tempat_turun": "mekah",
+    "arti": "Sajdah",
+    "deskripsi": "Surat As Sajdah terdiri atas 30 ayat termasuk golongan surat Makkiyah diturunkan sesudah surat Al Mu'minuun. Dinamakan <i>As Sajdah</i> berhubung pada surat ini terdapat ayat sajdah, yaitu ayat yang kelima belas.",
+    "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/032.mp3",
+    "status": true,
+    "ayat": [
+        {
+            "id": 3504,
+            "surah": 32,
+            "nomor": 1,
+            "ar": " الۤمّۤ ۗ ",
+            "tr": "alif lām mīm.",
+            "idn": "Alif Lam Mim."
+        },
+        {
+            "id": 3505,
+            "surah": 32,
+            "nomor": 2,
+            "ar": "تَنْزِيْلُ الْكِتٰبِ لَا رَيْبَ فِيْهِ مِنْ رَّبِّ الْعٰلَمِيْنَۗ ",
+            "tr": "tanzīlul-kitābi lā raiba fīhi mir rabbil-‘ālamīn(a).",
+            "idn": "Turunnya Al-Qur'an itu tidak ada keraguan padanya, (yaitu) dari Tuhan seluruh alam. "
+        },
+        {
+            "id": 3506,
+            "surah": 32,
+            "nomor": 3,
+            "ar": "اَمْ يَقُوْلُوْنَ افْتَرٰىهُ ۚ بَلْ هُوَ الْحَقُّ مِنْ رَّبِّكَ لِتُنْذِرَ قَوْمًا مَّآ اَتٰىهُمْ مِّنْ نَّذِيْرٍ مِّنْ قَبْلِكَ لَعَلَّهُمْ يَهْتَدُوْنَ",
+            "tr": "am yaqūlūnaftarāhu balhuwal-ḥaqqu mir rabbika litunżira qaumam mā atāhum min nażīrim min qablika la‘allahum yahtadūn(a).",
+            "idn": "Tetapi mengapa mereka (orang kafir) mengatakan, “Dia (Muhammad) telah mengada-adakannya.” Tidak, Al-Qur'an itu kebenaran (yang datang) dari Tuhanmu, agar engkau memberi peringatan kepada kaum yang belum pernah didatangi orang yang memberi peringatan sebelum engkau; agar mereka mendapat petunjuk."
+        },
+        {
+            "id": 3507,
+            "surah": 32,
+            "nomor": 4,
+            "ar": "اَللّٰهُ الَّذِيْ خَلَقَ السَّمٰوٰتِ وَالْاَرْضَ وَمَا بَيْنَهُمَا فِيْ سِتَّةِ اَيَّامٍ ثُمَّ اسْتَوٰى عَلَى الْعَرْشِۗ مَا لَكُمْ مِّنْ دُوْنِهٖ مِنْ وَّلِيٍّ وَّلَا شَفِيْعٍۗ  اَفَلَا تَتَذَكَّرُوْنَ",
+            "tr": "allāhul-lażī khalaqas-samāwāti wal-arḍa wa mā bainahumā fī sittati ayyāmin ṡummastawā ‘alal-‘arsy(i), mā lakum min dūnihī miw waliyyiw wa lā syafī‘(in), afalā tatażakkarūn(a).",
+            "idn": "Allah yang menciptakan langit dan bumi dan apa yang ada di antara keduanya dalam enam masa, kemudian Dia bersemayam di atas ‘Arsy. Bagimu tidak ada seorang pun penolong maupun pemberi syafaat selain Dia. Maka apakah kamu tidak memperhatikan?"
+        },
+        {
+            "id": 3508,
+            "surah": 32,
+            "nomor": 5,
+            "ar": "يُدَبِّرُ الْاَمْرَ مِنَ السَّمَاۤءِ اِلَى الْاَرْضِ ثُمَّ يَعْرُجُ اِلَيْهِ فِيْ يَوْمٍ كَانَ مِقْدَارُهٗٓ اَلْفَ سَنَةٍ مِّمَّا تَعُدُّوْنَ",
+            "tr": "yudabbirul-amra minas-samā'i ilal-arḍi ṡumma ya‘ruju ilaihi fī yaumin kāna miqdāruhū alfa sanatim mimmā ta‘uddūn(a).",
+            "idn": "Dia mengatur segala urusan dari langit ke bumi, kemudian (urusan) itu naik kepada-Nya dalam satu hari yang kadarnya (lamanya) adalah seribu tahun menurut perhitunganmu."
+        },
+        {
+            "id": 3509,
+            "surah": 32,
+            "nomor": 6,
+            "ar": "ذٰلِكَ عٰلِمُ الْغَيْبِ وَالشَّهَادَةِ الْعَزِيْزُ الرَّحِيْمُۙ ",
+            "tr": "Żālika ‘ālimul-gaibi wasy-syahādatil-‘azīzur-raḥīm(u).",
+            "idn": "Yang demikian itu, ialah Tuhan yang mengetahui yang gaib dan yang nyata, Yang Mahaperkasa, Maha Penyayang."
+        },
+        {
+            "id": 3510,
+            "surah": 32,
+            "nomor": 7,
+            "ar": "الَّذِيْٓ اَحْسَنَ كُلَّ شَيْءٍ خَلَقَهٗ وَبَدَاَ خَلْقَ الْاِنْسَانِ مِنْ طِيْنٍ",
+            "tr": "allażī aḥsana kulla syai'in khalaqahū wa bada'a khalqal-insāni min ṭīn(in).",
+            "idn": "Yang memperindah segala sesuatu yang Dia ciptakan dan yang memulai penciptaan manusia dari tanah,"
+        },
+        {
+            "id": 3511,
+            "surah": 32,
+            "nomor": 8,
+            "ar": "ثُمَّ جَعَلَ نَسْلَهٗ مِنْ سُلٰلَةٍ مِّنْ مَّاۤءٍ مَّهِيْنٍ ۚ ",
+            "tr": "Ṡumma ja‘ala naslahū min sulālatim mim mā'im mahīn(in).",
+            "idn": "kemudian Dia menjadikan keturunannya dari sari pati air yang hina (air mani)."
+        },
+        {
+            "id": 3512,
+            "surah": 32,
+            "nomor": 9,
+            "ar": "ثُمَّ سَوّٰىهُ وَنَفَخَ فِيْهِ مِنْ رُّوْحِهٖ وَجَعَلَ لَكُمُ السَّمْعَ وَالْاَبْصَارَ وَالْاَفْـِٕدَةَۗ قَلِيْلًا مَّا تَشْكُرُوْنَ ",
+            "tr": "Ṡumma sawwāhu wa nafakha fīhi mir rūḥihī wa ja‘ala lakumus-sam‘a wal-abṣāra wal-af'idah(ta), qalīlam mā tasykurūn(a).",
+            "idn": "Kemudian Dia menyempurnakannya dan meniupkan roh (ciptaan)-Nya ke dalam (tubuh)nya dan Dia menjadikan pendengaran, penglihatan dan hati bagimu, (tetapi) sedikit sekali kamu bersyukur."
+        },
+        {
+            "id": 3513,
+            "surah": 32,
+            "nomor": 10,
+            "ar": "وَقَالُوْٓا ءَاِذَا ضَلَلْنَا فِى الْاَرْضِ ءَاِنَّا لَفِيْ خَلْقٍ جَدِيْدٍ ەۗ بَلْ هُمْ بِلِقَاۤءِ رَبِّهِمْ كٰفِرُوْنَ ",
+            "tr": "wa qālū a'iżā ḍalalnā fil-arḍi a'innā lafī khalqin jadīd(in), bal hum biliqā'i rabbihim kāfirūn(a).",
+            "idn": "Dan mereka berkata, “Apakah apabila kami telah lenyap (hancur) di dalam tanah, kami akan berada dalam ciptaan yang baru?” Bahkan mereka mengingkari pertemuan dengan Tuhannya."
+        },
+        {
+            "id": 3514,
+            "surah": 32,
+            "nomor": 11,
+            "ar": "۞ قُلْ يَتَوَفّٰىكُمْ مَّلَكُ الْمَوْتِ الَّذِيْ وُكِّلَ بِكُمْ ثُمَّ اِلٰى رَبِّكُمْ تُرْجَعُوْنَ ࣖ ",
+            "tr": "qul yatawaffākum malakul-mautil-lażī wukkila bikum ṡumma ilā rabbikum turja‘ūn(a).",
+            "idn": "Katakanlah, “Malaikat maut yang diserahi untuk (mencabut nyawa)mu akan mematikan kamu, kemudian kepada Tuhanmu, kamu akan dikembalikan.”"
+        },
+        {
+            "id": 3515,
+            "surah": 32,
+            "nomor": 12,
+            "ar": "وَلَوْ تَرٰىٓ اِذِ الْمُجْرِمُوْنَ نَاكِسُوْا رُءُوْسِهِمْ عِنْدَ رَبِّهِمْۗ رَبَّنَآ اَبْصَرْنَا وَسَمِعْنَا فَارْجِعْنَا نَعْمَلْ صَالِحًا اِنَّا مُوْقِنُوْنَ ",
+            "tr": "wa lau tarā iżil-mujrimūna nākisū ru'ūsihim ‘inda rabbihim, rabbanā abṣarnā wa sami‘nā farji‘nā na‘mal ṣāliḥan innā mūqinūn(a).",
+            "idn": "Dan (alangkah ngerinya), jika sekiranya kamu melihat orang-orang yang berdosa itu menundukkan kepalanya di hadapan Tuhannya, (mereka berkata), “Ya Tuhan kami, kami telah melihat dan mendengar, maka kembalikanlah kami (ke dunia), niscaya kami akan mengerjakan kebajikan. Sungguh, kami adalah orang-orang yang yakin.”"
+        },
+        {
+            "id": 3516,
+            "surah": 32,
+            "nomor": 13,
+            "ar": "وَلَوْ شِئْنَا لَاٰتَيْنَا كُلَّ نَفْسٍ هُدٰىهَا وَلٰكِنْ حَقَّ الْقَوْلُ مِنِّيْ لَاَمْلَـَٔنَّ جَهَنَّمَ مِنَ الْجِنَّةِ وَالنَّاسِ اَجْمَعِيْنَ ",
+            "tr": "wa lau syi'nā la'ātainā kulla nafsin hudāhā wa lākin ḥaqqal-qaulu minnī la'amla'anna jahannama minal-jinnati wan-nāsi ajma‘īn(a).",
+            "idn": "Dan jika Kami menghendaki niscaya Kami berikan kepada setiap jiwa petunjuk (bagi)nya, tetapi telah ditetapkan perkataan (ketetapan) dari-Ku, “Pasti akan Aku penuhi neraka Jahanam dengan jin dan manusia bersama-sama."
+        },
+        {
+            "id": 3517,
+            "surah": 32,
+            "nomor": 14,
+            "ar": "فَذُوْقُوْا بِمَا نَسِيْتُمْ لِقَاۤءَ يَوْمِكُمْ هٰذَاۚ اِنَّا نَسِيْنٰكُمْ وَذُوْقُوْا عَذَابَ الْخُلْدِ بِمَا كُنْتُمْ تَعْمَلُوْنَ",
+            "tr": "fa żūqū bimā nasītum liqā'a yaumikum hāżā, innā nasīnākum wa żūqū ‘ażābal-khuldi bimā kuntum ta‘malūn(a).",
+            "idn": "Maka rasakanlah olehmu (azab ini) disebabkan kamu melalaikan pertemuan dengan harimu ini (hari Kiamat), sesungguhnya Kami pun melalaikan kamu dan rasakanlah azab yang kekal, atas apa yang telah kamu kerjakan.”"
+        },
+        {
+            "id": 3518,
+            "surah": 32,
+            "nomor": 15,
+            "ar": "اِنَّمَا يُؤْمِنُ بِاٰيٰتِنَا الَّذِيْنَ اِذَا ذُكِّرُوْا بِهَا خَرُّوْا سُجَّدًا وَّسَبَّحُوْا بِحَمْدِ رَبِّهِمْ وَهُمْ لَا يَسْتَكْبِرُوْنَ ۩ ",
+            "tr": "innamā yu'minu bi'āyātinal-lażīna iżā żukkirū bihā kharrū sujjadaw wa sabbaḥū biḥamdi rabbihim wa hum lā yastakbirūn(a).",
+            "idn": "Orang-orang yang beriman dengan ayat-ayat Kami, hanyalah orang-orang yang apabila diperingatkan dengannya (ayat-ayat Kami), mereka menyungkur sujud dan bertasbih serta memuji Tuhannya, dan mereka tidak menyombongkan diri."
+        },
+        {
+            "id": 3519,
+            "surah": 32,
+            "nomor": 16,
+            "ar": "تَتَجَافٰى جُنُوْبُهُمْ عَنِ الْمَضَاجِعِ يَدْعُوْنَ رَبَّهُمْ خَوْفًا وَّطَمَعًاۖ وَّمِمَّا رَزَقْنٰهُمْ يُنْفِقُوْنَ",
+            "tr": "tatajāfā junūbuhum ‘anil-maḍāji‘i yad‘ūna rabbahum khaufaw wa ṭama‘ā(n), wa mimmā razaqnāhum yunfiqūn(a).",
+            "idn": "Lambung mereka jauh dari tempat tidurnya, mereka berdoa kepada Tuhannya dengan rasa takut dan penuh harap, dan mereka menginfakkan sebagian dari rezeki yang Kami berikan kepada mereka."
+        },
+        {
+            "id": 3520,
+            "surah": 32,
+            "nomor": 17,
+            "ar": "فَلَا تَعْلَمُ نَفْسٌ مَّآ اُخْفِيَ لَهُمْ مِّنْ قُرَّةِ اَعْيُنٍۚ جَزَاۤءًۢ بِمَا كَانُوْا يَعْمَلُوْنَ",
+            "tr": "falā ta‘lamu nafsum mā ukhfiya lahum min qurrati a‘yun(in), jazā'am bimā kānū ya‘malūn(a).",
+            "idn": "Maka tidak seorang pun mengetahui apa yang disembunyikan untuk mereka yaitu (bermacam-macam nikmat) yang menyenangkan hati sebagai balasan terhadap apa yang mereka kerjakan."
+        },
+        {
+            "id": 3521,
+            "surah": 32,
+            "nomor": 18,
+            "ar": "اَفَمَنْ كَانَ مُؤْمِنًا كَمَنْ كَانَ فَاسِقًاۗ  لَا يَسْتَوٗنَ",
+            "tr": "afaman kāna mu'minan kaman kāna fāsiqā(n), lā yastawūn(a).",
+            "idn": "Maka apakah orang yang beriman seperti orang yang fasik (kafir)?  Mereka tidak sama."
+        },
+        {
+            "id": 3522,
+            "surah": 32,
+            "nomor": 19,
+            "ar": "اَمَّا الَّذِيْنَ اٰمَنُوْا وَعَمِلُوا الصّٰلِحٰتِ فَلَهُمْ جَنّٰتُ الْمَأْوٰىۖ  نُزُلًا ۢبِمَا كَانُوْا يَعْمَلُوْنَ",
+            "tr": "ammal-lażīna āmanū wa ‘amiluṣ-ṣāliḥāti falahum jannātul-ma'wā, nuzulam bimā kānū ya‘malūn(a).",
+            "idn": "Adapun orang-orang yang beriman dan mengerjakan kebajikan, maka mereka akan mendapat surga-surga tempat kediaman, sebagai pahala atas apa yang telah mereka kerjakan."
+        },
+        {
+            "id": 3523,
+            "surah": 32,
+            "nomor": 20,
+            "ar": "وَاَمَّا الَّذِيْنَ فَسَقُوْا فَمَأْوٰىهُمُ النَّارُ كُلَّمَآ اَرَادُوْٓا اَنْ يَّخْرُجُوْا مِنْهَآ اُعِيْدُوْا فِيْهَا وَقِيْلَ لَهُمْ ذُوْقُوْا عَذَابَ النَّارِ الَّذِيْ كُنْتُمْ بِهٖ تُكَذِّبُوْنَ",
+            "tr": "wa ammal-lażīna fasaqū fa ma'wākumun nāru kullamā arādū ay yakhrujū minhā u‘īdū fīhā wa qīla lahum żūqū ‘ażāban nāril-lażī kuntum bihī tukażżibūn(a).",
+            "idn": "Dan adapun orang-orang yang fasik (kafir), maka tempat kediaman mereka adalah neraka. Setiap kali mereka hendak keluar darinya, mereka dikembalikan (lagi) ke dalamnya dan dikatakan kepada mereka, “Rasakanlah azab neraka yang dahulu kamu dustakan.”"
+        },
+        {
+            "id": 3524,
+            "surah": 32,
+            "nomor": 21,
+            "ar": "وَلَنُذِيْقَنَّهُمْ مِّنَ الْعَذَابِ الْاَدْنٰى دُوْنَ الْعَذَابِ الْاَكْبَرِ لَعَلَّهُمْ يَرْجِعُوْنَ",
+            "tr": "wa lanużīqannahum minal-‘ażābil-adnā dūnal-‘ażābil-akbari la‘allahum yarji‘ūn(a).",
+            "idn": "Dan pasti Kami timpakan kepada mereka sebagian siksa yang dekat (di dunia) sebelum azab yang lebih besar (di akhirat); agar mereka kembali (ke jalan yang benar)."
+        },
+        {
+            "id": 3525,
+            "surah": 32,
+            "nomor": 22,
+            "ar": "وَمَنْ اَظْلَمُ مِمَّنْ ذُكِّرَ بِاٰيٰتِ رَبِّهٖ ثُمَّ اَعْرَضَ عَنْهَا ۗاِنَّا مِنَ الْمُجْرِمِيْنَ مُنْتَقِمُوْنَ ࣖ",
+            "tr": "wa man aẓlamu mimman żukkira bi'āyāti rabbihī ṡumma a‘raḍa ‘anhā, innā minal-mujrimīna muntaqimūn(a).",
+            "idn": "Dan siapakah yang lebih zalim daripada orang yang telah diperingatkan dengan ayat-ayat Tuhannya, kemudian dia berpaling darinya? Sungguh, Kami akan memberikan balasan kepada orang-orang yang berdosa."
+        },
+        {
+            "id": 3526,
+            "surah": 32,
+            "nomor": 23,
+            "ar": "وَلَقَدْ اٰتَيْنَا مُوْسَى الْكِتٰبَ فَلَا تَكُنْ فِيْ مِرْيَةٍ مِّنْ لِّقَاۤىِٕهٖ وَجَعَلْنٰهُ هُدًى لِّبَنِيْٓ اِسْرَاۤءِيْلَۚ",
+            "tr": "wa laqad ātainā mūsal-kitāba falā takun fī miryatim mil liqā'ihī wa ja‘alnāhu hudal libanī isrā'īl(a).",
+            "idn": "Dan sungguh, telah Kami anugerahkan Kitab (Taurat) kepada Musa, maka janganlah engkau (Muhammad) ragu-ragu menerimanya (Al-Qur'an) dan Kami jadikan Kitab (Taurat) itu petunjuk bagi Bani Israil."
+        },
+        {
+            "id": 3527,
+            "surah": 32,
+            "nomor": 24,
+            "ar": "وَجَعَلْنَا مِنْهُمْ اَىِٕمَّةً يَّهْدُوْنَ بِاَمْرِنَا لَمَّا صَبَرُوْاۗ وَكَانُوْا بِاٰيٰتِنَا يُوْقِنُوْنَ",
+            "tr": "wa ja‘alnā minhum a'immatay yahdūna bi'amrinā lammā ṣabarū, wa kānū bi'āyātinā yūqinūn(a).",
+            "idn": "Dan Kami jadikan di antara mereka itu pemimpin-pemimpin yang memberi petunjuk dengan perintah Kami selama mereka sabar. Mereka meyakini ayat-ayat Kami."
+        },
+        {
+            "id": 3528,
+            "surah": 32,
+            "nomor": 25,
+            "ar": "اِنَّ رَبَّكَ هُوَ يَفْصِلُ بَيْنَهُمْ يَوْمَ الْقِيٰمَةِ فِيْمَا كَانُوْا فِيْهِ يَخْتَلِفُوْنَ",
+            "tr": "inna rabbaka huwa yafṣilu bainahum yaumal-qiyāmati fīmā kānū fīhi yakhtalifūn(a).",
+            "idn": "Sungguh Tuhanmu, Dia yang memberikan keputusan di antara mereka pada hari Kiamat tentang apa yang dahulu mereka perselisihkan padanya."
+        },
+        {
+            "id": 3529,
+            "surah": 32,
+            "nomor": 26,
+            "ar": "اَوَلَمْ يَهْدِ لَهُمْ كَمْ اَهْلَكْنَا مِنْ قَبْلِهِمْ مِّنَ الْقُرُوْنِ يَمْشُوْنَ فِيْ مَسٰكِنِهِمْ ۗاِنَّ فِيْ ذٰلِكَ لَاٰيٰتٍۗ اَفَلَا يَسْمَعُوْنَ",
+            "tr": "awalam yahdi lahum kam ahlaknā min qablihim minal-qurūni yamsyūna fī masākinihim, inna fī żālika la'āyāt(in), afalā yasma‘ūn(a).",
+            "idn": "Dan tidakkah menjadi petunjuk bagi mereka, betapa banyak umat-umat sebelum mereka yang telah Kami binasakan, sedangkan mereka sendiri berjalan di tempat-tempat kediaman mereka itu. Sungguh, pada yang demikian itu terdapat tanda-tanda (kekuasaan Allah). Apakah mereka tidak mendengarkan (memperhatikan)?"
+        },
+        {
+            "id": 3530,
+            "surah": 32,
+            "nomor": 27,
+            "ar": "اَوَلَمْ يَرَوْا اَنَّا نَسُوْقُ الْمَاۤءَ اِلَى الْاَرْضِ الْجُرُزِ فَنُخْرِجُ بِهٖ زَرْعًا تَأْكُلُ مِنْهُ اَنْعَامُهُمْ وَاَنْفُسُهُمْۗ اَفَلَا يُبْصِرُوْنَ",
+            "tr": "awalam yarau annā nasūqul-mā'a ilal-arḍil juruzi fanukhriju bihī zar‘an ta'kulu minhu an‘āmuhum wa anfushum, afalā yubṣirūn(a).",
+            "idn": "Dan tidakkah mereka memperhatikan, bahwa Kami mengarahkan (awan yang mengandung) air ke bumi yang tandus, lalu Kami tumbuhkan (dengan air hujan itu) tanam-tanaman sehingga hewan-hewan ternak mereka dan mereka sendiri dapat makan darinya. Maka mengapa mereka tidak memperhatikan?"
+        },
+        {
+            "id": 3531,
+            "surah": 32,
+            "nomor": 28,
+            "ar": "وَيَقُوْلُوْنَ مَتٰى هٰذَا الْفَتْحُ اِنْ كُنْتُمْ صٰدِقِيْنَ",
+            "tr": "wa yaqūlūna matā hāżal-fatḥu in kuntum ṣādiqīn(a).",
+            "idn": "Dan mereka bertanya, “Kapankah kemenangan itu (datang) jika engkau orang yang benar?”"
+        },
+        {
+            "id": 3532,
+            "surah": 32,
+            "nomor": 29,
+            "ar": "قُلْ يَوْمَ الْفَتْحِ لَا يَنْفَعُ الَّذِيْنَ كَفَرُوْٓا اِيْمَانُهُمْ وَلَا هُمْ يُنْظَرُوْنَ",
+            "tr": "qul yaumal-fatḥi lā yanfa‘ul-lażīna kafarū īmānuhum wa lā hum yunẓarūn(a).",
+            "idn": "Katakanlah, “Pada hari kemenangan itu, tidak berguna lagi bagi orang-orang kafir keimanan mereka dan mereka tidak diberi penangguhan.”"
+        },
+        {
+            "id": 3533,
+            "surah": 32,
+            "nomor": 30,
+            "ar": "فَاَعْرِضْ عَنْهُمْ وَانْتَظِرْ اِنَّهُمْ مُّنْتَظِرُوْنَ ࣖ",
+            "tr": "fa a‘riḍ ‘anhum wantaẓir innahum muntaẓirūn(a).",
+            "idn": "Maka berpalinglah engkau dari mereka dan tunggulah, sesungguhnya mereka (juga) menunggu."
+        }
+    ],
+    "surat_selanjutnya": {
+        "id": 33,
+        "nomor": 33,
+        "nama": "الاحزاب",
+        "nama_latin": "Al-Ahzab",
+        "jumlah_ayat": 73,
+        "tempat_turun": "madinah",
+        "arti": "Golongan Yang Bersekutu",
+        "deskripsi": "Surat Al Ahzab terdiri atas 73 ayat, termasuk golongan surat-surat Madaniyah, diturunkan sesudah surat Ali'Imran. Dinamai <i>Al Ahzab</i> yang berarti <i>golongan-golongan yang bersekutu</i> karena dalam surat ini terdapat beberapa ayat, yaitu ayat 9 sampai dengan ayat 27 yang berhubungan dengan peperangan Al Ahzab, yaitu peperangan yang dilancarkan oleh orang-orang Yahudi, kaum munafik dan orang-orang musyrik terhadap orang-orang mukmin di Medinah. Mereka telah mengepung rapat orang- orang mukmin sehingga sebahagian dari mereka telah berputus asa dan menyangka bahwa mereka akan dihancurkan oleh musuh-musuh mereka itu. Ini adalah suatu ujian yang berat dari Allah untuk menguji sampai dimana teguhnya keimanan mereka. Akhirnya Allah mengirimkan bantuan berupa tentara yang tidak kelihatan dan angin topan, sehingga musuh-musuh itu menjadi kacau balau dan melarikan diri.",
+        "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/033.mp3"
+    },
+    "surat_sebelumnya": {
+        "id": 31,
+        "nomor": 31,
+        "nama": "لقمٰن",
+        "nama_latin": "Luqman",
+        "jumlah_ayat": 34,
+        "tempat_turun": "mekah",
+        "arti": "Luqman",
+        "deskripsi": "Surat  Luqman  terdiri   dari   34   ayat,   termasuk   golongan   surat-surat Makkiyyah, diturunkan sesudah surat Ash Shaffaat. <br>Dinamai <i>Luqman</i> karena pada  ayat  12   disebutkan   bahwa   <i>Luqman</i>   telah diberi   oleh   Allah   nikmat   dan   ilmu   pengetahuan,  oleh sebab itu dia bersyukur kepadaNya atas nikmat yang  diberikan  itu.   Dan   pada   ayat   13 sampai 19 terdapat nasihat-nasihat Luqman kepada anaknya.<br>Ini adalah sebagai  isyarat   daripada   Allah   supaya   setiap   ibu   bapak melaksanakan  pula terhadap anak-anak mereka sebagai yang telah dilakukan oleh Luqman.",
+        "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/031.mp3"
+    }
+}

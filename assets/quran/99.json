@@ -1,0 +1,99 @@
+{
+    "nomor": 99,
+    "nama": "الزلزلة",
+    "nama_latin": "Az-Zalzalah",
+    "jumlah_ayat": 8,
+    "tempat_turun": "madinah",
+    "arti": "Guncangan",
+    "deskripsi": "Surat ini terdiri atas 8 ayat, termasuk golongan surat-surat Madaniyyah diturunkan sesudah surat An Nisaa'. Nama <i>Al Zalzalah</i> diambil dari kata: <i>Zilzaal</i> yang terdapat pada ayat pertama surat ini yang berarti goncangan.",
+    "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/099.mp3",
+    "status": true,
+    "ayat": [
+        {
+            "id": 6139,
+            "surah": 99,
+            "nomor": 1,
+            "ar": "اِذَا زُلْزِلَتِ الْاَرْضُ زِلْزَالَهَاۙ",
+            "tr": "iżā zulzilatil-arḍu zilzālahā.",
+            "idn": "Apabila bumi diguncangkan dengan guncangan yang dahsyat,"
+        },
+        {
+            "id": 6140,
+            "surah": 99,
+            "nomor": 2,
+            "ar": "وَاَخْرَجَتِ الْاَرْضُ اَثْقَالَهَاۙ",
+            "tr": "wa akhrajatil-arḍu aṡqālahā.",
+            "idn": "dan bumi telah mengeluarkan beban-beban berat (yang dikandung)nya,"
+        },
+        {
+            "id": 6141,
+            "surah": 99,
+            "nomor": 3,
+            "ar": "وَقَالَ الْاِنْسَانُ مَا لَهَاۚ",
+            "tr": "wa qālal-insānu mā lahā.",
+            "idn": "Dan manusia bertanya, “Apa yang terjadi pada bumi ini?”"
+        },
+        {
+            "id": 6142,
+            "surah": 99,
+            "nomor": 4,
+            "ar": "يَوْمَىِٕذٍ تُحَدِّثُ اَخْبَارَهَاۙ",
+            "tr": "yauma'iżin tuḥaddiṡu akhbārahā.",
+            "idn": "Pada hari itu bumi menyampaikan beritanya,"
+        },
+        {
+            "id": 6143,
+            "surah": 99,
+            "nomor": 5,
+            "ar": "بِاَنَّ رَبَّكَ اَوْحٰى لَهَاۗ",
+            "tr": "bi'anna rabbaka auḥā lahā.",
+            "idn": "karena sesungguhnya Tuhanmu telah memerintahkan (yang sedemikian itu) padanya."
+        },
+        {
+            "id": 6144,
+            "surah": 99,
+            "nomor": 6,
+            "ar": "يَوْمَىِٕذٍ يَّصْدُرُ النَّاسُ اَشْتَاتًا ەۙ لِّيُرَوْا اَعْمَالَهُمْۗ",
+            "tr": "yauma'iżiy yaṣdurun-nāsu asytātā(n), liyurau a‘mālahum.",
+            "idn": "Pada hari itu manusia keluar dari kuburnya dalam keadaan berkelompok-kelompok, untuk diperlihatkan kepada mereka (balasan) semua perbuatannya."
+        },
+        {
+            "id": 6145,
+            "surah": 99,
+            "nomor": 7,
+            "ar": "فَمَنْ يَّعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَّرَهٗۚ",
+            "tr": "famay ya‘mal miṡqāla żarratin khairay yarah(ū).",
+            "idn": "Maka barangsiapa mengerjakan kebaikan seberat zarrah, niscaya dia akan melihat (balasan)nya,"
+        },
+        {
+            "id": 6146,
+            "surah": 99,
+            "nomor": 8,
+            "ar": "وَمَنْ يَّعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَّرَهٗ ࣖ",
+            "tr": "wa may ya‘mal miṡqāla żarratin syarray yarah(ū).",
+            "idn": "dan barangsiapa mengerjakan kejahatan seberat zarrah, niscaya dia akan melihat (balasan)nya."
+        }
+    ],
+    "surat_selanjutnya": {
+        "id": 100,
+        "nomor": 100,
+        "nama": "العٰديٰت",
+        "nama_latin": "Al-'Adiyat",
+        "jumlah_ayat": 11,
+        "tempat_turun": "mekah",
+        "arti": "Kuda Yang Berlari Kencang",
+        "deskripsi": "Surat ini terdiri atas 11 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Al'Ashr. Nama <i>Al 'Aadiyaat</i> diambil dari kata <i>Al 'Aadiyaat</i> yang terdapat pada ayat pertama surat ini, artinya yang berlari kencang.",
+        "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/100.mp3"
+    },
+    "surat_sebelumnya": {
+        "id": 98,
+        "nomor": 98,
+        "nama": "البيّنة",
+        "nama_latin": "Al-Bayyinah",
+        "jumlah_ayat": 8,
+        "tempat_turun": "madinah",
+        "arti": "Bukti Nyata",
+        "deskripsi": "Surat Al Bayyinah terdiri atas 8 ayat, termasuk golongan surat-surat Madaniyyah, diturunkan sesudah surat Ath Thalaq. Dinamai <i>Al Bayyinah</i> (bukti yang nyata) diambil dari perkataan <i>Al Bayyinah</i> yang terdapat pada ayat pertama surat ini.",
+        "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/098.mp3"
+    }
+}

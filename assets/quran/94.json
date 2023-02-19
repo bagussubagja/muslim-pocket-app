@@ -1,0 +1,99 @@
+{
+    "nomor": 94,
+    "nama": "الشرح",
+    "nama_latin": "Asy-Syarh",
+    "jumlah_ayat": 8,
+    "tempat_turun": "mekah",
+    "arti": "Lapang",
+    "deskripsi": "Surat ini terdiri atas 8 ayat, termasuk golongan surat-surat Makkiyah dan diturunkan sesudah surat Adh Dhuhaa. Nama <i>Alam Nasyrah</i> diambil dari kata <i>Alam Nasyrah</i> yang terdapat pada ayat pertama, yang berarti: bukankah Kami telah melapangkan.",
+    "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/094.mp3",
+    "status": true,
+    "ayat": [
+        {
+            "id": 6091,
+            "surah": 94,
+            "nomor": 1,
+            "ar": "اَلَمْ نَشْرَحْ لَكَ صَدْرَكَۙ",
+            "tr": "alam nasyraḥ laka ṣadrak(a).",
+            "idn": "Bukankah Kami telah melapangkan dadamu (Muhammad)?"
+        },
+        {
+            "id": 6092,
+            "surah": 94,
+            "nomor": 2,
+            "ar": "وَوَضَعْنَا عَنْكَ وِزْرَكَۙ",
+            "tr": "wa waḍa‘nā ‘anka wizrak(a).",
+            "idn": "dan Kami pun telah menurunkan bebanmu darimu,"
+        },
+        {
+            "id": 6093,
+            "surah": 94,
+            "nomor": 3,
+            "ar": "الَّذِيْٓ اَنْقَضَ ظَهْرَكَۙ",
+            "tr": "allażī anqaḍa ẓahrak(a).",
+            "idn": "yang memberatkan punggungmu, "
+        },
+        {
+            "id": 6094,
+            "surah": 94,
+            "nomor": 4,
+            "ar": "وَرَفَعْنَا لَكَ ذِكْرَكَۗ",
+            "tr": "wa rafa‘nā laka żikrak(a).",
+            "idn": "dan Kami tinggikan sebutan (nama)mu bagimu."
+        },
+        {
+            "id": 6095,
+            "surah": 94,
+            "nomor": 5,
+            "ar": "فَاِنَّ مَعَ الْعُسْرِ يُسْرًاۙ",
+            "tr": "fa'inna ma‘al-‘usri yusrā(n).",
+            "idn": "Maka sesungguhnya beserta kesulitan ada kemudahan,"
+        },
+        {
+            "id": 6096,
+            "surah": 94,
+            "nomor": 6,
+            "ar": "اِنَّ مَعَ الْعُسْرِ يُسْرًاۗ",
+            "tr": "inna ma‘al-‘usri yusrā(n).",
+            "idn": "sesungguhnya beserta kesulitan itu ada kemudahan."
+        },
+        {
+            "id": 6097,
+            "surah": 94,
+            "nomor": 7,
+            "ar": "فَاِذَا فَرَغْتَ فَانْصَبْۙ",
+            "tr": "fa iżā faragta fanṣab.",
+            "idn": "Maka apabila engkau telah selesai (dari sesuatu urusan), tetaplah bekerja keras (untuk urusan yang lain),"
+        },
+        {
+            "id": 6098,
+            "surah": 94,
+            "nomor": 8,
+            "ar": "وَاِلٰى رَبِّكَ فَارْغَبْ ࣖ",
+            "tr": "wa ilā rabbika fargab.",
+            "idn": "dan hanya kepada Tuhanmulah engkau berharap."
+        }
+    ],
+    "surat_selanjutnya": {
+        "id": 95,
+        "nomor": 95,
+        "nama": "التين",
+        "nama_latin": "At-Tin",
+        "jumlah_ayat": 8,
+        "tempat_turun": "mekah",
+        "arti": "Buah Tin",
+        "deskripsi": "Surat ini terdiri atas 8 ayat, termasuk golongan surat-surat Makkiyah, diturunkan sesudah surat Al Buruuj. Nama At Tiin diambil dari kata <i>At Tiin</i> yang terdapat pada ayat pertama surat ini yang artinya buah Tin.",
+        "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/095.mp3"
+    },
+    "surat_sebelumnya": {
+        "id": 93,
+        "nomor": 93,
+        "nama": "الضحى",
+        "nama_latin": "Ad-Duha",
+        "jumlah_ayat": 11,
+        "tempat_turun": "mekah",
+        "arti": "Duha",
+        "deskripsi": "Surat ini terdiri atas 11 ayat, termasuk golongan surat Makiyyah dan diturunkan sesudah surat Al Fajr. Nama <i>Adh Dhuhaa</i> diambil dari kata yang terdapat pada ayat pertama, artinya : waktu matahari sepenggalahan naik.",
+        "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/093.mp3"
+    }
+}

@@ -1,0 +1,123 @@
+{
+    "nomor": 93,
+    "nama": "الضحى",
+    "nama_latin": "Ad-Duha",
+    "jumlah_ayat": 11,
+    "tempat_turun": "mekah",
+    "arti": "Duha",
+    "deskripsi": "Surat ini terdiri atas 11 ayat, termasuk golongan surat Makiyyah dan diturunkan sesudah surat Al Fajr. Nama <i>Adh Dhuhaa</i> diambil dari kata yang terdapat pada ayat pertama, artinya : waktu matahari sepenggalahan naik.",
+    "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/093.mp3",
+    "status": true,
+    "ayat": [
+        {
+            "id": 6080,
+            "surah": 93,
+            "nomor": 1,
+            "ar": "وَالضُّحٰىۙ",
+            "tr": "waḍ-ḍuḥā.",
+            "idn": "Demi waktu duha (ketika matahari naik sepenggalah),"
+        },
+        {
+            "id": 6081,
+            "surah": 93,
+            "nomor": 2,
+            "ar": "وَالَّيْلِ اِذَا سَجٰىۙ",
+            "tr": "wal-laili iżā sajā.",
+            "idn": "dan demi malam apabila telah sunyi,"
+        },
+        {
+            "id": 6082,
+            "surah": 93,
+            "nomor": 3,
+            "ar": "مَا وَدَّعَكَ رَبُّكَ وَمَا قَلٰىۗ",
+            "tr": "mā wadda‘aka rabbuka wa mā qalā.",
+            "idn": "Tuhanmu tidak meninggalkan engkau (Muhammad) dan tidak (pula) membencimu,"
+        },
+        {
+            "id": 6083,
+            "surah": 93,
+            "nomor": 4,
+            "ar": "وَلَلْاٰخِرَةُ خَيْرٌ لَّكَ مِنَ الْاُوْلٰىۗ",
+            "tr": "wa lal-ākhiratu khairul laka minal-ūlā.",
+            "idn": "dan sungguh, yang kemudian itu lebih baik bagimu dari yang permulaan."
+        },
+        {
+            "id": 6084,
+            "surah": 93,
+            "nomor": 5,
+            "ar": "وَلَسَوْفَ يُعْطِيْكَ رَبُّكَ فَتَرْضٰىۗ",
+            "tr": "wa lasaufa yu‘ṭīka rabbuka fa tarḍā.",
+            "idn": "Dan sungguh, kelak Tuhanmu pasti memberikan karunia-Nya kepadamu, sehingga engkau menjadi puas."
+        },
+        {
+            "id": 6085,
+            "surah": 93,
+            "nomor": 6,
+            "ar": "اَلَمْ يَجِدْكَ يَتِيْمًا فَاٰوٰىۖ",
+            "tr": "alam yajidka yatīman fa āwā.",
+            "idn": "Bukankah Dia mendapatimu sebagai seorang yatim, lalu Dia melindungi(mu),"
+        },
+        {
+            "id": 6086,
+            "surah": 93,
+            "nomor": 7,
+            "ar": "وَوَجَدَكَ ضَاۤلًّا فَهَدٰىۖ",
+            "tr": "wa wajadaka ḍāllan fa hadā.",
+            "idn": "dan Dia mendapatimu sebagai seorang yang bingung, lalu Dia memberikan petunjuk,"
+        },
+        {
+            "id": 6087,
+            "surah": 93,
+            "nomor": 8,
+            "ar": "وَوَجَدَكَ عَاۤىِٕلًا فَاَغْنٰىۗ",
+            "tr": "wa wajadaka ‘ā'ilan fa agnā.",
+            "idn": "dan Dia mendapatimu sebagai seorang yang kekurangan, lalu Dia memberikan kecukupan."
+        },
+        {
+            "id": 6088,
+            "surah": 93,
+            "nomor": 9,
+            "ar": "فَاَمَّا الْيَتِيْمَ فَلَا تَقْهَرْۗ",
+            "tr": "fa ammal-yatīma falā taqhar.",
+            "idn": "Maka terhadap anak yatim janganlah engkau berlaku sewenang-wenang."
+        },
+        {
+            "id": 6089,
+            "surah": 93,
+            "nomor": 10,
+            "ar": "وَاَمَّا السَّاۤىِٕلَ فَلَا تَنْهَرْ",
+            "tr": "wa ammas-sā'ila falā tanhar.",
+            "idn": "Dan terhadap orang yang meminta-minta janganlah engkau menghardik(nya)."
+        },
+        {
+            "id": 6090,
+            "surah": 93,
+            "nomor": 11,
+            "ar": "وَاَمَّا بِنِعْمَةِ رَبِّكَ فَحَدِّثْ ࣖ",
+            "tr": "wa ammā bini‘mati rabbika fa ḥaddiṡ.",
+            "idn": "Dan terhadap nikmat Tuhanmu hendaklah engkau nyatakan (dengan bersyukur)."
+        }
+    ],
+    "surat_selanjutnya": {
+        "id": 94,
+        "nomor": 94,
+        "nama": "الشرح",
+        "nama_latin": "Asy-Syarh",
+        "jumlah_ayat": 8,
+        "tempat_turun": "mekah",
+        "arti": "Lapang",
+        "deskripsi": "Surat ini terdiri atas 8 ayat, termasuk golongan surat-surat Makkiyah dan diturunkan sesudah surat Adh Dhuhaa. Nama <i>Alam Nasyrah</i> diambil dari kata <i>Alam Nasyrah</i> yang terdapat pada ayat pertama, yang berarti: bukankah Kami telah melapangkan.",
+        "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/094.mp3"
+    },
+    "surat_sebelumnya": {
+        "id": 92,
+        "nomor": 92,
+        "nama": "الّيل",
+        "nama_latin": "Al-Lail",
+        "jumlah_ayat": 21,
+        "tempat_turun": "mekah",
+        "arti": "Malam",
+        "deskripsi": "Surat ini terdiri atas 21 ayat, termasuk golongan surat-surat Makkiyah, diturunkan sesudah surat Al A'laa. Surat ini dinamai <i>Al Lail</i> (malam), diambil dari perkataan <i>Al Lail</i> yang terdapat pada ayat pertama surat ini",
+        "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/092.mp3"
+    }
+}

@@ -1,0 +1,187 @@
+{
+    "nomor": 87,
+    "nama": "الاعلى",
+    "nama_latin": "Al-A'la",
+    "jumlah_ayat": 19,
+    "tempat_turun": "mekah",
+    "arti": "Maha Tinggi",
+    "deskripsi": "Surat ini terdiri atas 19 ayat, termasuk golongan surat-surat Makkiyyah, dan diturunkan sesudah surat At Takwiir. Nama <i>Al AÂ´laa</i> diambil dari kata <i>Al AÂ´laa</i> yang terdapat pada ayat pertama, berarti <i>Yang Paling Tinggi</i>. Muslim meriwayatkan dalam kitab Al Jumu'ah, dan diriwayatkan pula oleh Ashhaabus Sunan, dari Nu'man ibnu Basyir bahwa Rasulullah s.a.w. pada shalat dua hari Raya (Fitri dan Adha) dan shalat Jum'at membaca surat Al AÂ´laa pada rakaat pertama, dan surat Al Ghaasyiyah pada rakaat kedua.",
+    "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/087.mp3",
+    "status": true,
+    "ayat": [
+        {
+            "id": 5949,
+            "surah": 87,
+            "nomor": 1,
+            "ar": "سَبِّحِ اسْمَ رَبِّكَ الْاَعْلَىۙ ",
+            "tr": "sabbiḥisma rabbikal-a‘lā.",
+            "idn": "Sucikanlah nama Tuhanmu Yang Mahatinggi,"
+        },
+        {
+            "id": 5950,
+            "surah": 87,
+            "nomor": 2,
+            "ar": "الَّذِيْ خَلَقَ فَسَوّٰىۖ ",
+            "tr": "allażī khalaqa fasawwā.",
+            "idn": "Yang menciptakan, lalu menyempurnakan (ciptaan-Nya)."
+        },
+        {
+            "id": 5951,
+            "surah": 87,
+            "nomor": 3,
+            "ar": "وَالَّذِيْ قَدَّرَ فَهَدٰىۖ ",
+            "tr": "wal-lażī qaddara fahadā.",
+            "idn": "Yang menentukan kadar (masing-masing) dan memberi petunjuk,"
+        },
+        {
+            "id": 5952,
+            "surah": 87,
+            "nomor": 4,
+            "ar": "وَالَّذِيْٓ اَخْرَجَ الْمَرْعٰىۖ ",
+            "tr": "wal-lażī akhrajal-mar‘ā.",
+            "idn": "dan Yang menumbuhkan rerumputan,"
+        },
+        {
+            "id": 5953,
+            "surah": 87,
+            "nomor": 5,
+            "ar": "فَجَعَلَهٗ غُثَاۤءً اَحْوٰىۖ ",
+            "tr": "fa ja‘alahū guṡā'an aḥwā.",
+            "idn": "lalu dijadikan-Nya (rumput-rumput) itu kering kehitam-hitaman."
+        },
+        {
+            "id": 5954,
+            "surah": 87,
+            "nomor": 6,
+            "ar": "سَنُقْرِئُكَ فَلَا تَنْسٰىٓ  ۖ ",
+            "tr": "sanuqri'uka falā tansā.",
+            "idn": "Kami akan membacakan (Al-Qur'an) kepadamu (Muhammad) sehingga engkau tidak akan lupa,"
+        },
+        {
+            "id": 5955,
+            "surah": 87,
+            "nomor": 7,
+            "ar": "اِلَّا مَا شَاۤءَ اللّٰهُ ۗاِنَّهٗ يَعْلَمُ الْجَهْرَ وَمَا يَخْفٰىۗ ",
+            "tr": "illā mā syā'allāh(u), innahū ya‘lamul-jahra wa mā yakhfā.",
+            "idn": "kecuali jika Allah menghendaki. Sungguh, Dia mengetahui yang terang dan yang tersembunyi."
+        },
+        {
+            "id": 5956,
+            "surah": 87,
+            "nomor": 8,
+            "ar": "وَنُيَسِّرُكَ لِلْيُسْرٰىۖ ",
+            "tr": "wa nuyassiruka lil-yusrā.",
+            "idn": "Dan Kami akan memudahkan bagimu ke jalan kemudahan (mencapai kebahagiaan dunia dan akhirat),"
+        },
+        {
+            "id": 5957,
+            "surah": 87,
+            "nomor": 9,
+            "ar": "فَذَكِّرْ اِنْ نَّفَعَتِ الذِّكْرٰىۗ ",
+            "tr": "fa żakkir in nafa‘atiż-żikrā.",
+            "idn": "oleh sebab itu berikanlah peringatan, karena peringatan itu bermanfaat,"
+        },
+        {
+            "id": 5958,
+            "surah": 87,
+            "nomor": 10,
+            "ar": "سَيَذَّكَّرُ مَنْ يَّخْشٰىۙ ",
+            "tr": "sayażżakkaru may yakhsyā.",
+            "idn": "orang yang takut (kepada Allah) akan mendapat pelajaran,"
+        },
+        {
+            "id": 5959,
+            "surah": 87,
+            "nomor": 11,
+            "ar": "وَيَتَجَنَّبُهَا الْاَشْقَىۙ ",
+            "tr": "wa yatajannabuhal-asyqā.",
+            "idn": "dan orang-orang yang celaka (kafir) akan menjauhinya,"
+        },
+        {
+            "id": 5960,
+            "surah": 87,
+            "nomor": 12,
+            "ar": "الَّذِيْ يَصْلَى النَّارَ الْكُبْرٰىۚ ",
+            "tr": "allażī yaṣlan-nāral-kubrā.",
+            "idn": "(yaitu) orang yang akan memasuki api yang besar (neraka),"
+        },
+        {
+            "id": 5961,
+            "surah": 87,
+            "nomor": 13,
+            "ar": "ثُمَّ لَا يَمُوْتُ فِيْهَا وَلَا يَحْيٰىۗ ",
+            "tr": "Ṡumma lā yamūtu fīhā wa lā yaḥyā.",
+            "idn": "selanjutnya dia di sana tidak mati dan tidak (pula) hidup."
+        },
+        {
+            "id": 5962,
+            "surah": 87,
+            "nomor": 14,
+            "ar": "قَدْ اَفْلَحَ مَنْ تَزَكّٰىۙ ",
+            "tr": "qad aflaḥa man tazakkā.",
+            "idn": "Sungguh beruntung orang yang menyucikan diri (dengan beriman),"
+        },
+        {
+            "id": 5963,
+            "surah": 87,
+            "nomor": 15,
+            "ar": "وَذَكَرَ اسْمَ رَبِّهٖ فَصَلّٰىۗ ",
+            "tr": "wa żakarasma rabbihī fa ṣallā.",
+            "idn": "dan mengingat nama Tuhannya, lalu dia salat."
+        },
+        {
+            "id": 5964,
+            "surah": 87,
+            "nomor": 16,
+            "ar": "بَلْ تُؤْثِرُوْنَ الْحَيٰوةَ الدُّنْيَاۖ ",
+            "tr": "bal tu'ṡirvnal-ḥayātad-dun-yā.",
+            "idn": "Sedangkan kamu (orang-orang kafir) memilih kehidupan dunia,"
+        },
+        {
+            "id": 5965,
+            "surah": 87,
+            "nomor": 17,
+            "ar": "وَالْاٰخِرَةُ خَيْرٌ وَّاَبْقٰىۗ ",
+            "tr": "wal-ākhiratu khairuw wa abqā.",
+            "idn": "padahal kehidupan akhirat itu lebih baik dan lebih kekal."
+        },
+        {
+            "id": 5966,
+            "surah": 87,
+            "nomor": 18,
+            "ar": "اِنَّ هٰذَا لَفِى الصُّحُفِ الْاُوْلٰىۙ ",
+            "tr": "inna hāżā lafiṣ-ṣuḥufil-ūlā.",
+            "idn": "Sesungguhnya ini terdapat dalam kitab-kitab yang dahulu,"
+        },
+        {
+            "id": 5967,
+            "surah": 87,
+            "nomor": 19,
+            "ar": "صُحُفِ اِبْرٰهِيْمَ وَمُوْسٰى ࣖ ",
+            "tr": "Ṣuḥufi ibrāhīma wa mūsā.",
+            "idn": "(yaitu) kitab-kitab Ibrahim dan Musa. "
+        }
+    ],
+    "surat_selanjutnya": {
+        "id": 88,
+        "nomor": 88,
+        "nama": "الغاشية",
+        "nama_latin": "Al-Gasyiyah",
+        "jumlah_ayat": 26,
+        "tempat_turun": "mekah",
+        "arti": "Hari Kiamat",
+        "deskripsi": "Surat ini terdiri atas 26 ayat, termasuk surat-surat Makkiyah, diturunkan sesudah surat Adz Dzaariat. Nama <i>Ghaasyiyah</i> diambil dari kata <i>Al Ghaasyiyah</i> yang terdapat pada ayat pertama surat ini yang  artinya peristiwa yang dahsyat, tapi yang dimaksud adalah hari kiamat. Surat ini adalah surat yang kerap kali dibaca Nabi pada rakaat kedua  pada shalat hari-hari Raya dan shalat Jum'at",
+        "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/088.mp3"
+    },
+    "surat_sebelumnya": {
+        "id": 86,
+        "nomor": 86,
+        "nama": "الطارق",
+        "nama_latin": "At-Tariq",
+        "jumlah_ayat": 17,
+        "tempat_turun": "mekah",
+        "arti": "Yang Datang Di Malam Hari",
+        "deskripsi": "Surat Ath Thaariq terdiri atas 17 ayat, termasuk golongan surat-surat Makkiyah,  diturunkan sesudah surat Al Balad.  Dinamai <i>Ath Thaariq</i> (yang datang di malam hari) diambil dari  perkataan <i>Ath Thaariq</i> yang terdapat pada ayat 1 surat ini.",
+        "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/086.mp3"
+    }
+}
