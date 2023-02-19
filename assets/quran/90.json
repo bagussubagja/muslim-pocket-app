@@ -1,0 +1,195 @@
+{
+    "nomor": 90,
+    "nama": "البلد",
+    "nama_latin": "Al-Balad",
+    "jumlah_ayat": 20,
+    "tempat_turun": "mekah",
+    "arti": "Negeri",
+    "deskripsi": "Surat Al Balad terdiri atas 20 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Qaaf. Dinamai <i>Al Balad</i>, diambil dari perkataan <i>Al Balad</i> yang terdapat  pada ayat pertama surat ini. Yang dimaksud dengan kota di sini ialah kota Mekah.",
+    "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/090.mp3",
+    "status": true,
+    "ayat": [
+        {
+            "id": 6024,
+            "surah": 90,
+            "nomor": 1,
+            "ar": "لَآ اُقْسِمُ بِهٰذَا الْبَلَدِۙ",
+            "tr": "lā uqsimu bihāżal-balad(i).",
+            "idn": "Aku bersumpah dengan negeri ini (Mekah),"
+        },
+        {
+            "id": 6025,
+            "surah": 90,
+            "nomor": 2,
+            "ar": "وَاَنْتَ حِلٌّۢ بِهٰذَا الْبَلَدِۙ",
+            "tr": "wa anta ḥillum bihāżal-balad(i).",
+            "idn": "dan engkau (Muhammad), bertempat di negeri (Mekah) ini,"
+        },
+        {
+            "id": 6026,
+            "surah": 90,
+            "nomor": 3,
+            "ar": "وَوَالِدٍ وَّمَا وَلَدَۙ",
+            "tr": "wa wālidiw wa mā walad(a).",
+            "idn": "dan demi (pertalian) bapak dan anaknya."
+        },
+        {
+            "id": 6027,
+            "surah": 90,
+            "nomor": 4,
+            "ar": "لَقَدْ خَلَقْنَا الْاِنْسَانَ فِيْ كَبَدٍۗ",
+            "tr": "laqad khalaqnal-insāna fī kabad(in).",
+            "idn": "Sungguh, Kami telah menciptakan manusia berada dalam susah payah."
+        },
+        {
+            "id": 6028,
+            "surah": 90,
+            "nomor": 5,
+            "ar": "اَيَحْسَبُ اَنْ لَّنْ يَّقْدِرَ عَلَيْهِ اَحَدٌ ۘ",
+            "tr": "ayaḥsabu allay yaqdira ‘alaihi aḥad(un).",
+            "idn": "Apakah dia (manusia) itu mengira bahwa tidak ada sesuatu pun yang berkuasa atasnya?"
+        },
+        {
+            "id": 6029,
+            "surah": 90,
+            "nomor": 6,
+            "ar": "يَقُوْلُ اَهْلَكْتُ مَالًا لُّبَدًاۗ",
+            "tr": "yaqūlu ahlaktu mālal lubadā(n).",
+            "idn": "Dia mengatakan, “Aku telah menghabiskan harta yang banyak.” "
+        },
+        {
+            "id": 6030,
+            "surah": 90,
+            "nomor": 7,
+            "ar": "اَيَحْسَبُ اَنْ لَّمْ يَرَهٗٓ اَحَدٌۗ",
+            "tr": "ayaḥsabu allam yarahū aḥad(un).",
+            "idn": "Apakah dia mengira bahwa tidak ada sesuatu pun yang melihatnya?"
+        },
+        {
+            "id": 6031,
+            "surah": 90,
+            "nomor": 8,
+            "ar": "اَلَمْ نَجْعَلْ لَّهٗ عَيْنَيْنِۙ",
+            "tr": "alam naj‘al lahū ‘ainain(i).",
+            "idn": "Bukankah Kami telah menjadikan untuknya sepasang mata,"
+        },
+        {
+            "id": 6032,
+            "surah": 90,
+            "nomor": 9,
+            "ar": "وَلِسَانًا وَّشَفَتَيْنِۙ",
+            "tr": "wa lisānaw wa syafatain(i).",
+            "idn": "dan lidah dan sepasang bibir?"
+        },
+        {
+            "id": 6033,
+            "surah": 90,
+            "nomor": 10,
+            "ar": "وَهَدَيْنٰهُ النَّجْدَيْنِۙ",
+            "tr": "wa hadaināhun-najdain(i).",
+            "idn": "Dan Kami telah menunjukkan kepadanya dua jalan (kebajikan dan kejahatan),"
+        },
+        {
+            "id": 6034,
+            "surah": 90,
+            "nomor": 11,
+            "ar": "فَلَا اقْتَحَمَ الْعَقَبَةَ ۖ",
+            "tr": "falaqtaḥamal-‘aqabah(ta).",
+            "idn": "tetapi dia tidak menempuh jalan yang mendaki dan sukar?"
+        },
+        {
+            "id": 6035,
+            "surah": 90,
+            "nomor": 12,
+            "ar": "وَمَآ اَدْرٰىكَ مَا الْعَقَبَةُ ۗ",
+            "tr": "wa mā adrāka mal-‘aqabah(tu).",
+            "idn": "Dan tahukah kamu apakah jalan yang mendaki dan sukar itu?"
+        },
+        {
+            "id": 6036,
+            "surah": 90,
+            "nomor": 13,
+            "ar": "فَكُّ رَقَبَةٍۙ",
+            "tr": "fakku raqabah(tin).",
+            "idn": "(yaitu) melepaskan perbudakan (hamba sahaya),"
+        },
+        {
+            "id": 6037,
+            "surah": 90,
+            "nomor": 14,
+            "ar": "اَوْ اِطْعَامٌ فِيْ يَوْمٍ ذِيْ مَسْغَبَةٍۙ",
+            "tr": "au iṭ‘āmun fī yaumin żī masgabah(tin).",
+            "idn": "atau memberi makan pada hari terjadi kelaparan,"
+        },
+        {
+            "id": 6038,
+            "surah": 90,
+            "nomor": 15,
+            "ar": "يَّتِيْمًا ذَا مَقْرَبَةٍۙ",
+            "tr": "yatīman żā maqrabah(tin).",
+            "idn": "(kepada) anak yatim yang ada hubungan kerabat,"
+        },
+        {
+            "id": 6039,
+            "surah": 90,
+            "nomor": 16,
+            "ar": "اَوْ مِسْكِيْنًا ذَا مَتْرَبَةٍۗ",
+            "tr": "au miskīnan żā matrabah(tin).",
+            "idn": "atau orang miskin yang sangat fakir."
+        },
+        {
+            "id": 6040,
+            "surah": 90,
+            "nomor": 17,
+            "ar": "ثُمَّ كَانَ مِنَ الَّذِيْنَ اٰمَنُوْا وَتَوَاصَوْا بِالصَّبْرِ وَتَوَاصَوْا بِالْمَرْحَمَةِۗ",
+            "tr": "Ṡumma kāna minal-lażīna āmanū wa tawāṣau biṣ-ṣabri wa tawāṣau bil-marḥamah(ti).",
+            "idn": "Kemudian dia termasuk orang-orang yang beriman dan saling berpesan untuk bersabar dan saling berpesan untuk berkasih sayang."
+        },
+        {
+            "id": 6041,
+            "surah": 90,
+            "nomor": 18,
+            "ar": "اُولٰۤىِٕكَ اَصْحٰبُ الْمَيْمَنَةِۗ",
+            "tr": "ulā'ika aṣḥābul-maimanah(ti).",
+            "idn": "Mereka (orang-orang yang beriman dan saling berpesan itu) adalah golongan kanan."
+        },
+        {
+            "id": 6042,
+            "surah": 90,
+            "nomor": 19,
+            "ar": "وَالَّذِيْنَ كَفَرُوْا بِاٰيٰتِنَا هُمْ اَصْحٰبُ الْمَشْـَٔمَةِۗ",
+            "tr": "wal-lażīna kafarū bi'āyātinā hum aṣḥābul-masy'amah(ti).",
+            "idn": "Dan orang-orang yang kafir kepada ayat-ayat Kami, mereka itu adalah golongan kiri."
+        },
+        {
+            "id": 6043,
+            "surah": 90,
+            "nomor": 20,
+            "ar": "عَلَيْهِمْ نَارٌ مُّؤْصَدَةٌ ࣖ",
+            "tr": "‘alaihim nārum mu'ṣadah(tun).",
+            "idn": "Mereka berada dalam neraka yang ditutup rapat."
+        }
+    ],
+    "surat_selanjutnya": {
+        "id": 91,
+        "nomor": 91,
+        "nama": "الشمس",
+        "nama_latin": "Asy-Syams",
+        "jumlah_ayat": 15,
+        "tempat_turun": "mekah",
+        "arti": "Matahari",
+        "deskripsi": "Surat Asy Syams terdiri atas 15 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Al Qadar.  Dinamai <i>Asy Syams</i> (matahari) diambil dari perkataan <i>Asy Syams</i> yang terdapat pada ayat permulaan surat ini.",
+        "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/091.mp3"
+    },
+    "surat_sebelumnya": {
+        "id": 89,
+        "nomor": 89,
+        "nama": "الفجر",
+        "nama_latin": "Al-Fajr",
+        "jumlah_ayat": 30,
+        "tempat_turun": "mekah",
+        "arti": "Fajar",
+        "deskripsi": "Surat ini terdiri atas 30 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Al Lail. Nama <i>Al Fajr</i> diambil dari kata <i>Al Fajr</i> yang terdapat pada ayat pertama surat ini yang artinya <i>fajar</i>.",
+        "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/089.mp3"
+    }
+}

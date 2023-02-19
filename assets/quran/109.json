@@ -1,0 +1,83 @@
+{
+    "nomor": 109,
+    "nama": "الكٰفرون",
+    "nama_latin": "Al-Kafirun",
+    "jumlah_ayat": 6,
+    "tempat_turun": "mekah",
+    "arti": "Orang-Orang kafir",
+    "deskripsi": "Surat Al Kaafiruun terdiri atas 6 ayat, termasuk golongan surat-surat  Makkiyyah, diturunkan sesudah surat Al Maa'uun. Dinamai <i>Al Kaafiruun</i> (orang-orang kafir), diambil dari perkataan  <i>Al Kaafiruun</i> yang terdapat pada ayat pertama surat ini.",
+    "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/109.mp3",
+    "status": true,
+    "ayat": [
+        {
+            "id": 6208,
+            "surah": 109,
+            "nomor": 1,
+            "ar": "قُلْ يٰٓاَيُّهَا الْكٰفِرُوْنَۙ",
+            "tr": "qul yā ayyuhal-kāfirūn(a).",
+            "idn": "Katakanlah (Muhammad), “Wahai orang-orang kafir!"
+        },
+        {
+            "id": 6209,
+            "surah": 109,
+            "nomor": 2,
+            "ar": "لَآ اَعْبُدُ مَا تَعْبُدُوْنَۙ",
+            "tr": "lā a‘budu mā ta‘budūn(a).",
+            "idn": "aku tidak akan menyembah apa yang kamu sembah,"
+        },
+        {
+            "id": 6210,
+            "surah": 109,
+            "nomor": 3,
+            "ar": "وَلَآ اَنْتُمْ عٰبِدُوْنَ مَآ اَعْبُدُۚ",
+            "tr": "wa lā antum ‘ābidūna mā a‘bud(u).",
+            "idn": "dan kamu bukan penyembah apa yang aku sembah,"
+        },
+        {
+            "id": 6211,
+            "surah": 109,
+            "nomor": 4,
+            "ar": "وَلَآ اَنَا۠ عَابِدٌ مَّا عَبَدْتُّمْۙ",
+            "tr": "wa lā ana ‘ābidum mā ‘abattum.",
+            "idn": "dan aku tidak pernah menjadi penyembah apa yang kamu sembah,"
+        },
+        {
+            "id": 6212,
+            "surah": 109,
+            "nomor": 5,
+            "ar": "وَلَآ اَنْتُمْ عٰبِدُوْنَ مَآ اَعْبُدُۗ",
+            "tr": "wa lā antum ‘ābidūna mā a‘bud(u).",
+            "idn": "dan kamu tidak pernah (pula) menjadi penyembah apa yang aku sembah."
+        },
+        {
+            "id": 6213,
+            "surah": 109,
+            "nomor": 6,
+            "ar": "لَكُمْ دِيْنُكُمْ وَلِيَ دِيْنِ ࣖ",
+            "tr": "lakum dīnukum wa liya dīn(i).",
+            "idn": "Untukmu agamamu, dan untukku agamaku.”"
+        }
+    ],
+    "surat_selanjutnya": {
+        "id": 110,
+        "nomor": 110,
+        "nama": "النصر",
+        "nama_latin": "An-Nasr",
+        "jumlah_ayat": 3,
+        "tempat_turun": "madinah",
+        "arti": "Pertolongan",
+        "deskripsi": "Surat An Nashr terdiri atas 3 ayat, termasuk golongan surat-surat  Madaniyyah yang diturunkan di Mekah sesudah surat At Taubah.  Dinamai <i>An Nashr</i> (pertolongan) diambil dari perkataan <i>Nashr</i> yang  terdapat pada ayat pertama surat ini.",
+        "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/110.mp3"
+    },
+    "surat_sebelumnya": {
+        "id": 108,
+        "nomor": 108,
+        "nama": "الكوثر",
+        "nama_latin": "Al-Kausar",
+        "jumlah_ayat": 3,
+        "tempat_turun": "mekah",
+        "arti": "Pemberian Yang Banyak",
+        "deskripsi": "Surat Al Kautsar terdiri atas 3 ayat, termasuk golongan surat-surat  Makkiyyah diturunkan sesudah surat Al 'Aadiyaat. Dinamai <i>Al Kautsar</i> (nikmat yang banyak) diambil dari perkataan <i>Al Kautsar</i> yang terdapat pada ayat pertama surat ini.<br>Surat ini sebagai penghibur hati Nabi Muhammad s.a.w.",
+        "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/108.mp3"
+    }
+}

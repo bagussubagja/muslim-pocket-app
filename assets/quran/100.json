@@ -1,0 +1,123 @@
+{
+    "nomor": 100,
+    "nama": "العٰديٰت",
+    "nama_latin": "Al-'Adiyat",
+    "jumlah_ayat": 11,
+    "tempat_turun": "mekah",
+    "arti": "Kuda Yang Berlari Kencang",
+    "deskripsi": "Surat ini terdiri atas 11 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Al'Ashr. Nama <i>Al 'Aadiyaat</i> diambil dari kata <i>Al 'Aadiyaat</i> yang terdapat pada ayat pertama surat ini, artinya yang berlari kencang.",
+    "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/100.mp3",
+    "status": true,
+    "ayat": [
+        {
+            "id": 6147,
+            "surah": 100,
+            "nomor": 1,
+            "ar": "وَالْعٰدِيٰتِ ضَبْحًاۙ ",
+            "tr": "wal-‘ādiyāti ḍabḥā(n).",
+            "idn": "Demi kuda perang yang berlari kencang terengah-engah,"
+        },
+        {
+            "id": 6148,
+            "surah": 100,
+            "nomor": 2,
+            "ar": "فَالْمُوْرِيٰتِ قَدْحًاۙ",
+            "tr": "fal-mūriyāti qadḥā(n).",
+            "idn": "dan kuda yang memercikkan bunga api (dengan pukulan kuku kakinya),"
+        },
+        {
+            "id": 6149,
+            "surah": 100,
+            "nomor": 3,
+            "ar": "فَالْمُغِيْرٰتِ صُبْحًاۙ",
+            "tr": "fal-mugīrāti ṣubḥā(n).",
+            "idn": "dan kuda yang menyerang (dengan tiba-tiba) pada waktu pagi,"
+        },
+        {
+            "id": 6150,
+            "surah": 100,
+            "nomor": 4,
+            "ar": "فَاَثَرْنَ بِهٖ نَقْعًاۙ",
+            "tr": "fa'aṡarna bihī naq‘ā(n).",
+            "idn": "sehingga menerbangkan debu,"
+        },
+        {
+            "id": 6151,
+            "surah": 100,
+            "nomor": 5,
+            "ar": "فَوَسَطْنَ بِهٖ جَمْعًاۙ",
+            "tr": "fawasaṭna bihī jam‘ā(n).",
+            "idn": "lalu menyerbu ke tengah-tengah kumpulan musuh,"
+        },
+        {
+            "id": 6152,
+            "surah": 100,
+            "nomor": 6,
+            "ar": "اِنَّ الْاِنْسَانَ لِرَبِّهٖ لَكَنُوْدٌ ۚ",
+            "tr": "innal-insāna lirabbihī lakanūd(un).",
+            "idn": "sungguh, manusia itu sangat ingkar, (tidak bersyukur) kepada Tuhannya,"
+        },
+        {
+            "id": 6153,
+            "surah": 100,
+            "nomor": 7,
+            "ar": "وَاِنَّهٗ عَلٰى ذٰلِكَ لَشَهِيْدٌۚ",
+            "tr": "wa innahū ‘alā żālika lasyahīd(un).",
+            "idn": "dan sesungguhnya dia (manusia) menyaksikan (mengakui) keingkarannya,"
+        },
+        {
+            "id": 6154,
+            "surah": 100,
+            "nomor": 8,
+            "ar": "وَاِنَّهٗ لِحُبِّ الْخَيْرِ لَشَدِيْدٌ ۗ",
+            "tr": "wa innahū liḥubbil-khairi lasyadīd(un).",
+            "idn": "dan sesungguhnya cintanya kepada harta benar-benar berlebihan."
+        },
+        {
+            "id": 6155,
+            "surah": 100,
+            "nomor": 9,
+            "ar": "۞ اَفَلَا يَعْلَمُ اِذَا بُعْثِرَ مَا فِى الْقُبُوْرِۙ",
+            "tr": "afalā ya‘lamu iżā bu‘ṡira mā fil-qubūr(i).",
+            "idn": "Maka tidakkah dia mengetahui apabila apa yang di dalam kubur dikeluarkan,"
+        },
+        {
+            "id": 6156,
+            "surah": 100,
+            "nomor": 10,
+            "ar": "وَحُصِّلَ مَا فِى الصُّدُوْرِۙ",
+            "tr": "wa ḥuṣṣila mā fiṣ-ṣudūr(i).",
+            "idn": "dan apa yang tersimpan di dalam dada dilahirkan?"
+        },
+        {
+            "id": 6157,
+            "surah": 100,
+            "nomor": 11,
+            "ar": "اِنَّ رَبَّهُمْ بِهِمْ يَوْمَىِٕذٍ لَّخَبِيْرٌ ࣖ",
+            "tr": "inna rabbahum bihim yauma'iżil lakhabīr(un).",
+            "idn": "sungguh, Tuhan mereka pada hari itu Mahateliti terhadap keadaan mereka."
+        }
+    ],
+    "surat_selanjutnya": {
+        "id": 101,
+        "nomor": 101,
+        "nama": "القارعة",
+        "nama_latin": "Al-Qari'ah",
+        "jumlah_ayat": 11,
+        "tempat_turun": "mekah",
+        "arti": "Hari Kiamat",
+        "deskripsi": "Surat ini terdiri atas 11 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Quraisy. Nama <i>Al Qaari'ah</i> diambil dari kata <i>Al Qaari'ah</i> yang terdapat pada ayat pertama, artinya mengetok dengan keras, kemudian kata ini dipakai untuk nama hari kiamat.",
+        "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/101.mp3"
+    },
+    "surat_sebelumnya": {
+        "id": 99,
+        "nomor": 99,
+        "nama": "الزلزلة",
+        "nama_latin": "Az-Zalzalah",
+        "jumlah_ayat": 8,
+        "tempat_turun": "madinah",
+        "arti": "Guncangan",
+        "deskripsi": "Surat ini terdiri atas 8 ayat, termasuk golongan surat-surat Madaniyyah diturunkan sesudah surat An Nisaa'. Nama <i>Al Zalzalah</i> diambil dari kata: <i>Zilzaal</i> yang terdapat pada ayat pertama surat ini yang berarti goncangan.",
+        "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/099.mp3"
+    }
+}

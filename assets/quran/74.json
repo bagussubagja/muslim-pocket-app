@@ -1,0 +1,483 @@
+{
+    "nomor": 74,
+    "nama": "المدّثّر",
+    "nama_latin": "Al-Muddassir",
+    "jumlah_ayat": 56,
+    "tempat_turun": "mekah",
+    "arti": "Orang Yang Berkemul",
+    "deskripsi": "Surat Al Muddatstsir terdiri atas 56 ayat, termasuk golongan  surat-surat Makkiyah, diturunkan sesudah surat Al Muzzammil. \tDinamai <i>Al Muddatstsir</i> (orang yang berkemul) diambil dari perkataan <i>Al Muddatstsir</i> yang terdapat pada ayat pertama surat ini.",
+    "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/074.mp3",
+    "status": true,
+    "ayat": [
+        {
+            "id": 5496,
+            "surah": 74,
+            "nomor": 1,
+            "ar": "يٰٓاَيُّهَا الْمُدَّثِّرُۙ",
+            "tr": "yā ayyuhal-muddaṡṡir(u).",
+            "idn": "Wahai orang yang berkemul (berselimut)!"
+        },
+        {
+            "id": 5497,
+            "surah": 74,
+            "nomor": 2,
+            "ar": "قُمْ فَاَنْذِرْۖ",
+            "tr": "qum fa'anżir.",
+            "idn": "bangunlah, lalu berilah peringatan!"
+        },
+        {
+            "id": 5498,
+            "surah": 74,
+            "nomor": 3,
+            "ar": "وَرَبَّكَ فَكَبِّرْۖ",
+            "tr": "wa rabbaka fakabbir.",
+            "idn": "dan agungkanlah Tuhanmu,"
+        },
+        {
+            "id": 5499,
+            "surah": 74,
+            "nomor": 4,
+            "ar": "وَثِيَابَكَ فَطَهِّرْۖ",
+            "tr": "wa ṡiyābaka faṭahhir.",
+            "idn": "dan bersihkanlah pakaianmu,"
+        },
+        {
+            "id": 5500,
+            "surah": 74,
+            "nomor": 5,
+            "ar": "وَالرُّجْزَ فَاهْجُرْۖ ",
+            "tr": "war-rujza fahjur.",
+            "idn": "dan tinggalkanlah segala (perbuatan) yang keji,"
+        },
+        {
+            "id": 5501,
+            "surah": 74,
+            "nomor": 6,
+            "ar": "وَلَا تَمْنُنْ تَسْتَكْثِرُۖ ",
+            "tr": "wa lā tamnun tastakṡir(u).",
+            "idn": "dan janganlah engkau (Muhammad) memberi (dengan maksud) memperoleh (balasan) yang lebih banyak."
+        },
+        {
+            "id": 5502,
+            "surah": 74,
+            "nomor": 7,
+            "ar": "وَلِرَبِّكَ فَاصْبِرْۗ ",
+            "tr": "wa lirabbika faṣbir.",
+            "idn": "Dan karena Tuhanmu, bersabarlah."
+        },
+        {
+            "id": 5503,
+            "surah": 74,
+            "nomor": 8,
+            "ar": "فَاِذَا نُقِرَ فِى النَّاقُوْرِۙ ",
+            "tr": "fa iżā nuqira fin-nāqūr(i).",
+            "idn": "Maka apabila sangkakala ditiup,"
+        },
+        {
+            "id": 5504,
+            "surah": 74,
+            "nomor": 9,
+            "ar": "فَذٰلِكَ يَوْمَىِٕذٍ يَّوْمٌ عَسِيْرٌۙ ",
+            "tr": "fa żālika yauma'iżiy yaumun ‘asīr(un).",
+            "idn": "maka itulah hari yang serba sulit,"
+        },
+        {
+            "id": 5505,
+            "surah": 74,
+            "nomor": 10,
+            "ar": "عَلَى الْكٰفِرِيْنَ غَيْرُ يَسِيْرٍ ",
+            "tr": "‘alal-kāfirīna gairu yasīr(in).",
+            "idn": "bagi orang-orang kafir tidak mudah."
+        },
+        {
+            "id": 5506,
+            "surah": 74,
+            "nomor": 11,
+            "ar": "ذَرْنِيْ وَمَنْ خَلَقْتُ وَحِيْدًاۙ ",
+            "tr": "Żarnī wa man khalaqtu waḥīdā(n).",
+            "idn": "Biarkanlah Aku (yang bertindak) terhadap orang yang Aku sendiri telah menciptakannya,"
+        },
+        {
+            "id": 5507,
+            "surah": 74,
+            "nomor": 12,
+            "ar": "وَّجَعَلْتُ لَهٗ مَالًا مَّمْدُوْدًاۙ ",
+            "tr": "wa ja‘altu lahū mālam mamdūdā(n).",
+            "idn": "dan Aku beri kekayaan yang melimpah,"
+        },
+        {
+            "id": 5508,
+            "surah": 74,
+            "nomor": 13,
+            "ar": "وَّبَنِيْنَ شُهُوْدًاۙ ",
+            "tr": "wa banīna syuhūdā(n).",
+            "idn": "dan anak-anak yang selalu bersamanya,"
+        },
+        {
+            "id": 5509,
+            "surah": 74,
+            "nomor": 14,
+            "ar": "وَّمَهَّدْتُّ لَهٗ تَمْهِيْدًاۙ ",
+            "tr": "wa mahhattu lahū tamhīdā(n).",
+            "idn": "dan Aku beri kelapangan (hidup) seluas-luasnya."
+        },
+        {
+            "id": 5510,
+            "surah": 74,
+            "nomor": 15,
+            "ar": "ثُمَّ يَطْمَعُ اَنْ اَزِيْدَۙ    ",
+            "tr": "Ṡumma yaṭma‘u an azīd(a).",
+            "idn": "Kemudian dia ingin sekali agar Aku menambahnya."
+        },
+        {
+            "id": 5511,
+            "surah": 74,
+            "nomor": 16,
+            "ar": "كَلَّاۗ اِنَّهٗ كَانَ لِاٰيٰتِنَا عَنِيْدًاۗ ",
+            "tr": "kallā, innahū kāna li'āyātinā ‘anīdā(n).",
+            "idn": "Tidak bisa! Sesungguhnya dia telah menentang ayat-ayat Kami (Al-Qur'an)."
+        },
+        {
+            "id": 5512,
+            "surah": 74,
+            "nomor": 17,
+            "ar": "سَاُرْهِقُهٗ صَعُوْدًاۗ ",
+            "tr": "sa'urhiquhū ṣa‘ūdā(n).",
+            "idn": "Aku akan membebaninya dengan pendakian yang memayahkan."
+        },
+        {
+            "id": 5513,
+            "surah": 74,
+            "nomor": 18,
+            "ar": "اِنَّهٗ فَكَّرَ وَقَدَّرَۙ ",
+            "tr": "innahū fakkara wa qaddar(a).",
+            "idn": "Sesungguhnya dia telah memikirkan dan menetapkan (apa yang ditetapkannya),"
+        },
+        {
+            "id": 5514,
+            "surah": 74,
+            "nomor": 19,
+            "ar": "فَقُتِلَ كَيْفَ قَدَّرَۙ ",
+            "tr": "faqutila kaifa qaddar(a).",
+            "idn": "maka celakalah dia! Bagaimana dia menetapkan?"
+        },
+        {
+            "id": 5515,
+            "surah": 74,
+            "nomor": 20,
+            "ar": "ثُمَّ قُتِلَ كَيْفَ قَدَّرَۙ ",
+            "tr": "Ṡumma qutila kaifa qaddar(a).",
+            "idn": "Sekali lagi, celakalah dia! Bagaimana dia menetapkan?"
+        },
+        {
+            "id": 5516,
+            "surah": 74,
+            "nomor": 21,
+            "ar": "ثُمَّ نَظَرَۙ ",
+            "tr": "Ṡumma naẓar(a).",
+            "idn": "Kemudian dia (merenung) memikirkan,"
+        },
+        {
+            "id": 5517,
+            "surah": 74,
+            "nomor": 22,
+            "ar": "ثُمَّ عَبَسَ وَبَسَرَۙ ",
+            "tr": "Ṡumma ‘abasa wa basar(a).",
+            "idn": "lalu berwajah masam dan cemberut,"
+        },
+        {
+            "id": 5518,
+            "surah": 74,
+            "nomor": 23,
+            "ar": "ثُمَّ اَدْبَرَ وَاسْتَكْبَرَۙ ",
+            "tr": "Ṡumma adbara wastakbar(a).",
+            "idn": "kemudian berpaling (dari kebenaran) dan menyombongkan diri,"
+        },
+        {
+            "id": 5519,
+            "surah": 74,
+            "nomor": 24,
+            "ar": "فَقَالَ اِنْ هٰذَآ اِلَّا سِحْرٌ يُّؤْثَرُۙ ",
+            "tr": "faqāla in hāżā illā siḥruy yu'ṡar(u).",
+            "idn": "lalu dia berkata, “(Al-Qur'an) ini hanyalah sihir yang dipelajari (dari orang-orang dahulu)."
+        },
+        {
+            "id": 5520,
+            "surah": 74,
+            "nomor": 25,
+            "ar": "اِنْ هٰذَآ اِلَّا قَوْلُ الْبَشَرِۗ ",
+            "tr": "in hāżā illā qaulul-basyar(i).",
+            "idn": "Ini hanyalah perkataan manusia.”"
+        },
+        {
+            "id": 5521,
+            "surah": 74,
+            "nomor": 26,
+            "ar": "سَاُصْلِيْهِ سَقَرَ",
+            "tr": "sa'uṣlīhi saqar(a).",
+            "idn": "Kelak, Aku akan memasukkannya ke dalam (neraka) Saqar,"
+        },
+        {
+            "id": 5522,
+            "surah": 74,
+            "nomor": 27,
+            "ar": "وَمَآ اَدْرٰىكَ مَا سَقَرُۗ ",
+            "tr": "wa mā adrāka mā saqar(a).",
+            "idn": "dan tahukah kamu apa (neraka) Saqar itu?"
+        },
+        {
+            "id": 5523,
+            "surah": 74,
+            "nomor": 28,
+            "ar": "لَا تُبْقِيْ وَلَا تَذَرُۚ ",
+            "tr": "lā tubqī wa lā tażar(u).",
+            "idn": "Ia (Saqar itu) tidak meninggalkan dan tidak membiarkan,"
+        },
+        {
+            "id": 5524,
+            "surah": 74,
+            "nomor": 29,
+            "ar": "لَوَّاحَةٌ لِّلْبَشَرِۚ ",
+            "tr": "lawwāḥatul lil-basyar(i).",
+            "idn": "yang menghanguskan kulit manusia."
+        },
+        {
+            "id": 5525,
+            "surah": 74,
+            "nomor": 30,
+            "ar": "عَلَيْهَا تِسْعَةَ عَشَرَۗ ",
+            "tr": "‘alaihā tis‘ata ‘asyar(a).",
+            "idn": "Di atasnya ada sembilan belas (malaikat penjaga)."
+        },
+        {
+            "id": 5526,
+            "surah": 74,
+            "nomor": 31,
+            "ar": "وَمَا جَعَلْنَآ اَصْحٰبَ النَّارِ اِلَّا مَلٰۤىِٕكَةً ۖوَّمَا جَعَلْنَا عِدَّتَهُمْ اِلَّا فِتْنَةً لِّلَّذِيْنَ كَفَرُوْاۙ لِيَسْتَيْقِنَ الَّذِيْنَ اُوْتُوا الْكِتٰبَ وَيَزْدَادَ الَّذِيْنَ اٰمَنُوْٓا اِيْمَانًا وَّلَا يَرْتَابَ الَّذِيْنَ اُوْتُوا الْكِتٰبَ وَالْمُؤْمِنُوْنَۙ وَلِيَقُوْلَ الَّذِيْنَ فِيْ قُلُوْبِهِمْ مَّرَضٌ وَّالْكٰفِرُوْنَ مَاذَآ اَرَادَ اللّٰهُ بِهٰذَا مَثَلًاۗ  كَذٰلِكَ يُضِلُّ اللّٰهُ مَنْ يَّشَاۤءُ وَيَهْدِيْ مَنْ يَّشَاۤءُۗ وَمَا يَعْلَمُ جُنُوْدَ رَبِّكَ اِلَّا هُوَۗ وَمَا هِيَ اِلَّا ذِكْرٰى لِلْبَشَرِ ࣖ",
+            "tr": "wa mā ja‘alnā aṣḥāban-nāri illā malā'ikah(tan), wa mā ja‘alnā ‘iddatahum illā fitnatal lil-lażīna kafarū, liyastaiqinal-lażīna ūtul-kitāba wa yazdādal-lażīna āmanū īmānaw wa lā yartābal-lażīna ūtul-kitāba wal-mu'minūn(a), wa liyaqūlal-lażīna fī qulūbihim maraḍuw wal-kāfirūna māżā arādallāhu bihāżā maṡalā(n), każālika yuḍillullāhu may yasyā'u wa yahdī may yasyā'(u), wa mā ya‘lamu junūda rabbika illā huw(a), wa mā hiya illā żikrā lil-basyar(i).",
+            "idn": "Dan yang Kami jadikan penjaga neraka itu hanya dari malaikat; dan Kami menentukan bilangan mereka itu hanya sebagai cobaan bagi orang-orang kafir, agar orang-orang yang diberi kitab menjadi yakin, agar orang yang beriman bertambah imannya, agar orang-orang yang diberi kitab dan orang-orang mukmin itu tidak ragu-ragu; dan agar orang-orang yang di dalam hatinya ada penyakit dan orang-orang kafir (berkata), “Apakah yang dikehendaki Allah dengan (bilangan) ini sebagai suatu perumpamaan?” Demikianlah Allah membiarkan sesat orang-orang yang Dia kehendaki dan memberi petunjuk kepada orang-orang yang Dia kehendaki. Dan tidak ada yang mengetahui bala tentara Tuhanmu kecuali Dia sendiri. Dan Saqar itu tidak lain hanyalah peringatan bagi manusia."
+        },
+        {
+            "id": 5527,
+            "surah": 74,
+            "nomor": 32,
+            "ar": "كَلَّا وَالْقَمَرِۙ",
+            "tr": "kallā wal-qamar(i).",
+            "idn": "Tidak! Demi bulan,"
+        },
+        {
+            "id": 5528,
+            "surah": 74,
+            "nomor": 33,
+            "ar": "وَالَّيْلِ اِذْ اَدْبَرَۙ",
+            "tr": "wal-laili iż adbar(a).",
+            "idn": "dan demi malam ketika telah berlalu,"
+        },
+        {
+            "id": 5529,
+            "surah": 74,
+            "nomor": 34,
+            "ar": "وَالصُّبْحِ اِذَآ اَسْفَرَۙ",
+            "tr": "waṣ-ṣubḥi iżā asfar(a).",
+            "idn": "dan demi subuh apabila mulai terang, "
+        },
+        {
+            "id": 5530,
+            "surah": 74,
+            "nomor": 35,
+            "ar": "اِنَّهَا لَاِحْدَى الْكُبَرِۙ",
+            "tr": "innahā la'iḥdal-kubar(i).",
+            "idn": "sesunggunya (Saqar itu) adalah salah satu (bencana) yang sangat besar,"
+        },
+        {
+            "id": 5531,
+            "surah": 74,
+            "nomor": 36,
+            "ar": "نَذِيْرًا لِّلْبَشَرِۙ",
+            "tr": "nażīral lil-basyar(i).",
+            "idn": "sebagai peringatan bagi manusia, "
+        },
+        {
+            "id": 5532,
+            "surah": 74,
+            "nomor": 37,
+            "ar": "لِمَنْ شَاۤءَ مِنْكُمْ اَنْ يَّتَقَدَّمَ اَوْ يَتَاَخَّرَۗ",
+            "tr": "liman syā'a minkum ay yataqaddama au yata'akhkhar(a).",
+            "idn": "(yaitu) bagi siapa di antara kamu yang ingin maju atau mundur."
+        },
+        {
+            "id": 5533,
+            "surah": 74,
+            "nomor": 38,
+            "ar": "كُلُّ نَفْسٍۢ بِمَا كَسَبَتْ رَهِيْنَةٌۙ",
+            "tr": "kullu nafsim bimā kasabat rahīnah(tun).",
+            "idn": "Setiap orang bertanggung jawab atas apa yang telah dilakukannya,"
+        },
+        {
+            "id": 5534,
+            "surah": 74,
+            "nomor": 39,
+            "ar": "اِلَّآ اَصْحٰبَ الْيَمِيْنِ ۛ ",
+            "tr": "illā aṣḥābal-yamīn(i).",
+            "idn": "kecuali golongan kanan,"
+        },
+        {
+            "id": 5535,
+            "surah": 74,
+            "nomor": 40,
+            "ar": "فِيْ جَنّٰتٍ ۛ يَتَسَاۤءَلُوْنَۙ",
+            "tr": "fī jannātin - yatasā'alūn(a).",
+            "idn": "berada di dalam surga, mereka saling menanyakan,"
+        },
+        {
+            "id": 5536,
+            "surah": 74,
+            "nomor": 41,
+            "ar": "عَنِ الْمُجْرِمِيْنَۙ",
+            "tr": "‘anil-mujrimīn(a).",
+            "idn": "tentang (keadaan) orang-orang yang berdosa, "
+        },
+        {
+            "id": 5537,
+            "surah": 74,
+            "nomor": 42,
+            "ar": "مَا سَلَكَكُمْ فِيْ سَقَرَ ",
+            "tr": "mā salakakum fī saqar(a).",
+            "idn": "”Apa yang menyebabkan kamu masuk ke dalam (neraka) Saqar?”"
+        },
+        {
+            "id": 5538,
+            "surah": 74,
+            "nomor": 43,
+            "ar": "قَالُوْا لَمْ نَكُ مِنَ الْمُصَلِّيْنَۙ",
+            "tr": "qālū lam naku minal-muṣallīn(a).",
+            "idn": "Mereka menjawab, “Dahulu kami tidak termasuk orang-orang yang me-laksanakan salat, "
+        },
+        {
+            "id": 5539,
+            "surah": 74,
+            "nomor": 44,
+            "ar": "وَلَمْ نَكُ نُطْعِمُ الْمِسْكِيْنَۙ",
+            "tr": "wa lam naku nuṭ‘imul-miskīn(a).",
+            "idn": "dan kami (juga) tidak memberi makan orang miskin, "
+        },
+        {
+            "id": 5540,
+            "surah": 74,
+            "nomor": 45,
+            "ar": "وَكُنَّا نَخُوْضُ مَعَ الْخَاۤىِٕضِيْنَۙ",
+            "tr": "wa kunnā nakhūḍu ma‘al-khā'iḍīn(a).",
+            "idn": "bahkan kami biasa berbincang (untuk tujuan yang batil), bersama orang-orang yang membicarakannya, "
+        },
+        {
+            "id": 5541,
+            "surah": 74,
+            "nomor": 46,
+            "ar": "وَكُنَّا نُكَذِّبُ بِيَوْمِ الدِّيْنِۙ",
+            "tr": "wa kunnā nukażżibu biyaumid-dīn(i).",
+            "idn": "dan kami mendustakan hari pembalasan, "
+        },
+        {
+            "id": 5542,
+            "surah": 74,
+            "nomor": 47,
+            "ar": "حَتّٰىٓ اَتٰىنَا الْيَقِيْنُۗ",
+            "tr": "Ḥattā atānal-yaqīn(u).",
+            "idn": "sampai datang kepada kami kematian.” "
+        },
+        {
+            "id": 5543,
+            "surah": 74,
+            "nomor": 48,
+            "ar": "فَمَا تَنْفَعُهُمْ شَفَاعَةُ الشّٰفِعِيْنَۗ",
+            "tr": "famā tanfa‘uhum syafā‘atusy-syāfi‘īn(a).",
+            "idn": "Maka tidak berguna lagi bagi mereka syafaat (pertolongan) dari orang-orang yang memberikan syafaat. "
+        },
+        {
+            "id": 5544,
+            "surah": 74,
+            "nomor": 49,
+            "ar": "فَمَا لَهُمْ عَنِ التَّذْكِرَةِ مُعْرِضِيْنَۙ",
+            "tr": "famā lahum ‘anit-tażkirati mu‘riḍīn(a).",
+            "idn": "Lalu mengapa mereka (orang-orang kafir) berpaling dari peringatan (Allah)?"
+        },
+        {
+            "id": 5545,
+            "surah": 74,
+            "nomor": 50,
+            "ar": "كَاَنَّهُمْ حُمُرٌ مُّسْتَنْفِرَةٌۙ",
+            "tr": "ka'annahum ḥumurum mustanfirah(tun).",
+            "idn": "seakan-akan mereka keledai liar yang lari terkejut,"
+        },
+        {
+            "id": 5546,
+            "surah": 74,
+            "nomor": 51,
+            "ar": "فَرَّتْ مِنْ قَسْوَرَةٍۗ",
+            "tr": "farrat min qaswarah(tin).",
+            "idn": "lari dari singa. "
+        },
+        {
+            "id": 5547,
+            "surah": 74,
+            "nomor": 52,
+            "ar": "بَلْ يُرِيْدُ كُلُّ امْرِئٍ مِّنْهُمْ اَنْ يُّؤْتٰى صُحُفًا مُّنَشَّرَةًۙ",
+            "tr": "bal yurīdu kullumri'im minhum ay yu'tā ṣuḥufam munasysyarah(tan).",
+            "idn": "Bahkan setiap orang dari mereka ingin agar diberikan kepadanya lembaran-lembaran (kitab) yang terbuka. "
+        },
+        {
+            "id": 5548,
+            "surah": 74,
+            "nomor": 53,
+            "ar": "كَلَّاۗ بَلْ لَّا يَخَافُوْنَ الْاٰخِرَةَۗ",
+            "tr": "kallā, bal lā yakhāfūnal-ākhirah(ta).",
+            "idn": "Tidak! Sebenarnya mereka tidak takut kepada akhirat."
+        },
+        {
+            "id": 5549,
+            "surah": 74,
+            "nomor": 54,
+            "ar": "كَلَّآ اِنَّهٗ تَذْكِرَةٌ ۚ",
+            "tr": "kallā innahū tażkirah(tun).",
+            "idn": "Tidak! Sesungguhnya (Al-Qur'an) itu benar-benar suatu peringatan. "
+        },
+        {
+            "id": 5550,
+            "surah": 74,
+            "nomor": 55,
+            "ar": "فَمَنْ شَاۤءَ ذَكَرَهٗۗ",
+            "tr": "faman syā'a żakarah(ū).",
+            "idn": "Maka barangsiapa menghendaki, tentu dia mengambil pelajaran darinya. "
+        },
+        {
+            "id": 5551,
+            "surah": 74,
+            "nomor": 56,
+            "ar": "وَمَا يَذْكُرُوْنَ اِلَّآ اَنْ يَّشَاۤءَ اللّٰهُ ۗهُوَ اَهْلُ التَّقْوٰى وَاَهْلُ الْمَغْفِرَةِ ࣖ",
+            "tr": "wa mā yażkurūna illā ay yasyā'allāh(u), huwa ahlut-taqwā wa ahlul-magfirah(ti).",
+            "idn": "Dan mereka tidak akan mengambil pelajaran darinya (Al-Qur'an) kecuali (jika) Allah menghendakinya. Dialah Tuhan yang patut (kita) bertakwa kepada-Nya dan yang berhak memberi ampunan. "
+        }
+    ],
+    "surat_selanjutnya": {
+        "id": 75,
+        "nomor": 75,
+        "nama": "القيٰمة",
+        "nama_latin": "Al-Qiyamah",
+        "jumlah_ayat": 40,
+        "tempat_turun": "mekah",
+        "arti": "Hari Kiamat",
+        "deskripsi": "Surat Al Qiyaamah terdiri atas 40 ayat, termasuk golongan surat-surat Makkiyah, diturunkan sesudah surat Al Qaari'ah. Dinamai <i>Al Qiyaamah</i> (hari kiamat) diambil dari perkataan <i>Al Qiyaamah</i> yang terdapat pada ayat pertama surat ini.",
+        "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/075.mp3"
+    },
+    "surat_sebelumnya": {
+        "id": 73,
+        "nomor": 73,
+        "nama": "المزّمّل",
+        "nama_latin": "Al-Muzzammil",
+        "jumlah_ayat": 20,
+        "tempat_turun": "mekah",
+        "arti": "Orang Yang Berselimut",
+        "deskripsi": "Surat Al Muzzammil terdiri atas 20 ayat, termasuk golongan surat-surat Makkiyah, diturunkan sesudah surat Al Qalam.<br>Dinamai <i>Al Muzzammil</i> (orang yang berselimut) diambil dari perkataan <i>Al Muzzammil</i> yang terdapat pada ayat pertama surat ini. Yang dimaksud dengan <i>orang yang berkemul</i> ialah Nabi Muhammad s.a.w.",
+        "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/073.mp3"
+    }
+}

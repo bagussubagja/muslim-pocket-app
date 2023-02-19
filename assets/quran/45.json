@@ -1,0 +1,331 @@
+{
+    "nomor": 45,
+    "nama": "الجاثية",
+    "nama_latin": "Al-Jasiyah",
+    "jumlah_ayat": 37,
+    "tempat_turun": "mekah",
+    "arti": "Berlutut",
+    "deskripsi": "Surat Al Jaatsiyah terdiri atas 37 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Ad Dukhaan. Dinamai dengan <i>Al Jaatsiyah</i> (yang berlutut) diambil dari perkataan <i>Jaatsiyah</i> yang terdapat pada ayat 28 surat ini. Ayat tersebut menerangkan tentang keadaan manusia pada hari kiamat, yaitu semua manusia dikumpulkan ke hadapan mahkamah Allah Yang Maha Tinggi yang memberikan keputusan terhadap perbuatan yang telah mereka lakukan di dunia. Pada hari itu semua manusia berlutut di hadapan Allah. Dinamai juga dengan <i>Asy Syari'ah</i> diambil dari perkataan <i>Syari'ah</i> (Syari'at) yang terdapat pada ayat 18 surat ini.",
+    "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/045.mp3",
+    "status": true,
+    "ayat": [
+        {
+            "id": 4474,
+            "surah": 45,
+            "nomor": 1,
+            "ar": "حٰمۤ  ۚ",
+            "tr": "Ḥā mīm.",
+            "idn": "Ha Mim"
+        },
+        {
+            "id": 4475,
+            "surah": 45,
+            "nomor": 2,
+            "ar": "تَنْزِيْلُ الْكِتٰبِ مِنَ اللّٰهِ الْعَزِيْزِ الْحَكِيْمِ",
+            "tr": "tanzīlul-kitābi minallāhil-‘azīzil-ḥakīm(i).",
+            "idn": "Kitab (ini) diturunkan dari Allah Yang Mahaperkasa, Mahabijaksana."
+        },
+        {
+            "id": 4476,
+            "surah": 45,
+            "nomor": 3,
+            "ar": "اِنَّ فِى السَّمٰوٰتِ وَالْاَرْضِ لَاٰيٰتٍ لِّلْمُؤْمِنِيْنَۗ",
+            "tr": "inna fis-samāwāti wal-arḍi la'āyātil lil-mu'minīn(a).",
+            "idn": "Sungguh, pada langit dan bumi benar-benar terdapat tanda-tanda (kebesaran Allah) bagi orang-orang mukmin."
+        },
+        {
+            "id": 4477,
+            "surah": 45,
+            "nomor": 4,
+            "ar": "وَفِيْ خَلْقِكُمْ وَمَا يَبُثُّ مِنْ دَاۤبَّةٍ اٰيٰتٌ لِّقَوْمٍ يُّوْقِنُوْنَۙ",
+            "tr": "wa fī khalqikum wa mā yabuṡṡu min dābbatin āyātul liqaumiy yūqinūn(a).",
+            "idn": "Dan pada penciptaan dirimu dan pada makhluk bergerak yang bernyawa yang bertebaran (di bumi) terdapat tanda-tanda (kebesaran Allah) untuk kaum yang meyakini,"
+        },
+        {
+            "id": 4478,
+            "surah": 45,
+            "nomor": 5,
+            "ar": "وَاخْتِلَافِ الَّيْلِ وَالنَّهَارِ وَمَآ اَنْزَلَ اللّٰهُ مِنَ السَّمَاۤءِ مِنْ رِّزْقٍ فَاَحْيَا بِهِ الْاَرْضَ بَعْدَ مَوْتِهَا وَتَصْرِيْفِ الرِّيٰحِ اٰيٰتٌ لِّقَوْمٍ يَّعْقِلُوْنَ",
+            "tr": "wakhtilāfil-laili wan-nahāri wa mā anzalallāhu minas-samā'i mir rizqin fa aḥyā bihil-arḍa ba‘da mautihā wa taṣrīfir-riyāḥi āyātul liqaumiy ya‘qilūn(a).",
+            "idn": "dan pada pergantian malam dan siang dan hujan yang diturunkan Allah dari langit lalu dengan (air hujan) itu dihidupkan-Nya bumi setelah mati (kering); dan pada perkisaran angin terdapat pula tanda-tanda (kebesaran Allah) bagi kaum yang mengerti."
+        },
+        {
+            "id": 4479,
+            "surah": 45,
+            "nomor": 6,
+            "ar": "تِلْكَ اٰيٰتُ اللّٰهِ نَتْلُوْهَا عَلَيْكَ بِالْحَقِّۚ فَبِاَيِّ حَدِيْثٍۢ بَعْدَ اللّٰهِ وَاٰيٰتِهٖ يُؤْمِنُوْنَ",
+            "tr": "tilka āyātullāhi natlūhā ‘alaika bil-ḥaqq(i), fa bi'ayyi ḥadīṡim ba‘dallāhi wa āyātihī yu'minūn(a).",
+            "idn": "Itulah ayat-ayat Allah yang Kami bacakan kepadamu dengan sebenarnya; maka dengan perkataan mana lagi mereka akan beriman setelah Allah dan ayat-ayat-Nya."
+        },
+        {
+            "id": 4480,
+            "surah": 45,
+            "nomor": 7,
+            "ar": "وَيْلٌ لِّكُلِّ اَفَّاكٍ اَثِيْمٍۙ",
+            "tr": "wailul likulli affākin aṡīm(in).",
+            "idn": "Celakalah bagi setiap orang yang banyak berdusta lagi banyak berdosa,"
+        },
+        {
+            "id": 4481,
+            "surah": 45,
+            "nomor": 8,
+            "ar": "يَّسْمَعُ اٰيٰتِ اللّٰهِ تُتْلٰى عَلَيْهِ ثُمَّ يُصِرُّ مُسْتَكْبِرًا كَاَنْ لَّمْ يَسْمَعْهَاۚ فَبَشِّرْهُ بِعَذَابٍ اَلِيْمٍ",
+            "tr": "yasma‘u āyātillāhi tutlā ‘alaihi ṡumma yuṣirru mustakbiran ka'allam yasma‘hā, fa basysyirhu bi‘ażābin alīm(in).",
+            "idn": "(yaitu) orang yang mendengar ayat-ayat Allah ketika dibacakan kepadanya namun dia tetap menyombongkan diri seakan-akan dia tidak mendengarnya. Maka peringatkanlah dia dengan azab yang pedih."
+        },
+        {
+            "id": 4482,
+            "surah": 45,
+            "nomor": 9,
+            "ar": "وَاِذَا عَلِمَ مِنْ اٰيٰتِنَا شَيْـًٔا ۨاتَّخَذَهَا هُزُوًاۗ اُولٰۤىِٕكَ لَهُمْ عَذَابٌ مُّهِيْنٌۗ ",
+            "tr": "wa iżā ‘alima min āyātinā syai'anittakhażahā huzuwā(n), ulā'ika lahum ‘ażābum muhīn(un).",
+            "idn": "Dan apabila dia mengetahui sedikit tentang ayat-ayat Kami, maka (ayat-ayat itu) dijadikan olok-olok. Merekalah yang akan menerima azab yang menghinakan."
+        },
+        {
+            "id": 4483,
+            "surah": 45,
+            "nomor": 10,
+            "ar": "مِنْ وَّرَاۤىِٕهِمْ جَهَنَّمُ ۚوَلَا يُغْنِيْ عَنْهُمْ مَّا كَسَبُوْا شَيْـًٔا وَّلَا مَا اتَّخَذُوْا مِنْ دُوْنِ اللّٰهِ اَوْلِيَاۤءَۚ وَلَهُمْ عَذَابٌ عَظِيْمٌۗ ",
+            "tr": "miw warā'ihim jahannam(u), wa lā yugnī ‘anhum mā kasabū syai'aw wa lā mattakhażū min dūnillāhi auliyā'(a), wa lahum ‘ażābun ‘aẓīm(un).",
+            "idn": "Di hadapan mereka neraka Jahanam dan tidak akan berguna bagi mereka sedikit pun apa yang telah mereka kerjakan, dan tidak pula (bermanfaat) apa yang mereka jadikan sebagai pelindung-pelindung (mereka) selain Allah. Dan mereka akan mendapat azab yang besar."
+        },
+        {
+            "id": 4484,
+            "surah": 45,
+            "nomor": 11,
+            "ar": "هٰذَا هُدًىۚ وَالَّذِيْنَ كَفَرُوْا بِاٰيٰتِ رَبِّهِمْ لَهُمْ عَذَابٌ مِّنْ رِّجْزٍ اَلِيْمٌ ࣖ",
+            "tr": "hāżā hudā(n), wal-lażīna kafarū bi'āyāti rabbihim lahum ‘ażābum mir rijzin alīm(un).",
+            "idn": "Ini (Al-Qur'an) adalah petunjuk. Dan orang-orang yang mengingkari ayat-ayat Tuhannya mereka akan mendapat azab berupa siksaan yang sangat pedih."
+        },
+        {
+            "id": 4485,
+            "surah": 45,
+            "nomor": 12,
+            "ar": "۞ اَللّٰهُ الَّذِيْ سَخَّرَ لَكُمُ الْبَحْرَ لِتَجْرِيَ الْفُلْكُ فِيْهِ بِاَمْرِهٖ وَلِتَبْتَغُوْا مِنْ فَضْلِهٖ وَلَعَلَّكُمْ تَشْكُرُوْنَۚ ",
+            "tr": "allāhul-lażī sakhkhara lakumul-baḥra litajriyal-fulku fīhi bi'amrihī wa litabtagū min faḍlihī wa la‘allakum tasykurūn(a).",
+            "idn": "Allah-lah yang menundukkan laut untukmu agar kapal-kapal dapat berlayar di atasnya dengan perintah-Nya, dan agar kamu dapat mencari sebagian karunia-Nya dan agar kamu bersyukur."
+        },
+        {
+            "id": 4486,
+            "surah": 45,
+            "nomor": 13,
+            "ar": "وَسَخَّرَ لَكُمْ مَّا فِى السَّمٰوٰتِ وَمَا فِى الْاَرْضِ جَمِيْعًا مِّنْهُ ۗاِنَّ فِيْ ذٰلِكَ لَاٰيٰتٍ لِّقَوْمٍ يَّتَفَكَّرُوْنَ ",
+            "tr": "wa sakhkhara lakum mā fis-samāwāti wa mā fil-arḍi jamī‘am minh(u), inna fī żālika la'āyātil liqaumiy yatafakkarūn(a).",
+            "idn": "Dan Dia menundukkan apa yang ada di langit dan apa yang ada di bumi untukmu semuanya (sebagai rahmat) dari-Nya. Sungguh, dalam hal yang demikian itu benar-benar terdapat tanda-tanda (kebesaran Allah) bagi orang-orang yang berpikir."
+        },
+        {
+            "id": 4487,
+            "surah": 45,
+            "nomor": 14,
+            "ar": "قُلْ لِّلَّذِيْنَ اٰمَنُوْا يَغْفِرُوْا لِلَّذِيْنَ لَا يَرْجُوْنَ اَيَّامَ اللّٰهِ لِيَجْزِيَ قَوْمًا ۢبِمَا كَانُوْا يَكْسِبُوْنَ ",
+            "tr": "qul lil-lażīna āmanū yagfirū lil-lażīna lā yarjūna ayyāmallāhi liyajziya qaumam bimā kānū yaksibūn(a).",
+            "idn": "Katakanlah (Muhammad) kepada orang-orang yang beriman hendaklah mereka memaafkan orang-orang yang tidak takut akan hari-hari Allah karena Dia akan membalas suatu kaum sesuai dengan apa yang telah mereka kerjakan."
+        },
+        {
+            "id": 4488,
+            "surah": 45,
+            "nomor": 15,
+            "ar": "مَنْ عَمِلَ صَالِحًا فَلِنَفْسِهٖۚ وَمَنْ اَسَاۤءَ فَعَلَيْهَا ۖ ثُمَّ اِلٰى رَبِّكُمْ تُرْجَعُوْنَ",
+            "tr": "man ‘amila ṣāliḥan fa linafsih(ī), wa man asā'a fa ‘alaihā, ṡumma ilā rabbikum turja‘ūn(a).",
+            "idn": "Barangsiapa mengerjakan kebajikan maka itu adalah untuk dirinya sendiri, dan barangsiapa mengerjakan kejahatan, maka itu akan menimpa dirinya sendiri, kemudian kepada Tuhanmu kamu dikembalikan."
+        },
+        {
+            "id": 4489,
+            "surah": 45,
+            "nomor": 16,
+            "ar": "وَلَقَدْ اٰتَيْنَا بَنِيْٓ اِسْرَاۤءِيْلَ الْكِتٰبَ وَالْحُكْمَ وَالنُّبُوَّةَ وَرَزَقْنٰهُمْ مِّنَ الطَّيِّبٰتِ وَفَضَّلْنٰهُمْ عَلَى الْعٰلَمِيْنَ ۚ ",
+            "tr": "wa laqad ātainā banī isrā'īlal-kitāba wal-ḥukma wan-nubuwwata wa razaqnāhum minaṭ-ṭayyibāti wa faḍḍalnāhum ‘alal-‘ālamīn(a).",
+            "idn": "Dan sungguh, kepada Bani Israil telah Kami berikan Kitab (Taurat), kekuasaan dan kenabian, Kami anugerahkan kepada mereka rezeki yang baik dan Kami lebihkan mereka atas bangsa-bangsa (pada masa itu)."
+        },
+        {
+            "id": 4490,
+            "surah": 45,
+            "nomor": 17,
+            "ar": "وَاٰتَيْنٰهُمْ بَيِّنٰتٍ مِّنَ الْاَمْرِۚ فَمَا اخْتَلَفُوْٓا اِلَّا مِنْۢ بَعْدِ مَا جَاۤءَهُمُ الْعِلْمُ بَغْيًاۢ بَيْنَهُمْ ۗاِنَّ رَبَّكَ يَقْضِيْ بَيْنَهُمْ يَوْمَ الْقِيٰمَةِ فِيْمَا كَانُوْا فِيْهِ يَخْتَلِفُوْنَ",
+            "tr": "wa ātaināhum bayyinātim minal-amr(i), fa makhtalafū illā mim ba‘di mā jā'ahumul-‘ilmu bagyam bainahum, inna rabbaka yaqḍī bainahum yaumal-qiyāmati fīmā kānū fīhi yakhtalifūn(a).",
+            "idn": "Dan Kami berikan kepada mereka keterangan-keterangan yang jelas tentang urusan (agama); maka mereka tidak berselisih kecuali setelah datang ilmu kepada mereka, karena kedengkian (yang ada) di antara mereka. Sungguh, Tuhanmu akan memberi putusan kepada mereka pada hari Kiamat terhadap apa yang selalu mereka perselisihkan."
+        },
+        {
+            "id": 4491,
+            "surah": 45,
+            "nomor": 18,
+            "ar": "ثُمَّ جَعَلْنٰكَ عَلٰى شَرِيْعَةٍ مِّنَ الْاَمْرِ فَاتَّبِعْهَا وَلَا تَتَّبِعْ اَهْوَاۤءَ الَّذِيْنَ لَا يَعْلَمُوْنَ",
+            "tr": "Ṡumma ja‘alnāka ‘alā syarī‘atim minal-amri fattabi‘hā wa lā tattabi‘ ahwā'al-lażīna lā ya‘lamūn(a).",
+            "idn": "Kemudian Kami jadikan engkau (Muhammad) mengikuti syariat (peraturan) dari agama itu, maka ikutilah (syariat itu) dan janganlah engkau ikuti keinginan orang-orang yang tidak mengetahui."
+        },
+        {
+            "id": 4492,
+            "surah": 45,
+            "nomor": 19,
+            "ar": "اِنَّهُمْ لَنْ يُّغْنُوْا عَنْكَ مِنَ اللّٰهِ شَيْـًٔا  ۗوَاِنَّ الظّٰلِمِيْنَ بَعْضُهُمْ اَوْلِيَاۤءُ بَعْضٍۚ وَاللّٰهُ وَلِيُّ الْمُتَّقِيْنَ ",
+            "tr": "innahum lay yugnū ‘anka minallāhi syai'ā(n), wa innaẓ-ẓālimīna ba‘ḍuhum auliyā'u ba‘ḍ(in), wallāhu waliyyul-muttaqīn(a).",
+            "idn": "Sungguh, mereka tidak akan dapat menghindarkan engkau sedikit pun dari (azab) Allah. Dan sungguh, orang-orang yang zalim itu sebagian menjadi pelindung atas sebagian yang lain, sedangkan Allah pelindung bagi orang-orang yang bertakwa."
+        },
+        {
+            "id": 4493,
+            "surah": 45,
+            "nomor": 20,
+            "ar": "هٰذَا بَصَاۤىِٕرُ لِلنَّاسِ وَهُدًى وَّرَحْمَةٌ لِّقَوْمٍ يُّوْقِنُوْنَ ",
+            "tr": "hāżā baṣā'iru lin-nāsi wa hudaw wa raḥmatul liqaumiy yūqinūn(a).",
+            "idn": "(Al-Qur'an) ini adalah pedoman bagi manusia, petunjuk dan rahmat bagi kaum yang meyakini."
+        },
+        {
+            "id": 4494,
+            "surah": 45,
+            "nomor": 21,
+            "ar": "اَمْ حَسِبَ الَّذِيْنَ اجْتَرَحُوا السَّيِّاٰتِ اَنْ نَّجْعَلَهُمْ كَالَّذِيْنَ اٰمَنُوْا وَعَمِلُوا الصّٰلِحٰتِ سَوَاۤءً مَّحْيَاهُمْ وَمَمَاتُهُمْ ۗسَاۤءَ مَا يَحْكُمُوْنَ ࣖࣖ",
+            "tr": "am ḥasibal-lażīnajtaraḥus -sayyi'āti an naj‘alahum kal-lażīna āmanū wa ‘amiluṣ-ṣāliḥāti sawā'am maḥyāhum wa mamātuhum, sā'a mā yaḥkumūn(a).",
+            "idn": "Apakah orang-orang yang melakukan kejahatan itu mengira bahwa Kami akan memperlakukan mereka seperti orang-orang yang beriman dan yang mengerjakan kebajikan, yaitu sama dalam kehidupan dan kematian mere-ka? Alangkah buruknya penilaian mereka itu."
+        },
+        {
+            "id": 4495,
+            "surah": 45,
+            "nomor": 22,
+            "ar": "وَخَلَقَ اللّٰهُ السَّمٰوٰتِ وَالْاَرْضَ بِالْحَقِّ وَلِتُجْزٰى كُلُّ نَفْسٍۢ بِمَا كَسَبَتْ وَهُمْ لَا يُظْلَمُوْنَ",
+            "tr": "wa khalaqallāhus-samāwāti wal-arḍa bil-ḥaqqi wa litujzā kullu nafsim bimā kasabat wa hum lā yuẓlamūn(a).",
+            "idn": "Dan Allah menciptakan langit dan bumi dengan tujuan yang benar dan agar setiap jiwa diberi balasan sesuai dengan apa yang dikerjakannya, dan mereka tidak akan dirugikan."
+        },
+        {
+            "id": 4496,
+            "surah": 45,
+            "nomor": 23,
+            "ar": "اَفَرَءَيْتَ مَنِ اتَّخَذَ اِلٰهَهٗ هَوٰىهُ وَاَضَلَّهُ اللّٰهُ عَلٰى عِلْمٍ وَّخَتَمَ عَلٰى سَمْعِهٖ وَقَلْبِهٖ وَجَعَلَ عَلٰى بَصَرِهٖ غِشٰوَةًۗ فَمَنْ يَّهْدِيْهِ مِنْۢ بَعْدِ اللّٰهِ ۗ اَفَلَا تَذَكَّرُوْنَ",
+            "tr": "afa ra'aita manittakhaża ilāhahū hawāhu wa aḍallahullāhu ‘alā ‘ilmiw wa khatama ‘alā sam‘ihī wa qalbihī wa ja‘ala ‘alā baṣarihī gisyāwah(tan), famay yahdīhi mim ba‘dillāh(i), afalā tażakkarūn(a).",
+            "idn": "Maka pernahkah kamu melihat orang yang menjadikan hawa nafsunya sebagai tuhannya dan Allah membiarkannya sesat dengan sepengetahuan-Nya, dan Allah telah mengunci pendengaran dan hatinya serta meletakkan tutup atas penglihatannya? Maka siapa yang mampu memberinya petunjuk setelah Allah (membiarkannya sesat?) Mengapa kamu tidak mengambil pelajaran?"
+        },
+        {
+            "id": 4497,
+            "surah": 45,
+            "nomor": 24,
+            "ar": "وَقَالُوْا مَا هِيَ اِلَّا حَيَاتُنَا الدُّنْيَا نَمُوْتُ وَنَحْيَا وَمَا يُهْلِكُنَآ اِلَّا الدَّهْرُۚ وَمَا لَهُمْ بِذٰلِكَ مِنْ عِلْمٍۚ اِنْ هُمْ اِلَّا يَظُنُّوْنَ",
+            "tr": "wa qālū mā hiya illā ḥayātunad-dun-yā namūtu wa naḥyā wa mā yuhlikunā illad-dahr(u), wa mā lahum biżālika min ‘ilmin in hum illā yaẓunnūn(a).",
+            "idn": "Dan mereka berkata, “Kehidupan ini tidak lain hanyalah kehidupan di dunia saja, kita mati dan kita hidup, dan tidak ada yang membinasakan kita selain masa.” Tetapi mereka tidak mempunyai ilmu tentang itu, mereka hanyalah menduga-duga saja."
+        },
+        {
+            "id": 4498,
+            "surah": 45,
+            "nomor": 25,
+            "ar": "وَاِذَا تُتْلٰى عَلَيْهِمْ اٰيٰتُنَا بَيِّنٰتٍ مَّا كَانَ حُجَّتَهُمْ اِلَّآ اَنْ قَالُوا ائْتُوْا بِاٰبَاۤىِٕنَآ اِنْ كُنْتُمْ صٰدِقِيْنَ",
+            "tr": "wa iżā tutlā ‘alaihim āyātunā bayyinātim mā kāna ḥujjatahum illā an qālu'tū bi'ābā'inā in kuntum ṣādiqīn(a).",
+            "idn": "Dan apabila kepada mereka dibacakan ayat-ayat Kami yang jelas, tidak ada bantahan mereka selain mengatakan, “Hidupkanlah kembali nenek moyang kami, jika kamu orang yang benar.”"
+        },
+        {
+            "id": 4499,
+            "surah": 45,
+            "nomor": 26,
+            "ar": "قُلِ اللّٰهُ يُحْيِيْكُمْ ثُمَّ يُمِيْتُكُمْ ثُمَّ يَجْمَعُكُمْ اِلٰى يَوْمِ الْقِيٰمَةِ لَارَيْبَ فِيْهِ وَلٰكِنَّ اَكْثَرَ النَّاسِ لَا يَعْلَمُوْنَ ࣖ",
+            "tr": "qulillāhu yuḥyīkum ṡumma yumītukum ṡumma yajma‘ukum ilā yaumil-qiyāmati lā raiba fīhi wa lākinna akṡaran-nāsi lā ya‘lamūn(a).",
+            "idn": "Katakanlah, “Allah yang menghidupkan kemudian mematikan kamu, setelah itu mengumpulkan kamu pada hari Kiamat yang tidak diragukan lagi; tetapi kebanyakan manusia tidak mengetahui.”"
+        },
+        {
+            "id": 4500,
+            "surah": 45,
+            "nomor": 27,
+            "ar": "وَلِلّٰهِ مُلْكُ السَّمٰوٰتِ وَالْاَرْضِۗ وَيَوْمَ تَقُوْمُ السَّاعَةُ يَوْمَىِٕذٍ يَّخْسَرُ الْمُبْطِلُوْنَ",
+            "tr": "wa lillāhi mulkus-samāwāti wal-arḍ(i), wa yauma taqūmus-sā‘atu yauma'iżiy yakhsarul-mubṭilūn(a).",
+            "idn": "Dan milik Allah kerajaan langit dan bumi. Dan pada hari terjadinya Kiamat, akan rugilah pada hari itu orang-orang yang mengerjakan kebatilan (dosa)."
+        },
+        {
+            "id": 4501,
+            "surah": 45,
+            "nomor": 28,
+            "ar": "وَتَرٰى كُلَّ اُمَّةٍ جَاثِيَةً ۗ كُلُّ اُمَّةٍ تُدْعٰٓى اِلٰى كِتٰبِهَاۗ  اَلْيَوْمَ تُجْزَوْنَ مَا كُنْتُمْ تَعْمَلُوْنَ",
+            "tr": "wa tarā kulla ummatin jāṡiyah(tan), kullu ummatin tud‘ā ilā kitābihā, al-yauma tujzauna mā kuntum ta‘malūn(a).",
+            "idn": "Dan (pada hari itu) engkau akan melihat setiap umat berlutut. Setiap umat dipanggil untuk (melihat) buku catatan amalnya. Pada hari itu kamu diberi balasan atas apa yang telah kamu kerjakan."
+        },
+        {
+            "id": 4502,
+            "surah": 45,
+            "nomor": 29,
+            "ar": "هٰذَا كِتٰبُنَا يَنْطِقُ عَلَيْكُمْ بِالْحَقِّ ۗاِنَّا كُنَّا نَسْتَنْسِخُ مَا كُنْتُمْ تَعْمَلُوْنَ",
+            "tr": "hāżā kitābunā yanṭiqu ‘alaikum bil-ḥaqq(i), innā kunnā nastansikhu mā kuntum ta‘malūn(a).",
+            "idn": "(Allah berfirman), “Inilah Kitab (catatan) Kami yang menuturkan kepadamu dengan sebenar-benarnya. Sesungguhnya Kami telah menyuruh mencatat apa yang telah kamu kerjakan.”"
+        },
+        {
+            "id": 4503,
+            "surah": 45,
+            "nomor": 30,
+            "ar": "فَاَمَّا الَّذِيْنَ اٰمَنُوْا وَعَمِلُوا الصّٰلِحٰتِ فَيُدْخِلُهُمْ رَبُّهُمْ  فِيْ رَحْمَتِهٖۗ ذٰلِكَ هُوَ الْفَوْزُ الْمُبِيْنُ",
+            "tr": "fa'ammal-lażīna āmanū wa ‘amiluṣ-ṣāliḥāti fayudkhiluhum rabbuhum fī raḥmatih(ī), żālika huwal-fauzul-mubīn(u).",
+            "idn": "Maka adapun orang-orang yang beriman dan mengerjakan kebajikan, maka Tuhan memasukkan mereka ke dalam rahmat-Nya (surga). Demikian itulah kemenangan yang nyata."
+        },
+        {
+            "id": 4504,
+            "surah": 45,
+            "nomor": 31,
+            "ar": "وَاَمَّا الَّذِيْنَ كَفَرُوْاۗ  اَفَلَمْ تَكُنْ اٰيٰتِيْ تُتْلٰى عَلَيْكُمْ فَاسْتَكْبَرْتُمْ وَكُنْتُمْ قَوْمًا مُّجْرِمِيْنَ",
+            "tr": "wa ammal-lażīna kafarū, falam takun āyātī tutlā ‘alaikum fastakbartum wa kuntum qaumam mujrimīn(a).",
+            "idn": "Dan adapun (kepada) orang-orang yang kafir (difirmankan), “Bukankah ayat-ayat-Ku telah dibacakan kepadamu tetapi kamu menyombongkan diri dan kamu menjadi orang-orang yang berbuat dosa?”"
+        },
+        {
+            "id": 4505,
+            "surah": 45,
+            "nomor": 32,
+            "ar": "وَاِذَا قِيْلَ اِنَّ وَعْدَ اللّٰهِ حَقٌّ وَّالسَّاعَةُ لَا رَيْبَ فِيْهَا قُلْتُمْ مَّا نَدْرِيْ مَا السَّاعَةُۙ اِنْ نَّظُنُّ اِلَّا ظَنًّا وَّمَا نَحْنُ بِمُسْتَيْقِنِيْنَ ",
+            "tr": "wa iżā qīla inna wa‘dallāhi ḥaqquw was-sā‘atu lā raiba fīhā qultum mā nadrī mas-sā‘ah(tu), in naẓunnu illā ẓannaw wa mā naḥnu bimustaiqinīn(a).",
+            "idn": "Dan apabila dikatakan (kepadamu), “Sungguh, janji Allah itu benar, dan hari Kiamat itu tidak diragukan adanya,” kamu menjawab, “Kami tidak tahu apakah hari Kiamat itu, kami hanyalah menduga-duga saja, dan kami tidak yakin.”"
+        },
+        {
+            "id": 4506,
+            "surah": 45,
+            "nomor": 33,
+            "ar": "وَبَدَا لَهُمْ سَيِّاٰتُ مَا عَمِلُوْا وَحَاقَ بِهِمْ مَّا كَانُوْا بِهٖ يَسْتَهْزِءُوْنَ",
+            "tr": "wa badā lahum sayyi'ātu mā ‘amilū wa ḥāqa bihim mā kānū bihī yastahzi'ūn(a).",
+            "idn": "Dan nyatalah bagi mereka keburukan-keburukan yang mereka kerjakan, dan berlakulah (azab) terhadap mereka yang dahulu mereka perolok-olokkan."
+        },
+        {
+            "id": 4507,
+            "surah": 45,
+            "nomor": 34,
+            "ar": "وَقِيْلَ الْيَوْمَ نَنْسٰىكُمْ كَمَا نَسِيْتُمْ لِقَاۤءَ يَوْمِكُمْ هٰذَاۙ وَمَأْوٰىكُمُ النَّارُ وَمَا لَكُمْ مِّنْ نّٰصِرِيْنَ",
+            "tr": "wa qīlal-yauma nansākum kamā nasītum liqā'a yaumikum hāżā, wa ma'wākumun nāru wa mā lakum min nāṣirīn(a).",
+            "idn": "Dan kepada mereka dikatakan, “Pada hari ini Kami melupakan kamu sebagaimana kamu telah melupakan pertemuan (dengan) harimu ini; dan tempat kembalimu ialah neraka dan se-kali-kali tidak akan ada penolong bagimu."
+        },
+        {
+            "id": 4508,
+            "surah": 45,
+            "nomor": 35,
+            "ar": "ذٰلِكُمْ بِاَنَّكُمُ اتَّخَذْتُمْ اٰيٰتِ اللّٰهِ هُزُوًا وَّغَرَّتْكُمُ الْحَيٰوةُ الدُّنْيَا ۚفَالْيَوْمَ لَا يُخْرَجُوْنَ مِنْهَا وَلَا هُمْ يُسْتَعْتَبُوْنَ",
+            "tr": "Żālikum bi'annakumuttakhażtum āyātillāhi huzuwaw wa garratkumul-ḥayātud-dun-yā, fal-yauma lā yukhrajūna minhā wa lā hum yusta‘tabūn(a).",
+            "idn": "Yang demikian itu, karena sesungguhnya kamu telah menjadikan ayat-ayat Allah sebagai olok-olokan dan kamu telah ditipu oleh kehidupan dunia.” Maka pada hari ini mereka tidak dikeluarkan dari neraka dan tidak pula mereka diberi kesempatan untuk bertobat."
+        },
+        {
+            "id": 4509,
+            "surah": 45,
+            "nomor": 36,
+            "ar": "فَلِلّٰهِ الْحَمْدُ رَبِّ السَّمٰوٰتِ وَرَبِّ الْاَرْضِ رَبِّ الْعٰلَمِيْنَ",
+            "tr": "fa lillāhil-ḥamdu rabbis-samāwāti wa rabbil-arḍi rabbil-‘ālamīn(a).",
+            "idn": "Segala puji hanya bagi Allah, Tuhan (pemilik) langit dan bumi, Tuhan seluruh alam."
+        },
+        {
+            "id": 4510,
+            "surah": 45,
+            "nomor": 37,
+            "ar": "وَلَهُ الْكِبْرِيَاۤءُ فِى السَّمٰوٰتِ وَالْاَرْضِ ۗوَهُوَ الْعَزِيْزُ الْحَكِيْمُ ࣖ   ۔",
+            "tr": "wa lahul-kibriyā'u fis-samāwāti wal-arḍ(i), wa huwal-‘azīzul-ḥakīm(u).",
+            "idn": "Dan hanya bagi-Nya segala keagungan di langit dan di bumi, dan Dialah Yang Mahaperkasa, Mahabijaksana."
+        }
+    ],
+    "surat_selanjutnya": {
+        "id": 46,
+        "nomor": 46,
+        "nama": "الاحقاف",
+        "nama_latin": "Al-Ahqaf",
+        "jumlah_ayat": 35,
+        "tempat_turun": "mekah",
+        "arti": "Bukit Pasir",
+        "deskripsi": "Surat Al Ahqaaf terdiri dari 35 ayat termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Al Jaatsiyah. Dinamai <i>Al Ahqaaf</i>  (bukit-bukit pasir) dari perkataan <i>Al Ahqaaf</i> yang terdapat pada ayat 21 surat ini.<br>Dalam ayat tersebut dan ayat-ayat sesudahnya diterangkan bahwa Nabi Hud a.s. telah menyampaikan risalahnya kepada kaumnya di <i>Al Ahqaaf</i> yang sekarang dikenal dengan Ar Rab'ul Khaali, tetapi kaumnya tetap ingkar sekalipun mereka telah diberi peringatan pula oleh rasul-rasul yang sebelumnya.  Akhirnya Allah menghancurkan mereka dengan tiupan angin kencang.  Hal ini adalah sebagai isyarat dari Allah kepada kaum musyrikin Quraisy bahwa mereka akan dihancurkan bila mereka tidak mengindahkan seruan Rasul.",
+        "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/046.mp3"
+    },
+    "surat_sebelumnya": {
+        "id": 44,
+        "nomor": 44,
+        "nama": "الدخان",
+        "nama_latin": "Ad-Dukhan",
+        "jumlah_ayat": 59,
+        "tempat_turun": "mekah",
+        "arti": "Kabut",
+        "deskripsi": "Surat Ad Dukhaan terdiri atas 59 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah Az Zukhruf. <br>Dinamai <i>Ad Dukhaan</i> (kabut), diambil dari perkataan <i>Dukhaan</i> yang terdapat pada ayat 10 surat ini.<br>Menurut riwayat Bukhari secara ringkas dapat diterangkan sebagai berikut: Orang-orang kafir Mekah dalam menghalang-halangi agama Islam dan menyakiti serta mendurhakai Nabi Muhammad s.a.w. sudah melewati batas, karena itu Nabi mendoa kepada Allah agar diturunkan azab sebagaimana yang telah diturunkan kepada orang-orang yang durhaka kepada Nabi Yusuf yaitu musim kemarau yang panjang.  Do'a Nabi itu dikabulkan Allah sampai orang-orang kafir memakan tulang dan bangkai, karena kelaparan.  Mereka selalu menengadah ke langit mengharap pertolongan Allah.  Tetapi tidak satupun yang mereka lihat kecuali kabut yang menutupi pandangan mereka.<br>Akhirnya mereka datang kepada Nabi agar Nabi memohon kepada Allah supaya hujan diturunkan.  Setelah Allah mengabulkan doa Nabi, dan hujan di turunkan, mereka kembali kafir seperti semula; karena itu Allah menyatakan bahwa nanti mereka akan diazab dengan azab yang pedih.",
+        "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/044.mp3"
+    }
+}

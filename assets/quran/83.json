@@ -1,0 +1,323 @@
+{
+    "nomor": 83,
+    "nama": "المطفّفين",
+    "nama_latin": "Al-Mutaffifin",
+    "jumlah_ayat": 36,
+    "tempat_turun": "mekah",
+    "arti": "Orang-Orang Curang",
+    "deskripsi": "Surat ini terdiri atas 36 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Al 'Ankabuut dan merupakan  surat yang terakhir di Mekkah sebelum hijrah. <i>Al Muthaffifiin</i>  yang dijadikan nama bagi surat ini diambil dari kata  <i>Al Muthaffifiin</i> yang terdapat pada ayat pertama.",
+    "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/083.mp3",
+    "status": true,
+    "ayat": [
+        {
+            "id": 5849,
+            "surah": 83,
+            "nomor": 1,
+            "ar": "وَيْلٌ لِّلْمُطَفِّفِيْنَۙ",
+            "tr": "wailul lil-muṭaffifīn(a).",
+            "idn": "Celakalah bagi orang-orang yang curang (dalam menakar dan menimbang)! "
+        },
+        {
+            "id": 5850,
+            "surah": 83,
+            "nomor": 2,
+            "ar": "الَّذِيْنَ اِذَا اكْتَالُوْا عَلَى النَّاسِ يَسْتَوْفُوْنَۖ",
+            "tr": "allażīna iżaktālū ‘alan-nāsi yastaufūn(a).",
+            "idn": "(Yaitu) orang-orang yang apabila menerima takaran dari orang lain mereka minta dicukupkan, "
+        },
+        {
+            "id": 5851,
+            "surah": 83,
+            "nomor": 3,
+            "ar": "وَاِذَا كَالُوْهُمْ اَوْ وَّزَنُوْهُمْ يُخْسِرُوْنَۗ",
+            "tr": "wa iżā kālūhum au wazanūhum yukhsirūn(a).",
+            "idn": "dan apabila mereka menakar atau menimbang (untuk orang lain), mereka mengurangi. "
+        },
+        {
+            "id": 5852,
+            "surah": 83,
+            "nomor": 4,
+            "ar": "اَلَا يَظُنُّ اُولٰۤىِٕكَ اَنَّهُمْ مَّبْعُوْثُوْنَۙ",
+            "tr": "alā yaẓunnu ulā'ika annahum mab‘ūṡūn(a).",
+            "idn": "Tidakkah mereka itu mengira, bahwa sesungguhnya mereka akan dibangkitkan, "
+        },
+        {
+            "id": 5853,
+            "surah": 83,
+            "nomor": 5,
+            "ar": "لِيَوْمٍ عَظِيْمٍۙ",
+            "tr": "liyaumin ‘aẓīm(in).",
+            "idn": "pada suatu hari yang besar, "
+        },
+        {
+            "id": 5854,
+            "surah": 83,
+            "nomor": 6,
+            "ar": "يَّوْمَ يَقُوْمُ النَّاسُ لِرَبِّ الْعٰلَمِيْنَۗ",
+            "tr": "yauma yaqūmun-nāsu lirabbil-‘ālamīn(a).",
+            "idn": "(yaitu) pada hari (ketika) semua orang bangkit menghadap Tuhan seluruh alam."
+        },
+        {
+            "id": 5855,
+            "surah": 83,
+            "nomor": 7,
+            "ar": "كَلَّآ اِنَّ كِتٰبَ الْفُجَّارِ لَفِيْ سِجِّيْنٍۗ",
+            "tr": "kallā inna kitābal-fujjāri lafī sijjīn(in).",
+            "idn": "Sekali-kali jangan begitu! Sesungguhnya catatan orang yang durhaka benar-benar tersimpan dalam Sijjin. "
+        },
+        {
+            "id": 5856,
+            "surah": 83,
+            "nomor": 8,
+            "ar": "وَمَآ اَدْرٰىكَ مَا سِجِّيْنٌۗ",
+            "tr": "wa mā adrāka mā sijjīn(un).",
+            "idn": "Dan tahukah engkau apakah Sijjin itu? "
+        },
+        {
+            "id": 5857,
+            "surah": 83,
+            "nomor": 9,
+            "ar": "كِتٰبٌ مَّرْقُوْمٌۗ",
+            "tr": "kitābum marqūm(un).",
+            "idn": "(Yaitu) Kitab yang berisi catatan (amal)."
+        },
+        {
+            "id": 5858,
+            "surah": 83,
+            "nomor": 10,
+            "ar": "وَيْلٌ يَّوْمَىِٕذٍ لِّلْمُكَذِّبِيْنَۙ",
+            "tr": "wailuy yauma'iżil lil-mukażżibīn(a).",
+            "idn": "Celakalah pada hari itu, bagi orang-orang yang mendustakan! "
+        },
+        {
+            "id": 5859,
+            "surah": 83,
+            "nomor": 11,
+            "ar": "الَّذِيْنَ يُكَذِّبُوْنَ بِيَوْمِ الدِّيْنِۗ",
+            "tr": "allażīna yukażżibūna biyaumid-dīn(i).",
+            "idn": "(yaitu) orang-orang yang mendustakannya (hari pembalasan)."
+        },
+        {
+            "id": 5860,
+            "surah": 83,
+            "nomor": 12,
+            "ar": "وَمَا يُكَذِّبُ بِهٖٓ اِلَّا كُلُّ مُعْتَدٍ اَثِيْمٍۙ",
+            "tr": "wa mā yukażżibu bihī illā kullu mu‘tadin aṡīm(in).",
+            "idn": "Dan tidak ada yang mendustakannya (hari pembalasan) kecuali setiap orang yang melampaui batas dan berdosa,"
+        },
+        {
+            "id": 5861,
+            "surah": 83,
+            "nomor": 13,
+            "ar": "اِذَا تُتْلٰى عَلَيْهِ اٰيٰتُنَا قَالَ اَسَاطِيْرُ الْاَوَّلِيْنَۗ",
+            "tr": "iżā tutlā ‘alaihi āyātunā qāla asāṭīrul-awwalīn(a).",
+            "idn": "yang apabila dibacakan kepadanya ayat-ayat Kami, dia berkata, “Itu adalah dongeng orang-orang dahulu.” "
+        },
+        {
+            "id": 5862,
+            "surah": 83,
+            "nomor": 14,
+            "ar": "كَلَّا بَلْ ۜرَانَ عَلٰى قُلُوْبِهِمْ مَّا كَانُوْا يَكْسِبُوْنَ ",
+            "tr": "kallā bal…rāna ‘alā qulūbihim mā kānū yaksibūn(a).",
+            "idn": "Sekali-kali tidak! Bahkan apa yang mereka kerjakan itu telah menutupi hati mereka. "
+        },
+        {
+            "id": 5863,
+            "surah": 83,
+            "nomor": 15,
+            "ar": "كَلَّآ اِنَّهُمْ عَنْ رَّبِّهِمْ يَوْمَىِٕذٍ لَّمَحْجُوْبُوْنَۗ",
+            "tr": "kallā innahum ‘ar rabbihim yauma'iżil lamaḥjūbūn(a).",
+            "idn": "Sekali-kali tidak! Sesungguhnya mereka pada hari itu benar-benar terhalang dari (melihat) Tuhannya. "
+        },
+        {
+            "id": 5864,
+            "surah": 83,
+            "nomor": 16,
+            "ar": "ثُمَّ اِنَّهُمْ لَصَالُوا الْجَحِيْمِۗ",
+            "tr": "Ṡumma innahum laṣālul-jaḥīm(i).",
+            "idn": "Kemudian, sesungguhnya mereka benar-benar masuk neraka. "
+        },
+        {
+            "id": 5865,
+            "surah": 83,
+            "nomor": 17,
+            "ar": "ثُمَّ يُقَالُ هٰذَا الَّذِيْ كُنْتُمْ بِهٖ تُكَذِّبُوْنَۗ",
+            "tr": "Ṡumma yuqālu hāżal-lażī kuntum bihī tukażżibūn(a).",
+            "idn": "Kemudian, dikatakan (kepada mereka), “Inilah (azab) yang dahulu kamu dustakan.”"
+        },
+        {
+            "id": 5866,
+            "surah": 83,
+            "nomor": 18,
+            "ar": "كَلَّآ اِنَّ كِتٰبَ الْاَبْرَارِ لَفِيْ عِلِّيِّيْنَۗ ",
+            "tr": "kallā inna kitābal-abrāri lafī ‘illiyyīn(a).",
+            "idn": "Sekali-kali tidak! Sesungguhnya catatan orang-orang yang berbakti benar-benar tersimpan dalam ’Illiyyin. "
+        },
+        {
+            "id": 5867,
+            "surah": 83,
+            "nomor": 19,
+            "ar": "وَمَآ اَدْرٰىكَ مَا عِلِّيُّوْنَۗ",
+            "tr": "wa mā adrāka mā ‘illiyyūn(a).",
+            "idn": "Dan tahukah engkau apakah ’Illiyyin itu?"
+        },
+        {
+            "id": 5868,
+            "surah": 83,
+            "nomor": 20,
+            "ar": "كِتٰبٌ مَّرْقُوْمٌۙ",
+            "tr": "kitābum marqūm(un).",
+            "idn": "(Yaitu) Kitab yang berisi catatan (amal),"
+        },
+        {
+            "id": 5869,
+            "surah": 83,
+            "nomor": 21,
+            "ar": "يَّشْهَدُهُ الْمُقَرَّبُوْنَۗ",
+            "tr": "yasyhaduhul-muqarrabūn(a).",
+            "idn": "yang disaksikan oleh (malaikat-malaikat) yang didekatkan (kepada Allah). "
+        },
+        {
+            "id": 5870,
+            "surah": 83,
+            "nomor": 22,
+            "ar": "اِنَّ الْاَبْرَارَ لَفِيْ نَعِيْمٍۙ",
+            "tr": "innal-abrāra lafī na‘īm(in).",
+            "idn": "Sesungguhnya orang-orang yang berbakti benar-benar berada dalam (surga yang penuh) kenikmatan,"
+        },
+        {
+            "id": 5871,
+            "surah": 83,
+            "nomor": 23,
+            "ar": "عَلَى الْاَرَاۤىِٕكِ يَنْظُرُوْنَۙ",
+            "tr": "‘alal-arā'iki yanẓurūn(a).",
+            "idn": "mereka (duduk) di atas dipan-dipan melepas pandangan. "
+        },
+        {
+            "id": 5872,
+            "surah": 83,
+            "nomor": 24,
+            "ar": "تَعْرِفُ فِيْ وُجُوْهِهِمْ نَضْرَةَ النَّعِيْمِۚ",
+            "tr": "ta‘rifu fī wujūhihim naḍratan na‘īm(i).",
+            "idn": "Kamu dapat mengetahui dari wajah mereka kesenangan hidup yang penuh kenikmatan."
+        },
+        {
+            "id": 5873,
+            "surah": 83,
+            "nomor": 25,
+            "ar": "يُسْقَوْنَ مِنْ رَّحِيْقٍ مَّخْتُوْمٍۙ",
+            "tr": "yusqauna mir raḥīqim makhtūm(in).",
+            "idn": "Mereka diberi minum dari khamar murni (tidak memabukkan) yang (tempatnya) masih dilak (disegel), "
+        },
+        {
+            "id": 5874,
+            "surah": 83,
+            "nomor": 26,
+            "ar": "خِتٰمُهٗ مِسْكٌ ۗوَفِيْ ذٰلِكَ فَلْيَتَنَافَسِ الْمُتَنٰفِسُوْنَۗ",
+            "tr": "khitāmuhū misk(un), wa fī żālika falyatanāfasil-mutanāfisūn(a).",
+            "idn": "laknya dari kasturi. Dan untuk yang demikian itu hendaknya orang berlomba-lomba. "
+        },
+        {
+            "id": 5875,
+            "surah": 83,
+            "nomor": 27,
+            "ar": "وَمِزَاجُهٗ مِنْ تَسْنِيْمٍۙ",
+            "tr": "wa mizājuhū min tasnīm(in).",
+            "idn": "Dan campurannya dari tasnim, "
+        },
+        {
+            "id": 5876,
+            "surah": 83,
+            "nomor": 28,
+            "ar": "عَيْنًا يَّشْرَبُ بِهَا الْمُقَرَّبُوْنَۗ",
+            "tr": "‘ainay yasyrabu bihal-muqarrabūn(a).",
+            "idn": "(yaitu) mata air yang diminum oleh mereka yang dekat (kepada Allah). "
+        },
+        {
+            "id": 5877,
+            "surah": 83,
+            "nomor": 29,
+            "ar": "اِنَّ الَّذِيْنَ اَجْرَمُوْا كَانُوْا مِنَ الَّذِيْنَ اٰمَنُوْا يَضْحَكُوْنَۖ",
+            "tr": "innal-lażīna ajramū kānū minal-lażīna āmanū yaḍḥakūn(a).",
+            "idn": "Sesungguhnya orang-orang yang berdosa adalah mereka yang dahulu menertawakan orang-orang yang beriman."
+        },
+        {
+            "id": 5878,
+            "surah": 83,
+            "nomor": 30,
+            "ar": "وَاِذَا مَرُّوْا بِهِمْ يَتَغَامَزُوْنَۖ",
+            "tr": "wa iżā marrū bihim yatagāmazūn(a).",
+            "idn": "Dan apabila mereka (orang-orang yang beriman) melintas di hadapan mereka, mereka saling mengedip-ngedipkan matanya,"
+        },
+        {
+            "id": 5879,
+            "surah": 83,
+            "nomor": 31,
+            "ar": "وَاِذَا انْقَلَبُوْٓا اِلٰٓى اَهْلِهِمُ انْقَلَبُوْا فَكِهِيْنَۖ",
+            "tr": "wa iżanqalabū ilā ahlihimunqalabū fakihīn(a).",
+            "idn": "dan apabila kembali kepada kaumnya, mereka kembali dengan gembira ria. "
+        },
+        {
+            "id": 5880,
+            "surah": 83,
+            "nomor": 32,
+            "ar": "وَاِذَا رَاَوْهُمْ قَالُوْٓا اِنَّ هٰٓؤُلَاۤءِ لَضَاۤلُّوْنَۙ",
+            "tr": "wa iżā ra'auhum qālū inna hā'ulā'i laḍāllūn(a).",
+            "idn": "Dan apabila mereka melihat (orang-orang mukmin), mereka mengatakan, “Sesungguhnya mereka benar-benar orang-orang sesat,”"
+        },
+        {
+            "id": 5881,
+            "surah": 83,
+            "nomor": 33,
+            "ar": "وَمَآ اُرْسِلُوْا عَلَيْهِمْ حٰفِظِيْنَۗ",
+            "tr": "wa mā ursilū ‘alaihim ḥāfiẓīn(a).",
+            "idn": "padahal (orang-orang yang berdosa itu), mereka tidak diutus sebagai penjaga (orang-orang mukmin). "
+        },
+        {
+            "id": 5882,
+            "surah": 83,
+            "nomor": 34,
+            "ar": "فَالْيَوْمَ الَّذِيْنَ اٰمَنُوْا مِنَ الْكُفَّارِ يَضْحَكُوْنَۙ",
+            "tr": "fal-yaumal-lażīna āmanū minal kuffāri yaḍḥakūn(a).",
+            "idn": "Maka pada hari ini, orang-orang yang beriman yang menertawakan orang-orang kafir, "
+        },
+        {
+            "id": 5883,
+            "surah": 83,
+            "nomor": 35,
+            "ar": "عَلَى الْاَرَاۤىِٕكِ يَنْظُرُوْنَۗ",
+            "tr": "‘alal-arā'iki yanẓurūn(a).",
+            "idn": "mereka (duduk) di atas dipan-dipan melepas pandangan."
+        },
+        {
+            "id": 5884,
+            "surah": 83,
+            "nomor": 36,
+            "ar": "هَلْ ثُوِّبَ الْكُفَّارُ مَا كَانُوْا يَفْعَلُوْنَ ࣖ",
+            "tr": "hal ṡuwwibal-kuffāru mā kānū yaf‘alūn(a).",
+            "idn": "Apakah orang-orang kafir itu diberi balasan (hukuman) terhadap apa yang telah mereka perbuat? "
+        }
+    ],
+    "surat_selanjutnya": {
+        "id": 84,
+        "nomor": 84,
+        "nama": "الانشقاق",
+        "nama_latin": "Al-Insyiqaq",
+        "jumlah_ayat": 25,
+        "tempat_turun": "mekah",
+        "arti": "Terbelah",
+        "deskripsi": "Surat Al Insyiqaaq, terdiri atas 25 ayat, termasuk golongan surat-surat Makkiyah, diturunkan sesudah surat Al Infithaarr. Dinamai <i>Al Insyiqaaq</i> (terbelah), diambil dari perkataan <i>Insyaqqat</i> yang terdapat pada permulaan surat ini, yang pokok katanya ialah <i>insyiqaaq</i>.",
+        "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/084.mp3"
+    },
+    "surat_sebelumnya": {
+        "id": 82,
+        "nomor": 82,
+        "nama": "الانفطار",
+        "nama_latin": "Al-Infitar",
+        "jumlah_ayat": 19,
+        "tempat_turun": "mekah",
+        "arti": "Terbelah",
+        "deskripsi": "Surat ini terdiri atas 19 ayat, termasuk golongan surat-surat Makkiyah dan diturunkan sesudah surat An Naazi'aat. Al Infithaar yang dijadikan  nama untuk surat ini adalah kata asal dari kata <i>Infatharat</i> (terbelah)  yang terdapat pada ayat pertama.",
+        "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/082.mp3"
+    }
+}

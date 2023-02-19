@@ -1,0 +1,1491 @@
+{
+    "nomor": 37,
+    "nama": "الصّٰۤفّٰت",
+    "nama_latin": "As-Saffat",
+    "jumlah_ayat": 182,
+    "tempat_turun": "mekah",
+    "arti": "Barisan-Barisan",
+    "deskripsi": "Surat Ash Shaaffaat terdiri atas 182 ayat termasuk golongan surat Makkiyyah diturunkan sesudah surat Al An'aam. Dinamai dengan <i>Ash Shaaffaat</i> (yang bershaf-shaf) ada hubungannya dengan perkataan <i>Ash Shaaffaat</i> yang terletak pada ayat permulaan surat ini yang mengemukakan bagaimana para malaikat yang berbaris di hadapan Tuhannya yang bersih jiwanya, tidak dapat digoda oleh syaitan. Hal ini hendaklah menjadi i'tibar bagi manusia dalam menghambakan dirinya kepada Allah.",
+    "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/037.mp3",
+    "status": true,
+    "ayat": [
+        {
+            "id": 3789,
+            "surah": 37,
+            "nomor": 1,
+            "ar": "وَالصّٰۤفّٰتِ صَفًّاۙ",
+            "tr": "waṣ-ṣāffāti ṣaffā(n).",
+            "idn": "Demi (rombongan malaikat) yang berbaris bersaf-saf,"
+        },
+        {
+            "id": 3790,
+            "surah": 37,
+            "nomor": 2,
+            "ar": "فَالزّٰجِرٰتِ زَجْرًاۙ",
+            "tr": "faz-zājirāti zajrā(n).",
+            "idn": "demi (rombongan) yang mencegah dengan sungguh-sungguh,      "
+        },
+        {
+            "id": 3791,
+            "surah": 37,
+            "nomor": 3,
+            "ar": "فَالتّٰلِيٰتِ ذِكْرًاۙ",
+            "tr": "fat-tāliyāti żikrā(n).",
+            "idn": "demi (rombongan) yang membacakan peringatan,"
+        },
+        {
+            "id": 3792,
+            "surah": 37,
+            "nomor": 4,
+            "ar": "اِنَّ اِلٰهَكُمْ لَوَاحِدٌۗ ",
+            "tr": "inna ilāhakum lawāḥid(un).",
+            "idn": "sungguh, Tuhanmu benar-benar Esa."
+        },
+        {
+            "id": 3793,
+            "surah": 37,
+            "nomor": 5,
+            "ar": "رَبُّ السَّمٰوٰتِ وَالْاَرْضِ وَمَا بَيْنَهُمَا وَرَبُّ الْمَشَارِقِۗ ",
+            "tr": "rabbus-samāwāti wal-arḍi wa mā bainahumā wa rabbul-masyāriq(i).",
+            "idn": "Tuhan langit dan bumi dan apa yang berada di antara keduanya dan Tuhan tempat-tempat terbitnya matahari."
+        },
+        {
+            "id": 3794,
+            "surah": 37,
+            "nomor": 6,
+            "ar": "اِنَّا زَيَّنَّا السَّمَاۤءَ الدُّنْيَا بِزِيْنَةِ ِۨالْكَوَاكِبِۙ",
+            "tr": "innā zayyannas-samā'ad-dun-yā bizīnatinil-kawākib(i).",
+            "idn": "Sesungguhnya Kami telah menghias langit dunia (yang terdekat), dengan hiasan bintang-bintang."
+        },
+        {
+            "id": 3795,
+            "surah": 37,
+            "nomor": 7,
+            "ar": "وَحِفْظًا مِّنْ كُلِّ شَيْطٰنٍ مَّارِدٍۚ ",
+            "tr": "wa ḥifẓam min kulli syaiṭānim mārid(in).",
+            "idn": "Dan (Kami) telah menjaganya dari setiap setan yang durhaka,"
+        },
+        {
+            "id": 3796,
+            "surah": 37,
+            "nomor": 8,
+            "ar": "لَا يَسَّمَّعُوْنَ اِلَى الْمَلَاِ الْاَعْلٰى وَيُقْذَفُوْنَ مِنْ كُلِّ جَانِبٍۖ ",
+            "tr": "lā yassammā‘ūna ilal-mala'il-a‘lā wa yuqżafūna min kulli jānib(in).",
+            "idn": "mereka (setan-setan itu) tidak dapat mendengar (pembicaraan) para malaikat dan mereka dilempari dari segala penjuru,"
+        },
+        {
+            "id": 3797,
+            "surah": 37,
+            "nomor": 9,
+            "ar": "دُحُوْرًا وَّلَهُمْ عَذَابٌ وَّاصِبٌ ",
+            "tr": "duḥūraw wa lahum ‘ażābuw wāṣib(un).",
+            "idn": "untuk mengusir mereka dan mereka akan mendapat azab yang kekal,"
+        },
+        {
+            "id": 3798,
+            "surah": 37,
+            "nomor": 10,
+            "ar": "اِلَّا مَنْ خَطِفَ الْخَطْفَةَ فَاَتْبَعَهٗ شِهَابٌ ثَاقِبٌ ",
+            "tr": "illā man khaṭifal-khaṭfata fa'atba‘ahū syihābun ṡāqib(un).",
+            "idn": "kecuali (setan) yang mencuri (pembicaraan); maka ia dikejar oleh bintang yang menyala."
+        },
+        {
+            "id": 3799,
+            "surah": 37,
+            "nomor": 11,
+            "ar": "فَاسْتَفْتِهِمْ اَهُمْ اَشَدُّ خَلْقًا اَمْ مَّنْ خَلَقْنَا ۗاِنَّا خَلَقْنٰهُمْ مِّنْ طِيْنٍ لَّازِبٍ ",
+            "tr": "fastaftihim ahum asyaddu khalqan am man khalaqnā, innā khalaqnāhum min ṭīnil lāzib(in).",
+            "idn": "Maka tanyakanlah kepada mereka (musyrik Mekah), “Apakah penciptaan mereka yang lebih sulit ataukah apa yang telah Kami ciptakan itu?” Sesungguhnya Kami telah menciptakan mereka dari tanah liat."
+        },
+        {
+            "id": 3800,
+            "surah": 37,
+            "nomor": 12,
+            "ar": "بَلْ عَجِبْتَ وَيَسْخَرُوْنَ ۖ ",
+            "tr": "bal ‘ajibta wa yaskharūn(a).",
+            "idn": "Bahkan engkau (Muhammad) menjadi heran (terhadap keingkaran mereka) dan mereka menghinakan (engkau)."
+        },
+        {
+            "id": 3801,
+            "surah": 37,
+            "nomor": 13,
+            "ar": "وَاِذَا ذُكِّرُوْا لَا يَذْكُرُوْنَ ۖ ",
+            "tr": "wa iżā żukkirū lā yażkurūn(a).",
+            "idn": "Dan apabila mereka diberi peringatan, mereka tidak mengindahkannya."
+        },
+        {
+            "id": 3802,
+            "surah": 37,
+            "nomor": 14,
+            "ar": "وَاِذَا رَاَوْا اٰيَةً يَّسْتَسْخِرُوْنَۖ ",
+            "tr": "wa iżā ra'au āyatay yastaskhirūn(a).",
+            "idn": "Dan apabila mereka melihat suatu tanda (kebesaran) Allah, mereka memperolok-olokkan."
+        },
+        {
+            "id": 3803,
+            "surah": 37,
+            "nomor": 15,
+            "ar": "وَقَالُوْٓا اِنْ هٰذَآ اِلَّا سِحْرٌ مُّبِيْنٌ ۚ ",
+            "tr": "wa qālū in hāżā illā siḥrum mubīn(un).",
+            "idn": "Dan mereka berkata, “Ini tidak lain hanyalah sihir yang nyata."
+        },
+        {
+            "id": 3804,
+            "surah": 37,
+            "nomor": 16,
+            "ar": "ءَاِذَا مِتْنَا وَكُنَّا تُرَابًا وَّعِظَامًا ءَاِنَّا لَمَبْعُوْثُوْنَۙ",
+            "tr": "a'iżā mitnā wa kunnā turābaw wa ‘iẓāman a'innā lamab‘ūṡūn(a).",
+            "idn": "Apabila kami telah mati dan telah menjadi tanah dan tulang-belulang, apakah benar kami akan dibangkitkan (kembali)?"
+        },
+        {
+            "id": 3805,
+            "surah": 37,
+            "nomor": 17,
+            "ar": "اَوَاٰبَاۤؤُنَا الْاَوَّلُوْنَۗ ",
+            "tr": "awa ābā'unal-awwalūn(a).",
+            "idn": "dan apakah nenek moyang kami yang telah terdahulu (akan dibangkitkan pula)?”"
+        },
+        {
+            "id": 3806,
+            "surah": 37,
+            "nomor": 18,
+            "ar": "قُلْ نَعَمْ وَاَنْتُمْ دٰخِرُوْنَۚ ",
+            "tr": "qul na‘am wa antum dākhirūn(a).",
+            "idn": "Katakanlah (Muhammad), “Ya, dan kamu akan terhina.”"
+        },
+        {
+            "id": 3807,
+            "surah": 37,
+            "nomor": 19,
+            "ar": "فَاِنَّمَا هِيَ زَجْرَةٌ وَّاحِدَةٌ فَاِذَا هُمْ يَنْظُرُوْنَ ",
+            "tr": "fa'innamā hiya zajratuw wāḥidatun fa'iżā hum yanẓurūn(a).",
+            "idn": "Maka sesungguhnya kebangkitan itu hanya dengan satu teriakan saja; maka seketika itu mereka melihatnya."
+        },
+        {
+            "id": 3808,
+            "surah": 37,
+            "nomor": 20,
+            "ar": "وَقَالُوْا يٰوَيْلَنَا هٰذَا يَوْمُ الدِّيْنِ ",
+            "tr": "wa qālū yā wailanā hāżā yaumud-dīn(i).",
+            "idn": "Dan mereka berkata, “Alangkah celaka kami! (Kiranya) inilah hari pembalasan itu.”"
+        },
+        {
+            "id": 3809,
+            "surah": 37,
+            "nomor": 21,
+            "ar": "هٰذَا يَوْمُ الْفَصْلِ الَّذِيْ كُنْتُمْ بِهٖ تُكَذِّبُوْنَ ࣖ",
+            "tr": "hāżā yaumul-faṣlil-lażī kuntum bihī tukażżibūn(a).",
+            "idn": "Inilah hari keputusan yang dahulu kamu dustakan."
+        },
+        {
+            "id": 3810,
+            "surah": 37,
+            "nomor": 22,
+            "ar": "اُحْشُرُوا الَّذِيْنَ ظَلَمُوْا وَاَزْوَاجَهُمْ وَمَا كَانُوْا يَعْبُدُوْنَ ۙ",
+            "tr": "uḥsyurul-lażīna ẓalamū wa azwājahum wa mā kānū ya‘budūn(a).",
+            "idn": "(Diperintahkan kepada malaikat), “Kumpulkanlah orang-orang yang zalim beserta teman sejawat mereka dan apa yang dahulu mereka sembah,"
+        },
+        {
+            "id": 3811,
+            "surah": 37,
+            "nomor": 23,
+            "ar": "مِنْ دُوْنِ اللّٰهِ فَاهْدُوْهُمْ اِلٰى صِرَاطِ الْجَحِيْمِ ",
+            "tr": "min dūnillāhi fahdūhum ilā ṣirāṭil-jaḥīm(i).",
+            "idn": "selain Allah, lalu tunjukkanlah kepada mereka jalan ke neraka."
+        },
+        {
+            "id": 3812,
+            "surah": 37,
+            "nomor": 24,
+            "ar": "وَقِفُوْهُمْ اِنَّهُمْ مَّسْـُٔوْلُوْنَ ۙ",
+            "tr": "waqifūhum innahum mas'ūlūn(a).",
+            "idn": "Tahanlah mereka (di tempat perhentian), sesungguhnya mereka akan ditanya,"
+        },
+        {
+            "id": 3813,
+            "surah": 37,
+            "nomor": 25,
+            "ar": "مَا لَكُمْ لَا تَنَاصَرُوْنَ ",
+            "tr": "mā lakum lā tanāṣarūn(a).",
+            "idn": "”Mengapa kamu tidak tolong-menolong?”"
+        },
+        {
+            "id": 3814,
+            "surah": 37,
+            "nomor": 26,
+            "ar": "بَلْ هُمُ الْيَوْمَ مُسْتَسْلِمُوْنَ",
+            "tr": "bal humul-yauma mustaslimūn(a).",
+            "idn": "Bahkan mereka pada hari itu menyerah (kepada keputusan Allah)."
+        },
+        {
+            "id": 3815,
+            "surah": 37,
+            "nomor": 27,
+            "ar": "وَاَقْبَلَ بَعْضُهُمْ عَلٰى بَعْضٍ يَّتَسَاۤءَلُوْنَ ",
+            "tr": "wa aqbala ba‘ḍuhum ‘alā ba‘ḍiy yatasā'alūn(a).",
+            "idn": "Dan sebagian mereka menghadap kepada sebagian yang lain saling berbantah-bantahan."
+        },
+        {
+            "id": 3816,
+            "surah": 37,
+            "nomor": 28,
+            "ar": "قَالُوْٓا اِنَّكُمْ كُنْتُمْ تَأْتُوْنَنَا عَنِ الْيَمِيْنِ ",
+            "tr": "qālū innakum kuntum ta'tūnanā ‘anil-yamīn(i).",
+            "idn": "Sesungguhnya (pengikut-pengikut) mereka berkata (kepada pemimpin-pemimpin mereka), “Kamulah yang dahulu datang kepada kami dari kanan.”"
+        },
+        {
+            "id": 3817,
+            "surah": 37,
+            "nomor": 29,
+            "ar": "قَالُوْا بَلْ لَّمْ تَكُوْنُوْا مُؤْمِنِيْنَۚ ",
+            "tr": "qālū bal lam takūnū mu'minīn(a).",
+            "idn": "(Pemimpin-pemimpin) mereka menjawab, “(Tidak), bahkan kamulah yang tidak (mau) menjadi orang mukmin,"
+        },
+        {
+            "id": 3818,
+            "surah": 37,
+            "nomor": 30,
+            "ar": "وَمَا كَانَ لَنَا عَلَيْكُمْ مِّنْ سُلْطٰنٍۚ بَلْ كُنْتُمْ قَوْمًا طٰغِيْنَ ",
+            "tr": "wa mā kāna lanā ‘alaikum min sulṭān(in), bal kuntum qauman ṭāgīn(a).",
+            "idn": "sedangkan kami tidak berkuasa terhadapmu, bahkan kamu menjadi kaum yang melampaui batas."
+        },
+        {
+            "id": 3819,
+            "surah": 37,
+            "nomor": 31,
+            "ar": "فَحَقَّ عَلَيْنَا قَوْلُ رَبِّنَآ  ۖاِنَّا لَذَاۤىِٕقُوْنَ ",
+            "tr": "fa ḥaqqa ‘alainā qaulu rabbinā, innā lażā'iqūn(a).",
+            "idn": "Maka pantas putusan (azab) Tuhan menimpa kita; pasti kita akan merasakan (azab itu)."
+        },
+        {
+            "id": 3820,
+            "surah": 37,
+            "nomor": 32,
+            "ar": "فَاَغْوَيْنٰكُمْ اِنَّا كُنَّا غٰوِيْنَ ",
+            "tr": "fa agwainākum innā kunnā gāwīn(a).",
+            "idn": "Maka kami telah menyesatkan kamu, sesungguhnya kami sendiri, orang-orang yang sesat.”"
+        },
+        {
+            "id": 3821,
+            "surah": 37,
+            "nomor": 33,
+            "ar": "فَاِنَّهُمْ يَوْمَىِٕذٍ فِى الْعَذَابِ مُشْتَرِكُوْنَ",
+            "tr": "fa innahum yauma'iżin fil-‘ażābi musytarikūn(a).",
+            "idn": "Maka sesungguhnya mereka pada hari itu bersama-sama merasakan azab."
+        },
+        {
+            "id": 3822,
+            "surah": 37,
+            "nomor": 34,
+            "ar": "اِنَّا كَذٰلِكَ نَفْعَلُ بِالْمُجْرِمِيْنَ",
+            "tr": "innā każālika naf‘alu bil-mujrimīn(a).",
+            "idn": "Sungguh, demikianlah Kami memperlakukan terhadap orang-orang yang berbuat dosa."
+        },
+        {
+            "id": 3823,
+            "surah": 37,
+            "nomor": 35,
+            "ar": "اِنَّهُمْ كَانُوْٓا اِذَا قِيْلَ لَهُمْ لَآ اِلٰهَ اِلَّا اللّٰهُ يَسْتَكْبِرُوْنَ ۙ",
+            "tr": "innahum kānū iżā qīla lahum lā ilāha illallāhu yastakbirūn(a).",
+            "idn": "Sungguh, dahulu apabila dikatakan kepada mereka, “La ilaha illallah” (Tidak ada tuhan selain Allah), mereka menyombongkan diri,"
+        },
+        {
+            "id": 3824,
+            "surah": 37,
+            "nomor": 36,
+            "ar": "وَيَقُوْلُوْنَ اَىِٕنَّا لَتَارِكُوْٓا اٰلِهَتِنَا لِشَاعِرٍ مَّجْنُوْنٍ ۗ ",
+            "tr": "wa yaqūlūna a'innā latārikū ālihatinā lisyā‘irim majnūn(in).",
+            "idn": "dan mereka berkata, “Apakah kami harus meninggalkan sesembahan kami karena seorang penyair gila?”"
+        },
+        {
+            "id": 3825,
+            "surah": 37,
+            "nomor": 37,
+            "ar": "بَلْ جَاۤءَ بِالْحَقِّ وَصَدَّقَ الْمُرْسَلِيْنَ",
+            "tr": "bal jā'a bil-ḥaqqi wa ṣaddaqal-mursalīn(a).",
+            "idn": "Padahal dia (Muhammad) datang dengan membawa kebenaran dan membenarkan rasul-rasul (sebelumnya)."
+        },
+        {
+            "id": 3826,
+            "surah": 37,
+            "nomor": 38,
+            "ar": "اِنَّكُمْ لَذَاۤىِٕقُوا الْعَذَابِ الْاَلِيْمِ ۚ ",
+            "tr": "innakum lażā'iqul-‘ażābil-alīm(i).",
+            "idn": "Sungguh, kamu pasti akan merasakan azab yang pedih."
+        },
+        {
+            "id": 3827,
+            "surah": 37,
+            "nomor": 39,
+            "ar": "وَمَا تُجْزَوْنَ اِلَّا مَا كُنْتُمْ تَعْمَلُوْنَۙ",
+            "tr": "wa mā tujzauna illā mā kuntum ta‘malūn(a).",
+            "idn": "Dan kamu tidak diberi balasan melainkan terhadap apa yang telah kamu kerjakan,"
+        },
+        {
+            "id": 3828,
+            "surah": 37,
+            "nomor": 40,
+            "ar": "اِلَّا عِبَادَ اللّٰهِ الْمُخْلَصِيْنَ ",
+            "tr": "illā ‘ibādallāhil-mukhlaṣīn(a).",
+            "idn": "tetapi hamba-hamba Allah yang dibersihkan (dari dosa),"
+        },
+        {
+            "id": 3829,
+            "surah": 37,
+            "nomor": 41,
+            "ar": "اُولٰۤىِٕكَ لَهُمْ رِزْقٌ مَّعْلُوْمٌۙ",
+            "tr": "ulā'ika lahum rizqum ma‘lūm(un).",
+            "idn": "mereka itu memperoleh rezeki yang sudah ditentukan,"
+        },
+        {
+            "id": 3830,
+            "surah": 37,
+            "nomor": 42,
+            "ar": "فَوَاكِهُ ۚوَهُمْ مُّكْرَمُوْنَۙ",
+            "tr": "fawākihu wa hum mukramūn(a).",
+            "idn": "(yaitu) buah-buahan. Dan mereka orang yang dimuliakan,"
+        },
+        {
+            "id": 3831,
+            "surah": 37,
+            "nomor": 43,
+            "ar": "فِيْ جَنّٰتِ النَّعِيْمِۙ",
+            "tr": "fī jannātin na‘īm(i).",
+            "idn": "di dalam surga-surga yang penuh kenikmatan,"
+        },
+        {
+            "id": 3832,
+            "surah": 37,
+            "nomor": 44,
+            "ar": "عَلٰى سُرُرٍ مُّتَقٰبِلِيْنَ",
+            "tr": "‘alā sururim mutaqābilīn(a).",
+            "idn": "(mereka duduk) berhadap-hadapan di atas dipan-dipan."
+        },
+        {
+            "id": 3833,
+            "surah": 37,
+            "nomor": 45,
+            "ar": "يُطَافُ عَلَيْهِمْ بِكَأْسٍ مِّنْ مَّعِيْنٍۢ ۙ",
+            "tr": "yuṭāfu ‘alaihim bika'sim mim ma‘īn(in).",
+            "idn": "Kepada mereka diedarkan gelas (yang berisi air) dari mata air (surga),"
+        },
+        {
+            "id": 3834,
+            "surah": 37,
+            "nomor": 46,
+            "ar": "بَيْضَاۤءَ لَذَّةٍ لِّلشّٰرِبِيْنَۚ ",
+            "tr": "baiḍā'a lażżatil lisy-syāribīn(a).",
+            "idn": "(warnanya) putih bersih, sedap rasanya bagi orang-orang yang minum."
+        },
+        {
+            "id": 3835,
+            "surah": 37,
+            "nomor": 47,
+            "ar": "لَا فِيْهَا غَوْلٌ وَّلَا هُمْ عَنْهَا يُنْزَفُوْنَ",
+            "tr": "lā fīhā gauluw wa lā hum ‘anhā yunzafūn(a).",
+            "idn": "Tidak ada di dalamnya (unsur) yang memabukkan dan mereka tidak mabuk karenanya."
+        },
+        {
+            "id": 3836,
+            "surah": 37,
+            "nomor": 48,
+            "ar": "وَعِنْدَهُمْ قٰصِرٰتُ الطَّرْفِ عِيْنٌ ۙ",
+            "tr": "wa ‘indahum qāṣirātuṭ-ṭarfi ‘īn(un).",
+            "idn": "Dan di sisi mereka ada (bidadari-bidadari) yang bermata indah, dan membatasi pandangannya,"
+        },
+        {
+            "id": 3837,
+            "surah": 37,
+            "nomor": 49,
+            "ar": "كَاَنَّهُنَّ بَيْضٌ مَّكْنُوْنٌ",
+            "tr": "ka'annahum baiḍum maknūn(un).",
+            "idn": "seakan-akan mereka adalah telur yang tersimpan dengan baik."
+        },
+        {
+            "id": 3838,
+            "surah": 37,
+            "nomor": 50,
+            "ar": "فَاَقْبَلَ بَعْضُهُمْ عَلٰى بَعْضٍ يَّتَسَاۤءَلُوْنَ",
+            "tr": "fa'aqbala ba‘ḍuhum ‘alā ba‘ḍiy yatasā'alūn(a).",
+            "idn": "Lalu mereka berhadap-hadapan satu sama lain sambil bercakap-cakap."
+        },
+        {
+            "id": 3839,
+            "surah": 37,
+            "nomor": 51,
+            "ar": "قَالَ قَاۤىِٕلٌ مِّنْهُمْ اِنِّيْ كَانَ لِيْ قَرِيْنٌۙ",
+            "tr": "qāla qā'ilum minhum innī kāna lī qarīn(un).",
+            "idn": "Berkatalah salah seorang di antara mereka, “Sesungguhnya aku dahulu (di dunia) pernah mempunyai seorang teman,"
+        },
+        {
+            "id": 3840,
+            "surah": 37,
+            "nomor": 52,
+            "ar": "يَّقُوْلُ اَءِنَّكَ لَمِنَ الْمُصَدِّقِيْنَ",
+            "tr": "yaqūlu a'innaka laminal-muṣaddiqīn(a).",
+            "idn": "yang berkata, “Apakah sesungguhnya kamu termasuk orang-orang yang membenarkan (hari berbangkit)?"
+        },
+        {
+            "id": 3841,
+            "surah": 37,
+            "nomor": 53,
+            "ar": "ءَاِذَا مِتْنَا وَكُنَّا تُرَابًا وَّعِظَامًا ءَاِنَّا لَمَدِيْنُوْنَ",
+            "tr": "a'iżā mitnā wa kunnā turāban a'innā lamadīnūn(a).",
+            "idn": "Apabila kita telah mati dan telah menjadi tanah dan tulang-belulang, apakah kita benar-benar (akan dibangkitkan) untuk diberi pembalasan?”"
+        },
+        {
+            "id": 3842,
+            "surah": 37,
+            "nomor": 54,
+            "ar": "قَالَ هَلْ اَنْتُمْ مُّطَّلِعُوْنَ",
+            "tr": "qāla hal antum muṭṭali‘ūn(a).",
+            "idn": "Dia berkata, “Maukah kamu meninjau (temanku itu)?”"
+        },
+        {
+            "id": 3843,
+            "surah": 37,
+            "nomor": 55,
+            "ar": "فَاطَّلَعَ فَرَاٰهُ فِيْ سَوَاۤءِ الْجَحِيْمِ",
+            "tr": "faṭṭala‘a fa ra'āhu fī sawā'il-jaḥīm(i).",
+            "idn": "Maka dia meninjaunya, lalu dia melihat (teman)nya itu di tengah-tengah neraka yang menyala-nyala."
+        },
+        {
+            "id": 3844,
+            "surah": 37,
+            "nomor": 56,
+            "ar": "قَالَ تَاللّٰهِ اِنْ كِدْتَّ لَتُرْدِيْنِ ۙ",
+            "tr": "qāla tallāhi in kitta laturdīn(i).",
+            "idn": "Dia berkata, “Demi Allah, engkau hampir saja mencelakakanku,"
+        },
+        {
+            "id": 3845,
+            "surah": 37,
+            "nomor": 57,
+            "ar": "وَلَوْلَا نِعْمَةُ رَبِّيْ لَكُنْتُ مِنَ الْمُحْضَرِيْنَ",
+            "tr": "wa lau lā ni‘matu rabbī lakuntu minal-muḥḍarīn(a).",
+            "idn": "dan sekiranya bukan karena nikmat Tuhanku pastilah aku termasuk orang-orang yang diseret (ke neraka).”"
+        },
+        {
+            "id": 3846,
+            "surah": 37,
+            "nomor": 58,
+            "ar": "اَفَمَا نَحْنُ بِمَيِّتِيْنَۙ",
+            "tr": "afamā naḥnu bimayyitīn(a).",
+            "idn": "Maka apakah kita tidak akan mati?"
+        },
+        {
+            "id": 3847,
+            "surah": 37,
+            "nomor": 59,
+            "ar": "اِلَّا مَوْتَتَنَا الْاُوْلٰى وَمَا نَحْنُ بِمُعَذَّبِيْنَ",
+            "tr": "illā mautatunal-ūlā wa mā naḥnu bimu‘ażżabīn(a).",
+            "idn": "Kecuali kematian kita yang pertama saja (di dunia), dan kita tidak akan diazab (di akhirat ini)?”"
+        },
+        {
+            "id": 3848,
+            "surah": 37,
+            "nomor": 60,
+            "ar": "اِنَّ هٰذَا لَهُوَ الْفَوْزُ الْعَظِيْمُ",
+            "tr": "inna hāżā lahuwal-fauzul-‘aẓīm(u).",
+            "idn": "Sungguh, ini benar-benar kemenangan yang agung."
+        },
+        {
+            "id": 3849,
+            "surah": 37,
+            "nomor": 61,
+            "ar": "لِمِثْلِ هٰذَا فَلْيَعْمَلِ الْعٰمِلُوْنَ",
+            "tr": "limiṡli hāżā falya‘malil-‘āmilūn(a).",
+            "idn": "Untuk (kemenangan) serupa ini, hendaklah beramal orang-orang yang mampu beramal."
+        },
+        {
+            "id": 3850,
+            "surah": 37,
+            "nomor": 62,
+            "ar": "اَذٰلِكَ خَيْرٌ نُّزُلًا اَمْ شَجَرَةُ الزَّقُّوْمِ",
+            "tr": "ażālika khairun nuzulan am syajaratuz-zaqqūm(i).",
+            "idn": "Apakah (makanan surga) itu hidangan yang lebih baik ataukah pohon zaqqum."
+        },
+        {
+            "id": 3851,
+            "surah": 37,
+            "nomor": 63,
+            "ar": "اِنَّا جَعَلْنٰهَا فِتْنَةً لِّلظّٰلِمِيْنَ",
+            "tr": "innā ja‘alnāhā fitnatal liẓ-ẓālimīn(a).",
+            "idn": "Sungguh, Kami menjadikannya (pohon zaqqum itu) sebagai azab bagi orang-orang zalim."
+        },
+        {
+            "id": 3852,
+            "surah": 37,
+            "nomor": 64,
+            "ar": "اِنَّهَا شَجَرَةٌ تَخْرُجُ فِيْٓ اَصْلِ الْجَحِيْمِۙ",
+            "tr": "innahā syajaratun takhruju fī aṣlil-jaḥīm(i).",
+            "idn": "Sungguh, itu adalah pohon yang keluar dari dasar neraka Jahim,"
+        },
+        {
+            "id": 3853,
+            "surah": 37,
+            "nomor": 65,
+            "ar": "طَلْعُهَا كَاَنَّهٗ رُءُوْسُ الشَّيٰطِيْنِ",
+            "tr": "Ṭal‘uhā ka'annahū ru'ūsusy-syayāṭīn(i).",
+            "idn": "Mayangnya seperti kepala-kepala setan."
+        },
+        {
+            "id": 3854,
+            "surah": 37,
+            "nomor": 66,
+            "ar": "فَاِنَّهُمْ لَاٰكِلُوْنَ مِنْهَا فَمَالِـُٔوْنَ مِنْهَا الْبُطُوْنَۗ ",
+            "tr": "fa innahum la'ākilūna minhā fa māli'ūna minhal-buṭūn(a).",
+            "idn": "Maka sungguh, mereka benar-benar memakan sebagian darinya (buah pohon itu), dan mereka memenuhi perutnya dengan buahnya (zaqqum)."
+        },
+        {
+            "id": 3855,
+            "surah": 37,
+            "nomor": 67,
+            "ar": "ثُمَّ اِنَّ لَهُمْ عَلَيْهَا لَشَوْبًا مِّنْ حَمِيْمٍۚ ",
+            "tr": "Ṡumma inna lahum ‘alaihā lasyaubam min ḥamīm(in).",
+            "idn": "Kemudian sungguh, setelah makan (buah zaqqum) mereka mendapat minuman yang dicampur dengan air yang sangat panas."
+        },
+        {
+            "id": 3856,
+            "surah": 37,
+            "nomor": 68,
+            "ar": "ثُمَّ اِنَّ مَرْجِعَهُمْ لَاِلَى الْجَحِيْمِ",
+            "tr": "Ṡumma inna marji‘ahum la'ilal-jaḥīm(i).",
+            "idn": "Kemudian pasti tempat kembali mereka ke neraka Jahim."
+        },
+        {
+            "id": 3857,
+            "surah": 37,
+            "nomor": 69,
+            "ar": "اِنَّهُمْ اَلْفَوْا اٰبَاۤءَهُمْ ضَاۤلِّيْنَۙ",
+            "tr": "innahum alfau ābā'ahum ḍāllīn(a).",
+            "idn": "Sesungguhnya mereka mendapati nenek moyang mereka dalam keadaan sesat, "
+        },
+        {
+            "id": 3858,
+            "surah": 37,
+            "nomor": 70,
+            "ar": "فَهُمْ عَلٰٓى اٰثٰرِهِمْ يُهْرَعُوْنَ",
+            "tr": "fahum ‘alā āṡārihim yuhra‘ūn(a).",
+            "idn": "lalu mereka tergesa-gesa mengikuti jejak (nenek moyang) mereka."
+        },
+        {
+            "id": 3859,
+            "surah": 37,
+            "nomor": 71,
+            "ar": "وَلَقَدْ ضَلَّ قَبْلَهُمْ اَكْثَرُ الْاَوَّلِيْنَۙ",
+            "tr": "wa laqad ḍalla qablahum akṡarul-awwalīn(a).",
+            "idn": "Dan sungguh, sebelum mereka (Suku Quraisy), telah sesat sebagian besar dari orang-orang yang dahulu,"
+        },
+        {
+            "id": 3860,
+            "surah": 37,
+            "nomor": 72,
+            "ar": "وَلَقَدْ اَرْسَلْنَا فِيْهِمْ مُّنْذِرِيْنَ",
+            "tr": "wa laqad arsalnā fīhim munżirīn(a).",
+            "idn": "dan sungguh, Kami telah mengutus (rasul) pemberi peringatan di kalangan mereka."
+        },
+        {
+            "id": 3861,
+            "surah": 37,
+            "nomor": 73,
+            "ar": "فَانْظُرْ كَيْفَ كَانَ عَاقِبَةُ الْمُنْذَرِيْنَۙ",
+            "tr": "fanẓur kaifa kāna ‘āqibatul-munżarīn(a).",
+            "idn": "Maka perhatikanlah bagaimana kesudahan orang-orang yang diberi peringatan itu,"
+        },
+        {
+            "id": 3862,
+            "surah": 37,
+            "nomor": 74,
+            "ar": "اِلَّا عِبَادَ اللّٰهِ الْمُخْلَصِيْنَ ࣖ ",
+            "tr": "illā ‘ibādallāhil-mukhlaṣīn(a).",
+            "idn": "kecuali hamba-hamba Allah yang disucikan (dari dosa)."
+        },
+        {
+            "id": 3863,
+            "surah": 37,
+            "nomor": 75,
+            "ar": "وَلَقَدْ نَادٰىنَا نُوْحٌ فَلَنِعْمَ الْمُجِيْبُوْنَۖ ",
+            "tr": "wa laqad nādānā nūḥun falani‘mal-mujībūn(a).",
+            "idn": "Dan sungguh, Nuh telah berdoa kepada Kami, maka sungguh, Kamilah sebaik-baik yang memperkenankan doa."
+        },
+        {
+            "id": 3864,
+            "surah": 37,
+            "nomor": 76,
+            "ar": "وَنَجَّيْنٰهُ وَاَهْلَهٗ مِنَ الْكَرْبِ الْعَظِيْمِۖ ",
+            "tr": "wa najjaināhu wa ahlahū minal-karbil-‘aẓīm(i).",
+            "idn": "Kami telah menyelamatkan dia dan pengikutnya dari bencana yang besar."
+        },
+        {
+            "id": 3865,
+            "surah": 37,
+            "nomor": 77,
+            "ar": "وَجَعَلْنَا ذُرِّيَّتَهٗ هُمُ الْبَاقِيْنَ",
+            "tr": "wa ja‘alnā żurriyyatahū humul-bāqīn(a).",
+            "idn": "Dan Kami jadikan anak cucunya orang-orang yang melanjutkan keturunan."
+        },
+        {
+            "id": 3866,
+            "surah": 37,
+            "nomor": 78,
+            "ar": "وَتَرَكْنَا عَلَيْهِ فِى الْاٰخِرِيْنَ ۖ ",
+            "tr": "wa taraknā ‘alaihi fil-ākhirīn(a).",
+            "idn": "Dan Kami abadikan untuk Nuh (pujian) di kalangan orang-orang yang datang kemudian;"
+        },
+        {
+            "id": 3867,
+            "surah": 37,
+            "nomor": 79,
+            "ar": "سَلٰمٌ عَلٰى نُوْحٍ فِى الْعٰلَمِيْنَ",
+            "tr": "salāmun ‘alā nūḥin fil-‘ālamīn(a).",
+            "idn": "”Kesejahteraan (Kami limpahkan) atas Nuh di seluruh alam.”"
+        },
+        {
+            "id": 3868,
+            "surah": 37,
+            "nomor": 80,
+            "ar": "اِنَّا كَذٰلِكَ نَجْزِى الْمُحْسِنِيْنَ",
+            "tr": "innā każālika najzil-muḥsinīn(a).",
+            "idn": "Sungguh, demikianlah Kami memberi balasan kepada orang-orang yang berbuat baik."
+        },
+        {
+            "id": 3869,
+            "surah": 37,
+            "nomor": 81,
+            "ar": "اِنَّهٗ مِنْ عِبَادِنَا الْمُؤْمِنِيْنَ",
+            "tr": "innahū min ‘ibādinal-mu'minīn(a).",
+            "idn": "Sungguh, dia termasuk di antara hamba-hamba Kami yang beriman."
+        },
+        {
+            "id": 3870,
+            "surah": 37,
+            "nomor": 82,
+            "ar": "ثُمَّ اَغْرَقْنَا الْاٰخَرِيْنَ",
+            "tr": "Ṡumma agraqnal-ākharīn(a).",
+            "idn": "Kemudian Kami tenggelamkan yang lain."
+        },
+        {
+            "id": 3871,
+            "surah": 37,
+            "nomor": 83,
+            "ar": "۞ وَاِنَّ مِنْ شِيْعَتِهٖ لَاِبْرٰهِيْمَ ۘ ",
+            "tr": "wa inna min syī‘atihī la'ibrāhīm(a).",
+            "idn": "Dan sungguh, Ibrahim termasuk golongannya (Nuh)."
+        },
+        {
+            "id": 3872,
+            "surah": 37,
+            "nomor": 84,
+            "ar": "اِذْ جَاۤءَ رَبَّهٗ بِقَلْبٍ سَلِيْمٍۙ",
+            "tr": "iż jā'a rabbahū biqalbin salīm(in).",
+            "idn": "(Ingatlah) ketika dia datang kepada Tuhannya dengan hati yang suci,"
+        },
+        {
+            "id": 3873,
+            "surah": 37,
+            "nomor": 85,
+            "ar": "اِذْ قَالَ لِاَبِيْهِ وَقَوْمِهٖ مَاذَا تَعْبُدُوْنَ ۚ ",
+            "tr": "iż qāla li'abīhi wa qaumihī māżā ta‘budūn(a).",
+            "idn": "(ingatlah) ketika dia berkata kepada ayahnya dan kaumnya, “Apakah yang kamu sembah itu?"
+        },
+        {
+            "id": 3874,
+            "surah": 37,
+            "nomor": 86,
+            "ar": "اَىِٕفْكًا اٰلِهَةً دُوْنَ اللّٰهِ تُرِيْدُوْنَۗ ",
+            "tr": "a'ifkan ālihatan dūnallāhi turīdūn(a).",
+            "idn": "Apakah kamu menghendaki kebohongan dengan sesembahan selain Allah itu?"
+        },
+        {
+            "id": 3875,
+            "surah": 37,
+            "nomor": 87,
+            "ar": "فَمَا ظَنُّكُمْ بِرَبِّ الْعٰلَمِيْنَ",
+            "tr": "famā ẓannukum birabbil-‘ālamīn(a).",
+            "idn": "Maka bagaimana anggapanmu terhadap Tuhan seluruh alam?”"
+        },
+        {
+            "id": 3876,
+            "surah": 37,
+            "nomor": 88,
+            "ar": "فَنَظَرَ نَظْرَةً فِى النُّجُوْمِۙ",
+            "tr": "fa naẓara naẓratan fin-nujūm(i).",
+            "idn": "Lalu dia memandang sekilas ke bintang-bintang,"
+        },
+        {
+            "id": 3877,
+            "surah": 37,
+            "nomor": 89,
+            "ar": "فَقَالَ اِنِّيْ سَقِيْمٌ",
+            "tr": "fa qāla innī saqīm(un).",
+            "idn": "kemudian dia (Ibrahim) berkata, “Sesungguhnya aku sakit.”"
+        },
+        {
+            "id": 3878,
+            "surah": 37,
+            "nomor": 90,
+            "ar": "فَتَوَلَّوْا عَنْهُ مُدْبِرِيْنَ",
+            "tr": "fa tawallau ‘anhu mudbirīn(a).",
+            "idn": "Lalu mereka berpaling dari dia dan pergi meninggalkannya."
+        },
+        {
+            "id": 3879,
+            "surah": 37,
+            "nomor": 91,
+            "ar": "فَرَاغَ اِلٰٓى اٰلِهَتِهِمْ فَقَالَ اَلَا تَأْكُلُوْنَۚ ",
+            "tr": "farāga ilā ālihatihim faqāla alā ta'kulūn(a).",
+            "idn": "Kemudian dia (Ibrahim) pergi dengan diam-diam kepada berhala-berhala mereka; lalu dia berkata, “Mengapa kamu tidak makan?"
+        },
+        {
+            "id": 3880,
+            "surah": 37,
+            "nomor": 92,
+            "ar": "مَا لَكُمْ لَا تَنْطِقُوْنَ",
+            "tr": "mā lakum lā tanṭiqūn(a).",
+            "idn": "Mengapa kamu tidak menjawab?”"
+        },
+        {
+            "id": 3881,
+            "surah": 37,
+            "nomor": 93,
+            "ar": "فَرَاغَ عَلَيْهِمْ ضَرْبًا ۢبِالْيَمِيْنِ",
+            "tr": "farāga ‘alaihim ḍarbam bil-yamīn(i).",
+            "idn": "Lalu dihadapinya (berhala-berhala) itu sambil memukulnya dengan tangan kanannya."
+        },
+        {
+            "id": 3882,
+            "surah": 37,
+            "nomor": 94,
+            "ar": "فَاَقْبَلُوْٓا اِلَيْهِ يَزِفُّوْنَ",
+            "tr": "fa aqbalū ilaihi yaziffūn(a).",
+            "idn": "Kemudian mereka (kaumnya) datang bergegas kepadanya."
+        },
+        {
+            "id": 3883,
+            "surah": 37,
+            "nomor": 95,
+            "ar": "قَالَ اَتَعْبُدُوْنَ مَا تَنْحِتُوْنَۙ",
+            "tr": "qāla ata‘budūna mā tanḥitūn(a).",
+            "idn": "Dia (Ibrahim) berkata, “Apakah kamu menyembah patung-patung yang kamu pahat itu?"
+        },
+        {
+            "id": 3884,
+            "surah": 37,
+            "nomor": 96,
+            "ar": "وَاللّٰهُ خَلَقَكُمْ وَمَا تَعْمَلُوْنَ",
+            "tr": "wallāhu khalaqakum wa mā ta‘malūn(a).",
+            "idn": "Padahal Allah-lah yang menciptakan kamu dan apa yang kamu perbuat itu.”"
+        },
+        {
+            "id": 3885,
+            "surah": 37,
+            "nomor": 97,
+            "ar": "قَالُوا ابْنُوْا لَهٗ بُنْيَانًا فَاَلْقُوْهُ فِى الْجَحِيْمِ",
+            "tr": "qālubnū lahū bun-yānan fa'alqūhu fil-jaḥīm(i).",
+            "idn": "Mereka berkata, “Buatlah bangunan (perapian) untuknya (membakar Ibrahim); lalu lemparkan dia ke dalam api yang menyala-nyala itu.”"
+        },
+        {
+            "id": 3886,
+            "surah": 37,
+            "nomor": 98,
+            "ar": "فَاَرَادُوْا بِهٖ كَيْدًا فَجَعَلْنٰهُمُ الْاَسْفَلِيْنَ",
+            "tr": "fa arādū bihī kaidan faja‘alnāhumul-asfalīn(a).",
+            "idn": "Maka mereka bermaksud memperdayainya dengan (membakar)nya, (namun Allah menyelamatkannya), lalu Kami jadikan mereka orang-orang  yang hina."
+        },
+        {
+            "id": 3887,
+            "surah": 37,
+            "nomor": 99,
+            "ar": "وَقَالَ اِنِّيْ ذَاهِبٌ اِلٰى رَبِّيْ سَيَهْدِيْنِ",
+            "tr": "wa qāla innī żāhibun ilā rabbī sayahdīn(i).",
+            "idn": "Dan dia (Ibrahim) berkata, “Sesungguhnya aku harus pergi (menghadap) kepada Tuhanku, Dia akan memberi petunjuk kepadaku."
+        },
+        {
+            "id": 3888,
+            "surah": 37,
+            "nomor": 100,
+            "ar": "رَبِّ هَبْ لِيْ مِنَ الصّٰلِحِيْنَ",
+            "tr": "rabbi hab lī minaṣ-ṣāliḥīn(a).",
+            "idn": "Ya Tuhanku, anugerahkanlah kepadaku (seorang anak) yang termasuk orang yang saleh.”"
+        },
+        {
+            "id": 3889,
+            "surah": 37,
+            "nomor": 101,
+            "ar": "فَبَشَّرْنٰهُ بِغُلٰمٍ حَلِيْمٍ",
+            "tr": "fa basysyarnāhu bigulāmin ḥalīm(in).",
+            "idn": "Maka Kami beri kabar gembira kepadanya dengan (kelahiran) seorang anak yang sangat sabar (Ismail)."
+        },
+        {
+            "id": 3890,
+            "surah": 37,
+            "nomor": 102,
+            "ar": "فَلَمَّا بَلَغَ مَعَهُ السَّعْيَ قَالَ يٰبُنَيَّ اِنِّيْٓ اَرٰى فِى الْمَنَامِ اَنِّيْٓ اَذْبَحُكَ فَانْظُرْ مَاذَا تَرٰىۗ قَالَ يٰٓاَبَتِ افْعَلْ مَا تُؤْمَرُۖ سَتَجِدُنِيْٓ اِنْ شَاۤءَ اللّٰهُ مِنَ الصّٰبِرِيْنَ",
+            "tr": "falammā balaga ma‘ahus-sa‘ya qāla yā bunayya innī arā fil-manāmi annī ażbaḥuka fanẓur māżā tarā, qāla yā abatif‘al mā tu'mar(u), satajidunī in syā'allāhu minaṣ-ṣābirīn(a).",
+            "idn": "Maka ketika anak itu sampai (pada umur) sanggup berusaha bersamanya, (Ibrahim) berkata, “Wahai anakku! Sesungguhnya aku bermimpi bahwa aku menyembelihmu. Maka pikirkanlah bagaimana pendapatmu!” Dia (Ismail) menjawab, “Wahai ayahku! Lakukanlah apa yang diperintahkan (Allah) kepadamu; insya Allah engkau akan mendapatiku termasuk orang yang sabar.”"
+        },
+        {
+            "id": 3891,
+            "surah": 37,
+            "nomor": 103,
+            "ar": "فَلَمَّآ اَسْلَمَا وَتَلَّهٗ لِلْجَبِيْنِۚ ",
+            "tr": "falammā aslamā wa tallahū lil-jabīn(i).",
+            "idn": "Maka ketika keduanya telah berserah diri dan dia (Ibrahim) membaringkan anaknya atas pelipis(nya), (untuk melaksanakan perintah Allah)."
+        },
+        {
+            "id": 3892,
+            "surah": 37,
+            "nomor": 104,
+            "ar": "وَنَادَيْنٰهُ اَنْ يّٰٓاِبْرٰهِيْمُ ۙ",
+            "tr": "wa nādaināhu ay yā ibrāhīm(u).",
+            "idn": "Lalu Kami panggil dia, “Wahai Ibrahim!"
+        },
+        {
+            "id": 3893,
+            "surah": 37,
+            "nomor": 105,
+            "ar": "قَدْ صَدَّقْتَ الرُّءْيَا ۚاِنَّا كَذٰلِكَ نَجْزِى الْمُحْسِنِيْنَ",
+            "tr": "qad ṣaddaqtar-ru'yā, innā każālika najzil-muḥsinīn(a).",
+            "idn": "sungguh, engkau telah membenarkan mimpi itu.” Sungguh, demikianlah Kami memberi balasan kepada orang-orang yang berbuat baik."
+        },
+        {
+            "id": 3894,
+            "surah": 37,
+            "nomor": 106,
+            "ar": "اِنَّ هٰذَا لَهُوَ الْبَلٰۤؤُا الْمُبِيْنُ",
+            "tr": "inna hāżā lahuwal-balā'ul-mubīn(u).",
+            "idn": "Sesungguhnya ini benar-benar suatu ujian yang nyata."
+        },
+        {
+            "id": 3895,
+            "surah": 37,
+            "nomor": 107,
+            "ar": "وَفَدَيْنٰهُ بِذِبْحٍ عَظِيْمٍ",
+            "tr": "wa fadaināhu biżibḥin ‘aẓīm(in).",
+            "idn": "Dan Kami tebus anak itu dengan seekor sembelihan yang besar."
+        },
+        {
+            "id": 3896,
+            "surah": 37,
+            "nomor": 108,
+            "ar": "وَتَرَكْنَا عَلَيْهِ فِى الْاٰخِرِيْنَ ۖ ",
+            "tr": "wa taraknā ‘alaihi fil-ākhirīn(a).",
+            "idn": "Dan Kami abadikan untuk Ibrahim (pujian) di kalangan orang-orang yang  datang kemudian,"
+        },
+        {
+            "id": 3897,
+            "surah": 37,
+            "nomor": 109,
+            "ar": "سَلٰمٌ عَلٰٓى اِبْرٰهِيْمَ",
+            "tr": "salāmun ‘alā ibrāhīm(a).",
+            "idn": "”Selamat sejahtera bagi Ibrahim.”"
+        },
+        {
+            "id": 3898,
+            "surah": 37,
+            "nomor": 110,
+            "ar": "كَذٰلِكَ نَجْزِى الْمُحْسِنِيْنَ",
+            "tr": "każālika najzil-muḥsinīn(a).",
+            "idn": "Demikianlah Kami memberi balasan kepada orang-orang yang berbuat baik."
+        },
+        {
+            "id": 3899,
+            "surah": 37,
+            "nomor": 111,
+            "ar": "اِنَّهٗ مِنْ عِبَادِنَا الْمُؤْمِنِيْنَ",
+            "tr": "innahū min ‘ibādinal-mu'minīn(a).",
+            "idn": "Sungguh, dia termasuk hamba-hamba Kami yang beriman."
+        },
+        {
+            "id": 3900,
+            "surah": 37,
+            "nomor": 112,
+            "ar": "وَبَشَّرْنٰهُ بِاِسْحٰقَ نَبِيًّا مِّنَ الصّٰلِحِيْنَ",
+            "tr": "wa basysyarnāhu bi'isḥāqa nabiyyam minaṣ-ṣāliḥīn(a).",
+            "idn": "Dan Kami beri dia kabar gembira dengan (kelahiran) Ishak seorang nabi yang termasuk orang-orang yang saleh."
+        },
+        {
+            "id": 3901,
+            "surah": 37,
+            "nomor": 113,
+            "ar": "وَبٰرَكْنَا عَلَيْهِ وَعَلٰٓى اِسْحٰقَۗ وَمِنْ ذُرِّيَّتِهِمَا مُحْسِنٌ وَّظَالِمٌ لِّنَفْسِهٖ مُبِيْنٌ ࣖ",
+            "tr": "wa bāraknā ‘alaihi wa ‘alā isḥāq(a), wa min żurriyyatihimā muḥsinuw wa ẓālimul linafsihī mubīn(un).",
+            "idn": "Dan Kami limpahkan keberkahan kepadanya dan kepada Ishak. Dan di antara keturunan keduanya ada yang berbuat baik dan ada (pula) yang terang-terangan berbuat zalim terhadap dirinya sendiri."
+        },
+        {
+            "id": 3902,
+            "surah": 37,
+            "nomor": 114,
+            "ar": "وَلَقَدْ مَنَنَّا عَلٰى مُوْسٰى وَهٰرُوْنَ ۚ ",
+            "tr": "wa laqad manannā ‘alā mūsā wa hārūn(a).",
+            "idn": "Dan sungguh, Kami telah melimpahkan nikmat kepada Musa dan Harun."
+        },
+        {
+            "id": 3903,
+            "surah": 37,
+            "nomor": 115,
+            "ar": "وَنَجَّيْنٰهُمَا وَقَوْمَهُمَا مِنَ الْكَرْبِ الْعَظِيْمِۚ ",
+            "tr": "wa najjaināhumā wa qaumahumā minal-karbil-‘aẓīm(i).",
+            "idn": "Dan Kami selamatkan keduanya dan kaumnya dari bencana yang besar,"
+        },
+        {
+            "id": 3904,
+            "surah": 37,
+            "nomor": 116,
+            "ar": "وَنَصَرْنٰهُمْ فَكَانُوْا هُمُ الْغٰلِبِيْنَۚ ",
+            "tr": "wa naṣarnāhum fakānū humul-gālibīn(a).",
+            "idn": "dan Kami tolong mereka, sehingga jadilah mereka orang-orang yang menang."
+        },
+        {
+            "id": 3905,
+            "surah": 37,
+            "nomor": 117,
+            "ar": "وَاٰتَيْنٰهُمَا الْكِتٰبَ الْمُسْتَبِيْنَ ۚ ",
+            "tr": "wa ātaināhumal-kitābal-mustabīn(a).",
+            "idn": "Dan Kami berikan kepada keduanya Kitab yang sangat jelas,"
+        },
+        {
+            "id": 3906,
+            "surah": 37,
+            "nomor": 118,
+            "ar": "وَهَدَيْنٰهُمَا الصِّرَاطَ الْمُسْتَقِيْمَۚ ",
+            "tr": "wa hadaināhumaṣ-ṣirāṭal-mustaqīm(a).",
+            "idn": "dan Kami tunjukkan keduanya jalan yang lurus."
+        },
+        {
+            "id": 3907,
+            "surah": 37,
+            "nomor": 119,
+            "ar": "وَتَرَكْنَا عَلَيْهِمَا فِى الْاٰخِرِيْنَ ۖ ",
+            "tr": "wa taraknā ‘alaihimā fil-ākhirīn(a).",
+            "idn": "Dan Kami abadikan untuk keduanya (pujian) di kalangan orang-orang yang datang kemudian,"
+        },
+        {
+            "id": 3908,
+            "surah": 37,
+            "nomor": 120,
+            "ar": "سَلٰمٌ عَلٰى مُوْسٰى وَهٰرُوْنَ",
+            "tr": "salāmun ‘alā mūsā wa hārūn(a).",
+            "idn": "”Selamat sejahtera bagi Musa dan Harun.”"
+        },
+        {
+            "id": 3909,
+            "surah": 37,
+            "nomor": 121,
+            "ar": "اِنَّا كَذٰلِكَ نَجْزِى الْمُحْسِنِيْنَ",
+            "tr": "innā każālika najzil-muḥsinīn(a).",
+            "idn": "Demikianlah Kami memberi balasan kepada orang-orang yang berbuat baik."
+        },
+        {
+            "id": 3910,
+            "surah": 37,
+            "nomor": 122,
+            "ar": "اِنَّهُمَا مِنْ عِبَادِنَا الْمُؤْمِنِيْنَ",
+            "tr": "innahumā min ‘ibādinal-mu'minīn(a).",
+            "idn": "Sungguh, keduanya termasuk hamba-hamba Kami yang beriman."
+        },
+        {
+            "id": 3911,
+            "surah": 37,
+            "nomor": 123,
+            "ar": "وَاِنَّ اِلْيَاسَ لَمِنَ الْمُرْسَلِيْنَۗ ",
+            "tr": "wa inna ilyāsa laminal-mursalīn(a).",
+            "idn": "Dan sungguh, Ilyas benar-benar termasuk salah seorang rasul."
+        },
+        {
+            "id": 3912,
+            "surah": 37,
+            "nomor": 124,
+            "ar": "اِذْ قَالَ لِقَوْمِهٖٓ اَلَا تَتَّقُوْنَ",
+            "tr": "iż qāla liqaumihī alā tattaqūn(a).",
+            "idn": "(Ingatlah) ketika dia berkata kepada kaumnya, “Mengapa kamu tidak bertakwa?"
+        },
+        {
+            "id": 3913,
+            "surah": 37,
+            "nomor": 125,
+            "ar": "اَتَدْعُوْنَ بَعْلًا وَّتَذَرُوْنَ اَحْسَنَ الْخٰلِقِيْنَۙ",
+            "tr": "atad‘ūna ba‘law wa tażarūna aḥsanal-khāliqīn(a).",
+            "idn": "Patutkah kamu menyembah Ba’l dan kamu tinggalkan (Allah) sebaik-baik pencipta."
+        },
+        {
+            "id": 3914,
+            "surah": 37,
+            "nomor": 126,
+            "ar": "اللّٰهَ رَبَّكُمْ وَرَبَّ اٰبَاۤىِٕكُمُ الْاَوَّلِيْنَ",
+            "tr": "allāha rabbakum wa rabba ābā'ikumul-awwalīn(a).",
+            "idn": "(Yaitu) Allah Tuhanmu dan Tuhan nenek moyangmu yang terdahulu?”"
+        },
+        {
+            "id": 3915,
+            "surah": 37,
+            "nomor": 127,
+            "ar": "فَكَذَّبُوْهُ فَاِنَّهُمْ لَمُحْضَرُوْنَۙ",
+            "tr": "fakażżabūhu fa'innahum lamuḥḍarūn(a).",
+            "idn": "Tetapi mereka mendustakannya (Ilyas), maka sungguh, mereka akan diseret (ke neraka),"
+        },
+        {
+            "id": 3916,
+            "surah": 37,
+            "nomor": 128,
+            "ar": "اِلَّا عِبَادَ اللّٰهِ الْمُخْلَصِيْنَ",
+            "tr": "illā ‘ibādallāhil-mukhlaṣīn(a).",
+            "idn": "kecuali hamba-hamba Allah yang disucikan (dari dosa),"
+        },
+        {
+            "id": 3917,
+            "surah": 37,
+            "nomor": 129,
+            "ar": "وَتَرَكْنَا عَلَيْهِ فِى الْاٰخِرِيْنَ ۙ",
+            "tr": "wa taraknā ‘alaihi fil-ākhirīn(a).",
+            "idn": "Dan Kami abadikan untuk Ilyas (pujian) di kalangan orang-orang yang datang kemudian."
+        },
+        {
+            "id": 3918,
+            "surah": 37,
+            "nomor": 130,
+            "ar": "سَلٰمٌ عَلٰٓى اِلْ يَاسِيْنَ",
+            "tr": "salāmun ‘alā ilyāsīn(a).",
+            "idn": "”Selamat sejahtera bagi Ilyas.”"
+        },
+        {
+            "id": 3919,
+            "surah": 37,
+            "nomor": 131,
+            "ar": "اِنَّا كَذٰلِكَ نَجْزِى الْمُحْسِنِيْنَ",
+            "tr": "innā każālika najzil-muḥsinīn(a).",
+            "idn": "Demikianlah Kami memberi balasan kepada orang-orang yang berbuat baik."
+        },
+        {
+            "id": 3920,
+            "surah": 37,
+            "nomor": 132,
+            "ar": "اِنَّهٗ مِنْ عِبَادِنَا الْمُؤْمِنِيْنَ",
+            "tr": "innahū min ‘ibādinal-mu'minīn(a).",
+            "idn": "Sungguh, dia termasuk hamba-hamba Kami yang beriman."
+        },
+        {
+            "id": 3921,
+            "surah": 37,
+            "nomor": 133,
+            "ar": "وَاِنَّ لُوْطًا لَّمِنَ الْمُرْسَلِيْنَۗ ",
+            "tr": "wa inna lūṭal laminal-mursalīn(a).",
+            "idn": "Dan sungguh, Lut benar-benar termasuk salah seorang rasul."
+        },
+        {
+            "id": 3922,
+            "surah": 37,
+            "nomor": 134,
+            "ar": "اِذْ نَجَّيْنٰهُ وَاَهْلَهٗٓ اَجْمَعِيْنَۙ",
+            "tr": "iż najjaināhu wa ahlahū ajma‘īn(a).",
+            "idn": "(Ingatlah) ketika Kami telah menyelamatkan dia dan pengikutnya semua,"
+        },
+        {
+            "id": 3923,
+            "surah": 37,
+            "nomor": 135,
+            "ar": "اِلَّا عَجُوْزًا فِى الْغٰبِرِيْنَ",
+            "tr": "illā ‘ajūzan fil-gābirīn(a).",
+            "idn": "kecuali seorang perempuan tua (istrinya) bersama-sama orang yang tinggal (di kota)."
+        },
+        {
+            "id": 3924,
+            "surah": 37,
+            "nomor": 136,
+            "ar": "ثُمَّ دَمَّرْنَا الْاٰخَرِيْنَ",
+            "tr": "Ṡumma dammarnal-ākharīn(a).",
+            "idn": "Kemudian Kami binasakan orang-orang yang lain."
+        },
+        {
+            "id": 3925,
+            "surah": 37,
+            "nomor": 137,
+            "ar": "وَاِنَّكُمْ لَتَمُرُّوْنَ عَلَيْهِمْ مُّصْبِحِيْنَۙ",
+            "tr": "wa innakum latamurrūna ‘alaihim muṣbiḥīn(a).",
+            "idn": "Dan sesungguhnya kamu (penduduk Mekah) benar-benar akan melalui (bekas-bekas) mereka pada waktu pagi,"
+        },
+        {
+            "id": 3926,
+            "surah": 37,
+            "nomor": 138,
+            "ar": "وَبِالَّيْلِۗ اَفَلَا تَعْقِلُوْنَ ࣖ ",
+            "tr": "wa bil-lail(i), afalā ta‘qilūn(a).",
+            "idn": "dan pada waktu malam. Maka mengapa kamu tidak mengerti?"
+        },
+        {
+            "id": 3927,
+            "surah": 37,
+            "nomor": 139,
+            "ar": "وَاِنَّ يُوْنُسَ لَمِنَ الْمُرْسَلِيْنَۗ ",
+            "tr": "wa inna yūnusa laminal-mursalīn(a).",
+            "idn": "Dan sungguh, Yunus benar-benar termasuk salah seorang rasul,"
+        },
+        {
+            "id": 3928,
+            "surah": 37,
+            "nomor": 140,
+            "ar": "اِذْ اَبَقَ اِلَى الْفُلْكِ الْمَشْحُوْنِۙ",
+            "tr": "iż abaqa ilal-fulkil-masyḥūn(i).",
+            "idn": "(ingatlah) ketika dia lari, ke kapal yang penuh muatan,"
+        },
+        {
+            "id": 3929,
+            "surah": 37,
+            "nomor": 141,
+            "ar": "فَسَاهَمَ فَكَانَ مِنَ الْمُدْحَضِيْنَۚ",
+            "tr": "fa sāhama fakāna minal-mudḥaḍīn(a).",
+            "idn": "kemudian dia ikut diundi ternyata dia termasuk orang-orang yang kalah (dalam undian)."
+        },
+        {
+            "id": 3930,
+            "surah": 37,
+            "nomor": 142,
+            "ar": "فَالْتَقَمَهُ الْحُوْتُ وَهُوَ مُلِيْمٌ ",
+            "tr": "faltaqamahul-ḥūtu wa huwa mulīm(un).",
+            "idn": "Maka dia ditelan oleh ikan besar dalam keadaan tercela."
+        },
+        {
+            "id": 3931,
+            "surah": 37,
+            "nomor": 143,
+            "ar": "فَلَوْلَآ اَنَّهٗ كَانَ مِنَ الْمُسَبِّحِيْنَ ۙ",
+            "tr": "falau lā annahū kāna minal-musabbiḥīn(a).",
+            "idn": "Maka sekiranya dia tidak termasuk orang yang banyak berzikir (bertasbih) kepada Allah,"
+        },
+        {
+            "id": 3932,
+            "surah": 37,
+            "nomor": 144,
+            "ar": "لَلَبِثَ فِيْ بَطْنِهٖٓ اِلٰى يَوْمِ يُبْعَثُوْنَۚ ",
+            "tr": "lalabiṡa fī baṭnihī ilā yaumi yub‘aṡūn(a).",
+            "idn": "niscaya dia akan tetap tinggal di perut (ikan itu) sampai hari kebangkitan."
+        },
+        {
+            "id": 3933,
+            "surah": 37,
+            "nomor": 145,
+            "ar": "۞ فَنَبَذْنٰهُ بِالْعَرَاۤءِ وَهُوَ سَقِيْمٌ ۚ ",
+            "tr": "fa nabażnāhu bil-‘arā'i wa huwa saqīm(un).",
+            "idn": "Kemudian Kami lemparkan dia ke daratan yang tandus, sedang dia dalam keadaan sakit."
+        },
+        {
+            "id": 3934,
+            "surah": 37,
+            "nomor": 146,
+            "ar": "وَاَنْۢبَتْنَا عَلَيْهِ شَجَرَةً مِّنْ يَّقْطِيْنٍۚ ",
+            "tr": "wa ambatnā ‘alaihi syajaratam miy yaqṭīn(in).",
+            "idn": "Kemudian untuk dia Kami tumbuhkan sebatang pohon dari jenis labu."
+        },
+        {
+            "id": 3935,
+            "surah": 37,
+            "nomor": 147,
+            "ar": "وَاَرْسَلْنٰهُ اِلٰى مِائَةِ اَلْفٍ اَوْ يَزِيْدُوْنَۚ ",
+            "tr": "wa arsalnāhu ilā mi'ati alfin au yazīdūn(a).",
+            "idn": "Dan Kami utus dia kepada seratus ribu (orang) atau lebih,"
+        },
+        {
+            "id": 3936,
+            "surah": 37,
+            "nomor": 148,
+            "ar": "فَاٰمَنُوْا فَمَتَّعْنٰهُمْ اِلٰى حِيْنٍ",
+            "tr": "fa'āmanū famatta‘nāhum ilā ḥīn(in).",
+            "idn": "sehingga mereka beriman, karena itu Kami anugerahkan kenikmatan hidup kepada mereka hingga waktu tertentu."
+        },
+        {
+            "id": 3937,
+            "surah": 37,
+            "nomor": 149,
+            "ar": "فَاسْتَفْتِهِمْ اَلِرَبِّكَ الْبَنَاتُ وَلَهُمُ الْبَنُوْنَۚ ",
+            "tr": "fastaftihim alirabbikal-banātu wa lahumul-banūn(a).",
+            "idn": "Maka tanyakanlah (Muhammad) kepada mereka (orang-orang kafir Mekah), “Apakah anak-anak perempuan itu untuk Tuhanmu sedangkan untuk mereka anak-anak laki-laki?”"
+        },
+        {
+            "id": 3938,
+            "surah": 37,
+            "nomor": 150,
+            "ar": "اَمْ خَلَقْنَا الْمَلٰۤىِٕكَةَ اِنَاثًا وَّهُمْ شٰهِدُوْنَ",
+            "tr": "am khalaqnal-malā'ikata ināṡaw wa hum syāhidūn(a).",
+            "idn": "atau apakah Kami menciptakan malaikat-malaikat berupa perempuan sedangkan mereka menyaksikan(nya)?"
+        },
+        {
+            "id": 3939,
+            "surah": 37,
+            "nomor": 151,
+            "ar": "اَلَآ اِنَّهُمْ مِّنْ اِفْكِهِمْ لَيَقُوْلُوْنَۙ",
+            "tr": "alā innahum min ifkihim layaqūlūn(a).",
+            "idn": "Ingatlah, sesungguhnya di antara kebohongannya mereka benar-benar mengatakan,"
+        },
+        {
+            "id": 3940,
+            "surah": 37,
+            "nomor": 152,
+            "ar": "وَلَدَ اللّٰهُ ۙوَاِنَّهُمْ لَكٰذِبُوْنَۙ",
+            "tr": "waladallāh(u), wa innahum lakāżibūn(a).",
+            "idn": "”Allah mempunyai anak.” Dan sungguh, mereka benar-benar pendusta,"
+        },
+        {
+            "id": 3941,
+            "surah": 37,
+            "nomor": 153,
+            "ar": "اَصْطَفَى الْبَنَاتِ عَلَى الْبَنِيْنَۗ ",
+            "tr": "aṣṭafal-banāti ‘alal-banīn(a).",
+            "idn": "apakah Dia (Allah) memilih anak-anak perempuan daripada anak-anak laki-laki?"
+        },
+        {
+            "id": 3942,
+            "surah": 37,
+            "nomor": 154,
+            "ar": "مَا لَكُمْۗ  كَيْفَ تَحْكُمُوْنَ",
+            "tr": "mā lakum, kaifa taḥkumūn(a).",
+            "idn": "Mengapa kamu ini? Bagaimana (caranya) kamu menetapkan?"
+        },
+        {
+            "id": 3943,
+            "surah": 37,
+            "nomor": 155,
+            "ar": "اَفَلَا تَذَكَّرُوْنَۚ ",
+            "tr": "afalā tażakkarūn(a).",
+            "idn": "Maka mengapa kamu tidak memikirkan?"
+        },
+        {
+            "id": 3944,
+            "surah": 37,
+            "nomor": 156,
+            "ar": "اَمْ لَكُمْ سُلْطٰنٌ مُّبِيْنٌۙ",
+            "tr": "am lakum sulṭānum mubīn(un).",
+            "idn": "Ataukah kamu mempunyai bukti yang jelas?"
+        },
+        {
+            "id": 3945,
+            "surah": 37,
+            "nomor": 157,
+            "ar": "فَأْتُوْا بِكِتٰبِكُمْ اِنْ كُنْتُمْ صٰدِقِيْنَ",
+            "tr": "fa'tū bikitābikum in kuntum ṣādiqīn(a).",
+            "idn": "(Kalau begitu) maka bawalah kitabmu jika kamu orang yang benar."
+        },
+        {
+            "id": 3946,
+            "surah": 37,
+            "nomor": 158,
+            "ar": "وَجَعَلُوْا بَيْنَهٗ وَبَيْنَ الْجِنَّةِ نَسَبًا ۗوَلَقَدْ عَلِمَتِ الْجِنَّةُ اِنَّهُمْ لَمُحْضَرُوْنَۙ",
+            "tr": "wa ja‘alū bainahū wa bainal-jinnati nasabā(n), wa laqad ‘alimatil-jinnatu innahum lamuḥḍarūn(a).",
+            "idn": "Dan mereka mengadakan (hubungan) nasab (keluarga) antara Dia (Allah) dan jin. Dan sungguh, jin telah mengetahui bahwa mereka pasti akan diseret (ke neraka),"
+        },
+        {
+            "id": 3947,
+            "surah": 37,
+            "nomor": 159,
+            "ar": "سُبْحٰنَ اللّٰهِ عَمَّا يَصِفُوْنَۙ",
+            "tr": "subḥānallāhi ‘ammā yaṣifūn(a).",
+            "idn": "Mahasuci Allah dari apa yang mereka sifatkan,"
+        },
+        {
+            "id": 3948,
+            "surah": 37,
+            "nomor": 160,
+            "ar": "اِلَّا عِبَادَ اللّٰهِ الْمُخْلَصِيْنَ",
+            "tr": "illā ‘ibādallāhil-mukhlaṣīn(a).",
+            "idn": "kecuali hamba-hamba Allah yang disucikan (dari dosa)."
+        },
+        {
+            "id": 3949,
+            "surah": 37,
+            "nomor": 161,
+            "ar": "فَاِنَّكُمْ وَمَا تَعْبُدُوْنَۙ",
+            "tr": "fa'innakum wa mā ta‘budūn(a).",
+            "idn": "Maka sesungguhnya kamu dan apa yang kamu sembah itu,"
+        },
+        {
+            "id": 3950,
+            "surah": 37,
+            "nomor": 162,
+            "ar": "مَآ اَنْتُمْ عَلَيْهِ بِفٰتِنِيْنَۙ",
+            "tr": "mā antum ‘alaihi bifātinīn(a).",
+            "idn": "tidak akan dapat menyesatkan (seseorang) terhadap Allah,"
+        },
+        {
+            "id": 3951,
+            "surah": 37,
+            "nomor": 163,
+            "ar": "اِلَّا مَنْ هُوَ صَالِ الْجَحِيْمِ",
+            "tr": "illā man huwa ṣālil-jaḥīm(i).",
+            "idn": "kecuali orang-orang yang akan masuk ke neraka Jahim."
+        },
+        {
+            "id": 3952,
+            "surah": 37,
+            "nomor": 164,
+            "ar": "وَمَا مِنَّآ اِلَّا لَهٗ مَقَامٌ مَّعْلُوْمٌۙ",
+            "tr": "wa mā minnā illā lahū maqāmum ma‘lūm(un).",
+            "idn": "Dan tidak satu pun di antara kami (malaikat) melainkan masing-masing mempunyai kedudukan tertentu,"
+        },
+        {
+            "id": 3953,
+            "surah": 37,
+            "nomor": 165,
+            "ar": "وَّاِنَّا لَنَحْنُ الصَّۤافُّوْنَۖ",
+            "tr": "wa innā lanaḥnuṣ-ṣāffūn(a).",
+            "idn": "dan sesungguhnya kami selalu teratur dalam barisan (dalam melaksanakan perintah Allah)."
+        },
+        {
+            "id": 3954,
+            "surah": 37,
+            "nomor": 166,
+            "ar": "وَاِنَّا لَنَحْنُ الْمُسَبِّحُوْنَ",
+            "tr": "wa innā lanaḥnul-musabbiḥūn(a).",
+            "idn": "Dan sungguh, kami benar-benar terus bertasbih (kepada Allah)."
+        },
+        {
+            "id": 3955,
+            "surah": 37,
+            "nomor": 167,
+            "ar": "وَاِنْ كَانُوْا لَيَقُوْلُوْنَۙ",
+            "tr": "wa in kānū layaqūlūn(a).",
+            "idn": "Dan sesungguhnya mereka (orang kafir Mekah) benar-benar pernah berkata,"
+        },
+        {
+            "id": 3956,
+            "surah": 37,
+            "nomor": 168,
+            "ar": "لَوْ اَنَّ عِنْدَنَا ذِكْرًا مِّنَ الْاَوَّلِيْنَۙ",
+            "tr": "lau anna ‘indanā żikram minal-awwalīn(a).",
+            "idn": "”Sekiranya di sisi kami ada sebuah kitab dari (kitab-kitab yang diturunkan) kepada orang-orang dahulu,"
+        },
+        {
+            "id": 3957,
+            "surah": 37,
+            "nomor": 169,
+            "ar": "لَكُنَّا عِبَادَ اللّٰهِ الْمُخْلَصِيْنَ",
+            "tr": "lakunnā ‘ibādallāhil-mukhlaṣīn(a).",
+            "idn": "tentu kami akan menjadi hamba Allah yang disucikan (dari dosa).”"
+        },
+        {
+            "id": 3958,
+            "surah": 37,
+            "nomor": 170,
+            "ar": "فَكَفَرُوْا بِهٖۚ فَسَوْفَ يَعْلَمُوْنَ",
+            "tr": "fa kafarū bih(ī), fasaufa ya‘lamūn(a).",
+            "idn": "Tetapi ternyata mereka mengingkarinya (Al-Qur'an); maka kelak mereka akan mengetahui (akibat keingkarannya itu)."
+        },
+        {
+            "id": 3959,
+            "surah": 37,
+            "nomor": 171,
+            "ar": "وَلَقَدْ سَبَقَتْ كَلِمَتُنَا لِعِبَادِنَا الْمُرْسَلِيْنَ ۖ",
+            "tr": "wa laqad sabaqat kalimatunā li‘ibādinal-mursalīn(a).",
+            "idn": "Dan sungguh, janji Kami telah tetap bagi hamba-hamba Kami yang menjadi rasul,"
+        },
+        {
+            "id": 3960,
+            "surah": 37,
+            "nomor": 172,
+            "ar": "اِنَّهُمْ لَهُمُ الْمَنْصُوْرُوْنَۖ",
+            "tr": "innahum lahumul-manṣūrūn(a).",
+            "idn": "(yaitu) mereka itu pasti akan mendapat pertolongan."
+        },
+        {
+            "id": 3961,
+            "surah": 37,
+            "nomor": 173,
+            "ar": "وَاِنَّ جُنْدَنَا لَهُمُ الْغٰلِبُوْنَ",
+            "tr": "wa inna jundanā lahumul-gālibūn(a).",
+            "idn": "Dan sesungguhnya bala tentara Kami itulah yang pasti menang."
+        },
+        {
+            "id": 3962,
+            "surah": 37,
+            "nomor": 174,
+            "ar": "فَتَوَلَّ عَنْهُمْ حَتّٰى حِيْنٍۙ",
+            "tr": "fatawalla ‘anhum ḥattā ḥīn(in).",
+            "idn": "Maka berpalinglah engkau (Muhammad) dari mereka sampai waktu tertentu,"
+        },
+        {
+            "id": 3963,
+            "surah": 37,
+            "nomor": 175,
+            "ar": "وَّاَبْصِرْهُمْۗ فَسَوْفَ يُبْصِرُوْنَ",
+            "tr": "wa abṣirhum, fa saufa yubṣirūn(a).",
+            "idn": "dan perlihatkanlah kepada mereka, maka kelak mereka akan melihat (azab itu)."
+        },
+        {
+            "id": 3964,
+            "surah": 37,
+            "nomor": 176,
+            "ar": "اَفَبِعَذَابِنَا يَسْتَعْجِلُوْنَ",
+            "tr": "afabi‘ażābinā yasta‘jilūn(a).",
+            "idn": "Maka apakah mereka meminta agar azab Kami disegerakan?"
+        },
+        {
+            "id": 3965,
+            "surah": 37,
+            "nomor": 177,
+            "ar": "فَاِذَا نَزَلَ بِسَاحَتِهِمْ فَسَاۤءَ صَبَاحُ الْمُنْذَرِيْنَ",
+            "tr": "fa iżā nazala bisāḥatihim fa sā'a ṣabāḥul-munżarīn(a).",
+            "idn": "Maka apabila (siksaan) itu turun di halaman mereka, maka sangat buruklah pagi hari bagi orang-orang yang diperingatkan itu."
+        },
+        {
+            "id": 3966,
+            "surah": 37,
+            "nomor": 178,
+            "ar": "وَتَوَلَّ عَنْهُمْ حَتّٰى حِيْنٍۙ",
+            "tr": "wa tawalla ‘anhum ḥattā ḥīn(in).",
+            "idn": "Dan berpalinglah engkau dari mereka sampai waktu tertentu. "
+        },
+        {
+            "id": 3967,
+            "surah": 37,
+            "nomor": 179,
+            "ar": "وَّاَبْصِرْۗ فَسَوْفَ يُبْصِرُوْنَ",
+            "tr": "wa abṣir, fasaufa yubṣirūn(a).",
+            "idn": "Dan perlihatkanlah, maka kelak mereka akan melihat (azab itu)."
+        },
+        {
+            "id": 3968,
+            "surah": 37,
+            "nomor": 180,
+            "ar": "سُبْحٰنَ رَبِّكَ رَبِّ الْعِزَّةِ عَمَّا يَصِفُوْنَۚ",
+            "tr": "subḥāna rabbika rabbil-‘izzati ‘ammā yaṣifūn(a).",
+            "idn": "Mahasuci Tuhanmu, Tuhan Yang Mahaperkasa dari sifat yang mereka katakan."
+        },
+        {
+            "id": 3969,
+            "surah": 37,
+            "nomor": 181,
+            "ar": "وَسَلٰمٌ عَلَى الْمُرْسَلِيْنَۚ ",
+            "tr": "wa salāmun ‘alal-mursalīn(a).",
+            "idn": "Dan selamat sejahtera bagi para rasul."
+        },
+        {
+            "id": 3970,
+            "surah": 37,
+            "nomor": 182,
+            "ar": "وَالْحَمْدُ لِلّٰهِ رَبِّ الْعٰلَمِيْنَ ࣖ",
+            "tr": "wal-ḥamdu lillāhi rabbil-‘ālamīn(a).",
+            "idn": "Dan segala puji bagi Allah Tuhan seluruh alam."
+        }
+    ],
+    "surat_selanjutnya": {
+        "id": 38,
+        "nomor": 38,
+        "nama": "ص",
+        "nama_latin": "Sad",
+        "jumlah_ayat": 88,
+        "tempat_turun": "mekah",
+        "arti": "Sad",
+        "deskripsi": "Surat Shaad  terdiri atas  88 ayat  termasuk golongan  surat Makkiyyah, diturunkan sesudah surat Al Qamar. Dinamai  dengan  <i>Shaad</i>  karena surat  ini  dimulai  dengan <i>Shaad</i> (selanjutnya lihat no. <a href=\"s002a001.htm\">[10)</a>). Dalam surat  ini Allah  bersumpah dengan  Al Quran,   untuk menunjukkan bahwa Al Quran itu suatu  kitab yang  agung dan bahwa siapa saja yang  mengikutinya  akan mendapat  kebahagiaan  dunia  dan akhirat dan untuk menunjukkan bahwa Al Quran ini adalah mukjizat Nabi Muhammad s.a.w. yang  menyatakan kebenarannya dan ketinggian akhlaknya.",
+        "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/038.mp3"
+    },
+    "surat_sebelumnya": {
+        "id": 36,
+        "nomor": 36,
+        "nama": "يٰسۤ",
+        "nama_latin": "Yasin",
+        "jumlah_ayat": 83,
+        "tempat_turun": "mekah",
+        "arti": "Yasin",
+        "deskripsi": "Surat <i>Yaasiin</i> terdiri atas 83 ayat, termasuk golongan surat-surat Makkiyyah,  diturunkan sesudah surat Jin. Dinamai <i>Yaasiin</i> karena dimulai dengan huruf <i>Yaasiin</i>. Sebagaimana halnya arti huruf-huruf abjad yang terletak pada permulaan beberapa surat Al Quran, maka demikian pula arti <i>Yaasiin</i> yang terdapat pada ayat permulaan surat ini, yaitu Allah mengisyaratkan bahwa sesudah huruf tersebut akan dikemukakan hal-hal yang penting antara lain: Allah bersumpah dengan Al Quran bahwa Muhammad s.a.w. benar-benar seorang rasul yang diutus-Nya kepada kaum yang belum pernah diutus kepada mereka rasul-rasul.",
+        "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/036.mp3"
+    }
+}

@@ -1,0 +1,259 @@
+{
+    "nomor": 72,
+    "nama": "الجن",
+    "nama_latin": "Al-Jinn",
+    "jumlah_ayat": 28,
+    "tempat_turun": "mekah",
+    "arti": "Jin",
+    "deskripsi": "Surat Al Jin terdiri atas 28 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Al A'raaf. Dinamai <i>Al Jin</i> diambil dari perkataan <i>Al Jin</i> yang terdapat  pada ayat pertama surat ini. Pada ayat tersebut dan ayat-ayat berikutnya  diterangkan bahwa Jin sebagai makhluk halus telah mendengar pembacaan  Al Quran dan mereka mengikuti ajaran Al Quran tersebut.",
+    "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/072.mp3",
+    "status": true,
+    "ayat": [
+        {
+            "id": 5448,
+            "surah": 72,
+            "nomor": 1,
+            "ar": "قُلْ اُوْحِيَ اِلَيَّ اَنَّهُ اسْتَمَعَ نَفَرٌ مِّنَ الْجِنِّ فَقَالُوْٓا اِنَّا سَمِعْنَا قُرْاٰنًا عَجَبًاۙ",
+            "tr": "qul ūḥiya ilayya annahustama‘a nafarum minal-jinni fa qālū innā sami‘nā qur'ānan ‘ajabā(n).",
+            "idn": "Katakanlah (Muhammad), “Telah diwahyukan kepadaku bahwa sekumpulan jin telah mendengarkan (bacaan),” lalu mereka berkata, “Kami telah mendengarkan bacaan yang menakjubkan (Al-Qur'an),"
+        },
+        {
+            "id": 5449,
+            "surah": 72,
+            "nomor": 2,
+            "ar": "يَّهْدِيْٓ اِلَى الرُّشْدِ فَاٰمَنَّا بِهٖۗ وَلَنْ نُّشْرِكَ بِرَبِّنَآ اَحَدًاۖ",
+            "tr": "yahdī ilar-rusydi fa'āmannā bih(ī), wa lan nusyrika birabbinā aḥadā(n).",
+            "idn": "(yang) memberi petunjuk kepada jalan yang benar, lalu kami beriman kepadanya. Dan kami sekali-kali tidak akan mempersekutukan sesuatu pun dengan Tuhan kami, "
+        },
+        {
+            "id": 5450,
+            "surah": 72,
+            "nomor": 3,
+            "ar": "وَّاَنَّهٗ تَعٰلٰى جَدُّ رَبِّنَا مَا اتَّخَذَ صَاحِبَةً وَّلَا وَلَدًاۖ",
+            "tr": "wa annahū ta‘ālā jaddu rabbinā mattakhaża ṣāḥibataw wa lā waladā(n).",
+            "idn": "dan sesungguhnya Mahatinggi keagungan Tuhan kami, Dia tidak beristri dan tidak beranak.”"
+        },
+        {
+            "id": 5451,
+            "surah": 72,
+            "nomor": 4,
+            "ar": "وَّاَنَّهٗ كَانَ يَقُوْلُ سَفِيْهُنَا عَلَى اللّٰهِ شَطَطًاۖ",
+            "tr": "wa annahū kāna yaqūlu safīhunā ‘alallāhi syaṭaṭā(n).",
+            "idn": "Dan sesungguhnya orang yang bodoh di antara kami dahulu selalu mengucapkan (perkataan) yang melampaui batas terhadap Allah,"
+        },
+        {
+            "id": 5452,
+            "surah": 72,
+            "nomor": 5,
+            "ar": "وَّاَنَّا ظَنَنَّآ اَنْ لَّنْ تَقُوْلَ الْاِنْسُ وَالْجِنُّ عَلَى اللّٰهِ كَذِبًاۙ",
+            "tr": "wa annā ẓanannā allan taqūlal-insu wal-jinnu ‘alallāhi każibā(n).",
+            "idn": "dan sesungguhnya kami mengira, bahwa manusia dan jin itu tidak akan mengatakan perkataan yang dusta terhadap Allah, "
+        },
+        {
+            "id": 5453,
+            "surah": 72,
+            "nomor": 6,
+            "ar": "وَّاَنَّهٗ كَانَ رِجَالٌ مِّنَ الْاِنْسِ يَعُوْذُوْنَ بِرِجَالٍ مِّنَ الْجِنِّ فَزَادُوْهُمْ رَهَقًاۖ",
+            "tr": "wa annahū kāna rijālum minal insi ya‘ūżūna birijālim minal-jinni fa zādūhum rahaqā(n).",
+            "idn": "dan sesungguhnya ada beberapa orang laki-laki dari kalangan manusia yang meminta perlindungan kepada beberapa laki-laki dari jin, tetapi mereka (jin) menjadikan mereka (manusia) bertambah sesat. "
+        },
+        {
+            "id": 5454,
+            "surah": 72,
+            "nomor": 7,
+            "ar": "وَّاَنَّهُمْ ظَنُّوْا كَمَا ظَنَنْتُمْ اَنْ لَّنْ يَّبْعَثَ اللّٰهُ اَحَدًاۖ",
+            "tr": "wa annahum ẓannū kamā ẓanantum allay yab‘aṡallāhu aḥadā(n).",
+            "idn": "Dan sesungguhnya mereka (jin) mengira seperti kamu (orang musyrik Mekah) yang juga mengira bahwa Allah tidak akan membangkitkan kembali siapa pun (pada hari Kiamat). "
+        },
+        {
+            "id": 5455,
+            "surah": 72,
+            "nomor": 8,
+            "ar": "وَّاَنَّا لَمَسْنَا السَّمَاۤءَ فَوَجَدْنٰهَا مُلِئَتْ حَرَسًا شَدِيْدًا وَّشُهُبًاۖ",
+            "tr": "wa annā lamasnas-samā'a fa wajadnāhā muli'at ḥarasan syadīdaw wa syuhubā(n).",
+            "idn": "Dan sesungguhnya kami (jin) telah mencoba mengetahui (rahasia) langit, maka kami mendapatinya penuh dengan penjagaan yang kuat dan panah-panah api, "
+        },
+        {
+            "id": 5456,
+            "surah": 72,
+            "nomor": 9,
+            "ar": "وَّاَنَّا كُنَّا نَقْعُدُ مِنْهَا مَقَاعِدَ لِلسَّمْعِۗ فَمَنْ يَّسْتَمِعِ الْاٰنَ يَجِدْ لَهٗ شِهَابًا رَّصَدًاۖ",
+            "tr": "wa annā kunnā naq‘udu minhā maqā‘ida lis-sam‘(i), famay yastami‘il-āna yajid lahū syihābar raṣadā(n).",
+            "idn": "dan sesungguhnya kami (jin) dahulu dapat menduduki beberapa tempat di langit itu untuk mencuri dengar (berita-beritanya). Tetapi sekarang siapa (mencoba) mencuri dengar (seperti itu) pasti akan menjumpai panah-panah api yang mengintai (untuk membakarnya)."
+        },
+        {
+            "id": 5457,
+            "surah": 72,
+            "nomor": 10,
+            "ar": "وَّاَنَّا لَا نَدْرِيْٓ اَشَرٌّ اُرِيْدَ بِمَنْ فِى الْاَرْضِ اَمْ اَرَادَ بِهِمْ رَبُّهُمْ رَشَدًاۙ",
+            "tr": "wa annā lā nadrī asyarrun urīda biman fil-arḍi am arāda bihim rabbuhum rasyadā(n).",
+            "idn": "Dan sesungguhnya kami (jin) tidak mengetahui (adanya penjagaan itu) apakah keburukan yang dikehendaki orang yang di bumi ataukah Tuhan mereka menghendaki kebaikan baginya. "
+        },
+        {
+            "id": 5458,
+            "surah": 72,
+            "nomor": 11,
+            "ar": "وَّاَنَّا مِنَّا الصّٰلِحُوْنَ وَمِنَّا دُوْنَ ذٰلِكَۗ  كُنَّا طَرَاۤىِٕقَ قِدَدًاۙ",
+            "tr": "wa annā minnaṣ-ṣāliḥūna wa minnā dūna żālik(a), kunnā ṭarā'iqa qidadā(n).",
+            "idn": "Dan sesungguhnya di antara kami (jin) ada yang saleh dan ada (pula) kebalikannya. Kami menempuh jalan yang berbeda-beda. "
+        },
+        {
+            "id": 5459,
+            "surah": 72,
+            "nomor": 12,
+            "ar": "وَّاَنَّا ظَنَنَّآ اَنْ لَّنْ نُّعْجِزَ اللّٰهَ فِى الْاَرْضِ وَلَنْ نُّعْجِزَهٗ هَرَبًاۖ",
+            "tr": "wa annā ẓanannā allan nu‘jizallāha fil-arḍi wa lan nu‘jizahū harabā(n).",
+            "idn": "Dan sesungguhnya kami (jin) telah menduga, bahwa kami tidak akan mampu melepaskan diri (dari kekuasaan) Allah di bumi dan tidak (pula) dapat lari melepaskan diri (dari)-Nya. "
+        },
+        {
+            "id": 5460,
+            "surah": 72,
+            "nomor": 13,
+            "ar": "وَّاَنَّا لَمَّا سَمِعْنَا الْهُدٰىٓ اٰمَنَّا بِهٖۗ فَمَنْ يُّؤْمِنْۢ بِرَبِّهٖ فَلَا يَخَافُ بَخْسًا وَّلَا رَهَقًاۖ",
+            "tr": "wa annā lammā sami‘nal-hudā āmannā bih(ī), famay yu'mim birabbihī falā yakhāfu bakhsaw wa lā rahaqā(n).",
+            "idn": "Dan sesungguhnya ketika kami (jin) mendengar petunjuk (Al-Qur'an), kami beriman kepadanya. Maka barangsiapa beriman kepada Tuhan, maka tidak perlu ia takut rugi atau berdosa. "
+        },
+        {
+            "id": 5461,
+            "surah": 72,
+            "nomor": 14,
+            "ar": "وَّاَنَّا مِنَّا الْمُسْلِمُوْنَ وَمِنَّا الْقٰسِطُوْنَۗ فَمَنْ اَسْلَمَ فَاُولٰۤىِٕكَ تَحَرَّوْا رَشَدًا ",
+            "tr": "wa annā minnal-muslimūna wa minnal-qāsiṭūn(a), faman aslama fa ulā'ika taḥarrau rasyadā(n).",
+            "idn": "Dan di antara kami ada yang Islam dan ada yang menyimpang dari kebenaran. Siapa yang Islam, maka mereka itu telah memilih jalan yang lurus. "
+        },
+        {
+            "id": 5462,
+            "surah": 72,
+            "nomor": 15,
+            "ar": "وَاَمَّا الْقٰسِطُوْنَ فَكَانُوْا لِجَهَنَّمَ حَطَبًاۙ",
+            "tr": "wa ammal-qāsiṭūna fa kānū lijahannama ḥaṭabā(n).",
+            "idn": "Dan adapun yang menyimpang dari kebenaran, maka mereka menjadi bahan bakar bagi neraka Jahanam.” "
+        },
+        {
+            "id": 5463,
+            "surah": 72,
+            "nomor": 16,
+            "ar": "وَّاَنْ لَّوِ اسْتَقَامُوْا عَلَى الطَّرِيْقَةِ لَاَسْقَيْنٰهُمْ مَّاۤءً غَدَقًاۙ",
+            "tr": "wa allawistaqāmū ‘alaṭ-ṭarīqati la'asqaināhum mā'an gadaqā(n).",
+            "idn": "Dan sekiranya mereka tetap berjalan lurus di atas jalan itu (agama Islam), niscaya Kami akan mencurahkan kepada mereka air yang cukup."
+        },
+        {
+            "id": 5464,
+            "surah": 72,
+            "nomor": 17,
+            "ar": "لِّنَفْتِنَهُمْ فِيْهِۗ وَمَنْ يُّعْرِضْ عَنْ ذِكْرِ رَبِّهٖ يَسْلُكْهُ عَذَابًا صَعَدًاۙ",
+            "tr": "linaftinahum fīh(i), wa may yu‘riḍ ‘an żikri rabbihī yasluk-hu ‘ażāban ṣa‘adā(n).",
+            "idn": "Dengan (cara) itu Kami hendak menguji mereka. Dan barangsiapa berpaling dari peringatan Tuhannya, niscaya akan dimasukkan-Nya ke dalam azab yang sangat berat. "
+        },
+        {
+            "id": 5465,
+            "surah": 72,
+            "nomor": 18,
+            "ar": "وَّاَنَّ الْمَسٰجِدَ لِلّٰهِ فَلَا تَدْعُوْا مَعَ اللّٰهِ اَحَدًاۖ",
+            "tr": "wa annal-masājida lillāhi falā tad‘ū ma‘allāhi aḥadā(n).",
+            "idn": "Dan sesungguhnya masjid-masjid itu adalah untuk Allah. Maka janganlah kamu menyembah apa pun di dalamnya selain Allah. "
+        },
+        {
+            "id": 5466,
+            "surah": 72,
+            "nomor": 19,
+            "ar": "وَّاَنَّهٗ لَمَّا قَامَ عَبْدُ اللّٰهِ يَدْعُوْهُ كَادُوْا يَكُوْنُوْنَ عَلَيْهِ لِبَدًاۗ  ࣖ",
+            "tr": "wa annahū lammā qāma ‘abdullāhi yad‘ūhu kādū yakūnūna ‘alaihi libadā(n).",
+            "idn": "Dan sesungguhnya ketika hamba Allah (Muhammad) berdiri menyembah-Nya (melaksanakan salat), mereka (jin-jin) itu berdesakan mengerumuninya."
+        },
+        {
+            "id": 5467,
+            "surah": 72,
+            "nomor": 20,
+            "ar": "قُلْ اِنَّمَآ اَدْعُوْا رَبِّيْ وَلَآ اُشْرِكُ بِهٖٓ اَحَدًا ",
+            "tr": "qul innamā ad‘ū rabbī wa lā usyriku bihī aḥadā(n).",
+            "idn": "Katakanlah (Muhammad), “Sesungguhnya aku hanya menyembah Tuhanku dan aku tidak mempersekutukan sesuatu pun dengan-Nya.” "
+        },
+        {
+            "id": 5468,
+            "surah": 72,
+            "nomor": 21,
+            "ar": "قُلْ اِنِّيْ لَآ اَمْلِكُ لَكُمْ ضَرًّا وَّلَا رَشَدًا ",
+            "tr": "qul innī lā amliku lakum ḍarraw wa lā rasyadā(n).",
+            "idn": "Katakanlah (Muhammad), “Aku tidak kuasa menolak mudarat maupun mendatangkan kebaikan kepadamu.” "
+        },
+        {
+            "id": 5469,
+            "surah": 72,
+            "nomor": 22,
+            "ar": "قُلْ اِنِّيْ لَنْ يُّجِيْرَنِيْ مِنَ اللّٰهِ اَحَدٌ ەۙ وَّلَنْ اَجِدَ مِنْ دُوْنِهٖ مُلْتَحَدًا ۙ",
+            "tr": "qul innī lay yujīranī minallāhi aḥad(un), wa lan ajida min dūnihī multaḥadā(n).",
+            "idn": "Katakanlah (Muhammad), “Sesungguhnya tidak ada sesuatu pun yang dapat melindungiku dari (azab) Allah dan aku tidak akan memperoleh tempat berlindung selain dari-Nya. "
+        },
+        {
+            "id": 5470,
+            "surah": 72,
+            "nomor": 23,
+            "ar": "اِلَّا بَلٰغًا مِّنَ اللّٰهِ وَرِسٰلٰتِهٖۗ وَمَنْ يَّعْصِ اللّٰهَ وَرَسُوْلَهٗ فَاِنَّ لَهٗ نَارَ جَهَنَّمَ خٰلِدِيْنَ فِيْهَآ اَبَدًاۗ",
+            "tr": "illā balāgam minallāhi wa risālātih(ī), wa may ya‘ṣillāha wa rasūlahū fa inna lahū nāra jahannama khālidīna fīhā abadā(n).",
+            "idn": "(Aku hanya) menyampaikan (peringatan) dari Allah dan risalah-Nya. Dan barangsiapa mendurhakai Allah dan Rasul-Nya maka sesungguhnya dia akan mendapat (azab) neraka Jahanam, mereka kekal di dalamnya selama-lamanya.” "
+        },
+        {
+            "id": 5471,
+            "surah": 72,
+            "nomor": 24,
+            "ar": "حَتّٰىٓ اِذَا رَاَوْا مَا يُوْعَدُوْنَ فَسَيَعْلَمُوْنَ مَنْ اَضْعَفُ نَاصِرًا وَّاَقَلُّ عَدَدًاۗ",
+            "tr": "Ḥattā iżā ra'au mā yū‘adūna fasaya‘lamūna man aḍ‘afu nāṣiraw wa aqallu ‘adadā(n).",
+            "idn": "Sehingga apabila mereka melihat (azab) yang diancamkan kepadanya, maka mereka akan mengetahui siapakah yang lebih lemah penolongnya dan lebih sedikit jumlahnya. "
+        },
+        {
+            "id": 5472,
+            "surah": 72,
+            "nomor": 25,
+            "ar": "قُلْ اِنْ اَدْرِيْٓ اَقَرِيْبٌ مَّا تُوْعَدُوْنَ اَمْ يَجْعَلُ لَهٗ رَبِّيْٓ اَمَدًا ",
+            "tr": "qul in adrī aqarībum mā tū‘adūna am yaj‘alu lahū rabbī amadā(n).",
+            "idn": "Katakanlah (Muhammad), “Aku tidak mengetahui, apakah azab yang diancamkan kepadamu itu sudah dekat ataukah Tuhanku menetapkan waktunya masih lama.” "
+        },
+        {
+            "id": 5473,
+            "surah": 72,
+            "nomor": 26,
+            "ar": "عٰلِمُ الْغَيْبِ فَلَا يُظْهِرُ عَلٰى غَيْبِهٖٓ اَحَدًاۙ",
+            "tr": "‘Ālimul-gaibi falā yuẓhiru ‘alā gaibihī aḥadā(n).",
+            "idn": "Dia Mengetahui yang gaib, tetapi Dia tidak memperlihatkan kepada siapa pun tentang yang gaib itu. "
+        },
+        {
+            "id": 5474,
+            "surah": 72,
+            "nomor": 27,
+            "ar": "اِلَّا مَنِ ارْتَضٰى مِنْ رَّسُوْلٍ فَاِنَّهٗ يَسْلُكُ مِنْۢ بَيْنِ يَدَيْهِ وَمِنْ خَلْفِهٖ رَصَدًاۙ",
+            "tr": "illā manirtaḍā mir rasūlin fa innahū yasluku mim baini yadaihi wa min khalfihī raṣadā(n).",
+            "idn": "Kecuali kepada rasul yang diridai-Nya, maka sesungguhnya Dia mengadakan penjaga-penjaga (malaikat) di depan dan di belakangnya. "
+        },
+        {
+            "id": 5475,
+            "surah": 72,
+            "nomor": 28,
+            "ar": "لِّيَعْلَمَ اَنْ قَدْ اَبْلَغُوْا رِسٰلٰتِ رَبِّهِمْ وَاَحَاطَ بِمَا لَدَيْهِمْ وَاَحْصٰى كُلَّ شَيْءٍ عَدَدًا ࣖ",
+            "tr": "liya‘lama an qad ablagū risālāti rabbihim wa aḥāṭa bimā ladaihim wa aḥṣā kulla syai'in ‘adadā(n).",
+            "idn": "Agar Dia mengetahui bahwa rasul-rasul itu sungguh telah menyampaikan risalah Tuhannya, sedang (ilmu-Nya) meliputi apa yang ada pada mereka, dan Dia menghitung segala sesuatu satu persatu. "
+        }
+    ],
+    "surat_selanjutnya": {
+        "id": 73,
+        "nomor": 73,
+        "nama": "المزّمّل",
+        "nama_latin": "Al-Muzzammil",
+        "jumlah_ayat": 20,
+        "tempat_turun": "mekah",
+        "arti": "Orang Yang Berselimut",
+        "deskripsi": "Surat Al Muzzammil terdiri atas 20 ayat, termasuk golongan surat-surat Makkiyah, diturunkan sesudah surat Al Qalam.<br>Dinamai <i>Al Muzzammil</i> (orang yang berselimut) diambil dari perkataan <i>Al Muzzammil</i> yang terdapat pada ayat pertama surat ini. Yang dimaksud dengan <i>orang yang berkemul</i> ialah Nabi Muhammad s.a.w.",
+        "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/073.mp3"
+    },
+    "surat_sebelumnya": {
+        "id": 71,
+        "nomor": 71,
+        "nama": "نوح",
+        "nama_latin": "Nuh",
+        "jumlah_ayat": 28,
+        "tempat_turun": "mekah",
+        "arti": "Nuh",
+        "deskripsi": "Surat ini terdiri atas 28 ayat, termasuk golongan surat-surat Makkiyah, diturunkan sesudah surat An Nahl. <br>Dinamakan dengan surat <i>Nuh</i> karena surat ini seluruhnya menjelaskan da'wah dan doa Nabi Nuh a.s.",
+        "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/071.mp3"
+    }
+}

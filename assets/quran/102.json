@@ -1,0 +1,99 @@
+{
+    "nomor": 102,
+    "nama": "التكاثر",
+    "nama_latin": "At-Takasur",
+    "jumlah_ayat": 8,
+    "tempat_turun": "mekah",
+    "arti": "Bermegah-Megahan",
+    "deskripsi": "Surat At Takaatsur terdiri atas 8 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Al Kautsar. Dinamai <i>At Takaatsur</i> (bermegah-megahan) diambil dari perkataan <i>At Takaatsur</i> yang terdapat pada ayat pertama surat ini.",
+    "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/102.mp3",
+    "status": true,
+    "ayat": [
+        {
+            "id": 6169,
+            "surah": 102,
+            "nomor": 1,
+            "ar": "اَلْهٰىكُمُ التَّكَاثُرُۙ",
+            "tr": "alhākumut-takāṡur(u).",
+            "idn": "Bermegah-megahan telah melalaikan kamu,"
+        },
+        {
+            "id": 6170,
+            "surah": 102,
+            "nomor": 2,
+            "ar": "حَتّٰى زُرْتُمُ الْمَقَابِرَۗ",
+            "tr": "Ḥattā zurtumul-maqābir(a).",
+            "idn": "sampai kamu masuk ke dalam kubur."
+        },
+        {
+            "id": 6171,
+            "surah": 102,
+            "nomor": 3,
+            "ar": "كَلَّا سَوْفَ تَعْلَمُوْنَۙ",
+            "tr": "kallā saufa ta‘lamūn(a).",
+            "idn": "Sekali-kali tidak! Kelak kamu akan mengetahui (akibat perbuatanmu itu),"
+        },
+        {
+            "id": 6172,
+            "surah": 102,
+            "nomor": 4,
+            "ar": "ثُمَّ كَلَّا سَوْفَ تَعْلَمُوْنَ ",
+            "tr": "Ṡumma kallā saufa ta‘lamūn(a).",
+            "idn": "kemudian sekali-kali tidak! Kelak kamu akan mengetahui."
+        },
+        {
+            "id": 6173,
+            "surah": 102,
+            "nomor": 5,
+            "ar": "كَلَّا لَوْ تَعْلَمُوْنَ عِلْمَ الْيَقِيْنِۗ",
+            "tr": "kallā lau ta‘lamūna ‘ilmal-yaqīn(i).",
+            "idn": "Sekali-kali tidak! Sekiranya kamu mengetahui dengan pasti,"
+        },
+        {
+            "id": 6174,
+            "surah": 102,
+            "nomor": 6,
+            "ar": "لَتَرَوُنَّ الْجَحِيْمَۙ",
+            "tr": "latarawunnal-jaḥīm(a).",
+            "idn": "niscaya kamu benar-benar akan melihat neraka Jahim,"
+        },
+        {
+            "id": 6175,
+            "surah": 102,
+            "nomor": 7,
+            "ar": "ثُمَّ لَتَرَوُنَّهَا عَيْنَ الْيَقِيْنِۙ",
+            "tr": "Ṡumma latarawunnahā ‘ainal-yaqīn(i).",
+            "idn": "kemudian kamu benar-benar akan melihatnya dengan mata kepala sendiri,"
+        },
+        {
+            "id": 6176,
+            "surah": 102,
+            "nomor": 8,
+            "ar": "ثُمَّ لَتُسْـَٔلُنَّ يَوْمَىِٕذٍ عَنِ النَّعِيْمِ ࣖ",
+            "tr": "Ṡumma latus'alunna yauma'iżin ‘anin-na‘īm(i).",
+            "idn": "kemudian kamu benar-benar akan ditanya pada hari itu tentang kenikmatan (yang megah di dunia itu)."
+        }
+    ],
+    "surat_selanjutnya": {
+        "id": 103,
+        "nomor": 103,
+        "nama": "العصر",
+        "nama_latin": "Al-'Asr",
+        "jumlah_ayat": 3,
+        "tempat_turun": "mekah",
+        "arti": "Asar",
+        "deskripsi": "Surat Al 'Ashr terdiri atas 3 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Alam Nasyrah. Dinamai <i>Al 'Ashr</i> (masa) diambil dari perkataan <i>Al 'Ashr</i> yang terdapat pada ayat pertama surat ini.",
+        "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/103.mp3"
+    },
+    "surat_sebelumnya": {
+        "id": 101,
+        "nomor": 101,
+        "nama": "القارعة",
+        "nama_latin": "Al-Qari'ah",
+        "jumlah_ayat": 11,
+        "tempat_turun": "mekah",
+        "arti": "Hari Kiamat",
+        "deskripsi": "Surat ini terdiri atas 11 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Quraisy. Nama <i>Al Qaari'ah</i> diambil dari kata <i>Al Qaari'ah</i> yang terdapat pada ayat pertama, artinya mengetok dengan keras, kemudian kata ini dipakai untuk nama hari kiamat.",
+        "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/101.mp3"
+    }
+}

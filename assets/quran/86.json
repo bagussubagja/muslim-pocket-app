@@ -1,0 +1,171 @@
+{
+    "nomor": 86,
+    "nama": "الطارق",
+    "nama_latin": "At-Tariq",
+    "jumlah_ayat": 17,
+    "tempat_turun": "mekah",
+    "arti": "Yang Datang Di Malam Hari",
+    "deskripsi": "Surat Ath Thaariq terdiri atas 17 ayat, termasuk golongan surat-surat Makkiyah,  diturunkan sesudah surat Al Balad.  Dinamai <i>Ath Thaariq</i> (yang datang di malam hari) diambil dari  perkataan <i>Ath Thaariq</i> yang terdapat pada ayat 1 surat ini.",
+    "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/086.mp3",
+    "status": true,
+    "ayat": [
+        {
+            "id": 5932,
+            "surah": 86,
+            "nomor": 1,
+            "ar": "وَالسَّمَاۤءِ وَالطَّارِقِۙ ",
+            "tr": "was-samā'i waṭ-ṭāriq(i).",
+            "idn": "Demi langit dan yang datang pada malam hari."
+        },
+        {
+            "id": 5933,
+            "surah": 86,
+            "nomor": 2,
+            "ar": "وَمَآ اَدْرٰىكَ مَا الطَّارِقُۙ ",
+            "tr": "wa mā adrāka maṭ-ṭāriq(u).",
+            "idn": "Dan tahukah kamu apakah yang datang pada malam hari itu?"
+        },
+        {
+            "id": 5934,
+            "surah": 86,
+            "nomor": 3,
+            "ar": "النَّجْمُ الثَّاقِبُۙ ",
+            "tr": "an-najmuṡ-ṡāqib(u).",
+            "idn": "(yaitu) bintang yang bersinar tajam,"
+        },
+        {
+            "id": 5935,
+            "surah": 86,
+            "nomor": 4,
+            "ar": "اِنْ كُلُّ نَفْسٍ لَّمَّا عَلَيْهَا حَافِظٌۗ ",
+            "tr": "in kullu nafsil lammā ‘alaihā ḥāfiẓ(un).",
+            "idn": "setiap orang pasti ada penjaganya."
+        },
+        {
+            "id": 5936,
+            "surah": 86,
+            "nomor": 5,
+            "ar": "فَلْيَنْظُرِ الْاِنْسَانُ مِمَّ خُلِقَ ",
+            "tr": "falyanẓuril-insānu mimma khuliq(a).",
+            "idn": "Maka hendaklah manusia memperhatikan dari apa dia diciptakan."
+        },
+        {
+            "id": 5937,
+            "surah": 86,
+            "nomor": 6,
+            "ar": "خُلِقَ مِنْ مَّاۤءٍ دَافِقٍۙ ",
+            "tr": "khuliqa mim mā'in dāfiq(in).",
+            "idn": "Dia diciptakan dari air (mani) yang terpancar,"
+        },
+        {
+            "id": 5938,
+            "surah": 86,
+            "nomor": 7,
+            "ar": "يَّخْرُجُ مِنْۢ بَيْنِ الصُّلْبِ وَالتَّرَاۤىِٕبِۗ ",
+            "tr": "yakhruju mim bainiṣ-ṣulbi wat-tarā'ib(i).",
+            "idn": "yang keluar dari antara tulang punggung (sulbi) dan tulang dada."
+        },
+        {
+            "id": 5939,
+            "surah": 86,
+            "nomor": 8,
+            "ar": "اِنَّهٗ عَلٰى رَجْعِهٖ لَقَادِرٌۗ ",
+            "tr": "innahū ‘alā raj‘ihī laqādir(un).",
+            "idn": "Sungguh, Allah benar-benar kuasa untuk mengembalikannya (hidup setelah mati)."
+        },
+        {
+            "id": 5940,
+            "surah": 86,
+            "nomor": 9,
+            "ar": "يَوْمَ تُبْلَى السَّرَاۤىِٕرُۙ ",
+            "tr": "yauma tublas-sarā'ir(u).",
+            "idn": "Pada hari ditampakkan segala rahasia,"
+        },
+        {
+            "id": 5941,
+            "surah": 86,
+            "nomor": 10,
+            "ar": "فَمَا لَهٗ مِنْ قُوَّةٍ وَّلَا نَاصِرٍۗ ",
+            "tr": "famā lahū min quwwatiw wa lā nāṣir(in).",
+            "idn": "maka manusia tidak lagi mempunyai suatu kekuatan dan tidak (pula) ada penolong."
+        },
+        {
+            "id": 5942,
+            "surah": 86,
+            "nomor": 11,
+            "ar": "وَالسَّمَاۤءِ ذَاتِ الرَّجْعِۙ ",
+            "tr": "was-samā'i żātir-raj‘(i).",
+            "idn": "Demi langit yang mengandung hujan,"
+        },
+        {
+            "id": 5943,
+            "surah": 86,
+            "nomor": 12,
+            "ar": "وَالْاَرْضِ ذَاتِ الصَّدْعِۙ ",
+            "tr": "wal-arḍi żātiṣ-ṣad‘(i).",
+            "idn": "dan bumi yang mempunyai tumbuh-tumbuhan,"
+        },
+        {
+            "id": 5944,
+            "surah": 86,
+            "nomor": 13,
+            "ar": "اِنَّهٗ لَقَوْلٌ فَصْلٌۙ ",
+            "tr": "innahū laqaulun faṣl(un).",
+            "idn": "sungguh, (Al-Qur'an) itu benar-benar firman pemisah (antara yang hak dan yang batil),"
+        },
+        {
+            "id": 5945,
+            "surah": 86,
+            "nomor": 14,
+            "ar": "وَّمَا هُوَ بِالْهَزْلِۗ ",
+            "tr": "wa mā huwa bil-hazl(i).",
+            "idn": "dan (Al-Qur'an) itu bukanlah sendagurauan."
+        },
+        {
+            "id": 5946,
+            "surah": 86,
+            "nomor": 15,
+            "ar": "اِنَّهُمْ يَكِيْدُوْنَ كَيْدًاۙ ",
+            "tr": "innahum yakīdūna kaidā(n).",
+            "idn": "Sungguh, mereka (orang kafir) merencanakan tipu daya yang jahat."
+        },
+        {
+            "id": 5947,
+            "surah": 86,
+            "nomor": 16,
+            "ar": "وَّاَكِيْدُ كَيْدًاۖ ",
+            "tr": "wa akīdu kaidā(n).",
+            "idn": "Dan Aku pun membuat rencana (tipu daya) yang jitu."
+        },
+        {
+            "id": 5948,
+            "surah": 86,
+            "nomor": 17,
+            "ar": "فَمَهِّلِ الْكٰفِرِيْنَ اَمْهِلْهُمْ رُوَيْدًا ࣖ ",
+            "tr": "fa mahhilil-kāfirīna amhilhum ruwaidā(n).",
+            "idn": "Karena itu berilah penangguhan kepada orang-orang kafir itu. Berilah mereka itu kesempatan untuk sementara waktu."
+        }
+    ],
+    "surat_selanjutnya": {
+        "id": 87,
+        "nomor": 87,
+        "nama": "الاعلى",
+        "nama_latin": "Al-A'la",
+        "jumlah_ayat": 19,
+        "tempat_turun": "mekah",
+        "arti": "Maha Tinggi",
+        "deskripsi": "Surat ini terdiri atas 19 ayat, termasuk golongan surat-surat Makkiyyah, dan diturunkan sesudah surat At Takwiir. Nama <i>Al AÂ´laa</i> diambil dari kata <i>Al AÂ´laa</i> yang terdapat pada ayat pertama, berarti <i>Yang Paling Tinggi</i>. Muslim meriwayatkan dalam kitab Al Jumu'ah, dan diriwayatkan pula oleh Ashhaabus Sunan, dari Nu'man ibnu Basyir bahwa Rasulullah s.a.w. pada shalat dua hari Raya (Fitri dan Adha) dan shalat Jum'at membaca surat Al AÂ´laa pada rakaat pertama, dan surat Al Ghaasyiyah pada rakaat kedua.",
+        "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/087.mp3"
+    },
+    "surat_sebelumnya": {
+        "id": 85,
+        "nomor": 85,
+        "nama": "البروج",
+        "nama_latin": "Al-Buruj",
+        "jumlah_ayat": 22,
+        "tempat_turun": "mekah",
+        "arti": "Gugusan Bintang",
+        "deskripsi": "Surat Al Buruuj terdiri atas 22 ayat, termasuk golongan surat-surat Makkiyyah diturunkan sesudah surat Asy-Syams.<br>Dinamai <i>Al Buruuj</i> (gugusan bintang) diambil dari perkataan <i>Al Buruuj</i> yang terdapat pada ayat 1 surat ini.",
+        "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/085.mp3"
+    }
+}

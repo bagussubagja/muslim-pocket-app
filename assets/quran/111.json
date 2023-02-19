@@ -1,0 +1,75 @@
+{
+    "nomor": 111,
+    "nama": "اللهب",
+    "nama_latin": "Al-Lahab",
+    "jumlah_ayat": 5,
+    "tempat_turun": "mekah",
+    "arti": "Api Yang Bergejolak",
+    "deskripsi": "Surat ini terdiri atas 5 ayat, termasuk golongan surat-surat Makkiyyah,  diturunkan sesudah surat Al Fath. Nama <i>Al Lahab</i> diambil dari kata  <i>Al Lahab</i> yang terdapat pada ayat ketiga surat ini yang artinya gejolak  api. Surat ini juga dinamakan surat <i>Al Masad</i>.",
+    "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/111.mp3",
+    "status": true,
+    "ayat": [
+        {
+            "id": 6217,
+            "surah": 111,
+            "nomor": 1,
+            "ar": "تَبَّتْ يَدَآ اَبِيْ لَهَبٍ وَّتَبَّۗ",
+            "tr": "tabbat yadā abī lahabiw wa tabb(a).",
+            "idn": "Binasalah kedua tangan Abu Lahab dan benar-benar binasa dia!"
+        },
+        {
+            "id": 6218,
+            "surah": 111,
+            "nomor": 2,
+            "ar": "مَآ اَغْنٰى عَنْهُ مَالُهٗ وَمَا كَسَبَۗ",
+            "tr": "mā agnā ‘anhu māluhū wa mā kasab(a).",
+            "idn": "Tidaklah berguna baginya hartanya dan apa yang dia usahakan."
+        },
+        {
+            "id": 6219,
+            "surah": 111,
+            "nomor": 3,
+            "ar": "سَيَصْلٰى نَارًا ذَاتَ لَهَبٍۙ",
+            "tr": "sayaṣlā nāran żāta lahab(in).",
+            "idn": "Kelak dia akan masuk ke dalam api yang bergejolak (neraka)."
+        },
+        {
+            "id": 6220,
+            "surah": 111,
+            "nomor": 4,
+            "ar": "وَّامْرَاَتُهٗ ۗحَمَّالَةَ الْحَطَبِۚ",
+            "tr": "wamra'atuh(ū), ḥammālatal-ḥaṭab(i).",
+            "idn": "Dan (begitu pula) istrinya, pembawa kayu bakar (penyebar fitnah). "
+        },
+        {
+            "id": 6221,
+            "surah": 111,
+            "nomor": 5,
+            "ar": "فِيْ جِيْدِهَا حَبْلٌ مِّنْ مَّسَدٍ ࣖ",
+            "tr": "fī jīdihā ḥablum mim masad(in).",
+            "idn": "Di lehernya ada tali dari sabut yang dipintal."
+        }
+    ],
+    "surat_selanjutnya": {
+        "id": 112,
+        "nomor": 112,
+        "nama": "الاخلاص",
+        "nama_latin": "Al-Ikhlas",
+        "jumlah_ayat": 4,
+        "tempat_turun": "mekah",
+        "arti": "Ikhlas",
+        "deskripsi": "Surat ini terdiri atas 4 ayat, termasuk golongan surat-surat  Makkiyyah, diturunkan sesudah sesudah surat An Naas. Dinamakan <i>Al Ikhlas</i> karena surat ini sepenuhnya menegaskan kemurnian keesaan Allah s.w.t.",
+        "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/112.mp3"
+    },
+    "surat_sebelumnya": {
+        "id": 110,
+        "nomor": 110,
+        "nama": "النصر",
+        "nama_latin": "An-Nasr",
+        "jumlah_ayat": 3,
+        "tempat_turun": "madinah",
+        "arti": "Pertolongan",
+        "deskripsi": "Surat An Nashr terdiri atas 3 ayat, termasuk golongan surat-surat  Madaniyyah yang diturunkan di Mekah sesudah surat At Taubah.  Dinamai <i>An Nashr</i> (pertolongan) diambil dari perkataan <i>Nashr</i> yang  terdapat pada ayat pertama surat ini.",
+        "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/110.mp3"
+    }
+}

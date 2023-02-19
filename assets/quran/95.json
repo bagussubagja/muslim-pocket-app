@@ -1,0 +1,99 @@
+{
+    "nomor": 95,
+    "nama": "التين",
+    "nama_latin": "At-Tin",
+    "jumlah_ayat": 8,
+    "tempat_turun": "mekah",
+    "arti": "Buah Tin",
+    "deskripsi": "Surat ini terdiri atas 8 ayat, termasuk golongan surat-surat Makkiyah, diturunkan sesudah surat Al Buruuj. Nama At Tiin diambil dari kata <i>At Tiin</i> yang terdapat pada ayat pertama surat ini yang artinya buah Tin.",
+    "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/095.mp3",
+    "status": true,
+    "ayat": [
+        {
+            "id": 6099,
+            "surah": 95,
+            "nomor": 1,
+            "ar": "وَالتِّيْنِ وَالزَّيْتُوْنِۙ",
+            "tr": "wat-tīni waz-zaitūn(i).",
+            "idn": "Demi (buah) Tin dan (buah) Zaitun,"
+        },
+        {
+            "id": 6100,
+            "surah": 95,
+            "nomor": 2,
+            "ar": "وَطُوْرِ سِيْنِيْنَۙ",
+            "tr": "wa ṭūri sīnīn(a).",
+            "idn": "demi gunung Sinai,"
+        },
+        {
+            "id": 6101,
+            "surah": 95,
+            "nomor": 3,
+            "ar": "وَهٰذَا الْبَلَدِ الْاَمِيْنِۙ",
+            "tr": "wa hāżal-baladil-amīn(i).",
+            "idn": "dan demi negeri (Mekah) yang aman ini."
+        },
+        {
+            "id": 6102,
+            "surah": 95,
+            "nomor": 4,
+            "ar": "لَقَدْ خَلَقْنَا الْاِنْسَانَ فِيْٓ اَحْسَنِ تَقْوِيْمٍۖ",
+            "tr": "laqad khalaqnal-insāna fī aḥsani taqwīm(in).",
+            "idn": "Sungguh, Kami telah menciptakan manusia dalam bentuk yang sebaik-baiknya,"
+        },
+        {
+            "id": 6103,
+            "surah": 95,
+            "nomor": 5,
+            "ar": "ثُمَّ رَدَدْنٰهُ اَسْفَلَ سٰفِلِيْنَۙ",
+            "tr": "Ṡumma radadnāhu asfala sāfilīn(a).",
+            "idn": "kemudian Kami kembalikan dia ke tempat yang serendah-rendahnya,"
+        },
+        {
+            "id": 6104,
+            "surah": 95,
+            "nomor": 6,
+            "ar": "اِلَّا الَّذِيْنَ اٰمَنُوْا وَعَمِلُوا الصّٰلِحٰتِ فَلَهُمْ اَجْرٌ غَيْرُ مَمْنُوْنٍۗ",
+            "tr": "illal-lażīna āmanū wa ‘amiluṣ-ṣāliḥāti falahum ajrun gairu mamnūn(in).",
+            "idn": "kecuali orang-orang yang beriman dan mengerjakan kebajikan; maka mereka akan mendapat pahala yang tidak ada putus-putusnya."
+        },
+        {
+            "id": 6105,
+            "surah": 95,
+            "nomor": 7,
+            "ar": "فَمَا يُكَذِّبُكَ بَعْدُ بِالدِّيْنِۗ",
+            "tr": "famā yukażżibuka ba‘du bid-dīn(i).",
+            "idn": "Maka apa yang menyebabkan (mereka) mendustakanmu (tentang) hari pembalasan setelah (adanya keterangan-keterangan) itu?"
+        },
+        {
+            "id": 6106,
+            "surah": 95,
+            "nomor": 8,
+            "ar": "اَلَيْسَ اللّٰهُ بِاَحْكَمِ الْحٰكِمِيْنَ ࣖ",
+            "tr": "alaisallāhu bi'aḥkamil-ḥākimīn(a).",
+            "idn": "Bukankah Allah hakim yang paling adil?"
+        }
+    ],
+    "surat_selanjutnya": {
+        "id": 96,
+        "nomor": 96,
+        "nama": "العلق",
+        "nama_latin": "Al-'Alaq",
+        "jumlah_ayat": 19,
+        "tempat_turun": "mekah",
+        "arti": "Segumpal Darah",
+        "deskripsi": "Surat Al 'Alaq terdiri atas 19 ayat, termasuk golongan surat-surat Makkiyah. Ayat 1 sampai dengan 5 dari surat ini adalah ayat-ayat Al Quran yang pertama sekali diturunkan, yaitu di waktu Nabi Muhammad s.a.w. berkhalwat di gua Hira'. Surat ini dinamai <i>Al 'Alaq</i> (segumpal darah), diambil dari perkataan <i>Alaq</i> yang terdapat pada ayat 2 surat ini. Surat ini dinamai juga dengan <i>Iqra</i> atau <i>Al Qalam</i>.",
+        "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/096.mp3"
+    },
+    "surat_sebelumnya": {
+        "id": 94,
+        "nomor": 94,
+        "nama": "الشرح",
+        "nama_latin": "Asy-Syarh",
+        "jumlah_ayat": 8,
+        "tempat_turun": "mekah",
+        "arti": "Lapang",
+        "deskripsi": "Surat ini terdiri atas 8 ayat, termasuk golongan surat-surat Makkiyah dan diturunkan sesudah surat Adh Dhuhaa. Nama <i>Alam Nasyrah</i> diambil dari kata <i>Alam Nasyrah</i> yang terdapat pada ayat pertama, yang berarti: bukankah Kami telah melapangkan.",
+        "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/094.mp3"
+    }
+}

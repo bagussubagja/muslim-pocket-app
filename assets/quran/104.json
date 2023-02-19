@@ -1,0 +1,107 @@
+{
+    "nomor": 104,
+    "nama": "الهمزة",
+    "nama_latin": "Al-Humazah",
+    "jumlah_ayat": 9,
+    "tempat_turun": "mekah",
+    "arti": "Pengumpat",
+    "deskripsi": "Surat Al Humazah terdiri atas 9 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Al Qiyaamah. Dinamai <i>Al Humazah</i> (pengumpat) diambil dari perkataan <i>Humazah</i> yang terdapat pada ayat pertama surat ini.",
+    "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/104.mp3",
+    "status": true,
+    "ayat": [
+        {
+            "id": 6180,
+            "surah": 104,
+            "nomor": 1,
+            "ar": "وَيْلٌ لِّكُلِّ هُمَزَةٍ لُّمَزَةٍۙ",
+            "tr": "wailul likulli humazatil-lumazah(tin).",
+            "idn": "Celakalah bagi setiap pengumpat dan pencela,"
+        },
+        {
+            "id": 6181,
+            "surah": 104,
+            "nomor": 2,
+            "ar": " ۨالَّذِيْ جَمَعَ مَالًا وَّعَدَّدَهٗۙ",
+            "tr": "allażī jama‘a mālaw wa ‘addadah(ū).",
+            "idn": "yang mengumpulkan harta dan menghitung-hitungnya,"
+        },
+        {
+            "id": 6182,
+            "surah": 104,
+            "nomor": 3,
+            "ar": "يَحْسَبُ اَنَّ مَالَهٗٓ اَخْلَدَهٗۚ",
+            "tr": "yaḥsabu anna mālahū akhladah(ū).",
+            "idn": "dia (manusia) mengira bahwa hartanya itu dapat mengekalkannya."
+        },
+        {
+            "id": 6183,
+            "surah": 104,
+            "nomor": 4,
+            "ar": "كَلَّا لَيُنْۢبَذَنَّ فِى الْحُطَمَةِۖ",
+            "tr": "kallā layumbażanna fil-ḥuṭamah(ti).",
+            "idn": "Sekali-kali tidak! Pasti dia akan dilemparkan ke dalam (neraka) Hutamah."
+        },
+        {
+            "id": 6184,
+            "surah": 104,
+            "nomor": 5,
+            "ar": "وَمَآ اَدْرٰىكَ مَا الْحُطَمَةُ ۗ",
+            "tr": "wa mā adrāka mal-ḥuṭamah(tu).",
+            "idn": "Dan tahukah kamu apakah (neraka) Hutamah itu?"
+        },
+        {
+            "id": 6185,
+            "surah": 104,
+            "nomor": 6,
+            "ar": "نَارُ اللّٰهِ الْمُوْقَدَةُۙ",
+            "tr": "nārullāhil-mūqadah(tu).",
+            "idn": "(Yaitu) api  (azab) Allah yang dinyalakan,"
+        },
+        {
+            "id": 6186,
+            "surah": 104,
+            "nomor": 7,
+            "ar": "الَّتِيْ تَطَّلِعُ عَلَى الْاَفْـِٕدَةِۗ",
+            "tr": "allatī taṭṭali‘u ‘alal-af'idah(ti).",
+            "idn": "yang (membakar) sampai ke hati."
+        },
+        {
+            "id": 6187,
+            "surah": 104,
+            "nomor": 8,
+            "ar": "اِنَّهَا عَلَيْهِمْ مُّؤْصَدَةٌۙ",
+            "tr": "innahā ‘alaihim mu'ṣadah(tun).",
+            "idn": "Sungguh, api itu ditutup rapat atas (diri) mereka,"
+        },
+        {
+            "id": 6188,
+            "surah": 104,
+            "nomor": 9,
+            "ar": "فِيْ عَمَدٍ مُّمَدَّدَةٍ ࣖ",
+            "tr": "fī ‘amadim mumaddadah(tin).",
+            "idn": "(sedang mereka itu) diikat pada tiang-tiang yang panjang."
+        }
+    ],
+    "surat_selanjutnya": {
+        "id": 105,
+        "nomor": 105,
+        "nama": "الفيل",
+        "nama_latin": "Al-Fil",
+        "jumlah_ayat": 5,
+        "tempat_turun": "mekah",
+        "arti": "Gajah",
+        "deskripsi": "Surat ini terdiri atas 5 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Al Kaafirun. Nama <i>Al Fiil</i> diambil dari kata <i>Al Fiil</i> yang terdapat pada ayat pertama surat ini, artinya <i>gajah</i>. Surat Al Fiil mengemukakan cerita pasukan bergajah dari Yaman yang dipimpin oleh Abrahah yang ingin meruntuhkan Ka'bah di Mekah. Peristiwa ini terjadi pada tahun Nabi Muhammad s.a.w. dilahirkan.",
+        "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/105.mp3"
+    },
+    "surat_sebelumnya": {
+        "id": 103,
+        "nomor": 103,
+        "nama": "العصر",
+        "nama_latin": "Al-'Asr",
+        "jumlah_ayat": 3,
+        "tempat_turun": "mekah",
+        "arti": "Asar",
+        "deskripsi": "Surat Al 'Ashr terdiri atas 3 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Alam Nasyrah. Dinamai <i>Al 'Ashr</i> (masa) diambil dari perkataan <i>Al 'Ashr</i> yang terdapat pada ayat pertama surat ini.",
+        "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/103.mp3"
+    }
+}

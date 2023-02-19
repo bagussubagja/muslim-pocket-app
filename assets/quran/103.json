@@ -1,0 +1,59 @@
+{
+    "nomor": 103,
+    "nama": "العصر",
+    "nama_latin": "Al-'Asr",
+    "jumlah_ayat": 3,
+    "tempat_turun": "mekah",
+    "arti": "Asar",
+    "deskripsi": "Surat Al 'Ashr terdiri atas 3 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Alam Nasyrah. Dinamai <i>Al 'Ashr</i> (masa) diambil dari perkataan <i>Al 'Ashr</i> yang terdapat pada ayat pertama surat ini.",
+    "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/103.mp3",
+    "status": true,
+    "ayat": [
+        {
+            "id": 6177,
+            "surah": 103,
+            "nomor": 1,
+            "ar": "وَالْعَصْرِۙ",
+            "tr": "wal-‘aṣr(i).",
+            "idn": "Demi masa,"
+        },
+        {
+            "id": 6178,
+            "surah": 103,
+            "nomor": 2,
+            "ar": "اِنَّ الْاِنْسَانَ لَفِيْ خُسْرٍۙ",
+            "tr": "innal-insāna lafī khusr(in).",
+            "idn": "sungguh, manusia berada dalam kerugian,"
+        },
+        {
+            "id": 6179,
+            "surah": 103,
+            "nomor": 3,
+            "ar": "اِلَّا الَّذِيْنَ اٰمَنُوْا وَعَمِلُوا الصّٰلِحٰتِ وَتَوَاصَوْا بِالْحَقِّ ەۙ وَتَوَاصَوْا بِالصَّبْرِ ࣖ",
+            "tr": "illal-lażīna āmanū wa ‘amiluṣ-ṣāliḥāti wa tawāṣau bil-ḥaqq(i), wa tawāṣau biṣ-ṣabr(i).",
+            "idn": "kecuali orang-orang yang beriman dan mengerjakan kebajikan serta saling menasihati untuk kebenaran dan saling menasihati untuk kesabaran."
+        }
+    ],
+    "surat_selanjutnya": {
+        "id": 104,
+        "nomor": 104,
+        "nama": "الهمزة",
+        "nama_latin": "Al-Humazah",
+        "jumlah_ayat": 9,
+        "tempat_turun": "mekah",
+        "arti": "Pengumpat",
+        "deskripsi": "Surat Al Humazah terdiri atas 9 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Al Qiyaamah. Dinamai <i>Al Humazah</i> (pengumpat) diambil dari perkataan <i>Humazah</i> yang terdapat pada ayat pertama surat ini.",
+        "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/104.mp3"
+    },
+    "surat_sebelumnya": {
+        "id": 102,
+        "nomor": 102,
+        "nama": "التكاثر",
+        "nama_latin": "At-Takasur",
+        "jumlah_ayat": 8,
+        "tempat_turun": "mekah",
+        "arti": "Bermegah-Megahan",
+        "deskripsi": "Surat At Takaatsur terdiri atas 8 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Al Kautsar. Dinamai <i>At Takaatsur</i> (bermegah-megahan) diambil dari perkataan <i>At Takaatsur</i> yang terdapat pada ayat pertama surat ini.",
+        "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/102.mp3"
+    }
+}

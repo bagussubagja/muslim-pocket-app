@@ -1,0 +1,403 @@
+{
+    "nomor": 79,
+    "nama": "النّٰزعٰت",
+    "nama_latin": "An-Nazi'at",
+    "jumlah_ayat": 46,
+    "tempat_turun": "mekah",
+    "arti": "Malaikat Yang Mencabut",
+    "deskripsi": "Surat An NaaziÂ´aat terdiri atas 46 ayat, termasuk golongan surat-surat Makkiyah, diturunkan sesudah surat An NabaÂ´. Dinamai <i>An NaaziÂ´aat</i> diambil dari perkataan <i>An NaaziÂ´aat</i> yang terdapat pada ayat pertama surat ini. Dinamai pula <i>as Saahirah</i> yang diambil dari ayat 14, dinamai juga <i>Ath Thaammah</i> diambil dari ayat 34.",
+    "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/079.mp3",
+    "status": true,
+    "ayat": [
+        {
+            "id": 5713,
+            "surah": 79,
+            "nomor": 1,
+            "ar": "وَالنّٰزِعٰتِ غَرْقًاۙ",
+            "tr": "wan-nāzi‘āti garqā(n).",
+            "idn": "Demi (malaikat) yang mencabut (nyawa) dengan keras."
+        },
+        {
+            "id": 5714,
+            "surah": 79,
+            "nomor": 2,
+            "ar": "وَّالنّٰشِطٰتِ نَشْطًاۙ",
+            "tr": "wan-nāsyiṭāti nasyṭā(n).",
+            "idn": "Demi (malaikat) yang mencabut (nyawa) dengan lemah lembut."
+        },
+        {
+            "id": 5715,
+            "surah": 79,
+            "nomor": 3,
+            "ar": "وَّالسّٰبِحٰتِ سَبْحًاۙ",
+            "tr": "was-sābiḥāti sabḥā(n).",
+            "idn": "Demi (malaikat) yang turun dari langit dengan cepat,"
+        },
+        {
+            "id": 5716,
+            "surah": 79,
+            "nomor": 4,
+            "ar": "فَالسّٰبِقٰتِ سَبْقًاۙ",
+            "tr": "fas-sābiqāti sabqā(n).",
+            "idn": "dan (malaikat) yang mendahului dengan kencang,"
+        },
+        {
+            "id": 5717,
+            "surah": 79,
+            "nomor": 5,
+            "ar": "فَالْمُدَبِّرٰتِ اَمْرًاۘ",
+            "tr": "fal-mudabbirāti amrā(n).",
+            "idn": "dan (malaikat) yang mengatur urusan (dunia)."
+        },
+        {
+            "id": 5718,
+            "surah": 79,
+            "nomor": 6,
+            "ar": "يَوْمَ تَرْجُفُ الرَّاجِفَةُۙ",
+            "tr": "yauma tarjufur-rājifah(tu).",
+            "idn": "(Sungguh, kamu akan dibangkitkan) pada hari ketika tiupan pertama mengguncangkan alam,"
+        },
+        {
+            "id": 5719,
+            "surah": 79,
+            "nomor": 7,
+            "ar": "تَتْبَعُهَا الرَّادِفَةُ ۗ",
+            "tr": "tatba‘uhar-rādifah(tu).",
+            "idn": "(tiupan pertama) itu diiringi oleh tiupan kedua."
+        },
+        {
+            "id": 5720,
+            "surah": 79,
+            "nomor": 8,
+            "ar": "قُلُوْبٌ يَّوْمَىِٕذٍ وَّاجِفَةٌۙ",
+            "tr": "qulūbuy yauma'iżiw wājifah(tun).",
+            "idn": "Hati manusia pada waktu itu merasa sangat takut,"
+        },
+        {
+            "id": 5721,
+            "surah": 79,
+            "nomor": 9,
+            "ar": "اَبْصَارُهَا خَاشِعَةٌ  ۘ",
+            "tr": "abṣāruhā khāsyi‘ah(tun).",
+            "idn": "pandangannya tunduk."
+        },
+        {
+            "id": 5722,
+            "surah": 79,
+            "nomor": 10,
+            "ar": "يَقُوْلُوْنَ ءَاِنَّا لَمَرْدُوْدُوْنَ فِى الْحَافِرَةِۗ",
+            "tr": "yaqūlūna a'innā lamardūdūna fil-ḥāfirah(ti).",
+            "idn": "(Orang-orang kafir) berkata, “Apakah kita benar-benar akan dikembalikan kepada kehidupan yang semula?   "
+        },
+        {
+            "id": 5723,
+            "surah": 79,
+            "nomor": 11,
+            "ar": "ءَاِذَا كُنَّا عِظَامًا نَّخِرَةً ۗ",
+            "tr": "a'iżā kunnā ‘iẓāman nakhirah(tan).",
+            "idn": "Apakah (akan dibangkitkan juga) apabila kita telah menjadi tulang belulang yang hancur?”"
+        },
+        {
+            "id": 5724,
+            "surah": 79,
+            "nomor": 12,
+            "ar": "قَالُوْا تِلْكَ اِذًا كَرَّةٌ خَاسِرَةٌ  ۘ",
+            "tr": "qālū tilka iżan karratun khāsirah(tun).",
+            "idn": "Mereka berkata, “Kalau demikian, itu adalah suatu pengembalian yang merugikan.”"
+        },
+        {
+            "id": 5725,
+            "surah": 79,
+            "nomor": 13,
+            "ar": "فَاِنَّمَا هِيَ زَجْرَةٌ وَّاحِدَةٌۙ",
+            "tr": "fa innamā hiya zajratuw wāḥidah(tun).",
+            "idn": "Maka pengembalian itu hanyalah dengan sekali tiupan saja."
+        },
+        {
+            "id": 5726,
+            "surah": 79,
+            "nomor": 14,
+            "ar": "فَاِذَا هُمْ بِالسَّاهِرَةِۗ",
+            "tr": "fa iżā hum bis-sāhirah(ti).",
+            "idn": "Maka seketika itu mereka hidup kembali di bumi (yang baru)."
+        },
+        {
+            "id": 5727,
+            "surah": 79,
+            "nomor": 15,
+            "ar": "هَلْ اَتٰىكَ حَدِيْثُ مُوْسٰىۘ",
+            "tr": "hal atāka ḥadīṡu mūsā.",
+            "idn": "Sudahkah sampai kepadamu (Muhammad) kisah Musa?"
+        },
+        {
+            "id": 5728,
+            "surah": 79,
+            "nomor": 16,
+            "ar": "اِذْ نَادٰىهُ رَبُّهٗ بِالْوَادِ الْمُقَدَّسِ طُوًىۚ",
+            "tr": "iż nādāhu rabbuhū bil-wādil-muqaddasi ṭuwā(n).",
+            "idn": "Ketika Tuhan memanggilnya (Musa) di lembah suci yaitu Lembah Tuwa;"
+        },
+        {
+            "id": 5729,
+            "surah": 79,
+            "nomor": 17,
+            "ar": "اِذْهَبْ اِلٰى فِرْعَوْنَ اِنَّهٗ طَغٰىۖ",
+            "tr": "iżhab ilā fir‘auna innahū ṭagā.",
+            "idn": "pergilah engkau kepada Fir‘aun! Sesungguhnya dia telah melampaui batas,"
+        },
+        {
+            "id": 5730,
+            "surah": 79,
+            "nomor": 18,
+            "ar": "فَقُلْ هَلْ لَّكَ اِلٰٓى اَنْ تَزَكّٰىۙ",
+            "tr": "fa qul hal laka ilā an tazakkā.",
+            "idn": "Maka katakanlah (kepada Fir‘aun), “Adakah keinginanmu untuk membersihkan diri (dari kesesatan),"
+        },
+        {
+            "id": 5731,
+            "surah": 79,
+            "nomor": 19,
+            "ar": "وَاَهْدِيَكَ اِلٰى رَبِّكَ فَتَخْشٰىۚ",
+            "tr": "wa ahdiyaka ilā rabbika fa takhsyā.",
+            "idn": "dan engkau akan kupimpin ke jalan Tuhanmu agar engkau takut kepada-Nya?”"
+        },
+        {
+            "id": 5732,
+            "surah": 79,
+            "nomor": 20,
+            "ar": "فَاَرٰىهُ الْاٰيَةَ الْكُبْرٰىۖ",
+            "tr": "fa arāhul-āyatal-kubrā.",
+            "idn": "Lalu (Musa) memperlihatkan kepadanya mukjizat yang besar."
+        },
+        {
+            "id": 5733,
+            "surah": 79,
+            "nomor": 21,
+            "ar": "فَكَذَّبَ وَعَصٰىۖ",
+            "tr": "fa każżaba wa ‘aṣā.",
+            "idn": "Tetapi dia (Fir‘aun) mendustakan dan mendurhakai."
+        },
+        {
+            "id": 5734,
+            "surah": 79,
+            "nomor": 22,
+            "ar": "ثُمَّ اَدْبَرَ يَسْعٰىۖ",
+            "tr": "Ṡumma adbara yas‘ā.",
+            "idn": "Kemudian dia berpaling seraya berusaha menantang (Musa)."
+        },
+        {
+            "id": 5735,
+            "surah": 79,
+            "nomor": 23,
+            "ar": "فَحَشَرَ فَنَادٰىۖ",
+            "tr": "fa ḥasyara fanādā.",
+            "idn": "Kemudian dia mengumpulkan (pembesar-pembesarnya) lalu berseru (memanggil kaumnya)."
+        },
+        {
+            "id": 5736,
+            "surah": 79,
+            "nomor": 24,
+            "ar": "فَقَالَ اَنَا۠ رَبُّكُمُ الْاَعْلٰىۖ",
+            "tr": "fa qāla ana rabbukumul-a‘lā.",
+            "idn": "(Seraya) berkata, “Akulah tuhanmu yang paling tinggi.”"
+        },
+        {
+            "id": 5737,
+            "surah": 79,
+            "nomor": 25,
+            "ar": "فَاَخَذَهُ اللّٰهُ نَكَالَ الْاٰخِرَةِ وَالْاُوْلٰىۗ",
+            "tr": "fa akhażahullāhu nakālal-ākhirati wal-ūlā.",
+            "idn": "Maka Allah menghukumnya dengan azab di akhirat dan siksaan di dunia."
+        },
+        {
+            "id": 5738,
+            "surah": 79,
+            "nomor": 26,
+            "ar": "اِنَّ فِيْ ذٰلِكَ لَعِبْرَةً لِّمَنْ يَّخْشٰى ۗ ࣖ",
+            "tr": "inna fī żālika la‘ibratal limay yakhsyā.",
+            "idn": "Sungguh, pada yang demikian itu terdapat pelajaran bagi orang yang takut (kepada Allah)."
+        },
+        {
+            "id": 5739,
+            "surah": 79,
+            "nomor": 27,
+            "ar": "ءَاَنْتُمْ اَشَدُّ خَلْقًا اَمِ السَّمَاۤءُ ۚ بَنٰىهَاۗ",
+            "tr": "a'antum asyaddu khalqan amis-samā'u banāhā.",
+            "idn": "Apakah penciptaan kamu yang lebih hebat ataukah langit yang telah dibangun-Nya?"
+        },
+        {
+            "id": 5740,
+            "surah": 79,
+            "nomor": 28,
+            "ar": "رَفَعَ سَمْكَهَا فَسَوّٰىهَاۙ",
+            "tr": "rafa‘a samkahā fa sawwāhā.",
+            "idn": "Dia telah meninggikan bangunannya lalu menyempurnakannya,"
+        },
+        {
+            "id": 5741,
+            "surah": 79,
+            "nomor": 29,
+            "ar": "وَاَغْطَشَ لَيْلَهَا وَاَخْرَجَ ضُحٰىهَاۖ",
+            "tr": "wa agṭasya lailahā wa akhraja ḍuḥāhā.",
+            "idn": "dan Dia menjadikan malamnya (gelap gulita), dan menjadikan siangnya (terang benderang)."
+        },
+        {
+            "id": 5742,
+            "surah": 79,
+            "nomor": 30,
+            "ar": "وَالْاَرْضَ بَعْدَ ذٰلِكَ دَحٰىهَاۗ",
+            "tr": "wal-arḍa ba‘da żālika daḥāhā.",
+            "idn": "Dan setelah itu bumi Dia hamparkan. "
+        },
+        {
+            "id": 5743,
+            "surah": 79,
+            "nomor": 31,
+            "ar": "اَخْرَجَ مِنْهَا مَاۤءَهَا وَمَرْعٰىهَاۖ",
+            "tr": "akhraja minhā mā'ahā wa mar‘āhā.",
+            "idn": "Darinya Dia pancarkan mata air, dan (ditumbuhkan) tumbuh-tumbuhannya."
+        },
+        {
+            "id": 5744,
+            "surah": 79,
+            "nomor": 32,
+            "ar": "وَالْجِبَالَ اَرْسٰىهَاۙ",
+            "tr": "wal-jibāla arsāhā.",
+            "idn": "Dan gunung-gunung Dia pancangkan dengan teguh."
+        },
+        {
+            "id": 5745,
+            "surah": 79,
+            "nomor": 33,
+            "ar": "مَتَاعًا لَّكُمْ وَلِاَنْعَامِكُمْۗ",
+            "tr": "matā‘al lakum wa li'an‘āmikum.",
+            "idn": "(Semua itu) untuk kesenanganmu dan untuk hewan-hewan ternakmu."
+        },
+        {
+            "id": 5746,
+            "surah": 79,
+            "nomor": 34,
+            "ar": "فَاِذَا جَاۤءَتِ الطَّاۤمَّةُ الْكُبْرٰىۖ",
+            "tr": "fa iżā jā'atiṭ-ṭāmmatul-kubrā.",
+            "idn": "Maka apabila malapetaka besar (hari Kiamat) telah datang,"
+        },
+        {
+            "id": 5747,
+            "surah": 79,
+            "nomor": 35,
+            "ar": "يَوْمَ يَتَذَكَّرُ الْاِنْسَانُ مَا سَعٰىۙ",
+            "tr": "yauma yatażakkarul-insānu mā sa‘ā.",
+            "idn": "yaitu pada hari (ketika) manusia teringat akan apa yang telah dikerjakannya,"
+        },
+        {
+            "id": 5748,
+            "surah": 79,
+            "nomor": 36,
+            "ar": "وَبُرِّزَتِ الْجَحِيْمُ لِمَنْ يَّرٰى",
+            "tr": "wa burrizatil-jaḥīmu limay yarā.",
+            "idn": "dan neraka diperlihatkan dengan jelas kepada setiap orang yang melihat."
+        },
+        {
+            "id": 5749,
+            "surah": 79,
+            "nomor": 37,
+            "ar": "فَاَمَّا مَنْ طَغٰىۖ",
+            "tr": "fa ammā man ṭagā.",
+            "idn": "Maka adapun orang yang melampaui batas,"
+        },
+        {
+            "id": 5750,
+            "surah": 79,
+            "nomor": 38,
+            "ar": "وَاٰثَرَ الْحَيٰوةَ الدُّنْيَاۙ",
+            "tr": "wa āṡaral-ḥayātad-dun-yā.",
+            "idn": "dan lebih mengutamakan kehidupan dunia,"
+        },
+        {
+            "id": 5751,
+            "surah": 79,
+            "nomor": 39,
+            "ar": "فَاِنَّ الْجَحِيْمَ هِيَ الْمَأْوٰىۗ",
+            "tr": "fa innal-jaḥīma hiyal-ma'wā.",
+            "idn": "maka sungguh, nerakalah tempat tinggalnya."
+        },
+        {
+            "id": 5752,
+            "surah": 79,
+            "nomor": 40,
+            "ar": "وَاَمَّا مَنْ خَافَ مَقَامَ رَبِّهٖ وَنَهَى النَّفْسَ عَنِ الْهَوٰىۙ",
+            "tr": "wa ammā man khāfa maqāma rabbihī wa nahan-nafsa ‘anil-hawā.",
+            "idn": "Dan adapun orang-orang yang takut kepada kebesaran Tuhannya dan menahan diri dari (keinginan) hawa nafsunya,"
+        },
+        {
+            "id": 5753,
+            "surah": 79,
+            "nomor": 41,
+            "ar": "فَاِنَّ الْجَنَّةَ هِيَ الْمَأْوٰىۗ",
+            "tr": "fa innal-jannata hiyal-ma'wā.",
+            "idn": "maka sungguh, surgalah tempat tinggal(nya)."
+        },
+        {
+            "id": 5754,
+            "surah": 79,
+            "nomor": 42,
+            "ar": "يَسْـَٔلُوْنَكَ عَنِ السَّاعَةِ اَيَّانَ مُرْسٰىهَاۗ",
+            "tr": "yas'alūnaka ‘anis-sā‘ati ayyāna mursāhā.",
+            "idn": "Mereka (orang-orang kafir) bertanya kepadamu (Muhammad) tentang hari Kiamat, “Kapankah terjadinya?” "
+        },
+        {
+            "id": 5755,
+            "surah": 79,
+            "nomor": 43,
+            "ar": "فِيْمَ اَنْتَ مِنْ ذِكْرٰىهَاۗ",
+            "tr": "fīma anta min żikrāhā.",
+            "idn": "Untuk apa engkau perlu menyebutkannya (waktunya)?"
+        },
+        {
+            "id": 5756,
+            "surah": 79,
+            "nomor": 44,
+            "ar": "اِلٰى رَبِّكَ مُنْتَهٰىهَاۗ",
+            "tr": "ilā rabbika muntahāhā.",
+            "idn": "Kepada Tuhanmulah (dikembalikan) kesudahannya (ketentuan waktunya)."
+        },
+        {
+            "id": 5757,
+            "surah": 79,
+            "nomor": 45,
+            "ar": "اِنَّمَآ اَنْتَ مُنْذِرُ مَنْ يَّخْشٰىهَاۗ",
+            "tr": "innamā anta munżiru may yakhsyāhā.",
+            "idn": "Engkau (Muhammad) hanyalah pemberi peringatan bagi siapa yang takut kepadanya (hari Kiamat)."
+        },
+        {
+            "id": 5758,
+            "surah": 79,
+            "nomor": 46,
+            "ar": "كَاَنَّهُمْ يَوْمَ يَرَوْنَهَا لَمْ يَلْبَثُوْٓا اِلَّا عَشِيَّةً اَوْ ضُحٰىهَا ࣖ",
+            "tr": "ka'annahum yauma yaraunahā lam yalbaṡū illā ‘asyiyyatan au ḍuḥāhā.",
+            "idn": "Pada hari ketika mereka melihat hari Kiamat itu (karena suasananya hebat), mereka merasa seakan-akan hanya (sebentar saja) tinggal (di dunia) pada waktu sore atau pagi hari."
+        }
+    ],
+    "surat_selanjutnya": {
+        "id": 80,
+        "nomor": 80,
+        "nama": "عبس",
+        "nama_latin": "'Abasa",
+        "jumlah_ayat": 42,
+        "tempat_turun": "mekah",
+        "arti": "Bermuka Masam",
+        "deskripsi": "Surat 'Abasa terdiri atas 42 ayat, termasuk golongan surat-surat Makkiyah, diturunkan sesudah surat An Najm. Dinamai <i>'Abasa</i>  diambil dari perkataan <i>'Abasa</i> yang terdapat pada ayat pertama surat ini.<br> Menurut riwayat, pada suatu ketika Rasulullah s.a.w. menerima dan berbicara dengan pemuka-pemuka Quraisy yang beliau harapkan agar mereka masuk Islam. Dalam pada itu datanglah Ibnu Ummi Maktum, seorang sahabat yang buta yang mengharap agar Rasulullah s.a.w. membacakan kepadanya ayat- ayat Al Quran yang telah diturunkan Allah. tetapi Rasulullah s.a.w. bermuka masam dan memalingkan muka dari Ibnu Ummi Maktum yang buta itu, lalu Allah menurunkan surat ini sebagai teguran atas sikap Rasulullah terhadap ibnu Ummi Maktum itu.",
+        "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/080.mp3"
+    },
+    "surat_sebelumnya": {
+        "id": 78,
+        "nomor": 78,
+        "nama": "النبأ",
+        "nama_latin": "An-Naba'",
+        "jumlah_ayat": 40,
+        "tempat_turun": "mekah",
+        "arti": "Berita Besar",
+        "deskripsi": "Surat An NabaÂ´ terdiri atas 40 ayat, termasuk golongan surat-surat Makkiyah, diturunkan sesudah surat Al MaÂ´aarij. <br>Dinamai <i>An NabaÂ´</i> (berita besar) diambil dari perkataan <i>An NabaÂ´</i> yang terdapat pada ayat 2 surat ini. Dinamai juga <i>Amma yatasaa aluun</i> diambil dari perkataan <i>Amma yatasaa aluun</i> yang terdapat pada ayat 1 surat ini.",
+        "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/078.mp3"
+    }
+}

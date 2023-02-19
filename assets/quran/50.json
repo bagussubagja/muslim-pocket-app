@@ -1,0 +1,395 @@
+{
+    "nomor": 50,
+    "nama": "ق",
+    "nama_latin": "Qaf",
+    "jumlah_ayat": 45,
+    "tempat_turun": "mekah",
+    "arti": "Qaf",
+    "deskripsi": "Surat Qaaf terdiri atas 45 ayat, termasuk golongan surat-surat Makkiyah diturunkan sesudah surat Al Murssalaat. Dinamai <i>Qaaf</i> karena surat ini dimulai dengan huruf <i>Qaaf</i>. Menurut hadits yang diriwayatkan Imam Muslim, bahwa Rasulullah SAW senang membaca surat ini pada rakaat pertama sembahyang subuh dan pada shalat hari raya. Sedang menurut riwayat Abu Daud, Al Baihaqy dan Ibnu Majah bahwa Rasulullah SAW membaca surat ini pada tiap-tiap membaca Khutbah pada hari Jum'at. Kedua riwayat ini menunjukkan bahwa surat QAAF sering dibaca Nabi Muhammad SAW di tempat-tempat umum, untuk memperingatkan manusia tentang kejadian mereka dan nikmat-nikmat yang diberikan kepadanya, begitu pula tentang hari berbangkit, hari berhisab, syurga, neraka, pahala, dosa, dsb. Surat ini dinamai juga <i>Al Baasiqaat</i>, diambil dari perkataan <i>Al- Baasiqaat</i> yang terdapat pada ayat 10 surat ini.",
+    "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/050.mp3",
+    "status": true,
+    "ayat": [
+        {
+            "id": 4631,
+            "surah": 50,
+            "nomor": 1,
+            "ar": " قۤ  ۗوَالْقُرْاٰنِ الْمَجِيْدِ  ۖ ",
+            "tr": "qāf, wal-qur'ānil-majīd(i).",
+            "idn": "Qaf. Demi Al-Qur'an yang mulia. "
+        },
+        {
+            "id": 4632,
+            "surah": 50,
+            "nomor": 2,
+            "ar": "بَلْ عَجِبُوْٓا اَنْ جَاۤءَهُمْ مُّنْذِرٌ مِّنْهُمْ فَقَالَ الْكٰفِرُوْنَ هٰذَا شَيْءٌ عَجِيْبٌ ۚ",
+            "tr": "bal ‘ajibū an jā'ahum munżirum minhum faqālal-kāfirūna hāżā syai'un ‘ajīb(un).",
+            "idn": "(Mereka tidak menerimanya) bahkan mereka tercengang karena telah datang kepada mereka seorang pemberi peringatan dari (kalangan) mereka sendiri, maka berkatalah orang-orang kafir, “Ini adalah suatu yang sangat ajaib.” "
+        },
+        {
+            "id": 4633,
+            "surah": 50,
+            "nomor": 3,
+            "ar": "ءَاِذَا مِتْنَا وَكُنَّا تُرَابًا ۚ ذٰلِكَ رَجْعٌۢ بَعِيْدٌ ",
+            "tr": "a'iżā mitnā wa kunnā turābā(n), żālika raj‘um ba‘īd(un).",
+            "idn": "Apakah apabila kami telah mati dan sudah menjadi tanah (akan kembali lagi)? Itu adalah suatu pengembalian yang tidak mungkin. "
+        },
+        {
+            "id": 4634,
+            "surah": 50,
+            "nomor": 4,
+            "ar": "قَدْ عَلِمْنَا مَا تَنْقُصُ الْاَرْضُ مِنْهُمْ ۚوَعِنْدَنَا كِتٰبٌ حَفِيْظٌ ",
+            "tr": "qad ‘alimnā mā tanquṣul-arḍu minhum, wa ‘indanā kitābun ḥafīẓ(un).",
+            "idn": "Sungguh, Kami telah mengetahui apa yang ditelan bumi dari (tubuh) mereka, sebab pada Kami ada kitab (catatan) yang terpelihara baik. "
+        },
+        {
+            "id": 4635,
+            "surah": 50,
+            "nomor": 5,
+            "ar": "بَلْ كَذَّبُوْا بِالْحَقِّ لَمَّا جَاۤءَهُمْ فَهُمْ فِيْٓ اَمْرٍ مَّرِيْجٍ ",
+            "tr": "bal każżabū bil-ḥaqqi lammā jā'ahum fahum fī amrim marīj(in).",
+            "idn": "Bahkan mereka telah mendustakan kebenaran ketika (kebenaran itu) datang kepada mereka, maka mereka berada dalam keadaan kacau balau. "
+        },
+        {
+            "id": 4636,
+            "surah": 50,
+            "nomor": 6,
+            "ar": "اَفَلَمْ يَنْظُرُوْٓا اِلَى السَّمَاۤءِ فَوْقَهُمْ كَيْفَ بَنَيْنٰهَا وَزَيَّنّٰهَا وَمَا لَهَا مِنْ فُرُوْجٍ ",
+            "tr": "afalam yanẓurū ilas-samā'i fauqahum kaifa banaināhā wa zayyanāhā wa mā lahā min furūj(in).",
+            "idn": "Maka tidakkah mereka memperhatikan langit yang ada di atas mereka, bagaimana cara Kami membangunnya dan menghiasinya dan tidak terdapat retak-retak sedikit pun? "
+        },
+        {
+            "id": 4637,
+            "surah": 50,
+            "nomor": 7,
+            "ar": "وَالْاَرْضَ مَدَدْنٰهَا وَاَلْقَيْنَا فِيْهَا رَوَاسِيَ وَاَنْۢبَتْنَا فِيْهَا مِنْ كُلِّ زَوْجٍۢ بَهِيْجٍۙ ",
+            "tr": "wal-arḍa madadnāhā wa alqainā fīhā rawāsiya wa ambatnā fīhā min kulli zaujim bahīj(in).",
+            "idn": "Dan bumi yang Kami hamparkan dan Kami pancangkan di atasnya gunung-gunung yang kokoh dan Kami tumbuhkan di atasnya tanam-tanaman yang indah, "
+        },
+        {
+            "id": 4638,
+            "surah": 50,
+            "nomor": 8,
+            "ar": "تَبْصِرَةً وَّذِكْرٰى لِكُلِّ عَبْدٍ مُّنِيْبٍ ",
+            "tr": "tabṣirataw wa żikrā likulli ‘abdim munīb(in).",
+            "idn": "untuk menjadi pelajaran dan peringatan bagi setiap hamba yang kembali (tunduk kepada Allah). "
+        },
+        {
+            "id": 4639,
+            "surah": 50,
+            "nomor": 9,
+            "ar": "وَنَزَّلْنَا مِنَ السَّمَاۤءِ مَاۤءً مُّبٰرَكًا فَاَنْۢبَتْنَا بِهٖ جَنّٰتٍ وَّحَبَّ الْحَصِيْدِۙ",
+            "tr": "wa nazzalnā minas-samā'i mā'am mubārakan fa'ambatnā bihī jannātiw wa ḥabbal-ḥaṣīd(i).",
+            "idn": "Dan dari langit Kami turunkan air yang memberi berkah lalu Kami tumbuhkan dengan (air) itu pepohonan yang rindang dan biji-bijian yang dapat dipanen. "
+        },
+        {
+            "id": 4640,
+            "surah": 50,
+            "nomor": 10,
+            "ar": "وَالنَّخْلَ بٰسِقٰتٍ لَّهَا طَلْعٌ نَّضِيْدٌۙ",
+            "tr": "wan-nakhla bāsiqātil lahā ṭal‘un naḍīd(un).",
+            "idn": "Dan pohon kurma yang tinggi-tinggi yang mempunyai mayang yang bersusun-susun, "
+        },
+        {
+            "id": 4641,
+            "surah": 50,
+            "nomor": 11,
+            "ar": "رِّزْقًا لِّلْعِبَادِۙ وَاَحْيَيْنَا بِهٖ بَلْدَةً مَّيْتًاۗ  كَذٰلِكَ الْخُرُوْجُ  ",
+            "tr": "rizqal lil-‘ibād(i), wa aḥyainā bihī baldatam maitā(n), każālikal-khurūj(u).",
+            "idn": "(sebagai) rezeki bagi hamba-hamba (Kami), dan Kami hidupkan dengan (air) itu negeri yang mati (tandus). Seperti itulah terjadinya kebangkitan (dari kubur). "
+        },
+        {
+            "id": 4642,
+            "surah": 50,
+            "nomor": 12,
+            "ar": "كَذَّبَتْ قَبْلَهُمْ قَوْمُ نُوْحٍ وَّاَصْحٰبُ الرَّسِّ وَثَمُوْدُ ",
+            "tr": "każżabat qablahum qaumu nūḥiw wa aṣḥābur-rassi wa ṡamūd(u).",
+            "idn": "Sebelum mereka, kaum Nuh, penduduk Rass dan Samud telah mendustakan (rasul-rasul), "
+        },
+        {
+            "id": 4643,
+            "surah": 50,
+            "nomor": 13,
+            "ar": "وَعَادٌ وَّفِرْعَوْنُ وَاِخْوَانُ لُوْطٍۙ",
+            "tr": "wa ‘āduw wa fir‘aunu wa ikhwānu lūṭ(in).",
+            "idn": "dan (demikian juga) kaum  ‘Ad, kaum Fir‘aun dan kaum Lut, "
+        },
+        {
+            "id": 4644,
+            "surah": 50,
+            "nomor": 14,
+            "ar": "وَّاَصْحٰبُ الْاَيْكَةِ وَقَوْمُ تُبَّعٍۗ كُلٌّ كَذَّبَ الرُّسُلَ فَحَقَّ وَعِيْدِ",
+            "tr": "wa aṣḥābul-aikati wa qaumu tubba‘(in), kullun każżabar-rusula faḥaqqa wa‘īd(i).",
+            "idn": "dan (juga) penduduk Aikah serta kaum Tubba‘. Semuanya telah mendustakan rasul-rasul maka berlakulah ancaman-Ku (atas mereka). "
+        },
+        {
+            "id": 4645,
+            "surah": 50,
+            "nomor": 15,
+            "ar": "اَفَعَيِيْنَا بِالْخَلْقِ الْاَوَّلِۗ بَلْ هُمْ فِيْ لَبْسٍ مِّنْ خَلْقٍ جَدِيْدٍ ࣖ",
+            "tr": "afa ‘ayīna bil-khalqil-awwal(i), bal hum fī labsim min khalqin jadīd(in).",
+            "idn": "Maka apakah Kami letih dengan penciptaan yang pertama? (Sama sekali tidak) bahkan mereka dalam keadaan ragu-ragu tentang penciptaan yang baru. "
+        },
+        {
+            "id": 4646,
+            "surah": 50,
+            "nomor": 16,
+            "ar": "وَلَقَدْ خَلَقْنَا الْاِنْسَانَ وَنَعْلَمُ مَا تُوَسْوِسُ بِهٖ نَفْسُهٗ ۖوَنَحْنُ اَقْرَبُ اِلَيْهِ مِنْ حَبْلِ الْوَرِيْدِ ",
+            "tr": "wa laqad khalaqnal-insāna wa na‘lamu mā tuwaswisu bihī nafsuh(ū), wa naḥnu aqrabu ilaihi min ḥablil-warīd(i).",
+            "idn": "Dan sungguh, Kami telah menciptakan manusia dan mengetahui apa yang dibisikkan oleh hatinya, dan Kami lebih dekat kepadanya daripada urat lehernya. "
+        },
+        {
+            "id": 4647,
+            "surah": 50,
+            "nomor": 17,
+            "ar": "اِذْ يَتَلَقَّى الْمُتَلَقِّيٰنِ عَنِ الْيَمِيْنِ وَعَنِ الشِّمَالِ قَعِيْدٌ ",
+            "tr": "iż yatalaqqal-mutalaqqiyāni ‘anil-yamīni wa ‘anisy-syimāli qa‘īd(un).",
+            "idn": "(Ingatlah) ketika dua malaikat mencatat (perbuatannya), yang satu duduk di sebelah kanan dan yang lain di sebelah kiri. "
+        },
+        {
+            "id": 4648,
+            "surah": 50,
+            "nomor": 18,
+            "ar": "مَا يَلْفِظُ مِنْ قَوْلٍ اِلَّا لَدَيْهِ رَقِيْبٌ عَتِيْدٌ ",
+            "tr": "mā yalfiẓu min qaulin illā ladaihi raqībun ‘atīd(un).",
+            "idn": "Tidak ada suatu kata yang diucapkannya melainkan ada di sisinya malaikat pengawas yang selalu siap (mencatat). "
+        },
+        {
+            "id": 4649,
+            "surah": 50,
+            "nomor": 19,
+            "ar": "وَجَاۤءَتْ سَكْرَةُ الْمَوْتِ بِالْحَقِّ ۗذٰلِكَ مَا كُنْتَ مِنْهُ تَحِيْدُ",
+            "tr": "wa jā'at sakratul-mauti bil-ḥaqq(i), żālika mā kunta minhu taḥīd(u).",
+            "idn": "Dan datanglah sakaratul maut dengan sebenar-benarnya. Itulah yang dahulu hendak kamu hindari. "
+        },
+        {
+            "id": 4650,
+            "surah": 50,
+            "nomor": 20,
+            "ar": "وَنُفِخَ فِى الصُّوْرِۗ ذٰلِكَ يَوْمُ الْوَعِيْدِ ",
+            "tr": "wa nufikha fiṣ-ṣūr(i), żālika yaumul-wa‘īd(i).",
+            "idn": "Dan ditiuplah sangkakala. Itulah hari yang diancamkan. "
+        },
+        {
+            "id": 4651,
+            "surah": 50,
+            "nomor": 21,
+            "ar": "وَجَاۤءَتْ كُلُّ نَفْسٍ مَّعَهَا سَاۤىِٕقٌ وَّشَهِيْدٌ ",
+            "tr": "wa jā'at kullu nafsim ma‘ahā sā'iquw wa syahīd(un).",
+            "idn": "Setiap orang akan datang bersama (malaikat) penggiring dan (malaikat) saksi. "
+        },
+        {
+            "id": 4652,
+            "surah": 50,
+            "nomor": 22,
+            "ar": "لَقَدْ كُنْتَ فِيْ غَفْلَةٍ مِّنْ هٰذَا فَكَشَفْنَا عَنْكَ غِطَاۤءَكَ فَبَصَرُكَ الْيَوْمَ حَدِيْدٌ ",
+            "tr": "laqad kunta fī gaflatim min hāżā fakasyafnā ‘anka giṭā'aka fabaṣarukal-yauma ḥadīd(un).",
+            "idn": "Sungguh, kamu dahulu lalai tentang (peristiwa) ini, maka Kami singkapkan tutup (yang menutupi) matamu, sehingga penglihatanmu pada hari ini sangat tajam. "
+        },
+        {
+            "id": 4653,
+            "surah": 50,
+            "nomor": 23,
+            "ar": "وَقَالَ قَرِيْنُهٗ هٰذَا مَا لَدَيَّ عَتِيْدٌۗ",
+            "tr": "wa qāla qarīnuhū hāżā mā ladayya ‘atīd(un).",
+            "idn": "Dan (malaikat) yang menyertainya berkata, “Inilah (catatan perbuatan) yang ada padaku.” "
+        },
+        {
+            "id": 4654,
+            "surah": 50,
+            "nomor": 24,
+            "ar": "اَلْقِيَا فِيْ جَهَنَّمَ كُلَّ كَفَّارٍ عَنِيْدٍ ",
+            "tr": "alqiyā fī jahannama kulla kaffārin ‘anīd(in).",
+            "idn": "(Allah berfirman), “Lemparkanlah olehmu berdua ke dalam neraka Jahanam semua orang yang sangat ingkar dan keras kepala, "
+        },
+        {
+            "id": 4655,
+            "surah": 50,
+            "nomor": 25,
+            "ar": "مَنَّاعٍ لِّلْخَيْرِ مُعْتَدٍ مُّرِيْبٍۙ",
+            "tr": "mannā‘il lil-khairi mu‘tadim murīb(in).",
+            "idn": "yang sangat enggan melakukan kebajikan, melampaui batas dan bersikap ragu-ragu, "
+        },
+        {
+            "id": 4656,
+            "surah": 50,
+            "nomor": 26,
+            "ar": " ۨالَّذِيْ جَعَلَ مَعَ اللّٰهِ اِلٰهًا اٰخَرَ فَاَلْقِيٰهُ فِى الْعَذَابِ الشَّدِيْدِ ",
+            "tr": "allażī ja‘ala ma‘allāhi ilāhan ākhara fa'alqiyāhu fil-‘ażābisy-syadīd(i).",
+            "idn": "yang mempersekutukan Allah dengan tuhan lain, maka lemparkanlah dia ke dalam azab yang keras.” "
+        },
+        {
+            "id": 4657,
+            "surah": 50,
+            "nomor": 27,
+            "ar": "۞ قَالَ قَرِيْنُهٗ رَبَّنَا مَآ اَطْغَيْتُهٗ وَلٰكِنْ كَانَ فِيْ ضَلٰلٍۢ بَعِيْدٍ ",
+            "tr": "qāla qarīnuhū rabbanā mā aṭgaituhū wa lākin kāna fī ḍalālim ba‘īd(in).",
+            "idn": "(Setan) yang menyertainya berkata (pula), “Ya Tuhan kami, aku tidak menyesatkannya tetapi dia sendiri yang berada dalam kesesatan yang jauh.” "
+        },
+        {
+            "id": 4658,
+            "surah": 50,
+            "nomor": 28,
+            "ar": "قَالَ لَا تَخْتَصِمُوْا لَدَيَّ وَقَدْ قَدَّمْتُ اِلَيْكُمْ بِالْوَعِيْدِ ",
+            "tr": "qāla lā takhtaṣimū ladayya wa qad qaddamtu ilaikum bil-wa‘īd(i).",
+            "idn": "(Allah) berfirman, “Janganlah kamu bertengkar di hadapan-Ku, dan sungguh, dahulu Aku telah memberikan ancaman kepadamu. "
+        },
+        {
+            "id": 4659,
+            "surah": 50,
+            "nomor": 29,
+            "ar": "مَا يُبَدَّلُ الْقَوْلُ لَدَيَّ وَمَآ اَنَا۠ بِظَلَّامٍ لِّلْعَبِيْدِ ࣖ ",
+            "tr": "mā yubaddalul-qaulu ladayya wa mā ana biẓallāmil lil-‘abīd(i).",
+            "idn": "Keputusan-Ku tidak dapat diubah dan Aku tidak menzalimi hamba-hamba-Ku.” "
+        },
+        {
+            "id": 4660,
+            "surah": 50,
+            "nomor": 30,
+            "ar": "يَوْمَ نَقُوْلُ لِجَهَنَّمَ هَلِ امْتَلَـْٔتِ وَتَقُوْلُ هَلْ مِنْ مَّزِيْدٍ ",
+            "tr": "yauma naqūlu lijahannama halimtala'ti wa taqūlu hal mim mazīd(in).",
+            "idn": "(Ingatlah) pada hari (ketika) Kami bertanya kepada Jahanam, “Apakah kamu sudah penuh?”  Ia menjawab, “Masih adakah tambahan?” "
+        },
+        {
+            "id": 4661,
+            "surah": 50,
+            "nomor": 31,
+            "ar": "وَاُزْلِفَتِ الْجَنَّةُ لِلْمُتَّقِيْنَ غَيْرَ بَعِيْدٍ ",
+            "tr": "wa uzlifatil-jannatu lil-muttaqīna gaira ba‘īd(in).",
+            "idn": "Sedangkan surga didekatkan kepada orang-orang yang bertakwa pada tempat yang tidak jauh (dari mereka). "
+        },
+        {
+            "id": 4662,
+            "surah": 50,
+            "nomor": 32,
+            "ar": "هٰذَا مَا تُوْعَدُوْنَ لِكُلِّ اَوَّابٍ حَفِيْظٍۚ",
+            "tr": "hāżā mā tū‘adūna likulli awwābin ḥafīẓ(in).",
+            "idn": "(Kepada mereka dikatakan), “Inilah nikmat yang dijanjikan kepadamu, (yaitu) kepada setiap hamba yang senantiasa bertobat (kepada Allah) dan memelihara (semua peraturan-peraturan-Nya). "
+        },
+        {
+            "id": 4663,
+            "surah": 50,
+            "nomor": 33,
+            "ar": "مَنْ خَشِيَ الرَّحْمٰنَ بِالْغَيْبِ وَجَاۤءَ بِقَلْبٍ مُّنِيْبٍۙ",
+            "tr": "man khasyiyar-raḥmāna bil-gaibi wa jā'a biqalbim munīb(in).",
+            "idn": "(Yaitu) orang yang takut kepada Allah Yang Maha Pengasih sekalipun tidak kelihatan (olehnya) dan dia datang dengan hati yang bertobat, "
+        },
+        {
+            "id": 4664,
+            "surah": 50,
+            "nomor": 34,
+            "ar": " ۨادْخُلُوْهَا بِسَلٰمٍ ۗذٰلِكَ يَوْمُ الْخُلُوْدِ ",
+            "tr": "udkhulūhā bisalām(in), żālika yaumul-khulūd(i).",
+            "idn": "masuklah ke (dalam surga) dengan aman dan damai. Itulah hari yang abadi.” "
+        },
+        {
+            "id": 4665,
+            "surah": 50,
+            "nomor": 35,
+            "ar": "لَهُمْ مَّا يَشَاۤءُوْنَ فِيْهَا وَلَدَيْنَا مَزِيْدٌ ",
+            "tr": "lahum mā yasyā'ūna fīhā wa ladainā mazīd(un).",
+            "idn": "Mereka di dalamnya memperoleh apa yang mereka kehendaki, dan pada Kami ada tambahannya. "
+        },
+        {
+            "id": 4666,
+            "surah": 50,
+            "nomor": 36,
+            "ar": "وَكَمْ اَهْلَكْنَا قَبْلَهُمْ مِّنْ قَرْنٍ هُمْ اَشَدُّ مِنْهُمْ بَطْشًا فَنَقَّبُوْا فِى الْبِلَادِۗ هَلْ مِنْ مَّحِيْصٍ ",
+            "tr": "wa kam ahlaknā qablahum min qarnin hum asyaddu minhum baṭsyan fanaqqabū fil-bilād(i), hal mim maḥīṣ(in).",
+            "idn": "Dan betapa banyak umat yang telah Kami binasakan sebelum mereka, (padahal) mereka lebih hebat kekuatannya daripada mereka (umat yang belakangan) ini. Mereka pernah menjelajah di beberapa negeri. Adakah tempat pelarian (dari kebinasaan bagi mereka)? "
+        },
+        {
+            "id": 4667,
+            "surah": 50,
+            "nomor": 37,
+            "ar": "اِنَّ فِيْ ذٰلِكَ لَذِكْرٰى لِمَنْ كَانَ لَهٗ قَلْبٌ اَوْ اَلْقَى السَّمْعَ وَهُوَ شَهِيْدٌ ",
+            "tr": "inna fī żālika lażikrā liman kāna lahū qalbun au alqas-sam‘a wa huwa syahīd(un).",
+            "idn": "Sungguh, pada yang demikian itu pasti terdapat peringatan bagi orang-orang yang mempunyai hati atau yang menggunakan pendengarannya, sedang dia menyaksikannya. "
+        },
+        {
+            "id": 4668,
+            "surah": 50,
+            "nomor": 38,
+            "ar": "وَلَقَدْ خَلَقْنَا السَّمٰوٰتِ وَالْاَرْضَ وَمَا بَيْنَهُمَا فِيْ سِتَّةِ اَيَّامٍۖ وَّمَا مَسَّنَا مِنْ لُّغُوْبٍ ",
+            "tr": "wa laqad khalaqnas-samāwāti wal-arḍa wa mā bainahumā fī sittati ayyām(in), wa mā massanā mil lugūb(in).",
+            "idn": "Dan sungguh, Kami telah menciptakan langit dan bumi dan apa yang ada antara keduanya dalam enam masa, dan Kami tidak merasa letih sedikit pun. "
+        },
+        {
+            "id": 4669,
+            "surah": 50,
+            "nomor": 39,
+            "ar": "فَاصْبِرْ عَلٰى مَا يَقُوْلُوْنَ وَسَبِّحْ بِحَمْدِ رَبِّكَ قَبْلَ طُلُوْعِ الشَّمْسِ وَقَبْلَ الْغُرُوْبِ ۚ",
+            "tr": "faṣbir ‘alā mā yaqūlūna wa sabbiḥ biḥamdi rabbika qabla ṭulū‘isy-syamsi wa qablal-gurūb(i).",
+            "idn": "Maka bersabarlah engkau (Muhammad) terhadap apa yang mereka katakan dan bertasbihlah dengan memuji Tuhanmu sebelum matahari terbit dan sebelum terbenam. "
+        },
+        {
+            "id": 4670,
+            "surah": 50,
+            "nomor": 40,
+            "ar": "وَمِنَ الَّيْلِ فَسَبِّحْهُ وَاَدْبَارَ السُّجُوْدِ ",
+            "tr": "wa minal-laili fasabbiḥhu wa adbāras-sujūd(i).",
+            "idn": "Dan bertasbihlah kepada-Nya pada malam hari dan setiap selesai salat. "
+        },
+        {
+            "id": 4671,
+            "surah": 50,
+            "nomor": 41,
+            "ar": "وَاسْتَمِعْ يَوْمَ يُنَادِ الْمُنَادِ مِنْ مَّكَانٍ قَرِيْبٍ ",
+            "tr": "wastami‘ yauma yunādil-munādi mim makānin qarīb(in).",
+            "idn": "Dan dengarkanlah (seruan) pada hari (ketika) penyeru (malaikat) menyeru dari tempat yang dekat. "
+        },
+        {
+            "id": 4672,
+            "surah": 50,
+            "nomor": 42,
+            "ar": "يَوْمَ يَسْمَعُوْنَ الصَّيْحَةَ بِالْحَقِّ ۗذٰلِكَ يَوْمُ الْخُرُوْجِ ",
+            "tr": "yauma yasma‘ūnaṣ-ṣaiḥata bil-ḥaqq(i), żālika yaumul-khurūj(i).",
+            "idn": "(Yaitu) pada hari (ketika) mereka men-dengar suara dahsyat dengan sebenarnya. Itulah hari keluar (dari kubur). "
+        },
+        {
+            "id": 4673,
+            "surah": 50,
+            "nomor": 43,
+            "ar": "اِنَّا نَحْنُ نُحْيٖ وَنُمِيْتُ وَاِلَيْنَا الْمَصِيْرُۙ",
+            "tr": "innā naḥnu nuḥyī wa numītu wa ilainal-maṣīr(u).",
+            "idn": "Sungguh, Kami yang menghidupkan dan mematikan dan kepada Kami tempat kembali (semua makhluk). "
+        },
+        {
+            "id": 4674,
+            "surah": 50,
+            "nomor": 44,
+            "ar": "يَوْمَ تَشَقَّقُ الْاَرْضُ عَنْهُمْ سِرَاعًا ۗذٰلِكَ حَشْرٌ عَلَيْنَا يَسِيْرٌ ",
+            "tr": "yauma tasyaqqaqul-arḍu ‘anhum sirā‘ā(n), żālika ḥasyrun ‘alainā yasīr(un).",
+            "idn": "(Yaitu) pada hari (ketika) bumi terbelah, mereka keluar dengan cepat. Yang demikian itu adalah pengumpulan yang mudah bagi Kami. "
+        },
+        {
+            "id": 4675,
+            "surah": 50,
+            "nomor": 45,
+            "ar": "نَحْنُ اَعْلَمُ بِمَا يَقُوْلُوْنَ وَمَآ اَنْتَ عَلَيْهِمْ بِجَبَّارٍۗ فَذَكِّرْ بِالْقُرْاٰنِ مَنْ يَّخَافُ وَعِيْدِ ࣖ ",
+            "tr": "naḥnu a‘lamu bimā yaqūlūna wa mā anta ‘alaihim bijabbār(in), fażakkir bil-qur'āni may yakhāfu wa‘īd(i).",
+            "idn": "Kami lebih mengetahui tentang apa yang mereka katakan, dan engkau (Muhammad) bukanlah seorang pemaksa terhadap mereka. Maka berilah peringatan dengan Al-Qur'an kepada siapa pun yang takut kepada ancaman-Ku. "
+        }
+    ],
+    "surat_selanjutnya": {
+        "id": 51,
+        "nomor": 51,
+        "nama": "الذّٰريٰت",
+        "nama_latin": "Az-Zariyat",
+        "jumlah_ayat": 60,
+        "tempat_turun": "mekah",
+        "arti": "Angin yang Menerbangkan",
+        "deskripsi": "Surat Adz Dzaariyaat terdiri atas 60 ayat, termasuk golongan surat-surat Makkiyah, diturunkan sesudah surat Al Ahqaaf. Dinamai <i>Adz Dzaariyaat</i> (angin yang menerbangkan), diambil dari perkataan <i>Adz Dzaariyaat</i> yang terdapat pada ayat pertama surat ini. Allah bersumpah dengan angin, mega, bahtera, dan malaikat yang menjadi sumber kesejahteraan dan pembawa kemakmuran. Hal ini meng- isyaratkan inayat Allah kepada hamba-hamba-Nya.",
+        "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/051.mp3"
+    },
+    "surat_sebelumnya": {
+        "id": 49,
+        "nomor": 49,
+        "nama": "الحجرٰت",
+        "nama_latin": "Al-Hujurat",
+        "jumlah_ayat": 18,
+        "tempat_turun": "madinah",
+        "arti": "Kamar-Kamar",
+        "deskripsi": "Surat Al Hujuraat terdiri atas 18 ayat, termasuk golongan surat-surat Madaniyyah, diturunkan sesudah surat Al Mujaadalah. Dinamai <i>Al Hujuraat</i> diambil dari perkataan <i>Al Hujuraat</i> yang terdapat pada ayat 4 surat ini. Ayat tersebut mencela para sahabat yang memanggil Nabi Muhammad SAW yang sedang berada di dalam kamar rumahnya bersama isterinya. Memanggil Nabi Muhammad SAW dengan cara dan dalam keadaan yang demikian menunjukkan sifat kurang hormat kepada beliau dan mengganggu ketenteraman beliau.",
+        "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/049.mp3"
+    }
+}

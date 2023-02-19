@@ -1,0 +1,147 @@
+{
+    "nomor": 61,
+    "nama": "الصّفّ",
+    "nama_latin": "As-Saff",
+    "jumlah_ayat": 14,
+    "tempat_turun": "madinah",
+    "arti": "Barisan",
+    "deskripsi": "Surat Ash Shaff terdiri atas 14 ayat termasuk golongan surat-surat Madaniyyah. Dinamai dengan <i>Ash Shaff</i>, karena pada ayat 4 surat ini terdapat kata <i>Shaffan</i> yang berarti <i>satu barisan</i>. Ayat ini menerangkan apa yang diridhai Allah sesudah menerangkan apa yang dimurkai-Nya. Pada ayat 3 diterangkan bahwa Allah murka kepada orang yang hanya pandai berkata saja tetapi tidak melaksanakan apa yang diucapkannya. Dan pada ayat 4 diterangkan bahwa Allah menyukai orang yang mempraktekkan apa yang diucapkannya yaitu orang-orang yang berperang pada jalan Allah dalam satu barisan.",
+    "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/061.mp3",
+    "status": true,
+    "ayat": [
+        {
+            "id": 5164,
+            "surah": 61,
+            "nomor": 1,
+            "ar": "سَبَّحَ لِلّٰهِ مَا فِى السَّمٰوٰتِ وَمَا فِى الْاَرْضِۚ وَهُوَ الْعَزِيْزُ الْحَكِيْمُ ",
+            "tr": "sabbaḥa lillāhi mā fis-samāwāti wa mā fil-arḍ(i), wa huwal-‘azīzul-ḥakīm(u).",
+            "idn": "Apa yang ada di langit dan apa yang ada di bumi bertasbih kepada Allah; dan Dialah Yang Mahaperkasa, Mahabijaksana."
+        },
+        {
+            "id": 5165,
+            "surah": 61,
+            "nomor": 2,
+            "ar": "يٰٓاَيُّهَا الَّذِيْنَ اٰمَنُوْا لِمَ تَقُوْلُوْنَ مَا لَا تَفْعَلُوْنَ ",
+            "tr": "yā ayyuhal-lażīna āmanū lima taqūlūna mā lā taf‘alūn(a).",
+            "idn": "Wahai orang-orang yang beriman! Mengapa kamu mengatakan sesuatu yang tidak kamu kerjakan?"
+        },
+        {
+            "id": 5166,
+            "surah": 61,
+            "nomor": 3,
+            "ar": "كَبُرَ مَقْتًا عِنْدَ اللّٰهِ اَنْ تَقُوْلُوْا مَا لَا تَفْعَلُوْنَ ",
+            "tr": "kabura maqtan ‘indallāhi an taqūlū mā lā taf‘alūn(a).",
+            "idn": "(Itu) sangatlah dibenci di sisi Allah jika kamu mengatakan apa-apa yang tidak kamu kerjakan."
+        },
+        {
+            "id": 5167,
+            "surah": 61,
+            "nomor": 4,
+            "ar": "اِنَّ اللّٰهَ يُحِبُّ الَّذِيْنَ يُقَاتِلُوْنَ فِيْ سَبِيْلِهٖ صَفًّا كَاَنَّهُمْ بُنْيَانٌ مَّرْصُوْصٌ",
+            "tr": "innallāha yuḥibbul-lażīna yuqātilūna fī sabīlihī ṣaffan ka'annahum bun-yānum marṣūṣ(un).",
+            "idn": "Sesungguhnya Allah mencintai orang-orang yang berperang di jalan-Nya dalam barisan yang teratur, mereka seakan-akan seperti suatu bangunan yang tersusun kokoh."
+        },
+        {
+            "id": 5168,
+            "surah": 61,
+            "nomor": 5,
+            "ar": "وَاِذْ قَالَ مُوْسٰى لِقَوْمِهٖ يٰقَوْمِ لِمَ تُؤْذُوْنَنِيْ وَقَدْ تَّعْلَمُوْنَ اَنِّيْ رَسُوْلُ اللّٰهِ اِلَيْكُمْۗ فَلَمَّا زَاغُوْٓا اَزَاغَ اللّٰهُ قُلُوْبَهُمْۗ وَاللّٰهُ لَا يَهْدِى الْقَوْمَ الْفٰسِقِيْنَ ",
+            "tr": "wa iż qāla mūsā liqaumihī yā qaumi lima tu'żūnanī wa qad ta‘lamūna annī rasūlullāhi ilaikum, falammā zāgū azāgallāhu qulūbahum, wallāhu lā yahdil-qaumal-fāsiqīn(a).",
+            "idn": "Dan (ingatlah) ketika Musa berkata kepada kaumnya, “Wahai kaumku! Mengapa kamu menyakitiku, padahal kamu sungguh mengetahui bahwa sesungguhnya aku utusan Allah kepadamu?” Maka ketika mereka berpaling (dari kebenaran), Allah memalingkan hati mereka. Dan Allah tidak memberi petunjuk kepada kaum yang fasik."
+        },
+        {
+            "id": 5169,
+            "surah": 61,
+            "nomor": 6,
+            "ar": "وَاِذْ قَالَ عِيْسَى ابْنُ مَرْيَمَ يٰبَنِيْٓ اِسْرَاۤءِيْلَ اِنِّيْ رَسُوْلُ اللّٰهِ اِلَيْكُمْ مُّصَدِّقًا لِّمَا بَيْنَ يَدَيَّ مِنَ التَّوْرٰىةِ وَمُبَشِّرًاۢ بِرَسُوْلٍ يَّأْتِيْ مِنْۢ بَعْدِى اسْمُهٗٓ اَحْمَدُۗ فَلَمَّا جَاۤءَهُمْ بِالْبَيِّنٰتِ قَالُوْا هٰذَا سِحْرٌ مُّبِيْنٌ ",
+            "tr": "wa iż qāla ‘īsabnu maryama yā banī isrā'īla innī rasūlullāhi ilaikum muṣaddiqal limā baina yadayya minat-taurāti wa mubasysyiram birasūliy ya'tī mim ba‘dismuhū aḥmad(u), falammā jā'ahum bil-bayyināti qālū hāżā siḥrum mubīn(un).",
+            "idn": "Dan (ingatlah) ketika Isa putra Maryam berkata, “Wahai Bani Israil! Sesungguhnya aku utusan Allah kepadamu, yang membenarkan kitab (yang turun) sebelumku, yaitu Taurat dan memberi kabar gembira dengan seorang Rasul yang akan datang setelahku, yang namanya Ahmad (Muhammad).” Namun ketika Rasul itu datang kepada mereka dengan membawa bukti-bukti yang nyata, mereka berkata, “Ini adalah sihir yang nyata.” "
+        },
+        {
+            "id": 5170,
+            "surah": 61,
+            "nomor": 7,
+            "ar": "وَمَنْ اَظْلَمُ مِمَّنِ افْتَرٰى عَلَى اللّٰهِ الْكَذِبَ وَهُوَ يُدْعٰىٓ اِلَى الْاِسْلَامِۗ وَاللّٰهُ لَا يَهْدِى الْقَوْمَ الظّٰلِمِيْنَ ",
+            "tr": "wa man aẓlamu mimmaniftarā ‘alallāhil-każiba wa huwa yud‘ā ilal-islām(i), wallāhu lā yahdil-qaumaẓ-ẓālimīn(a).",
+            "idn": "Dan siapakah yang lebih zalim daripada orang yang mengada-adakan kebohongan terhadap Allah padahal dia diajak kepada (agama) Islam? Dan Allah tidak memberi petunjuk kepada orang-orang yang zalim. "
+        },
+        {
+            "id": 5171,
+            "surah": 61,
+            "nomor": 8,
+            "ar": "يُرِيْدُوْنَ لِيُطْفِـُٔوْا نُوْرَ اللّٰهِ بِاَفْوَاهِهِمْۗ وَاللّٰهُ مُتِمُّ نُوْرِهٖ وَلَوْ كَرِهَ الْكٰفِرُوْنَ ",
+            "tr": "yurīdūna liyuṭfi'ū nūrallāhi bi'afwāhihim, wallāhu mutimmu nūrihī wa lau karihal-kāfirūn(a).",
+            "idn": "Mereka hendak memadamkan cahaya (agama) Allah dengan mulut (ucapan-ucapan) mereka, tetapi Allah tetap menyempurnakan cahaya-Nya meskipun orang-orang kafir membencinya. "
+        },
+        {
+            "id": 5172,
+            "surah": 61,
+            "nomor": 9,
+            "ar": "هُوَ الَّذِيْٓ اَرْسَلَ رَسُوْلَهٗ بِالْهُدٰى وَدِيْنِ الْحَقِّ لِيُظْهِرَهٗ عَلَى الدِّيْنِ كُلِّهٖۙ وَلَوْ كَرِهَ الْمُشْرِكُوْنَ ࣖ ",
+            "tr": "wa huwal-lażī arsala rasūlahū bil-hudā wa dīnil-ḥaqqi liyuẓhirahū ‘alad-dīni kullih(ī), wa lau karihal-musyrikūn(a).",
+            "idn": "Dialah yang mengutus Rasul-Nya dengan membawa petunjuk dan agama yang benar, untuk memenangkannya di atas segala agama meskipun orang-orang musyrik membencinya. "
+        },
+        {
+            "id": 5173,
+            "surah": 61,
+            "nomor": 10,
+            "ar": "يٰٓاَيُّهَا الَّذِيْنَ اٰمَنُوْا هَلْ اَدُلُّكُمْ عَلٰى تِجَارَةٍ تُنْجِيْكُمْ مِّنْ عَذَابٍ اَلِيْمٍ ",
+            "tr": "yā ayyuhal-lażīna āmanū hal adullukum ‘alā tijāratin tunjīkum min ‘ażābin alīm(in).",
+            "idn": "Wahai orang-orang yang beriman! Maukah kamu Aku tunjukkan suatu perdagangan yang dapat menyelamatkan kamu dari azab yang pedih?"
+        },
+        {
+            "id": 5174,
+            "surah": 61,
+            "nomor": 11,
+            "ar": "تُؤْمِنُوْنَ بِاللّٰهِ وَرَسُوْلِهٖ وَتُجَاهِدُوْنَ فِيْ سَبِيْلِ اللّٰهِ بِاَمْوَالِكُمْ وَاَنْفُسِكُمْۗ ذٰلِكُمْ خَيْرٌ لَّكُمْ اِنْ كُنْتُمْ تَعْلَمُوْنَۙ ",
+            "tr": "tu'minūna billāhi wa rasūlihī wa tujāhidūna fī sabīlillāhi bi'amwālikum wa anfusikum, żālikum khairul lakum in kuntum ta‘lamūn(a).",
+            "idn": "Yaitu kamu beriman kepada Allah dan Rasul-Nya dan berjihad di jalan Allah dengan harta dan jiwamu. Itulah yang lebih baik bagi kamu jika kamu mengetahui,"
+        },
+        {
+            "id": 5175,
+            "surah": 61,
+            "nomor": 12,
+            "ar": "يَغْفِرْ لَكُمْ ذُنُوْبَكُمْ وَيُدْخِلْكُمْ جَنّٰتٍ تَجْرِيْ مِنْ تَحْتِهَا الْاَنْهٰرُ وَمَسٰكِنَ طَيِّبَةً فِيْ جَنّٰتِ عَدْنٍۗ ذٰلِكَ الْفَوْزُ الْعَظِيْمُۙ ",
+            "tr": "yagfir lakum żunūbakum wa yudkhilkum jannātin tajrī min taḥtihal-anhāru wa masākina ṭayyibatan fī jannāti ‘adn(in), żālikal-fauzul-‘aẓīm(u).",
+            "idn": "niscaya Allah mengampuni dosa-dosamu dan memasukkan kamu ke dalam surga yang mengalir di bawahnya sungai-sungai, dan ke tempat-tempat tinggal yang baik di dalam surga ‘Adn. Itulah kemenangan yang agung. "
+        },
+        {
+            "id": 5176,
+            "surah": 61,
+            "nomor": 13,
+            "ar": "وَاُخْرٰى تُحِبُّوْنَهَاۗ نَصْرٌ مِّنَ اللّٰهِ وَفَتْحٌ قَرِيْبٌۗ وَبَشِّرِ الْمُؤْمِنِيْنَ ",
+            "tr": "wa ukhrā tuḥibbūnahā, naṣrum minallāhi wa fatḥun qarīb(un), wa basysyiril-mu'minīn(a).",
+            "idn": "Dan (ada lagi) karunia yang lain yang kamu sukai (yaitu) pertolongan dari Allah dan kemenangan yang dekat (waktunya). Dan sampaikanlah berita gembira kepada orang-orang mukmin. "
+        },
+        {
+            "id": 5177,
+            "surah": 61,
+            "nomor": 14,
+            "ar": "يٰٓاَيُّهَا الَّذِيْنَ اٰمَنُوْا كُوْنُوْٓا اَنْصَارَ اللّٰهِ كَمَا قَالَ عِيْسَى ابْنُ مَرْيَمَ لِلْحَوَارِيّٖنَ مَنْ اَنْصَارِيْٓ اِلَى اللّٰهِ ۗقَالَ الْحَوَارِيُّوْنَ نَحْنُ اَنْصَارُ اللّٰهِ فَاٰمَنَتْ طَّاۤىِٕفَةٌ مِّنْۢ بَنِيْٓ اِسْرَاۤءِيْلَ وَكَفَرَتْ طَّاۤىِٕفَةٌ ۚفَاَيَّدْنَا الَّذِيْنَ اٰمَنُوْا عَلٰى عَدُوِّهِمْ فَاَصْبَحُوْا ظٰهِرِيْنَ ࣖ ",
+            "tr": "yā ayyuhal-lażīna āmanū kūnū anṣārallāhi kamā qāla ‘īsabnu maryama lil-ḥawāriyyīna man anṣārī ilallāh(i), qālal-ḥawāriyyūna naḥnu anṣārullāhi fa'āmanaṭ-ṭā'ifatum mim banī isrā'īla wa kafaraṭ-ṭā'ifah(tun), fa'ayyadnal-lażīna āmanū ‘alā ‘aduwwihim fa'aṣbaḥū ẓāhirīn(a).",
+            "idn": "Wahai orang-orang yang beriman! Jadilah kamu penolong-penolong (agama) Allah sebagaimana Isa putra Maryam telah berkata kepada pengikut-pengikutnya yang setia, “Siapakah yang akan menjadi penolong-penolongku (untuk menegakkan agama) Allah?” Pengikut-pengikutnya yang setia itu berkata, “Kamilah penolong-penolong (agama) Allah,” lalu segolongan dari Bani Israil beriman dan segolongan (yang lain) kafir; lalu Kami berikan kekuatan ke-pada orang-orang yang beriman terhadap musuh-musuh mereka, sehingga mereka menjadi orang-orang yang menang. "
+        }
+    ],
+    "surat_selanjutnya": {
+        "id": 62,
+        "nomor": 62,
+        "nama": "الجمعة",
+        "nama_latin": "Al-Jumu'ah",
+        "jumlah_ayat": 11,
+        "tempat_turun": "madinah",
+        "arti": "Jumat",
+        "deskripsi": "Surat Al Jumu'ah ini terdiri atas 11 ayat, termasuk golongan-golongan surat-surat Madaniyyah dan diturunkan sesudah surat Ash Shaf. Nama surat Al Jumu'ah diambil dari kata <i>Al Jumu'ah</i> yang terdapat pada ayat 9 surat ini yang artinya: <i>hari Jum'at</i>.",
+        "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/062.mp3"
+    },
+    "surat_sebelumnya": {
+        "id": 60,
+        "nomor": 60,
+        "nama": "الممتحنة",
+        "nama_latin": "Al-Mumtahanah",
+        "jumlah_ayat": 13,
+        "tempat_turun": "madinah",
+        "arti": "Wanita Yang Diuji",
+        "deskripsi": "Surat Al Mumtahanah terdiri atas 13 ayat, termasuk golongan surat-surat Madaniyyah, diturunkan sesudah surat Al Ahzab. Dinamai <i>Al Mumtahanah</i> (wanita yang diuji), diambil dari kata \"Famtahinuuhunna\" yang berarti <i>maka ujilah mereka</i>, yang terdapat pada ayat 10 surat ini.",
+        "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/060.mp3"
+    }
+}

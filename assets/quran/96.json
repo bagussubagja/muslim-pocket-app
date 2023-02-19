@@ -1,0 +1,187 @@
+{
+    "nomor": 96,
+    "nama": "العلق",
+    "nama_latin": "Al-'Alaq",
+    "jumlah_ayat": 19,
+    "tempat_turun": "mekah",
+    "arti": "Segumpal Darah",
+    "deskripsi": "Surat Al 'Alaq terdiri atas 19 ayat, termasuk golongan surat-surat Makkiyah. Ayat 1 sampai dengan 5 dari surat ini adalah ayat-ayat Al Quran yang pertama sekali diturunkan, yaitu di waktu Nabi Muhammad s.a.w. berkhalwat di gua Hira'. Surat ini dinamai <i>Al 'Alaq</i> (segumpal darah), diambil dari perkataan <i>Alaq</i> yang terdapat pada ayat 2 surat ini. Surat ini dinamai juga dengan <i>Iqra</i> atau <i>Al Qalam</i>.",
+    "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/096.mp3",
+    "status": true,
+    "ayat": [
+        {
+            "id": 6107,
+            "surah": 96,
+            "nomor": 1,
+            "ar": "اِقْرَأْ بِاسْمِ رَبِّكَ الَّذِيْ خَلَقَۚ",
+            "tr": "iqra' bismi rabbikal-lażī khalaq(a).",
+            "idn": "Bacalah dengan (menyebut) nama Tuhanmu yang menciptakan,"
+        },
+        {
+            "id": 6108,
+            "surah": 96,
+            "nomor": 2,
+            "ar": "خَلَقَ الْاِنْسَانَ مِنْ عَلَقٍۚ",
+            "tr": "khalaqal-insāna min ‘alaq(in).",
+            "idn": "Dia telah menciptakan manusia dari segumpal darah."
+        },
+        {
+            "id": 6109,
+            "surah": 96,
+            "nomor": 3,
+            "ar": "اِقْرَأْ وَرَبُّكَ الْاَكْرَمُۙ",
+            "tr": "iqra' wa rabbukal-akram(u).",
+            "idn": "Bacalah, dan Tuhanmulah Yang Mahamulia,"
+        },
+        {
+            "id": 6110,
+            "surah": 96,
+            "nomor": 4,
+            "ar": "الَّذِيْ عَلَّمَ بِالْقَلَمِۙ",
+            "tr": "allażī ‘allama bil-qalam(i).",
+            "idn": "Yang mengajar (manusia) dengan pena."
+        },
+        {
+            "id": 6111,
+            "surah": 96,
+            "nomor": 5,
+            "ar": "عَلَّمَ الْاِنْسَانَ مَا لَمْ يَعْلَمْۗ",
+            "tr": "‘allamal-insāna mā lam ya‘lam.",
+            "idn": "Dia mengajarkan manusia apa yang tidak diketahuinya."
+        },
+        {
+            "id": 6112,
+            "surah": 96,
+            "nomor": 6,
+            "ar": "كَلَّآ اِنَّ الْاِنْسَانَ لَيَطْغٰىٓ ۙ",
+            "tr": "kallā innal-insāna layaṭgā.",
+            "idn": "Sekali-kali tidak! Sungguh, manusia itu benar-benar melampaui batas,"
+        },
+        {
+            "id": 6113,
+            "surah": 96,
+            "nomor": 7,
+            "ar": "اَنْ رَّاٰهُ اسْتَغْنٰىۗ",
+            "tr": "ar ra'āhustagnā.",
+            "idn": "apabila melihat dirinya serba cukup."
+        },
+        {
+            "id": 6114,
+            "surah": 96,
+            "nomor": 8,
+            "ar": "اِنَّ اِلٰى رَبِّكَ الرُّجْعٰىۗ",
+            "tr": "inna ilā rabbikar-ruj‘ā.",
+            "idn": "Sungguh, hanya kepada Tuhanmulah tempat kembali(mu)."
+        },
+        {
+            "id": 6115,
+            "surah": 96,
+            "nomor": 9,
+            "ar": "اَرَاَيْتَ الَّذِيْ يَنْهٰىۙ",
+            "tr": "ara'aital-lażī yanhā.",
+            "idn": "Bagaimana pendapatmu tentang orang yang melarang?"
+        },
+        {
+            "id": 6116,
+            "surah": 96,
+            "nomor": 10,
+            "ar": "عَبْدًا اِذَا صَلّٰىۗ",
+            "tr": "‘abdan iżā ṣallā.",
+            "idn": "seorang hamba ketika dia melaksanakan salat,"
+        },
+        {
+            "id": 6117,
+            "surah": 96,
+            "nomor": 11,
+            "ar": "اَرَاَيْتَ اِنْ كَانَ عَلَى الْهُدٰىٓۙ",
+            "tr": "ara'aita in kāna ‘alal-hudā.",
+            "idn": "bagaimana pendapatmu jika dia (yang dilarang salat itu) berada di atas kebenaran (petunjuk),"
+        },
+        {
+            "id": 6118,
+            "surah": 96,
+            "nomor": 12,
+            "ar": "اَوْ اَمَرَ بِالتَّقْوٰىۗ",
+            "tr": "au amara bit-taqwā.",
+            "idn": "atau dia menyuruh bertakwa (kepada Allah)?"
+        },
+        {
+            "id": 6119,
+            "surah": 96,
+            "nomor": 13,
+            "ar": "اَرَاَيْتَ اِنْ كَذَّبَ وَتَوَلّٰىۗ",
+            "tr": "ara'aita in każżaba wa tawallā.",
+            "idn": "Bagaimana pendapatmu jika dia (yang melarang) itu mendustakan dan berpaling?"
+        },
+        {
+            "id": 6120,
+            "surah": 96,
+            "nomor": 14,
+            "ar": "اَلَمْ يَعْلَمْ بِاَنَّ اللّٰهَ يَرٰىۗ",
+            "tr": "alam ya‘lam bi'annallāha yarā.",
+            "idn": "Tidakkah dia mengetahui bahwa sesungguhnya Allah melihat (segala perbuatannya)?"
+        },
+        {
+            "id": 6121,
+            "surah": 96,
+            "nomor": 15,
+            "ar": "كَلَّا لَىِٕنْ لَّمْ يَنْتَهِ ەۙ لَنَسْفَعًاۢ بِالنَّاصِيَةِۙ",
+            "tr": "kallā la'il lam yantah(i), lanasfa‘am bin-nāṣiyah(ti).",
+            "idn": "Sekali-kali tidak! Sungguh, jika dia tidak berhenti (berbuat demikian) niscaya Kami tarik ubun-ubunnya, (ke dalam neraka),"
+        },
+        {
+            "id": 6122,
+            "surah": 96,
+            "nomor": 16,
+            "ar": "نَاصِيَةٍ كَاذِبَةٍ خَاطِئَةٍۚ",
+            "tr": "nāṣiyatin kāżibatin khāṭi'ah(tin).",
+            "idn": "yaitu) ubun-ubun orang yang mendustakan dan durhaka."
+        },
+        {
+            "id": 6123,
+            "surah": 96,
+            "nomor": 17,
+            "ar": "فَلْيَدْعُ نَادِيَهٗۙ",
+            "tr": "falyad‘u nādiyah(ū).",
+            "idn": "Maka biarlah dia memanggil golongannya (untuk menolongnya),"
+        },
+        {
+            "id": 6124,
+            "surah": 96,
+            "nomor": 18,
+            "ar": "سَنَدْعُ الزَّبَانِيَةَۙ",
+            "tr": "sanad‘uz-zabāniyah(ta).",
+            "idn": "Kelak Kami akan memanggil Malaikat Zabaniyah, (penyiksa orang-orang yang berdosa), "
+        },
+        {
+            "id": 6125,
+            "surah": 96,
+            "nomor": 19,
+            "ar": "كَلَّاۗ  لَا تُطِعْهُ وَاسْجُدْ وَاقْتَرِبْ ۩ ࣖ",
+            "tr": "kallā, lā tuṭi‘hu wasjud waqtarib.",
+            "idn": "sekali-kali tidak! Janganlah kamu patuh kepadanya; dan sujudlah serta dekatkanlah (dirimu kepada Allah)."
+        }
+    ],
+    "surat_selanjutnya": {
+        "id": 97,
+        "nomor": 97,
+        "nama": "القدر",
+        "nama_latin": "Al-Qadr",
+        "jumlah_ayat": 5,
+        "tempat_turun": "mekah",
+        "arti": "Kemuliaan",
+        "deskripsi": "Surat Al Qadr terdiri atas 5 ayat, termasuk golongan surat-surat Makkiyah, diturunkan sesudah surat 'Abasa. Surat ini dinamai <i>Al Qadr</i> (kemuliaan), diambil dari perkataan <i>Al Qadr</i> yang terdapat pada ayat pertama surat ini.",
+        "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/097.mp3"
+    },
+    "surat_sebelumnya": {
+        "id": 95,
+        "nomor": 95,
+        "nama": "التين",
+        "nama_latin": "At-Tin",
+        "jumlah_ayat": 8,
+        "tempat_turun": "mekah",
+        "arti": "Buah Tin",
+        "deskripsi": "Surat ini terdiri atas 8 ayat, termasuk golongan surat-surat Makkiyah, diturunkan sesudah surat Al Buruuj. Nama At Tiin diambil dari kata <i>At Tiin</i> yang terdapat pada ayat pertama surat ini yang artinya buah Tin.",
+        "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/095.mp3"
+    }
+}

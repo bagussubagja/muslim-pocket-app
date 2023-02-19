@@ -1,0 +1,1115 @@
+{
+    "nomor": 20,
+    "nama": "طٰهٰ",
+    "nama_latin": "Taha",
+    "jumlah_ayat": 135,
+    "tempat_turun": "mekah",
+    "arti": "Taha",
+    "deskripsi": "Surat Thaahaa terdiri atas 135 ayat, diturunkan sesudah diturunkannya surat Maryam, termasuk golongan surat-surat Makkiyyah. Surat ini dinamai <i>Thaahaa</i>, diambil dari perkataan yang berasal dan ayat pertama surat ini. Sebagaimana yang lazim terdapat pada surat-surat yang memakai huruf-huruf abjad pada permulaannya, di mana huruf tersebut seakan-akan merupakan pemberitahuan Allah kepada orang-orang yang membacanya, bahwa sesudah huruf itu akan dikemukakan hal-hal yang  sangat penting diketahui, maka demikian pula halnya dengan ayat-ayat yang terdapat sesudah huruf <i>thaahaa</i> dalam surat ini. Allah menerangkan bahwa Al Quran merupakan peringatan bagi manusia, wahyu dari Allah, Pencipta semesta alam. Kemudian Allah menerangkan kisah beberapa orang nabi; akibat-akibat yang telah ada akan dialami oleh orang-orang yang percaya kepada Allah dan orang-orang yang mengingkari-Nya, baik di dunia maupun di akhirat. Selain hal-hal tersebut di atas, maka surat ini mengandung pokok-pokok isi sebagai berikut:",
+    "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/020.mp3",
+    "status": true,
+    "ayat": [
+        {
+            "id": 2349,
+            "surah": 20,
+            "nomor": 1,
+            "ar": "طٰهٰ ۚ",
+            "tr": "Ṭāhā.",
+            "idn": "Thaha"
+        },
+        {
+            "id": 2350,
+            "surah": 20,
+            "nomor": 2,
+            "ar": "مَآ اَنْزَلْنَا عَلَيْكَ الْقُرْاٰنَ لِتَشْقٰٓى ۙ",
+            "tr": "mā anzalnā ‘alaikal-qur'āna litasyqā.",
+            "idn": " Kami tidak menurunkan Al-Qur'an ini kepadamu (Muhammad) agar engkau menjadi susah;"
+        },
+        {
+            "id": 2351,
+            "surah": 20,
+            "nomor": 3,
+            "ar": "اِلَّا تَذْكِرَةً لِّمَنْ يَّخْشٰى ۙ",
+            "tr": "illā tażkiratal limay yakhsyā.",
+            "idn": " melainkan sebagai peringatan bagi orang yang takut (kepada Allah),"
+        },
+        {
+            "id": 2352,
+            "surah": 20,
+            "nomor": 4,
+            "ar": "تَنْزِيْلًا مِّمَّنْ خَلَقَ الْاَرْضَ وَالسَّمٰوٰتِ الْعُلٰى ۗ",
+            "tr": "tanzīlam mimman khalaqal-arḍa was-samāwātil-‘ulā.",
+            "idn": "diturunkan dari (Allah) yang menciptakan bumi dan langit yang tinggi,"
+        },
+        {
+            "id": 2353,
+            "surah": 20,
+            "nomor": 5,
+            "ar": "اَلرَّحْمٰنُ عَلَى الْعَرْشِ اسْتَوٰى ",
+            "tr": "ar- raḥmānu ‘alal-‘arsyistawā.",
+            "idn": "(yaitu) Yang Maha Pengasih, yang bersemayam di atas ‘Arsy."
+        },
+        {
+            "id": 2354,
+            "surah": 20,
+            "nomor": 6,
+            "ar": "لَهٗ مَا فِى السَّمٰوٰتِ وَمَا فِى الْاَرْضِ وَمَا بَيْنَهُمَا وَمَا تَحْتَ الثَّرٰى ",
+            "tr": "lahū mā fis-samāwāti wa mā fil-arḍi wa mā bainahumā wa mā taḥtaṡ-ṡarā.",
+            "idn": "Milik-Nyalah apa yang ada di langit, apa yang ada di bumi, apa yang ada di antara keduanya, dan apa yang ada di bawah tanah."
+        },
+        {
+            "id": 2355,
+            "surah": 20,
+            "nomor": 7,
+            "ar": "وَاِنْ تَجْهَرْ بِالْقَوْلِ فَاِنَّهٗ يَعْلَمُ السِّرَّ وَاَخْفٰى ",
+            "tr": "wa in tajhar bil-qauli fa innahū ya‘lamus-sirra wa akhfā.",
+            "idn": "Dan jika engkau mengeraskan ucapanmu, sungguh, Dia mengetahui rahasia dan yang lebih tersembunyi."
+        },
+        {
+            "id": 2356,
+            "surah": 20,
+            "nomor": 8,
+            "ar": "اَللّٰهُ لَآ اِلٰهَ اِلَّا هُوَۗ  لَهُ الْاَسْمَاۤءُ الْحُسْنٰى ",
+            "tr": "allāhu lā ilāha illā huw(a), lahul-asmā'ul-ḥusnā.",
+            "idn": "(Dialah) Allah, tidak ada tuhan selain Dia, yang mempunyai nama-nama yang terbaik."
+        },
+        {
+            "id": 2357,
+            "surah": 20,
+            "nomor": 9,
+            "ar": "وَهَلْ اَتٰىكَ حَدِيْثُ مُوْسٰى ۘ",
+            "tr": "wa hal atāka ḥadīṡu mūsā.",
+            "idn": " Dan apakah telah sampai kepadamu kisah Musa?"
+        },
+        {
+            "id": 2358,
+            "surah": 20,
+            "nomor": 10,
+            "ar": "اِذْ رَاٰ نَارًا فَقَالَ لِاَهْلِهِ امْكُثُوْٓا اِنِّيْٓ اٰنَسْتُ نَارًا لَّعَلِّيْٓ اٰتِيْكُمْ مِّنْهَا بِقَبَسٍ اَوْ اَجِدُ عَلَى النَّارِ هُدًى ",
+            "tr": "iż ra'ā nāran fa qāla li'ahlihimkuṡū innī ānastu nāral la‘allī ātīkum minhā biqabasin au ajidu ‘alan-nāri hudā(n).",
+            "idn": " Ketika dia (Musa) melihat api, lalu dia berkata kepada keluarganya, “Tinggallah kamu (di sini), sesungguhnya aku melihat api, mudah-mudahan aku dapat membawa sedikit nyala api kepadamu atau aku akan mendapat petunjuk di tempat api itu.”"
+        },
+        {
+            "id": 2359,
+            "surah": 20,
+            "nomor": 11,
+            "ar": "فَلَمَّآ اَتٰىهَا نُوْدِيَ يٰمُوْسٰٓى ۙ",
+            "tr": "falammā atāhā nūdiya yā mūsā.",
+            "idn": "Maka ketika dia mendatanginya (ke tempat api itu) dia dipanggil, “Wahai Musa!"
+        },
+        {
+            "id": 2360,
+            "surah": 20,
+            "nomor": 12,
+            "ar": "اِنِّيْٓ اَنَا۠ رَبُّكَ فَاخْلَعْ نَعْلَيْكَۚ اِنَّكَ بِالْوَادِ الْمُقَدَّسِ طُوًى ۗ",
+            "tr": "innī ana rabbuka fakhla‘ na‘laika innaka bil-wādil-muqaddasi ṭuwā(n).",
+            "idn": "Sungguh, Aku adalah Tuhanmu, maka lepaskan kedua terompahmu. Karena sesungguhnya engkau berada di lembah yang suci, Tuwa."
+        },
+        {
+            "id": 2361,
+            "surah": 20,
+            "nomor": 13,
+            "ar": "وَاَنَا اخْتَرْتُكَ فَاسْتَمِعْ لِمَا يُوْحٰى ",
+            "tr": "wa anakhtartuka fastami‘ limā yūḥā.",
+            "idn": " Dan Aku telah memilih engkau, maka dengarkanlah apa yang akan diwahyukan (kepadamu)."
+        },
+        {
+            "id": 2362,
+            "surah": 20,
+            "nomor": 14,
+            "ar": "اِنَّنِيْٓ اَنَا اللّٰهُ لَآ اِلٰهَ اِلَّآ اَنَا۠ فَاعْبُدْنِيْۙ وَاَقِمِ الصَّلٰوةَ لِذِكْرِيْ ",
+            "tr": "innanī anallāhu lā ilāha illā ana fa‘budnī, wa aqimiṣ-ṣalāta liżikrī.",
+            "idn": " Sungguh, Aku ini Allah, tidak ada tuhan selain Aku, maka sembahlah Aku dan laksanakanlah salat untuk mengingat Aku."
+        },
+        {
+            "id": 2363,
+            "surah": 20,
+            "nomor": 15,
+            "ar": "اِنَّ السَّاعَةَ اٰتِيَةٌ اَكَادُ اُخْفِيْهَا لِتُجْزٰى كُلُّ نَفْسٍۢ بِمَا تَسْعٰى ",
+            "tr": "innas-sā‘ata ātiyatun akādu ukhfīhā litujzā kullu nafsim bimā tas‘ā.",
+            "idn": "Sungguh, hari Kiamat itu akan datang, Aku merahasiakan (waktunya) agar setiap orang dibalas sesuai dengan apa yang telah dia usahakan."
+        },
+        {
+            "id": 2364,
+            "surah": 20,
+            "nomor": 16,
+            "ar": "فَلَا يَصُدَّنَّكَ عَنْهَا مَنْ لَّا يُؤْمِنُ بِهَا وَاتَّبَعَ هَوٰىهُ فَتَرْدٰى ",
+            "tr": "falā yaṣuddannaka ‘anhā mal lā yu'minu bihā wattaba‘a hawāhu fa tardā.",
+            "idn": " Maka janganlah engkau dipalingkan dari (Kiamat itu) oleh orang yang tidak beriman kepadanya dan oleh orang yang mengikuti keinginannya, yang menyebabkan engkau binasa.”"
+        },
+        {
+            "id": 2365,
+            "surah": 20,
+            "nomor": 17,
+            "ar": "وَمَا تِلْكَ بِيَمِيْنِكَ يٰمُوْسٰى ",
+            "tr": "wa mā tilka biyamīnika yā mūsā.",
+            "idn": "”Dan apakah yang ada di tangan kananmu, wahai Musa? ”"
+        },
+        {
+            "id": 2366,
+            "surah": 20,
+            "nomor": 18,
+            "ar": "قَالَ هِيَ عَصَايَۚ اَتَوَكَّؤُا عَلَيْهَا وَاَهُشُّ بِهَا عَلٰى غَنَمِيْ وَلِيَ فِيْهَا مَاٰرِبُ اُخْرٰى ",
+            "tr": "qāla hiya ‘aṣāy(a), atwakka'u ‘alaihā wa ahusysyu bihā ‘alā ganamī wa liya fīhā ma'āribu ukhrā.",
+            "idn": "Dia (Musa) berkata, “Ini adalah tongkatku, aku bertumpu padanya, dan aku merontokkan (daun-daun) dengannya untuk (makanan) kambingku, dan bagiku masih ada lagi manfaat yang lain.”"
+        },
+        {
+            "id": 2367,
+            "surah": 20,
+            "nomor": 19,
+            "ar": "قَالَ اَلْقِهَا يٰمُوْسٰى ",
+            "tr": "qāla alqihā yā mūsā.",
+            "idn": "Dia (Allah) berfirman, “Lemparkanlah ia, wahai Musa!”"
+        },
+        {
+            "id": 2368,
+            "surah": 20,
+            "nomor": 20,
+            "ar": "فَاَلْقٰىهَا فَاِذَا هِيَ حَيَّةٌ تَسْعٰى ",
+            "tr": "fa alqāhā fa iżā hiya ḥayyatun tas‘ā.",
+            "idn": " Lalu (Musa) melemparkan tongkat itu, maka tiba-tiba ia menjadi seekor ular yang merayap dengan cepat."
+        },
+        {
+            "id": 2369,
+            "surah": 20,
+            "nomor": 21,
+            "ar": "قَالَ خُذْهَا وَلَا تَخَفْۗ سَنُعِيْدُهَا سِيْرَتَهَا الْاُوْلٰى ",
+            "tr": "qāla khużhā wa lā takhaf, sanu‘īduhā sīratahal-ūlā.",
+            "idn": "Dia (Allah) berfirman, “Peganglah ia dan jangan takut, Kami akan mengembalikannya kepada keadaannya semula,"
+        },
+        {
+            "id": 2370,
+            "surah": 20,
+            "nomor": 22,
+            "ar": "وَاضْمُمْ يَدَكَ اِلٰى جَنَاحِكَ تَخْرُجْ بَيْضَاۤءَ مِنْ غَيْرِ سُوْۤءٍ اٰيَةً اُخْرٰىۙ ",
+            "tr": "waḍmum yadaka ilā janāḥika takhruj baiḍā'a min gairi sū'in āyatan ukhrā.",
+            "idn": "dan kepitlah tanganmu ke ketiakmu, niscaya ia keluar menjadi putih (bercahaya) tanpa cacat, sebagai mukjizat yang lain,"
+        },
+        {
+            "id": 2371,
+            "surah": 20,
+            "nomor": 23,
+            "ar": "لِنُرِيَكَ مِنْ اٰيٰتِنَا الْكُبْرٰى ۚ",
+            "tr": "linuriyaka min āyātinal-kubrā.",
+            "idn": "untuk Kami perlihatkan kepadamu (sebagian) dari tanda-tanda kebesaran Kami yang sangat besar,"
+        },
+        {
+            "id": 2372,
+            "surah": 20,
+            "nomor": 24,
+            "ar": "اِذْهَبْ اِلٰى فِرْعَوْنَ اِنَّهٗ طَغٰى ࣖ",
+            "tr": "iżhab ilā fir‘auna innahū ṭagā.",
+            "idn": "Pergilah kepada Fir‘aun; dia benar-benar telah melampaui batas.”"
+        },
+        {
+            "id": 2373,
+            "surah": 20,
+            "nomor": 25,
+            "ar": "قَالَ رَبِّ اشْرَحْ لِيْ صَدْرِيْ ۙ",
+            "tr": "qāla rabbisyraḥ lī ṣadrī.",
+            "idn": " Dia (Musa) berkata, “Ya Tuhanku, lapangkanlah dadaku,"
+        },
+        {
+            "id": 2374,
+            "surah": 20,
+            "nomor": 26,
+            "ar": "وَيَسِّرْ لِيْٓ اَمْرِيْ ۙ",
+            "tr": "wa yassir lī amrī.",
+            "idn": "dan mudahkanlah untukku urusanku, "
+        },
+        {
+            "id": 2375,
+            "surah": 20,
+            "nomor": 27,
+            "ar": "وَاحْلُلْ عُقْدَةً مِّنْ لِّسَانِيْ ۙ",
+            "tr": "waḥlul ‘uqdatam mil lisānī.",
+            "idn": "dan lepaskanlah kekakuan dari lidahku,"
+        },
+        {
+            "id": 2376,
+            "surah": 20,
+            "nomor": 28,
+            "ar": "يَفْقَهُوْا قَوْلِيْ  ۖ",
+            "tr": "yafqahū qaulī.",
+            "idn": "agar mereka mengerti perkataanku,"
+        },
+        {
+            "id": 2377,
+            "surah": 20,
+            "nomor": 29,
+            "ar": "وَاجْعَلْ لِّيْ وَزِيْرًا مِّنْ اَهْلِيْ ۙ",
+            "tr": "waj‘al lī wazīram min ahlī.",
+            "idn": "dan jadikanlah untukku seorang pembantu dari keluargaku,"
+        },
+        {
+            "id": 2378,
+            "surah": 20,
+            "nomor": 30,
+            "ar": "هٰرُوْنَ اَخِى ۙ",
+            "tr": "hārūna akhī.",
+            "idn": "(yaitu) Harun, saudaraku,"
+        },
+        {
+            "id": 2379,
+            "surah": 20,
+            "nomor": 31,
+            "ar": "اشْدُدْ بِهٖٓ اَزْرِيْ ۙ",
+            "tr": "usydud bihī azrī.",
+            "idn": "teguhkanlah kekuatanku dengan (adanya) dia,"
+        },
+        {
+            "id": 2380,
+            "surah": 20,
+            "nomor": 32,
+            "ar": "وَاَشْرِكْهُ فِيْٓ اَمْرِيْ ۙ",
+            "tr": "wa asyrik-hu fī amrī.",
+            "idn": "dan jadikanlah dia teman dalam urusanku,"
+        },
+        {
+            "id": 2381,
+            "surah": 20,
+            "nomor": 33,
+            "ar": "كَيْ نُسَبِّحَكَ كَثِيْرًا ۙ",
+            "tr": "kai nusabbiḥaka kaṡīrā(n).",
+            "idn": "agar kami banyak bertasbih kepada-Mu,"
+        },
+        {
+            "id": 2382,
+            "surah": 20,
+            "nomor": 34,
+            "ar": "وَّنَذْكُرَكَ كَثِيْرًا ۗ",
+            "tr": "wa nażkuraka kaṡīrā(n).",
+            "idn": "dan banyak mengingat-Mu,"
+        },
+        {
+            "id": 2383,
+            "surah": 20,
+            "nomor": 35,
+            "ar": "اِنَّكَ كُنْتَ بِنَا بَصِيْرًا ",
+            "tr": "innaka kunta binā baṣīrā(n).",
+            "idn": "sesungguhnya Engkau Maha Melihat (keadaan) kami.”"
+        },
+        {
+            "id": 2384,
+            "surah": 20,
+            "nomor": 36,
+            "ar": "قَالَ قَدْ اُوْتِيْتَ سُؤْلَكَ يٰمُوْسٰى ",
+            "tr": "qāla qad ūtīta su'laka yā mūsā.",
+            "idn": "Dia (Allah) berfirman, “Sungguh, telah diperkenankan permintaanmu, wahai Musa!"
+        },
+        {
+            "id": 2385,
+            "surah": 20,
+            "nomor": 37,
+            "ar": "وَلَقَدْ مَنَنَّا عَلَيْكَ مَرَّةً اُخْرٰىٓ ۙ",
+            "tr": "wa laqad manannā ‘alaika marratan ukhrā.",
+            "idn": "Dan sungguh, Kami telah memberi nikmat kepadamu pada kesempatan yang lain (sebelum ini),"
+        },
+        {
+            "id": 2386,
+            "surah": 20,
+            "nomor": 38,
+            "ar": "اِذْ اَوْحَيْنَآ اِلٰٓى اُمِّكَ مَا يُوْحٰىٓ ۙ",
+            "tr": "iż auḥainā ilā ummika mā yūḥā.",
+            "idn": "(yaitu) ketika Kami mengilhamkan kepada ibumu sesuatu yang diilhamkan,"
+        },
+        {
+            "id": 2387,
+            "surah": 20,
+            "nomor": 39,
+            "ar": "اَنِ اقْذِفِيْهِ فِى التَّابُوْتِ فَاقْذِفِيْهِ فِى الْيَمِّ فَلْيُلْقِهِ الْيَمُّ بِالسَّاحِلِ يَأْخُذْهُ عَدُوٌّ لِّيْ وَعَدُوٌّ لَّهٗ  ۗوَاَلْقَيْتُ عَلَيْكَ مَحَبَّةً مِّنِّيْ ەۚ وَلِتُصْنَعَ عَلٰى عَيْنِيْ ۘ",
+            "tr": "aniqżifīhi fit-tābūti faqżifīhi fil-yammi falyulqihil-yammu bis-sāḥili ya'khużhu ‘aduwwul lī wa ‘aduwwul lah(ū), wa alqaitu ‘alaika maḥabbatam minnī, wa lituṣna‘a ‘alā ‘ainī.",
+            "idn": "(yaitu), letakkanlah dia (Musa) di dalam peti, kemudian hanyutkanlah dia ke sungai (Nil), maka biarlah (arus) sungai itu membawanya ke tepi, dia akan diambil oleh (Fir‘aun) musuh-Ku dan musuhnya. Aku telah melimpahkan kepadamu kasih sayang yang datang dari-Ku; dan agar engkau diasuh di bawah pengawasan-Ku."
+        },
+        {
+            "id": 2388,
+            "surah": 20,
+            "nomor": 40,
+            "ar": "اِذْ تَمْشِيْٓ اُخْتُكَ فَتَقُوْلُ هَلْ اَدُلُّكُمْ عَلٰى مَنْ يَّكْفُلُهٗ ۗفَرَجَعْنٰكَ اِلٰٓى اُمِّكَ كَيْ تَقَرَّ عَيْنُهَا وَلَا تَحْزَنَ ەۗ وَقَتَلْتَ نَفْسًا فَنَجَّيْنٰكَ مِنَ الْغَمِّ وَفَتَنّٰكَ فُتُوْنًا ەۗ فَلَبِثْتَ سِنِيْنَ فِيْٓ اَهْلِ مَدْيَنَ ەۙ ثُمَّ جِئْتَ عَلٰى قَدَرٍ يّٰمُوْسٰى",
+            "tr": "iż tamsyī ukhtuka fa taqūlu hal adullukum ‘alā may yakfuluh(ū), fa raja‘nāka ilā ummika kai taqarra ‘ainuhā wa lā taḥzan(a), wa qatalta nafsan fa najjaināka minal-gammi wa fatannāka futūnā(n), fa labiṡta sinīna fī ahli madyan(a), ṡumma ji'ta ‘alā qadariy yā mūsā.",
+            "idn": "(Yaitu) ketika saudara perempuanmu berjalan, lalu dia berkata (kepada keluarga Fir‘aun), ‘Bolehkah saya menunjukkan kepadamu orang yang akan memeliharanya?’ Maka Kami mengembalikanmu kepada ibumu, agar senang hatinya dan tidak bersedih hati. Dan engkau pernah membunuh seseorang, lalu Kami selamatkan engkau dari kesulitan (yang besar) dan Kami telah mencobamu dengan beberapa cobaan (yang berat); lalu engkau tinggal beberapa tahun di antara penduduk Madyan, kemudian engkau, wahai Musa, datang menurut waktu yang ditetapkan,"
+        },
+        {
+            "id": 2389,
+            "surah": 20,
+            "nomor": 41,
+            "ar": "وَاصْطَنَعْتُكَ لِنَفْسِيْۚ  ",
+            "tr": "wasṭana‘tuka linafsī.",
+            "idn": "dan Aku telah memilihmu (menjadi rasul) untuk diri-Ku."
+        },
+        {
+            "id": 2390,
+            "surah": 20,
+            "nomor": 42,
+            "ar": "اِذْهَبْ اَنْتَ وَاَخُوْكَ بِاٰيٰتِيْ وَلَا تَنِيَا فِيْ ذِكْرِيْۚ  ",
+            "tr": "iżhab anta wa akhūka bi'āyātī wa lā taniyā fī żikrī.",
+            "idn": "Pergilah engkau beserta saudaramu dengan membawa tanda-tanda (kekuasaan)-Ku, dan janganlah kamu berdua lalai mengingat-Ku;"
+        },
+        {
+            "id": 2391,
+            "surah": 20,
+            "nomor": 43,
+            "ar": "اِذْهَبَآ اِلٰى فِرْعَوْنَ اِنَّهٗ طَغٰىۚ ",
+            "tr": "iżhabā ilā fir‘auna innahū ṭagā.",
+            "idn": "pergilah kamu berdua kepada Fir‘aun, karena dia benar-benar telah melampaui batas;"
+        },
+        {
+            "id": 2392,
+            "surah": 20,
+            "nomor": 44,
+            "ar": "فَقُوْلَا لَهٗ قَوْلًا لَّيِّنًا لَّعَلَّهٗ يَتَذَكَّرُ اَوْ يَخْشٰى ",
+            "tr": "fa qūlā lahū qaulal layyinal la‘allahū yatażakkaru au yakhsyā.",
+            "idn": "maka berbicaralah kamu berdua kepadanya (Fir‘aun) dengan kata-kata yang lemah lembut, mudah-mudahan dia sadar atau takut."
+        },
+        {
+            "id": 2393,
+            "surah": 20,
+            "nomor": 45,
+            "ar": "قَالَا رَبَّنَآ اِنَّنَا نَخَافُ اَنْ يَّفْرُطَ عَلَيْنَآ اَوْ اَنْ يَّطْغٰى ",
+            "tr": "qālā rabbanā innanā nakhāfu ay yafruṭa ‘alainā au ay yaṭgā.",
+            "idn": "Keduanya berkata, “Ya Tuhan kami, sungguh, kami khawatir dia akan segera menyiksa kami atau akan bertambah melampaui batas,”"
+        },
+        {
+            "id": 2394,
+            "surah": 20,
+            "nomor": 46,
+            "ar": "قَالَ لَا تَخَافَآ اِنَّنِيْ مَعَكُمَآ اَسْمَعُ وَاَرٰى ",
+            "tr": "qāla lā takhāfā innanī ma‘akumā asma‘u wa arā.",
+            "idn": "Dia (Allah) berfirman, “Janganlah kamu berdua khawatir, sesungguhnya Aku bersama kamu berdua, Aku mendengar dan melihat."
+        },
+        {
+            "id": 2395,
+            "surah": 20,
+            "nomor": 47,
+            "ar": "فَأْتِيٰهُ فَقُوْلَآ اِنَّا رَسُوْلَا رَبِّكَ فَاَرْسِلْ مَعَنَا بَنِيْٓ اِسْرَاۤءِيْلَ ەۙ وَلَا تُعَذِّبْهُمْۗ قَدْ جِئْنٰكَ بِاٰيَةٍ مِّنْ رَّبِّكَ ۗوَالسَّلٰمُ عَلٰى مَنِ اتَّبَعَ الْهُدٰى",
+            "tr": "fa'tiyāhu fa qūlā innā rasūlā rabbika fa arsil ma‘anā banī isrā'īl(a), wa lā tu‘ażżibhum, qad ji'nāka bi'āyatim mir rabbik(a), was-salāmu ‘alā manittaba‘al-hudā.",
+            "idn": "Maka pergilah kamu berdua kepadanya (Fir‘aun) dan katakanlah, “Sungguh, kami berdua adalah utusan Tuhanmu, maka lepaskanlah Bani Israil bersama kami dan janganlah engkau menyiksa mereka. Sungguh, kami datang kepadamu dengan membawa bukti (atas kerasulan kami) dari Tuhanmu. Dan keselamatan itu dilimpahkan kepada orang yang mengikuti petunjuk."
+        },
+        {
+            "id": 2396,
+            "surah": 20,
+            "nomor": 48,
+            "ar": "اِنَّا قَدْ اُوْحِيَ اِلَيْنَآ اَنَّ الْعَذَابَ عَلٰى مَنْ كَذَّبَ وَتَوَلّٰى ",
+            "tr": "innā qad ūḥiya ilainā annal-‘ażāba ‘alā man każżaba wa tawallā.",
+            "idn": "Sungguh, telah diwahyukan kepada kami bahwa siksa itu (ditimpakan) pada siapa pun yang mendustakan (ajaran agama yang kami bawa) dan berpaling (tidak mempedulikannya).”"
+        },
+        {
+            "id": 2397,
+            "surah": 20,
+            "nomor": 49,
+            "ar": "قَالَ فَمَنْ رَّبُّكُمَا يٰمُوْسٰى ",
+            "tr": "qāla famar rabbukumā yā mūsā.",
+            "idn": "Dia (Fir‘aun) berkata, “Siapakah Tuhanmu berdua, wahai Musa?”"
+        },
+        {
+            "id": 2398,
+            "surah": 20,
+            "nomor": 50,
+            "ar": "قَالَ رَبُّنَا الَّذِيْٓ اَعْطٰى كُلَّ شَيْءٍ خَلْقَهٗ ثُمَّ هَدٰى ",
+            "tr": "qāla rabbunal-lażī a‘ṭā kulla syai'in khalqahū ṡumma hadā.",
+            "idn": "Dia (Musa) menjawab, “Tuhan kami ialah (Tuhan) yang telah memberikan bentuk kejadian kepada segala sesuatu, kemudian memberinya petunjuk.”"
+        },
+        {
+            "id": 2399,
+            "surah": 20,
+            "nomor": 51,
+            "ar": "قَالَ فَمَا بَالُ الْقُرُوْنِ الْاُوْلٰى ",
+            "tr": "qāla famā bālul-qurūnil-ūlā.",
+            "idn": "Dia (Fir‘aun) berkata, “Jadi bagaimana keadaan umat-umat yang dahulu?”"
+        },
+        {
+            "id": 2400,
+            "surah": 20,
+            "nomor": 52,
+            "ar": "قَالَ عِلْمُهَا عِنْدَ رَبِّيْ فِيْ كِتٰبٍۚ  لَا يَضِلُّ رَبِّيْ وَلَا يَنْسَىۖ ",
+            "tr": "qāla ‘ilmuhā ‘inda rabbī fī kitāb(in), lā yaḍillu rabbī wa lā yansā.",
+            "idn": "Dia (Musa) menjawab, “Pengetahuan tentang itu ada pada Tuhanku, di dalam sebuah Kitab (Lauh Mahfuzh), Tuhanku tidak akan salah ataupun lupa;"
+        },
+        {
+            "id": 2401,
+            "surah": 20,
+            "nomor": 53,
+            "ar": "الَّذِيْ جَعَلَ لَكُمُ الْاَرْضَ مَهْدًا وَّسَلَكَ لَكُمْ فِيْهَا سُبُلًا وَّاَنْزَلَ مِنَ السَّمَاۤءِ مَاۤءًۗ فَاَخْرَجْنَا بِهٖٓ اَزْوَاجًا مِّنْ نَّبَاتٍ شَتّٰى ",
+            "tr": "al-lażī ja‘ala lakumul-arḍa mahdaw wa salaka lakum fīhā subulaw wa anzala minas-samā'i mā'ā(n), fa akhrajnā bihī azwājam min nabātin syattā.",
+            "idn": "(Tuhan) yang telah menjadikan bumi sebagai hamparan bagimu, dan menjadikan jalan-jalan di atasnya bagimu, dan yang menurunkan air (hujan) dari langit.” Kemudian Kami tumbuhkan dengannya (air hujan itu) berjenis-jenis aneka macam tumbuh-tumbuhan."
+        },
+        {
+            "id": 2402,
+            "surah": 20,
+            "nomor": 54,
+            "ar": "كُلُوْا وَارْعَوْا اَنْعَامَكُمْ ۗاِنَّ فِيْ ذٰلِكَ لَاٰيٰتٍ لِّاُولِى النُّهٰى ࣖ",
+            "tr": "kulū war‘au an‘āmakum, inna fī żālika la'āyātil li'ulin-nuhā.",
+            "idn": "Makanlah dan gembalakanlah hewan-hewanmu. Sungguh, pada yang demikian itu, terdapat tanda-tanda (kebesaran Allah) bagi orang yang berakal."
+        },
+        {
+            "id": 2403,
+            "surah": 20,
+            "nomor": 55,
+            "ar": "۞ مِنْهَا خَلَقْنٰكُمْ وَفِيْهَا نُعِيْدُكُمْ وَمِنْهَا نُخْرِجُكُمْ تَارَةً اُخْرٰى ",
+            "tr": "minhā khalaqnākum wa fīhā nu‘īdukum wa minhā nukhrijukum tāratan ukhrā.",
+            "idn": "Darinya (tanah) itulah Kami menciptakan kamu dan kepadanyalah Kami akan mengembalikan kamu dan dari sanalah Kami akan mengeluarkan kamu pada waktu yang lain."
+        },
+        {
+            "id": 2404,
+            "surah": 20,
+            "nomor": 56,
+            "ar": "وَلَقَدْ اَرَيْنٰهُ اٰيٰتِنَا كُلَّهَا فَكَذَّبَ وَاَبٰى ",
+            "tr": "wa laqad araināhu āyātinā kullahā fa każżaba wa abā.",
+            "idn": "Dan sungguh, Kami telah memperlihatkan kepadanya (Fir‘aun) tanda-tanda (kebesaran) Kami semuanya, ternyata dia mendustakan dan enggan (menerima kebenaran)."
+        },
+        {
+            "id": 2405,
+            "surah": 20,
+            "nomor": 57,
+            "ar": "قَالَ اَجِئْتَنَا لِتُخْرِجَنَا مِنْ اَرْضِنَا بِسِحْرِكَ يٰمُوْسٰى ",
+            "tr": "qāla aji'tanā litukhrijanā min arḍinā bisiḥrika yā mūsā.",
+            "idn": "Dia (Fir‘aun) berkata, “Apakah engkau datang kepada kami untuk mengusir kami dari negeri kami dengan sihirmu, wahai Musa?"
+        },
+        {
+            "id": 2406,
+            "surah": 20,
+            "nomor": 58,
+            "ar": "فَلَنَأْتِيَنَّكَ بِسِحْرٍ مِّثْلِهٖ فَاجْعَلْ بَيْنَنَا وَبَيْنَكَ مَوْعِدًا لَّا نُخْلِفُهٗ نَحْنُ وَلَآ اَنْتَ مَكَانًا سُوًى ",
+            "tr": "fa lana'tiyannaka bisiḥrim miṡlihī faj‘al bainanā wa bainaka mau‘idal lā nukhlifuhū naḥnu wa lā anta makānan suwā(n).",
+            "idn": "Maka kami pun pasti akan mendatangkan sihir semacam itu kepadamu, maka buatlah suatu perjanjian untuk pertemuan antara kami dan engkau yang kami tidak akan menyalahinya dan tidak (pula) engkau, di suatu tempat yang terbuka.”"
+        },
+        {
+            "id": 2407,
+            "surah": 20,
+            "nomor": 59,
+            "ar": "قَالَ مَوْعِدُكُمْ يَوْمُ الزِّيْنَةِ وَاَنْ يُّحْشَرَ النَّاسُ ضُحًى ",
+            "tr": "qāla mau‘idukum yaumuz-zīnati wa ay yuḥsyaran-nāsu ḍuḥā(n).",
+            "idn": "Dia (Musa) berkata, “(Perjanjian) waktu (untuk pertemuan kami dengan kamu itu) ialah pada hari raya dan hendaklah orang-orang dikumpulkan pada pagi hari (duha).”"
+        },
+        {
+            "id": 2408,
+            "surah": 20,
+            "nomor": 60,
+            "ar": "فَتَوَلّٰى فِرْعَوْنُ فَجَمَعَ كَيْدَهٗ ثُمَّ اَتٰى ",
+            "tr": "fa tawallā fir‘aunu fa jama‘a kaidahū ṡumma atā.",
+            "idn": "Maka Fir‘aun meninggalkan (tempat itu), lalu mengatur tipu dayanya, kemudian dia datang kembali (pada hari yang ditentukan)."
+        },
+        {
+            "id": 2409,
+            "surah": 20,
+            "nomor": 61,
+            "ar": "قَالَ لَهُمْ مُّوْسٰى وَيْلَكُمْ لَا تَفْتَرُوْا عَلَى اللّٰهِ كَذِبًا فَيُسْحِتَكُمْ بِعَذَابٍۚ وَقَدْ خَابَ مَنِ افْتَرٰى ",
+            "tr": "qāla lahum mūsā wailakum lā taftarū ‘alallāhi każiban fa yusḥitakum bi‘ażab(in), wa qad khāba maniftarā.",
+            "idn": "Musa berkata kepada mereka (para pesihir), “Celakalah kamu! Janganlah kamu mengada-adakan kedustaan terhadap Allah, nanti Dia membinasakan kamu dengan azab.” Dan sungguh rugi orang yang mengada-adakan kedustaan."
+        },
+        {
+            "id": 2410,
+            "surah": 20,
+            "nomor": 62,
+            "ar": "فَتَنَازَعُوْٓا اَمْرَهُمْ بَيْنَهُمْ وَاَسَرُّوا النَّجْوٰى ",
+            "tr": "fa tanāza‘ū amrahum bainahum wa asarrun-najwā.",
+            "idn": "Maka mereka berbantah-bantahan tentang urusan mereka dan mereka merahasiakan percakapan (mereka)."
+        },
+        {
+            "id": 2411,
+            "surah": 20,
+            "nomor": 63,
+            "ar": "قَالُوْٓا اِنْ هٰذٰنِ لَسَاحِرٰنِ يُرِيْدَانِ اَنْ يُّخْرِجٰكُمْ مِّنْ اَرْضِكُمْ بِسِحْرِهِمَا وَيَذْهَبَا بِطَرِيْقَتِكُمُ الْمُثْلٰى ",
+            "tr": "qālū in hāżāni lasāḥirāni yurīdāni ay yukhrijākum min arḍikum bisiḥrihimā wa yażhabā biṭarīqatikumul-muṡlā.",
+            "idn": "Mereka (para pesihir) berkata, “Sesungguhnya dua orang ini adalah pesihir yang hendak mengusirmu (Fir‘aun) dari negerimu dengan sihir mereka berdua, dan hendak melenyapkan adat kebiasaanmu yang utama."
+        },
+        {
+            "id": 2412,
+            "surah": 20,
+            "nomor": 64,
+            "ar": "فَاَجْمِعُوْا كَيْدَكُمْ ثُمَّ ائْتُوْا صَفًّاۚ وَقَدْ اَفْلَحَ الْيَوْمَ مَنِ اسْتَعْلٰى ",
+            "tr": "fa ajmi‘ū kaidakum ṡumma'tū ṣaffā(n), wa qad aflaḥal-yauma manista‘lā.",
+            "idn": "Maka kumpulkanlah segala tipu daya (sihir) kamu, kemudian datanglah dengan berbaris, dan sungguh, beruntung orang yang menang pada hari ini.”"
+        },
+        {
+            "id": 2413,
+            "surah": 20,
+            "nomor": 65,
+            "ar": "قَالُوْا يٰمُوْسٰٓى اِمَّآ اَنْ تُلْقِيَ وَاِمَّآ اَنْ نَّكُوْنَ اَوَّلَ مَنْ اَلْقٰى ",
+            "tr": "qālū yā mūsā immā an tulqiya wa immā an nakūna awwala man alqā.",
+            "idn": "Mereka berkata, “Wahai Musa! Apakah engkau yang melemparkan (dahulu) atau kami yang lebih dahulu melemparkan?”"
+        },
+        {
+            "id": 2414,
+            "surah": 20,
+            "nomor": 66,
+            "ar": "قَالَ بَلْ اَلْقُوْاۚ فَاِذَا حِبَالُهُمْ وَعِصِيُّهُمْ يُخَيَّلُ اِلَيْهِ مِنْ سِحْرِهِمْ اَنَّهَا تَسْعٰى",
+            "tr": "qāla bal alqū, fa iżā ḥibāluhum wa ‘iṣiyyuhum yukhayyalu ilaihi min siḥrihim annahā tas‘ā.",
+            "idn": "Dia (Musa) berkata, “Silakan kamu melemparkan!” Maka tiba-tiba tali-tali dan tongkat-tongkat mereka terbayang olehnya (Musa) seakan-akan ia merayap cepat, karena sihir mereka."
+        },
+        {
+            "id": 2415,
+            "surah": 20,
+            "nomor": 67,
+            "ar": "فَاَوْجَسَ فِيْ نَفْسِهٖ خِيْفَةً مُّوْسٰى ",
+            "tr": "fa aujasa fī nafsihī khīfatam mūsā.",
+            "idn": "Maka Musa merasa takut dalam hatinya."
+        },
+        {
+            "id": 2416,
+            "surah": 20,
+            "nomor": 68,
+            "ar": "قُلْنَا لَا تَخَفْ اِنَّكَ اَنْتَ الْاَعْلٰى ",
+            "tr": "qulnā lā takhaf innaka antal-a‘lā.",
+            "idn": "Kami berfirman, “Jangan takut! Sungguh, engkaulah yang unggul (menang)."
+        },
+        {
+            "id": 2417,
+            "surah": 20,
+            "nomor": 69,
+            "ar": "وَاَلْقِ مَا فِيْ يَمِيْنِكَ تَلْقَفْ مَا صَنَعُوْاۗ اِنَّمَا صَنَعُوْا كَيْدُ سٰحِرٍۗ وَلَا يُفْلِحُ السَّاحِرُ حَيْثُ اَتٰى ",
+            "tr": "wa alqi mā fī yamīnika talqaf mā ṣana‘ū, innamā ṣana‘ū kaidu sāḥir(in), wa lā yufliḥus-sāḥiru ḥaiṡu atā.",
+            "idn": "Dan lemparkan apa yang ada di tangan kananmu, niscaya ia akan menelan apa yang mereka buat. Apa yang mereka buat itu hanyalah tipu daya pesihir (belaka). Dan tidak akan menang pesihir itu, dari mana pun ia datang.”"
+        },
+        {
+            "id": 2418,
+            "surah": 20,
+            "nomor": 70,
+            "ar": "فَاُلْقِيَ السَّحَرَةُ سُجَّدًا قَالُوْٓا اٰمَنَّا بِرَبِّ هٰرُوْنَ وَمُوْسٰى ",
+            "tr": "fa ulqiyas-saḥaratu sujjadan qālū āmannā birabbi hārūna wa mūsā.",
+            "idn": "Lalu para pesihir itu merunduk bersujud, seraya berkata, “Kami telah percaya kepada Tuhannya Harun dan Musa.”"
+        },
+        {
+            "id": 2419,
+            "surah": 20,
+            "nomor": 71,
+            "ar": "قَالَ اٰمَنْتُمْ لَهٗ قَبْلَ اَنْ اٰذَنَ لَكُمْۗ اِنَّهٗ لَكَبِيْرُكُمُ الَّذِيْ عَلَّمَكُمُ السِّحْرَۚ فَلَاُقَطِّعَنَّ اَيْدِيَكُمْ وَاَرْجُلَكُمْ مِّنْ خِلَافٍ وَّلَاُصَلِّبَنَّكُمْ فِيْ جُذُوْعِ النَّخْلِۖ وَلَتَعْلَمُنَّ اَيُّنَآ اَشَدُّ عَذَابًا وَّاَبْقٰى ",
+            "tr": "qāla āmantum lahū qabla an āżana lakum, innahū lakabīrukumul-lażī ‘allamakumus-siḥr(a), fa la'uqaṭṭi‘anna aidiyakum wa arjulakum min khilāfiw wa la'uṣallibannakum fī jużū‘in-nakhl(i), wa lata‘lamunna ayyunā asyaddu ‘ażābaw wa abqā.",
+            "idn": "Dia (Fir‘aun) berkata, “Apakah kamu telah beriman kepadanya (Musa) sebelum aku memberi izin kepadamu? Sesungguhnya dia itu pemimpinmu yang mengajarkan sihir kepadamu. Maka sungguh, akan kupotong tangan dan kakimu secara bersilang, dan sungguh, akan aku salib kamu pada pangkal pohon kurma dan sungguh, kamu pasti akan mengetahui siapa di antara kita yang lebih pedih dan lebih kekal siksaannya.”"
+        },
+        {
+            "id": 2420,
+            "surah": 20,
+            "nomor": 72,
+            "ar": "قَالُوْا لَنْ نُّؤْثِرَكَ عَلٰى مَا جَاۤءَنَا مِنَ الْبَيِّنٰتِ وَالَّذِيْ فَطَرَنَا فَاقْضِ مَآ اَنْتَ قَاضٍۗ اِنَّمَا تَقْضِيْ هٰذِهِ الْحَيٰوةَ الدُّنْيَا ۗ",
+            "tr": "qālū lan nu'ṡiraka ‘alā mā jā'anā minal-bayyināti wal-lażī faṭaranā faqḍi mā anta qāḍ(in), innamā taqḍī hāżihil-ḥayātad-dun-yā.",
+            "idn": "Mereka (para pesihir) berkata, “Kami tidak akan memilih (tunduk) kepadamu atas bukti-bukti nyata (mukjizat), yang telah datang kepada kami dan atas (Allah) yang telah menciptakan kami. Maka putuskanlah yang hendak engkau putuskan. Sesungguhnya engkau hanya dapat memutuskan pada kehidupan di dunia ini."
+        },
+        {
+            "id": 2421,
+            "surah": 20,
+            "nomor": 73,
+            "ar": "اِنَّآ اٰمَنَّا بِرَبِّنَا لِيَغْفِرَ لَنَا خَطٰيٰنَا وَمَآ اَكْرَهْتَنَا عَلَيْهِ مِنَ السِّحْرِۗ وَاللّٰهُ خَيْرٌ وَّاَبْقٰى ",
+            "tr": "innā āmannā birabbinā liyagfira lanā khaṭāyānā wa mā akrahtanā ‘alaihi minas-siḥr(i), wallāhu khairuw wa abqā.",
+            "idn": "Kami benar-benar telah beriman kepada Tuhan kami, agar Dia mengampuni kesalahan-kesalahan kami dan sihir yang telah engkau paksakan kepada kami. Dan Allah lebih baik (pahala-Nya) dan lebih kekal (azab-Nya).”"
+        },
+        {
+            "id": 2422,
+            "surah": 20,
+            "nomor": 74,
+            "ar": "اِنَّهٗ مَنْ يَّأْتِ رَبَّهٗ مُجْرِمًا فَاِنَّ لَهٗ جَهَنَّمَ ۗ لَا يَمُوْتُ فِيْهَا وَلَا يَحْيٰى ",
+            "tr": "innahū may ya'ti rabbahū mujriman fa inna lahū jahannam(a), lā yamūtu fīhā wa lā yaḥyā.",
+            "idn": "Sesungguhnya barang siapa datang kepada Tuhannya dalam keadaan berdosa, maka sungguh, baginya adalah neraka Jahanam. Dia tidak mati (terus merasakan azab) di dalamnya dan tidak (pula) hidup (tidak dapat bertobat)."
+        },
+        {
+            "id": 2423,
+            "surah": 20,
+            "nomor": 75,
+            "ar": "وَمَنْ يَّأْتِهٖ مُؤْمِنًا قَدْ عَمِلَ الصّٰلِحٰتِ فَاُولٰۤىِٕكَ لَهُمُ الدَّرَجٰتُ الْعُلٰى ۙ",
+            "tr": "wa may ya'tihī mu'minan qad ‘amilaṣ-ṣāliḥāti fa ulā'ika lahumud-darajātul-‘ulā.",
+            "idn": "Tetapi barang siapa datang kepada-Nya dalam keadaan beriman, dan telah mengerjakan kebajikan, maka mereka itulah orang yang memperoleh derajat yang tinggi (mulia),"
+        },
+        {
+            "id": 2424,
+            "surah": 20,
+            "nomor": 76,
+            "ar": "جَنّٰتُ عَدْنٍ تَجْرِيْ مِنْ تَحْتِهَا الْاَنْهٰرُ خٰلِدِيْنَ فِيْهَا ۗوَذٰلِكَ جَزَاۤءُ مَنْ تَزَكّٰى ࣖ",
+            "tr": "jannātu ‘adnin tajrī min taḥtihal-anhāru khālidīna fīhā, wa żālika jazā'u man tazakkā.",
+            "idn": "(yaitu) surga-surga ‘Adn, yang mengalir di bawahnya sungai-sungai, mereka kekal di dalamnya. Itulah balasan bagi orang yang menyucikan diri."
+        },
+        {
+            "id": 2425,
+            "surah": 20,
+            "nomor": 77,
+            "ar": "وَلَقَدْ اَوْحَيْنَآ اِلٰى مُوْسٰٓى اَنْ اَسْرِ بِعِبَادِيْ فَاضْرِبْ لَهُمْ طَرِيْقًا فِى الْبَحْرِ يَبَسًاۙ  لَّا تَخٰفُ دَرَكًا وَّلَا تَخْشٰى ",
+            "tr": "wa laqad auḥainā ilā mūsā an asri bi‘ibādī faḍrib lahum ṭarīqan fil-baḥri yabasā(n), lā takhāfu darakaw wa lā takhsyā.",
+            "idn": "Dan sungguh, telah Kami wahyukan kepada Musa, “Pergilah bersama hamba-hamba-Ku (Bani Israil) pada malam hari, dan pukullah (buatlah) untuk mereka jalan yang kering di laut itu, (engkau) tidak perlu takut akan tersusul dan tidak perlu khawatir (akan tenggelam).”"
+        },
+        {
+            "id": 2426,
+            "surah": 20,
+            "nomor": 78,
+            "ar": "فَاَتْبَعَهُمْ فِرْعَوْنُ بِجُنُوْدِهٖ فَغَشِيَهُمْ مِّنَ الْيَمِّ مَا غَشِيَهُمْ ۗ",
+            "tr": "fa atba‘ahum fir‘aunu bijunūdihī fa gasyiyahum minal-yammi mā gasyiyahum.",
+            "idn": "Kemudian Fir‘aun dengan bala tentaranya mengejar mereka, tetapi mereka digulung ombak laut yang menenggelamkan mereka."
+        },
+        {
+            "id": 2427,
+            "surah": 20,
+            "nomor": 79,
+            "ar": "وَاَضَلَّ فِرْعَوْنُ قَوْمَهٗ وَمَا هَدٰى ",
+            "tr": "wa aḍalla fir‘aunu qaumahū wa mā hadā.",
+            "idn": "Dan Fir‘aun telah menyesatkan kaumnya dan tidak memberi petunjuk."
+        },
+        {
+            "id": 2428,
+            "surah": 20,
+            "nomor": 80,
+            "ar": "يٰبَنِيْٓ اِسْرَاۤءِيْلَ قَدْ اَنْجَيْنٰكُمْ مِّنْ عَدُوِّكُمْ وَوٰعَدْنٰكُمْ جَانِبَ الطُّوْرِ الْاَيْمَنَ وَنَزَّلْنَا عَلَيْكُمُ الْمَنَّ وَالسَّلْوٰى ",
+            "tr": "yā banī isrā'īla qad anjainākum min ‘aduwwikum wa wā‘adnākum jānibaṭ-ṭūril-aimana wa nazzalnā ‘alaikumul-mannā was-salwā.",
+            "idn": "Wahai Bani Israil! Sungguh, Kami telah menyelamatkan kamu dari musuhmu, dan Kami telah mengadakan perjanjian dengan kamu (untuk bermunajat) di sebelah kanan gunung itu (gunung Sinai) dan Kami telah menurunkan kepada kamu mann dan salwa."
+        },
+        {
+            "id": 2429,
+            "surah": 20,
+            "nomor": 81,
+            "ar": "كُلُوْا مِنْ طَيِّبٰتِ مَا رَزَقْنٰكُمْۙ وَلَا تَطْغَوْا فِيْهِ فَيَحِلَّ عَلَيْكُمْ غَضَبِيْۚ وَمَنْ يَّحْلِلْ عَلَيْهِ غَضَبِيْ فَقَدْ هَوٰى ",
+            "tr": "kulū min ṭayyibāti mā razaqnākum, wa lā taṭgau fīhi fa yaḥilla ‘alaikum gaḍabī, wa may yaḥlil ‘alaihi gaḍabī faqad hawā.",
+            "idn": "Makanlah dari rezeki yang baik-baik yang telah Kami berikan kepadamu, dan janganlah melampaui batas, yang menyebabkan kemurkaan-Ku menimpamu. Barangsiapa ditimpa kemurkaan-Ku, maka sungguh, binasalah dia."
+        },
+        {
+            "id": 2430,
+            "surah": 20,
+            "nomor": 82,
+            "ar": "وَاِنِّيْ لَغَفَّارٌ لِّمَنْ تَابَ وَاٰمَنَ وَعَمِلَ صَالِحًا ثُمَّ اهْتَدٰى ",
+            "tr": "wa innī lagaffārul liman tāba wa āmana wa ‘amila ṣāliḥan ṡummahtadā.",
+            "idn": "Dan sungguh, Aku Maha Pengampun bagi yang bertobat, beriman dan berbuat kebajikan, kemudian tetap dalam petunjuk."
+        },
+        {
+            "id": 2431,
+            "surah": 20,
+            "nomor": 83,
+            "ar": "۞ وَمَآ اَعْجَلَكَ عَنْ قَوْمِكَ يٰمُوْسٰى ",
+            "tr": "wa mā a‘jalaka ‘an qaumika yā mūsā.",
+            "idn": "“Dan mengapa engkau datang lebih cepat daripada kaummu, wahai Musa?”"
+        },
+        {
+            "id": 2432,
+            "surah": 20,
+            "nomor": 84,
+            "ar": "قَالَ هُمْ اُولَاۤءِ عَلٰٓى اَثَرِيْ وَعَجِلْتُ اِلَيْكَ رَبِّ لِتَرْضٰى ",
+            "tr": "qāla hum ulā'i ‘alā aṡarī wa ‘ajiltu ilaika rabbi litarḍā.",
+            "idn": "Dia (Musa) berkata, “Itu mereka sedang menyusul aku dan aku bersegera kepada-Mu, Ya Tuhanku, agar Engkau rida (kepadaku).”"
+        },
+        {
+            "id": 2433,
+            "surah": 20,
+            "nomor": 85,
+            "ar": "قَالَ فَاِنَّا قَدْ فَتَنَّا قَوْمَكَ مِنْۢ بَعْدِكَ وَاَضَلَّهُمُ السَّامِرِيُّ ",
+            "tr": "qāla fa innā qad fatannā qaumaka mim ba‘dika wa aḍallahumus-sāmiriyy(u).",
+            "idn": "Dia (Allah) berfirman, “Sungguh, Kami telah menguji kaummu setelah engkau tinggalkan, dan mereka telah disesatkan oleh Samiri.” "
+        },
+        {
+            "id": 2434,
+            "surah": 20,
+            "nomor": 86,
+            "ar": "فَرَجَعَ مُوْسٰٓى اِلٰى قَوْمِهٖ غَضْبَانَ اَسِفًا ەۚ قَالَ يٰقَوْمِ اَلَمْ يَعِدْكُمْ رَبُّكُمْ وَعْدًا حَسَنًا ەۗ اَفَطَالَ عَلَيْكُمُ الْعَهْدُ اَمْ اَرَدْتُّمْ اَنْ يَّحِلَّ عَلَيْكُمْ غَضَبٌ مِّنْ رَّبِّكُمْ فَاَخْلَفْتُمْ مَّوْعِدِيْ",
+            "tr": "fa raja‘a mūsā ilā qaumihī gaḍbāna asifā(n), qāla yā qaumi alam ya‘idkum rabbukum wa‘dan ḥasanā(n), afaṭāla ‘alaikumul-‘ahdu am arattum ay yaḥilla ‘alaikum gaḍabum mir rabbikum fa akhlaftum mau‘idī.",
+            "idn": "Kemudian Musa kembali kepada kaumnya dengan marah dan bersedih hati. Dia (Musa) berkata, “Wahai kaumku! Bukankah Tuhanmu telah menjanjikan kepadamu suatu janji yang baik? Apakah terlalu lama masa perjanjian itu bagimu atau kamu menghendaki agar kemurkaan Tuhan menimpamu, mengapa kamu melanggar perjanjianmu dengan aku?”"
+        },
+        {
+            "id": 2435,
+            "surah": 20,
+            "nomor": 87,
+            "ar": "قَالُوْا مَآ اَخْلَفْنَا مَوْعِدَكَ بِمَلْكِنَا وَلٰكِنَّا حُمِّلْنَآ اَوْزَارًا مِّنْ زِيْنَةِ الْقَوْمِ فَقَذَفْنٰهَا فَكَذٰلِكَ اَلْقَى السَّامِرِيُّ ۙ",
+            "tr": "qālū mā akhlafnā mau‘idaka bimalkinā wa lākinnā ḥummilnā auzāram min zīnatil-qaumi fa qażafnāhā fa każālika alqas-sāmiriyy(u).",
+            "idn": "Mereka berkata, “Kami tidak melanggar perjanjianmu dengan kemauan kami sendiri, tetapi kami harus membawa beban berat dari perhiasan kaum (Fir‘aun) itu, kemudian kami melemparkannya (ke dalam api), dan demikian pula Samiri melemparkannya,"
+        },
+        {
+            "id": 2436,
+            "surah": 20,
+            "nomor": 88,
+            "ar": "فَاَخْرَجَ لَهُمْ عِجْلًا جَسَدًا لَّهٗ خُوَارٌ فَقَالُوْا هٰذَآ اِلٰهُكُمْ وَاِلٰهُ مُوْسٰى ەۙ فَنَسِيَ ۗ",
+            "tr": "fa akhraja lahum ‘ijlan jasadal lahū khuwārun fa qālū hāżā ilāhukum wa ilāhu mūsā, fa nasiy(a).",
+            "idn": "kemudian (dari lubang api itu) dia (Samiri) mengeluarkan (patung) anak sapi yang bertubuh dan bersuara untuk mereka, maka mereka berkata, “Inilah Tuhanmu dan Tuhannya Musa, tetapi dia (Musa) telah lupa.”"
+        },
+        {
+            "id": 2437,
+            "surah": 20,
+            "nomor": 89,
+            "ar": "اَفَلَا يَرَوْنَ اَلَّا يَرْجِعُ اِلَيْهِمْ قَوْلًا ەۙ وَّلَا يَمْلِكُ لَهُمْ ضَرًّا وَّلَا نَفْعًا ࣖ",
+            "tr": "afalā yarauna allā yarji‘u ilaihim qaulā(n), wa lā yamliku lahum ḍarraw wa lā naf‘ā(n).",
+            "idn": "Maka tidakkah mereka memperhatikan bahwa (patung anak sapi itu) tidak dapat memberi jawaban kepada mereka, dan tidak kuasa menolak mudarat mau-pun mendatangkan manfaat kepada mereka?"
+        },
+        {
+            "id": 2438,
+            "surah": 20,
+            "nomor": 90,
+            "ar": "وَلَقَدْ قَالَ لَهُمْ هٰرُوْنُ مِنْ قَبْلُ يٰقَوْمِ اِنَّمَا فُتِنْتُمْ بِهٖۚ وَاِنَّ رَبَّكُمُ الرَّحْمٰنُ فَاتَّبِعُوْنِيْ وَاَطِيْعُوْٓا اَمْرِيْ ",
+            "tr": "wa laqad qāla lahum hārūnu min qablu yā qaumi innamā futintum bih(ī), wa inna rabbakumur-raḥmānu fattabi‘ūnī wa aṭī‘ū amrī.",
+            "idn": "Dan sungguh, sebelumnya Harun telah berkata kepada mereka, “Wahai kaumku! Sesungguhnya kamu hanya sekedar diberi cobaan (dengan patung anak sapi) itu dan sungguh, Tuhanmu ialah (Allah) Yang Maha Pengasih, maka ikutilah aku dan taatilah perintahku.”"
+        },
+        {
+            "id": 2439,
+            "surah": 20,
+            "nomor": 91,
+            "ar": "قَالُوْا لَنْ نَّبْرَحَ عَلَيْهِ عٰكِفِيْنَ حَتّٰى يَرْجِعَ اِلَيْنَا مُوْسٰى ",
+            "tr": "qālū lan nabraḥa ‘alaihi ‘ākifīna ḥattā yarji‘a ilainā mūsā.",
+            "idn": "Mereka menjawab, “Kami tidak akan meninggalkannya (dan) tetap menyembahnya (patung anak sapi) sampai Musa kembali kepada kami.”"
+        },
+        {
+            "id": 2440,
+            "surah": 20,
+            "nomor": 92,
+            "ar": "قَالَ يٰهٰرُوْنُ مَا مَنَعَكَ اِذْ رَاَيْتَهُمْ ضَلُّوْٓا ۙ",
+            "tr": "qāla yā hārūnu mā mana‘aka iż ra'aitahum ḍallū.",
+            "idn": "Dia (Musa) berkata, “Wahai Harun! Apa yang menghalangimu ketika engkau melihat mereka telah sesat,"
+        },
+        {
+            "id": 2441,
+            "surah": 20,
+            "nomor": 93,
+            "ar": "اَلَّا تَتَّبِعَنِۗ اَفَعَصَيْتَ اَمْرِيْ ",
+            "tr": "allā tattabi‘an(i), afa ‘aṣaita amrī.",
+            "idn": "(sehingga) engkau tidak mengikuti aku? Apakah engkau telah (sengaja) melanggar perintahku?”"
+        },
+        {
+            "id": 2442,
+            "surah": 20,
+            "nomor": 94,
+            "ar": "قَالَ يَبْنَؤُمَّ لَا تَأْخُذْ بِلِحْيَتِيْ وَلَا بِرَأْسِيْۚ اِنِّيْ خَشِيْتُ اَنْ تَقُوْلَ فَرَّقْتَ بَيْنَ بَنِيْٓ اِسْرَاۤءِيْلَ وَلَمْ تَرْقُبْ قَوْلِيْ ",
+            "tr": "qāla yabna'umma lā ta'khuż biliḥyatī wa lā bira'sī, innī khasyītu an taqūla farraqta baina banī isrā'īla wa lam tarqub qaulī.",
+            "idn": "Dia (Harun) menjawab, “Wahai putra ibuku! Janganlah engkau pegang janggutku dan jangan (pula) kepalaku. Aku sungguh khawatir engkau akan berkata (kepadaku), ‘Engkau telah memecah belah antara Bani Israil dan engkau tidak memelihara amanatku.’” "
+        },
+        {
+            "id": 2443,
+            "surah": 20,
+            "nomor": 95,
+            "ar": "قَالَ فَمَا خَطْبُكَ يٰسَامِرِيُّ ",
+            "tr": "qāla famā khaṭbuka yā sāmiriyy(u).",
+            "idn": "Dia (Musa) berkata, “Apakah yang mendorongmu (berbuat demikian) wahai Samiri?”"
+        },
+        {
+            "id": 2444,
+            "surah": 20,
+            "nomor": 96,
+            "ar": "قَالَ بَصُرْتُ بِمَا لَمْ يَبْصُرُوْا بِهٖ فَقَبَضْتُ قَبْضَةً مِّنْ اَثَرِ الرَّسُوْلِ فَنَبَذْتُهَا وَكَذٰلِكَ سَوَّلَتْ لِيْ نَفْسِيْ ",
+            "tr": "qāla baṣurtu bimā lam yabṣurū bihī fa qabaḍtu qabḍatam min aṡarir-rasūli fa nabażtuhā wa każālika sawwalat lī nafsī.",
+            "idn": "Dia (Samiri) menjawab, “Aku mengetahui sesuatu yang tidak mereka ketahui, jadi aku ambil segenggam (tanah dari) jejak rasul lalu aku melemparkannya (ke dalam api itu), demikianlah nafsuku membujukku.”"
+        },
+        {
+            "id": 2445,
+            "surah": 20,
+            "nomor": 97,
+            "ar": "قَالَ فَاذْهَبْ فَاِنَّ لَكَ فِى الْحَيٰوةِ اَنْ تَقُوْلَ لَا مِسَاسَۖ وَاِنَّ لَكَ مَوْعِدًا لَّنْ تُخْلَفَهٗۚ وَانْظُرْ اِلٰٓى اِلٰهِكَ الَّذِيْ ظَلْتَ عَلَيْهِ عَاكِفًا ۗ  لَنُحَرِّقَنَّهٗ ثُمَّ لَنَنْسِفَنَّهٗ فِى الْيَمِّ نَسْفًا ",
+            "tr": "qāla fażhab fa inna laka fil-ḥayāti an taqūla lā misās(a), wa inna laka mau‘idal lan tukhlafah(ū), wanẓur ilā ilāhikal-lażī ẓalta ‘alaihi ‘ākifā(n), lanuḥarriqannahū ṡumma lanansifannahū fil-yammi nasfā(n).",
+            "idn": "Dia (Musa) berkata, “Pergilah kau! Maka sesungguhnya di dalam kehidupan (di dunia) engkau (hanya dapat) mengatakan, ‘Janganlah menyentuh (aku),’. Dan engkau pasti mendapat (hukuman) yang telah dijanjikan (di akhirat) yang tidak akan dapat engkau hindari, dan lihatlah tuhanmu itu yang engkau tetap menyembahnya. Kami pasti akan membakarnya, kemudian sungguh kami akan menghamburkannya (abunya) ke dalam laut (berserakan)."
+        },
+        {
+            "id": 2446,
+            "surah": 20,
+            "nomor": 98,
+            "ar": "اِنَّمَآ اِلٰهُكُمُ اللّٰهُ الَّذِيْ لَآ اِلٰهَ اِلَّا هُوَۗ وَسِعَ كُلَّ شَيْءٍ عِلْمًا ",
+            "tr": "innamā ilāhukumullāhul-lażī lā ilāha illā huw(a), wasi‘a kulla syai'in ‘ilmā(n).",
+            "idn": " Sungguh, Tuhanmu hanyalah Allah, tidak ada tuhan selain Dia. Pengetahuan-Nya meliputi segala sesuatu.”"
+        },
+        {
+            "id": 2447,
+            "surah": 20,
+            "nomor": 99,
+            "ar": "كَذٰلِكَ نَقُصُّ عَلَيْكَ مِنْ اَنْۢبَاۤءِ مَا قَدْ سَبَقَۚ وَقَدْ اٰتَيْنٰكَ مِنْ لَّدُنَّا ذِكْرًا ۚ",
+            "tr": "każālika naquṣṣu ‘alaika min ambā'i mā sabaq(a), wa qad ātaināka mil ladunnā żikrā(n).",
+            "idn": "Demikianlah Kami kisahkan kepadamu (Muhammad) sebagian kisah (umat) yang telah lalu, dan sungguh, telah Kami berikan kepadamu suatu peringatan (Al-Qur'an) dari sisi Kami."
+        },
+        {
+            "id": 2448,
+            "surah": 20,
+            "nomor": 100,
+            "ar": "مَنْ اَعْرَضَ عَنْهُ فَاِنَّهٗ يَحْمِلُ يَوْمَ الْقِيٰمَةِ وِزْرًا ",
+            "tr": "man a‘raḍa ‘anhu fa innahū yaḥmilu yaumal-qiyāmati wizrā(n).",
+            "idn": "Barangsiapa berpaling darinya (Al-Qur'an), maka sesungguhnya dia akan memikul beban yang berat (dosa) pada hari Kiamat, "
+        },
+        {
+            "id": 2449,
+            "surah": 20,
+            "nomor": 101,
+            "ar": "خٰلِدِيْنَ فِيْهِ ۗوَسَاۤءَ لَهُمْ يَوْمَ الْقِيٰمَةِ حِمْلًاۙ ",
+            "tr": "khālidīna fīh(i), wa sā'a lahum yaumal-qiyāmati ḥimlā(n).",
+            "idn": "mereka kekal di dalam keadaan itu. Dan sungguh buruk beban dosa itu bagi mereka pada hari Kiamat, "
+        },
+        {
+            "id": 2450,
+            "surah": 20,
+            "nomor": 102,
+            "ar": "يَّوْمَ يُنْفَخُ فِى الصُّوْرِ وَنَحْشُرُ الْمُجْرِمِيْنَ يَوْمَىِٕذٍ زُرْقًا ۖ",
+            "tr": "yauma yunfakhu fiṣ-ṣūri wa naḥsyurul-mujrimīna yauma'iżin zurqā(n).",
+            "idn": "pada hari (Kiamat) sangkakala ditiup (yang kedua kali) dan pada hari itu Kami kumpulkan orang-orang yang berdosa dengan (wajah) biru muram,"
+        },
+        {
+            "id": 2451,
+            "surah": 20,
+            "nomor": 103,
+            "ar": "يَّتَخَافَتُوْنَ بَيْنَهُمْ اِنْ لَّبِثْتُمْ اِلَّا عَشْرًا ",
+            "tr": "yatakhāfatūna bainahum il labiṡtum illā ‘asyrā(n).",
+            "idn": "mereka saling berbisik satu sama lain, “Kamu tinggal (di dunia) tidak lebih dari sepuluh (hari).”"
+        },
+        {
+            "id": 2452,
+            "surah": 20,
+            "nomor": 104,
+            "ar": "نَحْنُ اَعْلَمُ بِمَا يَقُوْلُوْنَ اِذْ يَقُوْلُ اَمْثَلُهُمْ طَرِيْقَةً اِنْ لَّبِثْتُمْ اِلَّا يَوْمًا ࣖ",
+            "tr": "naḥnu a‘lamu bimā yaqūlūna iż yaqūlu amṡaluhum ṭarīqatan il labiṡtum illā yaumā(n).",
+            "idn": "Kami lebih mengetahui apa yang akan mereka katakan, ketika orang yang paling lurus jalannya mengatakan, “Kamu tinggal (di dunia), tidak lebih dari sehari saja.”"
+        },
+        {
+            "id": 2453,
+            "surah": 20,
+            "nomor": 105,
+            "ar": "وَيَسْـَٔلُوْنَكَ عَنِ الْجِبَالِ فَقُلْ يَنْسِفُهَا رَبِّيْ نَسْفًا ۙ",
+            "tr": "wa yas'alūnaka ‘anil-jibāli fa qul yansifuhā rabbī nasfā(n).",
+            "idn": "Dan mereka bertanya kepadamu (Muhammad) tentang gunung-gunung, maka katakanlah, “Tuhanku akan menghancurkannya (pada hari Kiamat) sehancur-hancurnya,"
+        },
+        {
+            "id": 2454,
+            "surah": 20,
+            "nomor": 106,
+            "ar": "فَيَذَرُهَا قَاعًا صَفْصَفًا ۙ",
+            "tr": "fa yażaruhā qā‘an ṣafṣafā(n).",
+            "idn": "kemudian Dia akan menjadikan (bekas gunung-gunung) itu rata sama sekali, "
+        },
+        {
+            "id": 2455,
+            "surah": 20,
+            "nomor": 107,
+            "ar": "لَّا تَرٰى فِيْهَا عِوَجًا وَّلَآ اَمْتًا ۗ",
+            "tr": "lā tarā fīhā ‘iwajaw wa lā amtā(n).",
+            "idn": "(sehingga) kamu tidak akan melihat lagi ada tempat yang rendah dan yang tinggi di sana.” "
+        },
+        {
+            "id": 2456,
+            "surah": 20,
+            "nomor": 108,
+            "ar": "يَوْمَىِٕذٍ يَّتَّبِعُوْنَ الدَّاعِيَ لَا عِوَجَ لَهٗ ۚوَخَشَعَتِ الْاَصْوَاتُ لِلرَّحْمٰنِ فَلَا تَسْمَعُ اِلَّا هَمْسًا ",
+            "tr": "yauma'iżiy yattabi‘ūnad-dā‘iya lā ‘iwaja lah(ū), wa khasya‘atil-aṣwātu lir-raḥmāni falā tasma‘u illā hamsā(n).",
+            "idn": "Pada hari itu mereka mengikuti (panggilan) penyeru (malaikat) tanpa berbelok-belok (membantah); dan semua suara tunduk merendah kepada Tuhan Yang Maha Pengasih, sehingga yang kamu dengar hanyalah bisik-bisik."
+        },
+        {
+            "id": 2457,
+            "surah": 20,
+            "nomor": 109,
+            "ar": "يَوْمَىِٕذٍ لَّا تَنْفَعُ الشَّفَاعَةُ اِلَّا مَنْ اَذِنَ لَهُ الرَّحْمٰنُ وَرَضِيَ لَهٗ قَوْلًا ",
+            "tr": "yauma'iżil lā tanfa‘usy-syafā‘atu illā man ażina lahur-raḥmānu wa raḍiya lahū qaulā(n).",
+            "idn": "Pada hari itu tidak berguna syafaat (pertolongan), kecuali dari orang yang telah diberi izin oleh Tuhan Yang Maha Pengasih, dan Dia ridai perkataannya."
+        },
+        {
+            "id": 2458,
+            "surah": 20,
+            "nomor": 110,
+            "ar": "يَعْلَمُ مَا بَيْنَ اَيْدِيْهِمْ وَمَا خَلْفَهُمْ وَلَا يُحِيْطُوْنَ بِهٖ عِلْمًا ",
+            "tr": "ya‘lamu mā baina aidīhim wa mā khalfahum wa lā yuḥīṭūna bihī ‘ilmā(n).",
+            "idn": " Dia (Allah) mengetahui apa yang di hadapan mereka (yang akan terjadi) dan apa yang di belakang mereka (yang telah terjadi), sedang ilmu mereka tidak dapat meliputi ilmu-Nya."
+        },
+        {
+            "id": 2459,
+            "surah": 20,
+            "nomor": 111,
+            "ar": "۞ وَعَنَتِ الْوُجُوْهُ لِلْحَيِّ الْقَيُّوْمِۗ وَقَدْ خَابَ مَنْ حَمَلَ ظُلْمًا ",
+            "tr": "wa ‘anatil-wujūhu lil-ḥayyil-qayyūm(i), wa qad khāba man ḥamala ẓulmā(n).",
+            "idn": "Dan semua wajah tertunduk di hadapan (Allah) Yang Hidup dan Yang Berdiri Sendiri. Sungguh rugi orang yang melakukan kezaliman."
+        },
+        {
+            "id": 2460,
+            "surah": 20,
+            "nomor": 112,
+            "ar": "وَمَنْ يَّعْمَلْ مِنَ الصّٰلِحٰتِ وَهُوَ مُؤْمِنٌ فَلَا يَخٰفُ ظُلْمًا وَّلَا هَضْمًا ",
+            "tr": "wa may ya‘mal minaṣ-ṣāliḥāti wa huwa mu'minun falā yakhāfu ẓulmaw wa lā haḍmā(n).",
+            "idn": "Dan barang siapa mengerjakan kebajikan sedang dia (dalam keadaan) beriman, maka dia tidak khawatir akan perlakuan zalim (terhadapnya) dan tidak (pula khawatir) akan pengurangan haknya."
+        },
+        {
+            "id": 2461,
+            "surah": 20,
+            "nomor": 113,
+            "ar": "وَكَذٰلِكَ اَنْزَلْنٰهُ قُرْاٰنًا عَرَبِيًّا وَّصَرَّفْنَا فِيْهِ مِنَ الْوَعِيْدِ لَعَلَّهُمْ يَتَّقُوْنَ اَوْ يُحْدِثُ لَهُمْ ذِكْرًا ",
+            "tr": "wa każālika anzalnāhu qur'ānan ‘arabiyyaw wa ṣarrafnā fīhi minal-wa‘īdi la‘allahum yattaqūna au yuḥdiṡu lahum żikrā(n).",
+            "idn": "Dan demikianlah Kami menurunkan Al-Qur'an dalam bahasa Arab, dan Kami telah menjelaskan berulang-ulang di dalamnya sebagian dari ancaman, agar mereka bertakwa, atau agar (Al-Qur'an) itu memberi pengajaran bagi mereka."
+        },
+        {
+            "id": 2462,
+            "surah": 20,
+            "nomor": 114,
+            "ar": "فَتَعٰلَى اللّٰهُ الْمَلِكُ الْحَقُّۚ وَلَا تَعْجَلْ بِالْقُرْاٰنِ مِنْ قَبْلِ اَنْ يُّقْضٰٓى اِلَيْكَ وَحْيُهٗ ۖوَقُلْ رَّبِّ زِدْنِيْ عِلْمًا ",
+            "tr": "fa ta‘ālallāhul-malikul-ḥaqq(u), wa lā ta‘jal bil-qur'āni min qabli ay yuqḍā ilaika waḥyuh(ū), wa qur rabbi zidnī ‘ilmā(n).",
+            "idn": "Maka Mahatinggi Allah, Raja yang sebenar-benarnya. Dan janganlah engkau (Muhammad) tergesa-gesa (membaca) Al-Qur'an sebelum selesai diwahyukan kepadamu, dan katakanlah, “Ya Tuhanku, tambahkanlah ilmu kepadaku. ”"
+        },
+        {
+            "id": 2463,
+            "surah": 20,
+            "nomor": 115,
+            "ar": "وَلَقَدْ عَهِدْنَآ اِلٰٓى اٰدَمَ مِنْ قَبْلُ فَنَسِيَ وَلَمْ نَجِدْ لَهٗ عَزْمًا ࣖ",
+            "tr": "wa laqad ‘ahidnā ilā ādama min qablu fa nasiya wa lam najid lahū ‘azmā(n).",
+            "idn": "Dan sungguh telah Kami pesankan kepada Adam dahulu, tetapi dia lupa, dan Kami tidak dapati kemauan yang kuat padanya."
+        },
+        {
+            "id": 2464,
+            "surah": 20,
+            "nomor": 116,
+            "ar": "وَاِذْ قُلْنَا لِلْمَلٰۤىِٕكَةِ اسْجُدُوْا لِاٰدَمَ فَسَجَدُوْٓا اِلَّآ اِبْلِيْسَ اَبٰى ۗ",
+            "tr": "wa iż qulnā lil-malā'ikatisjudū li'ādama fa sajadū illā iblīsa abā.",
+            "idn": "Dan (ingatlah) ketika Kami berfirman kepada para malaikat, “Sujudlah kamu kepada Adam!” Lalu mereka pun sujud kecuali Iblis; dia menolak."
+        },
+        {
+            "id": 2465,
+            "surah": 20,
+            "nomor": 117,
+            "ar": "فَقُلْنَا يٰٓاٰدَمُ اِنَّ هٰذَا عَدُوٌّ لَّكَ وَلِزَوْجِكَ فَلَا يُخْرِجَنَّكُمَا مِنَ الْجَنَّةِ فَتَشْقٰى ",
+            "tr": "fa qulnā yā ādamu inna hāżā ‘aduwwul laka wa lizaujika falā yukhrijannakumā minal-jannati fa tasyqā.",
+            "idn": "Kemudian Kami berfirman, “Wahai Adam! Sungguh ini (Iblis) musuh bagimu dan bagi istrimu, maka sekali-kali jangan sampai dia mengeluarkan kamu berdua dari surga, nanti kamu celaka."
+        },
+        {
+            "id": 2466,
+            "surah": 20,
+            "nomor": 118,
+            "ar": "اِنَّ لَكَ اَلَّا تَجُوْعَ فِيْهَا وَلَا تَعْرٰى ۙ",
+            "tr": "inna laka allā tajū‘a fīhā wa lā ta‘rā.",
+            "idn": "Sungguh, ada (jaminan) untukmu di sana, engkau tidak akan kelaparan dan tidak akan telanjang."
+        },
+        {
+            "id": 2467,
+            "surah": 20,
+            "nomor": 119,
+            "ar": "وَاَنَّكَ لَا تَظْمَؤُا فِيْهَا وَلَا تَضْحٰى ",
+            "tr": "wa annaka lā taẓma'u fīhā wa lā taḍḥā.",
+            "idn": "Dan sungguh, di sana engkau tidak akan merasa dahaga dan tidak akan ditimpa panas matahari.” "
+        },
+        {
+            "id": 2468,
+            "surah": 20,
+            "nomor": 120,
+            "ar": "فَوَسْوَسَ اِلَيْهِ الشَّيْطٰنُ قَالَ يٰٓاٰدَمُ هَلْ اَدُلُّكَ عَلٰى شَجَرَةِ الْخُلْدِ وَمُلْكٍ لَّا يَبْلٰى ",
+            "tr": "fa waswasa ilaihisy-syaiṭānu qāla yā ādamu hal adulluka ‘alā syajaratil-khuldi wa mulkil lā yablā.",
+            "idn": " Kemudian setan membisikkan (pikiran jahat) kepadanya, dengan berkata, “Wahai Adam! Maukah aku tunjukkan kepadamu pohon keabadian (khuldi) dan kerajaan yang tidak akan binasa?”"
+        },
+        {
+            "id": 2469,
+            "surah": 20,
+            "nomor": 121,
+            "ar": "فَاَكَلَا مِنْهَا فَبَدَتْ لَهُمَا سَوْءٰتُهُمَا وَطَفِقَا يَخْصِفٰنِ عَلَيْهِمَا مِنْ وَّرَقِ الْجَنَّةِۚ وَعَصٰىٓ اٰدَمُ رَبَّهٗ فَغَوٰى ۖ",
+            "tr": "fa akalā minhā fa badat lahumā sau'ātuhumā wa ṭafiqā yakhṣifāni ‘alaihimā miw waraqil-jannah(ti), wa ‘aṣā ādamu rabbahū fa gawā.",
+            "idn": "Lalu keduanya memakannya, lalu tampaklah oleh keduanya aurat mereka dan mulailah keduanya menutupinya dengan daun-daun (yang ada di) surga, dan telah durhakalah Adam kepada Tuhannya, dan sesatlah dia."
+        },
+        {
+            "id": 2470,
+            "surah": 20,
+            "nomor": 122,
+            "ar": "ثُمَّ اجْتَبٰىهُ رَبُّهٗ فَتَابَ عَلَيْهِ وَهَدٰى ",
+            "tr": "Ṡummajtabāhu rabbuhū fa tāba ‘alaihi wa hadā.",
+            "idn": "Kemudian Tuhannya memilih dia, maka Dia menerima tobatnya dan memberinya petunjuk."
+        },
+        {
+            "id": 2471,
+            "surah": 20,
+            "nomor": 123,
+            "ar": "قَالَ اهْبِطَا مِنْهَا جَمِيْعًاۢ بَعْضُكُمْ لِبَعْضٍ عَدُوٌّ ۚفَاِمَّا يَأْتِيَنَّكُمْ مِّنِّيْ هُدًى ەۙ فَمَنِ اتَّبَعَ هُدَايَ فَلَا يَضِلُّ وَلَا يَشْقٰى",
+            "tr": "qālahbiṭā minhā jamī‘am ba‘ḍukum liba‘ḍin ‘aduww(un), fa immā ya'tiyannakum minnī hudā(n), fa manittaba‘a hudāya falā yaḍillu wa lā yasyqā.",
+            "idn": "Dia (Allah) berfirman, “Turunlah kamu berdua dari surga bersama-sama, sebagian kamu menjadi musuh bagi sebagian yang lain. Jika datang kepadamu petunjuk dari-Ku, maka (ketahuilah) barang siapa mengikuti petunjuk-Ku, dia tidak akan sesat dan tidak akan celaka."
+        },
+        {
+            "id": 2472,
+            "surah": 20,
+            "nomor": 124,
+            "ar": "وَمَنْ اَعْرَضَ عَنْ ذِكْرِيْ فَاِنَّ لَهٗ مَعِيْشَةً ضَنْكًا وَّنَحْشُرُهٗ يَوْمَ الْقِيٰمَةِ اَعْمٰى ",
+            "tr": "wa man a‘raḍa ‘an żikrī fa inna lahū ma‘īsyatan ḍankaw wa naḥsyuruhū yaumal-qiyāmati a‘mā.",
+            "idn": "Dan barang siapa berpaling dari peringatan-Ku, maka sungguh, dia akan menjalani kehidupan yang sempit, dan Kami akan mengumpulkannya pada hari Kiamat dalam keadaan buta.”"
+        },
+        {
+            "id": 2473,
+            "surah": 20,
+            "nomor": 125,
+            "ar": "قَالَ رَبِّ لِمَ حَشَرْتَنِيْٓ اَعْمٰى وَقَدْ كُنْتُ بَصِيْرًا ",
+            "tr": "qāla rabbi lima ḥasyartanī a‘mā wa qad kuntu baṣīrā(n).",
+            "idn": "Dia berkata, “Ya Tuhanku, mengapa Engkau kumpulkan aku dalam keadaan buta, padahal dahulu aku dapat melihat?”"
+        },
+        {
+            "id": 2474,
+            "surah": 20,
+            "nomor": 126,
+            "ar": "قَالَ كَذٰلِكَ اَتَتْكَ اٰيٰتُنَا فَنَسِيْتَهَاۚ وَكَذٰلِكَ الْيَوْمَ تُنْسٰى ",
+            "tr": "qāla każālika atatka āyātunā fa nasītahā, wa każālikal-yauma tunsā.",
+            "idn": "Dia (Allah) berfirman, “Demikianlah, dahulu telah datang kepadamu ayat-ayat Kami, dan kamu mengabaikannya, jadi begitu (pula) pada hari ini kamu diabaikan.”"
+        },
+        {
+            "id": 2475,
+            "surah": 20,
+            "nomor": 127,
+            "ar": "وَكَذٰلِكَ نَجْزِيْ مَنْ اَسْرَفَ وَلَمْ يُؤْمِنْۢ بِاٰيٰتِ رَبِّهٖۗ وَلَعَذَابُ الْاٰخِرَةِ اَشَدُّ وَاَبْقٰى ",
+            "tr": "wa każālika najzī man asrafa wa lam yu'mim bi'āyāti rabbih(ī), wa la‘ażābul-ākhirati asyaddu wa abqā.",
+            "idn": "Dan demikianlah Kami membalas orang yang melampaui batas dan tidak percaya kepada ayat-ayat Tuhannya. Sungguh, azab di akhirat itu lebih berat dan lebih kekal. "
+        },
+        {
+            "id": 2476,
+            "surah": 20,
+            "nomor": 128,
+            "ar": "اَفَلَمْ يَهْدِ لَهُمْ كَمْ اَهْلَكْنَا قَبْلَهُمْ مِّنَ الْقُرُوْنِ يَمْشُوْنَ فِيْ مَسٰكِنِهِمْۗ اِنَّ فِيْ ذٰلِكَ لَاٰيٰتٍ لِّاُولِى النُّهٰى ࣖ",
+            "tr": "afalam yahdi lahum kam ahlaknā qablahum minal-qurūni yamsyūna fī masākinihim, inna fī żālika la'āyātil li'ulin nuhā.",
+            "idn": "Maka tidakkah menjadi petunjuk bagi mereka (orang-orang musyrik) berapa banyak (generasi) sebelum mereka yang telah Kami binasakan, padahal mereka melewati (bekas-bekas) tempat tinggal mereka (umat-umat itu)? Sungguh, pada yang demikian itu terdapat tanda-tanda (kekuasaan Allah) bagi orang-orang yang berakal."
+        },
+        {
+            "id": 2477,
+            "surah": 20,
+            "nomor": 129,
+            "ar": "وَلَوْلَا كَلِمَةٌ سَبَقَتْ مِنْ رَّبِّكَ لَكَانَ لِزَامًا وَّاَجَلٌ مُّسَمًّى ۗ",
+            "tr": "wa lau lā kalimatun sabaqat mir rabbika lakāna lizāmaw wa ajalum musammā(n).",
+            "idn": "Dan kalau tidak ada suatu ketetapan terdahulu dari Tuhanmu serta tidak ada batas yang telah ditentukan (ajal), pasti (siksaan itu) menimpa mereka."
+        },
+        {
+            "id": 2478,
+            "surah": 20,
+            "nomor": 130,
+            "ar": "فَاصْبِرْ عَلٰى مَا يَقُوْلُوْنَ وَسَبِّحْ بِحَمْدِ رَبِّكَ قَبْلَ طُلُوْعِ الشَّمْسِ وَقَبْلَ غُرُوْبِهَا ۚوَمِنْ اٰنَاۤئِ الَّيْلِ فَسَبِّحْ وَاَطْرَافَ النَّهَارِ لَعَلَّكَ تَرْضٰى",
+            "tr": "faṣbir ‘alā mā yaqūlūna wa sabbiḥ biḥamdi rabbika qabla ṭulū‘isy-syamsi wa qabla gurūbihā, wa min ānā'il-laili fa sabbiḥ wa aṭrāfan-nahāri la‘allaka tarḍā.",
+            "idn": "Maka sabarlah engkau (Muhammad) atas apa yang mereka katakan, dan bertasbihlah dengan memuji Tuhanmu, sebelum matahari terbit, dan sebelum terbenam; dan bertasbihlah (pula) pada waktu tengah malam dan di ujung siang hari, agar engkau merasa tenang."
+        },
+        {
+            "id": 2479,
+            "surah": 20,
+            "nomor": 131,
+            "ar": "وَلَا تَمُدَّنَّ عَيْنَيْكَ اِلٰى مَا مَتَّعْنَا بِهٖٓ اَزْوَاجًا مِّنْهُمْ زَهْرَةَ الْحَيٰوةِ الدُّنْيَا ەۙ لِنَفْتِنَهُمْ فِيْهِ ۗوَرِزْقُ رَبِّكَ خَيْرٌ وَّاَبْقٰى",
+            "tr": "wa lā tamuddanna ‘ainaika ilā mā matta‘nā bihī azwājam minhum zahratal-ḥayātid-dun-yā, linaftinahum fīh(i), wa rizqu rabbika khairuw wa abqā.",
+            "idn": "Dan janganlah engkau tujukan pandangan matamu kepada kenikmatan yang telah Kami berikan kepada beberapa golongan dari mereka, (sebagai) bunga kehidupan dunia agar Kami uji mereka dengan (kesenangan) itu. Karunia Tuhanmu lebih baik dan lebih kekal."
+        },
+        {
+            "id": 2480,
+            "surah": 20,
+            "nomor": 132,
+            "ar": "وَأْمُرْ اَهْلَكَ بِالصَّلٰوةِ وَاصْطَبِرْ عَلَيْهَاۗ  لَا نَسْـَٔلُكَ رِزْقًاۗ نَحْنُ نَرْزُقُكَۗ وَالْعَاقِبَةُ لِلتَّقْوٰى ",
+            "tr": "wa'mur ahlaka biṣ-ṣalāti waṣṭabir ‘alaihā, lā nas'aluka rizqā(n), naḥnu narzuquk(a), wal-‘āqibatu lit-taqwā.",
+            "idn": "Dan perintahkanlah keluargamu melaksanakan salat dan sabar dalam mengerjakannya. Kami tidak meminta rezeki kepadamu, Kamilah yang memberi rezeki kepadamu. Dan akibat (yang baik di akhirat) adalah bagi orang yang bertakwa."
+        },
+        {
+            "id": 2481,
+            "surah": 20,
+            "nomor": 133,
+            "ar": "وَقَالُوْا لَوْلَا يَأْتِيْنَا بِاٰيَةٍ مِّنْ رَّبِّهٖۗ اَوَلَمْ تَأْتِهِمْ بَيِّنَةُ مَا فِى الصُّحُفِ الْاُوْلٰى ",
+            "tr": "wa qālū lau lā ya'tīnā bi'āyatim mir rabbih(ī), awalam ta'tihim bayyinatu mā fiṣ-ṣuḥufil-ūlā.",
+            "idn": "Dan mereka berkata, “Mengapa dia tidak membawa tanda (bukti) kepada kami dari Tuhannya?” Bukankah telah datang kepada mereka bukti (yang nyata) sebagaimana yang tersebut di dalam kitab-kitab yang dahulu?"
+        },
+        {
+            "id": 2482,
+            "surah": 20,
+            "nomor": 134,
+            "ar": "وَلَوْ اَنَّآ اَهْلَكْنٰهُمْ بِعَذَابٍ مِّنْ قَبْلِهٖ لَقَالُوْا رَبَّنَا لَوْلَآ اَرْسَلْتَ اِلَيْنَا رَسُوْلًا فَنَتَّبِعَ اٰيٰتِكَ مِنْ قَبْلِ اَنْ نَّذِلَّ وَنَخْزٰى ",
+            "tr": "wa lau annā ahlaknāhum bi‘ażābim min qablihī laqālū rabbanā lau lā arsalta ilainā rasūlan fa nattabi‘a āyātika min qabli an nażilla wa nakhzā.",
+            "idn": "Dan kalau mereka Kami binasakan dengan suatu siksaan sebelumnya (Al-Qur'an itu diturunkan), tentulah mereka berkata, “Ya Tuhan kami, mengapa tidak Engkau utus seorang rasul kepada kami, sehingga kami mengikuti ayat-ayat-Mu sebelum kami menjadi hina dan rendah?”"
+        },
+        {
+            "id": 2483,
+            "surah": 20,
+            "nomor": 135,
+            "ar": "قُلْ كُلٌّ مُّتَرَبِّصٌ فَتَرَبَّصُوْاۚ فَسَتَعْلَمُوْنَ مَنْ اَصْحٰبُ الصِّرَاطِ السَّوِيِّ وَمَنِ اهْتَدٰى ࣖ    ۔",
+            "tr": "qul kullum mutarabbiṣun fa tarabbaṣū, fa sata‘lamūna man aṣḥābuṣ-ṣirāṭis-sawiyyi wa manihtadā.",
+            "idn": "Katakanlah (Muhammad), “Masing-masing (kita) menanti, maka nantikanlah olehmu! Dan kelak kamu akan mengetahui, siapa yang menempuh jalan yang lurus, dan siapa yang telah mendapat petunjuk.”"
+        }
+    ],
+    "surat_selanjutnya": {
+        "id": 21,
+        "nomor": 21,
+        "nama": "الانبياۤء",
+        "nama_latin": "Al-Anbiya'",
+        "jumlah_ayat": 112,
+        "tempat_turun": "mekah",
+        "arti": "Para Nabi",
+        "deskripsi": "Surat Al Anbiyaa' yang terdiri atas 112 ayat, termasuk golongan surat Makkiyyah. Dinamai surat ini dengan <i>al anbiyaa'</i>(nabi-nabi), karena surat ini mengutarakan kisah beberapa orang nabi. Permulaan surat Al Anbiyaa' menegaskan bahwa manusia lalai dalam menghadapi hari berhisab, kemudian berhubung adanya pengingkaran kaum musyrik Mekah terhadap wahyu yang dibawa Nabi Muhammad s.a.w. maka ditegaskan Allah, kendatipun nabi-nabi itu manusia biasa, akan tetapi masing-masing mereka adalah manusia yang membawa wahyu yang pokok ajarannya adalah tauhid, dan keharusan manusia menyembah Allah Tuhan Penciptanya. Orang yang tidak mau mengakui kekuasaan Allah dan mengingkari ajaran yang dibawa oleh nabi-nabi itu, akan diazab Allah didunia dan di akhirat nanti. Kemudian dikemukakan kisah beberapa orang nabi dengan umatnya. Akhirnya surat itu ditutup dengan seruan agar kaum musyrik Mekah percaya kepada ajaran yang dibawa Muhammad s.a.w supaya tidak mengalami apa yang telah dialami oleh umat-umat yang dahulu.",
+        "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/021.mp3"
+    },
+    "surat_sebelumnya": {
+        "id": 19,
+        "nomor": 19,
+        "nama": "مريم",
+        "nama_latin": "Maryam",
+        "jumlah_ayat": 98,
+        "tempat_turun": "mekah",
+        "arti": "Maryam",
+        "deskripsi": "Surat Maryam terdiri atas 98 ayat, termasuk golongan surat-surat Makkiyyah, karena hampir seluruh ayatnya diturunkan sebelum Nabi Muhammad s.a.w. hijrah ke Madinah, bahkan sebelum sahabat-sahabat beliau hijrah ke negeri Habsyi. Menurut riwayat Ibnu Mas'ud, Ja'far bin Abi Thalib membacakan permulaan surat Maryam ini kepada raja Najasyi dan pengikut-pengikutnya di waktu ia ikut hijrah bersama-sama sahabat-sahabat yang lain ke negeri Habsyi.<br>Surat ini dinamai <i>Maryam</i>, karena surat ini mengandung kisah Maryam, ibu Nabi Isa a.s. yang serba ajaib, yaitu melahirkan puteranya lsa a.s., sedang ia sebelumnya belum pernah dikawini atau dicampuri oleh seorang laki-laki pun. Kelahiran Isa a.s. tanpa bapa, merupakan suatu bukti kekuasaan Allah s.w.t.  Pengutaraan kisah Maryam sebagai kejadian yang luar biasa dan ajaib dalam surat ini, diawali dengan kisah kejadian yang luar biasa dan ajaib pula, yaitu dikabulkannya doa Zakaria a.s. oleh Allah s.w.t., agar beliau dianugerahi seorang putera sebagai pewaris dan pelanjut cita-cita dan kepercayaan beliau, sedang usia beliau sudah sangat tua dan isteri beliau seorang yang mandul yang menurut ukuran ilmu biologi tidak mungkin akan terjadi.",
+        "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/019.mp3"
+    }
+}

@@ -1,0 +1,659 @@
+{
+    "nomor": 55,
+    "nama": "الرحمن",
+    "nama_latin": "Ar-Rahman",
+    "jumlah_ayat": 78,
+    "tempat_turun": "madinah",
+    "arti": "Maha Pengasih",
+    "deskripsi": "Surat Ar Rahmaan terdiri atas 78 ayat, termasuk golongan surat- surat Makkiyyah, diturunkan sesudah surat Ar Ra'du. Dinamai <i>Ar Rahmaan</i> (Yang Maha Pemurah), diambil dari perkataan <i>Ar Rahmaan</i> yang terdapat pada ayat pertama surat ini. Ar Rahmaan adalah salah satu dari nama-nama Allah. Sebagian besar dari surat ini menerangkan kepemurahan Allah s.w.t. kepada hamba-hamba-Nya, yaitu dengan memberikan nikmat-nikmat yang tidak terhingga baik di dunia maupun di akhirat nanti.",
+    "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/055.mp3",
+    "status": true,
+    "ayat": [
+        {
+            "id": 4902,
+            "surah": 55,
+            "nomor": 1,
+            "ar": "اَلرَّحْمٰنُۙ  ",
+            "tr": "ar-raḥmān(u).",
+            "idn": "(Allah) Yang Maha Pengasih,"
+        },
+        {
+            "id": 4903,
+            "surah": 55,
+            "nomor": 2,
+            "ar": "عَلَّمَ الْقُرْاٰنَۗ ",
+            "tr": "‘allamal-qur'ān(a).",
+            "idn": "Yang telah mengajarkan Al-Qur'an."
+        },
+        {
+            "id": 4904,
+            "surah": 55,
+            "nomor": 3,
+            "ar": "خَلَقَ الْاِنْسَانَۙ ",
+            "tr": "khalaqal-insān(a).",
+            "idn": "Dia menciptakan manusia, "
+        },
+        {
+            "id": 4905,
+            "surah": 55,
+            "nomor": 4,
+            "ar": "عَلَّمَهُ الْبَيَانَ ",
+            "tr": "‘allamahul-bayān(a).",
+            "idn": "mengajarnya pandai berbicara."
+        },
+        {
+            "id": 4906,
+            "surah": 55,
+            "nomor": 5,
+            "ar": "اَلشَّمْسُ وَالْقَمَرُ بِحُسْبَانٍۙ ",
+            "tr": "asy-syamsu wal-qamaru biḥusbān(in).",
+            "idn": "Matahari dan bulan beredar menurut perhitungan,"
+        },
+        {
+            "id": 4907,
+            "surah": 55,
+            "nomor": 6,
+            "ar": "وَّالنَّجْمُ وَالشَّجَرُ يَسْجُدَانِ ",
+            "tr": "wan-najmu wasy-syajaru yasjudān(i).",
+            "idn": "dan tetumbuhan dan pepohonan, keduanya tunduk (kepada-Nya). "
+        },
+        {
+            "id": 4908,
+            "surah": 55,
+            "nomor": 7,
+            "ar": "وَالسَّمَاۤءَ رَفَعَهَا وَوَضَعَ الْمِيْزَانَۙ  ",
+            "tr": "was-samā'a rafa‘ahā wa waḍa‘al-mīzān(a).",
+            "idn": "Dan langit telah ditinggikan-Nya dan Dia ciptakan keseimbangan,"
+        },
+        {
+            "id": 4909,
+            "surah": 55,
+            "nomor": 8,
+            "ar": "اَلَّا تَطْغَوْا فِى الْمِيْزَانِ ",
+            "tr": "allā taṭgau fil-mīzān(i).",
+            "idn": "agar kamu jangan merusak keseimbangan itu, "
+        },
+        {
+            "id": 4910,
+            "surah": 55,
+            "nomor": 9,
+            "ar": "وَاَقِيْمُوا الْوَزْنَ بِالْقِسْطِ وَلَا تُخْسِرُوا الْمِيْزَانَ ",
+            "tr": "wa aqīmul-wazna bil-qisṭi wa lā tukhsirul-mīzān(a).",
+            "idn": "dan tegakkanlah keseimbangan itu dengan adil dan janganlah kamu mengurangi keseimbangan itu. "
+        },
+        {
+            "id": 4911,
+            "surah": 55,
+            "nomor": 10,
+            "ar": "وَالْاَرْضَ وَضَعَهَا لِلْاَنَامِۙ  ",
+            "tr": "wal-arḍa waḍa‘ahā lil-anām(i).",
+            "idn": "Dan bumi telah dibentangkan-Nya untuk makhluk(-Nya), "
+        },
+        {
+            "id": 4912,
+            "surah": 55,
+            "nomor": 11,
+            "ar": "فِيْهَا فَاكِهَةٌ وَّالنَّخْلُ ذَاتُ الْاَكْمَامِۖ  ",
+            "tr": "fīhā fākihatuw wan-nakhlu żātul-akmām(i).",
+            "idn": "di dalamnya ada buah-buahan dan pohon kurma yang mempunyai kelopak mayang, "
+        },
+        {
+            "id": 4913,
+            "surah": 55,
+            "nomor": 12,
+            "ar": "وَالْحَبُّ ذُو الْعَصْفِ وَالرَّيْحَانُۚ  ",
+            "tr": "wal-ḥabbu żul-‘aṣfi war-raiḥān(u).",
+            "idn": "dan biji-bijian yang berkulit dan bunga-bunga yang harum baunya. "
+        },
+        {
+            "id": 4914,
+            "surah": 55,
+            "nomor": 13,
+            "ar": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِ ",
+            "tr": "fa bi'ayyi ālā'i rabbikumā tukażżibān(i).",
+            "idn": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan? "
+        },
+        {
+            "id": 4915,
+            "surah": 55,
+            "nomor": 14,
+            "ar": "خَلَقَ الْاِنْسَانَ مِنْ صَلْصَالٍ كَالْفَخَّارِ ",
+            "tr": "khalaqal-insāna min ṣalṣālin kal-fakhkhār(i).",
+            "idn": "Dia menciptakan manusia dari tanah kering seperti tembikar,"
+        },
+        {
+            "id": 4916,
+            "surah": 55,
+            "nomor": 15,
+            "ar": "وَخَلَقَ الْجَاۤنَّ مِنْ مَّارِجٍ مِّنْ نَّارٍۚ  ",
+            "tr": "wa khalaqal-jānna mim mārijim min nār(in).",
+            "idn": "dan Dia menciptakan jin dari nyala api tanpa asap."
+        },
+        {
+            "id": 4917,
+            "surah": 55,
+            "nomor": 16,
+            "ar": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِ ",
+            "tr": "fa bi'ayyi ālā'i rabbikumā tukażżibān(i).",
+            "idn": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+        },
+        {
+            "id": 4918,
+            "surah": 55,
+            "nomor": 17,
+            "ar": "رَبُّ الْمَشْرِقَيْنِ وَرَبُّ الْمَغْرِبَيْنِۚ ",
+            "tr": "rabbul-masyriqaini wa rabbul-magribain(i).",
+            "idn": "Tuhan (yang memelihara) dua timur dan Tuhan (yang memelihara) dua barat."
+        },
+        {
+            "id": 4919,
+            "surah": 55,
+            "nomor": 18,
+            "ar": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِ ",
+            "tr": "fa bi'ayyi ālā'i rabbikumā tukażżibān(i).",
+            "idn": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+        },
+        {
+            "id": 4920,
+            "surah": 55,
+            "nomor": 19,
+            "ar": "مَرَجَ الْبَحْرَيْنِ يَلْتَقِيٰنِۙ",
+            "tr": "marajal-baḥraini yaltaqiyān(i).",
+            "idn": "Dia membiarkan dua laut mengalir yang (kemudian) keduanya bertemu, "
+        },
+        {
+            "id": 4921,
+            "surah": 55,
+            "nomor": 20,
+            "ar": "بَيْنَهُمَا بَرْزَخٌ لَّا يَبْغِيٰنِۚ",
+            "tr": "bainahumā barzakhul lā yabgiyān(i).",
+            "idn": "di antara keduanya ada batas yang tidak dilampaui oleh masing-masing."
+        },
+        {
+            "id": 4922,
+            "surah": 55,
+            "nomor": 21,
+            "ar": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِ ",
+            "tr": "fa bi'ayyi ālā'i rabbikumā tukażżibān(i).",
+            "idn": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+        },
+        {
+            "id": 4923,
+            "surah": 55,
+            "nomor": 22,
+            "ar": "يَخْرُجُ مِنْهُمَا اللُّؤْلُؤُ وَالْمَرْجَانُۚ",
+            "tr": "yakhruju minhumal-lu'lu'u wal-marjān(u).",
+            "idn": "Dari keduanya keluar mutiara dan marjan."
+        },
+        {
+            "id": 4924,
+            "surah": 55,
+            "nomor": 23,
+            "ar": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِ ",
+            "tr": "fa bi'ayyi ālā'i rabbikumā tukażżibān(i).",
+            "idn": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan? "
+        },
+        {
+            "id": 4925,
+            "surah": 55,
+            "nomor": 24,
+            "ar": "وَلَهُ الْجَوَارِ الْمُنْشَاٰتُ فِى الْبَحْرِ كَالْاَعْلَامِۚ  ",
+            "tr": "wa lahul-jawāril-munsya'ātu fil-baḥri kal-a‘lām(i).",
+            "idn": "Milik-Nyalah kapal-kapal yang berlayar di lautan bagaikan gunung-gunung."
+        },
+        {
+            "id": 4926,
+            "surah": 55,
+            "nomor": 25,
+            "ar": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِ ࣖ ",
+            "tr": "fa bi'ayyi ālā'i rabbikumā tukażżibān(i).",
+            "idn": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan? "
+        },
+        {
+            "id": 4927,
+            "surah": 55,
+            "nomor": 26,
+            "ar": "كُلُّ مَنْ عَلَيْهَا فَانٍۖ  ",
+            "tr": "kullu man ‘alaihā fān(in).",
+            "idn": "Semua yang ada di bumi itu akan binasa, "
+        },
+        {
+            "id": 4928,
+            "surah": 55,
+            "nomor": 27,
+            "ar": "وَّيَبْقٰى وَجْهُ رَبِّكَ ذُو الْجَلٰلِ وَالْاِكْرَامِۚ  ",
+            "tr": "wa yabqā wajhu rabbika żul-jalāli wal-ikrām(i).",
+            "idn": "tetapi wajah Tuhanmu yang memiliki kebesaran dan kemuliaan tetap kekal. "
+        },
+        {
+            "id": 4929,
+            "surah": 55,
+            "nomor": 28,
+            "ar": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِ ",
+            "tr": "fa bi'ayyi ālā'i rabbikumā tukażżibān(i).",
+            "idn": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+        },
+        {
+            "id": 4930,
+            "surah": 55,
+            "nomor": 29,
+            "ar": "يَسْـَٔلُهٗ مَنْ فِى السَّمٰوٰتِ وَالْاَرْضِۗ  كُلَّ يَوْمٍ هُوَ فِيْ شَأْنٍۚ",
+            "tr": "yas'aluhū man fis-samāwāti wal-arḍ(i), kulla yaumin huwa fī sya'n(in).",
+            "idn": "Apa yang di langit dan di bumi selalu meminta kepada-Nya. Setiap waktu Dia dalam kesibukan. "
+        },
+        {
+            "id": 4931,
+            "surah": 55,
+            "nomor": 30,
+            "ar": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِ ",
+            "tr": "fa bi'ayyi ālā'i rabbikumā tukażżibān(i).",
+            "idn": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+        },
+        {
+            "id": 4932,
+            "surah": 55,
+            "nomor": 31,
+            "ar": "سَنَفْرُغُ لَكُمْ اَيُّهَ الثَّقَلٰنِۚ  ",
+            "tr": "sanafrugu lakum ayyuhaṡ-ṡaqalān(i).",
+            "idn": "Kami akan memberi perhatian sepenuhnya kepadamu wahai (golongan) manusia dan jin! "
+        },
+        {
+            "id": 4933,
+            "surah": 55,
+            "nomor": 32,
+            "ar": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِ ",
+            "tr": "fa bi'ayyi ālā'i rabbikumā tukażżibān(i).",
+            "idn": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+        },
+        {
+            "id": 4934,
+            "surah": 55,
+            "nomor": 33,
+            "ar": "يٰمَعْشَرَ الْجِنِّ وَالْاِنْسِ اِنِ اسْتَطَعْتُمْ اَنْ تَنْفُذُوْا مِنْ اَقْطَارِ السَّمٰوٰتِ وَالْاَرْضِ فَانْفُذُوْاۗ  لَا تَنْفُذُوْنَ اِلَّا بِسُلْطٰنٍۚ ",
+            "tr": "yā ma‘syaral-jinni wal-insi inistaṭa‘tum an tanfużū min aqṭāris-samāwāti wal-arḍi fanfużū, lā tanfużūna illā bisulṭān(in).",
+            "idn": "Wahai golongan jin dan manusia! Jika kamu sanggup menembus (melintasi) penjuru langit dan bumi, maka tembuslah. Kamu tidak akan mampu menembusnya kecuali dengan kekuatan (dari Allah). "
+        },
+        {
+            "id": 4935,
+            "surah": 55,
+            "nomor": 34,
+            "ar": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِ ",
+            "tr": "fa bi'ayyi ālā'i rabbikumā tukażżibān(i).",
+            "idn": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+        },
+        {
+            "id": 4936,
+            "surah": 55,
+            "nomor": 35,
+            "ar": "يُرْسَلُ عَلَيْكُمَا شُوَاظٌ مِّنْ نَّارٍۙ وَّنُحَاسٌ فَلَا تَنْتَصِرَانِۚ ",
+            "tr": "yursalu ‘alaikumā syuwāẓum min nār(in), wa nuḥāsun falā tantaṣirān(i).",
+            "idn": "Kepada kamu (jin dan manusia), akan dikirim nyala api dan cairan tembaga (panas) sehingga kamu tidak dapat menyelamatkan diri (darinya)."
+        },
+        {
+            "id": 4937,
+            "surah": 55,
+            "nomor": 36,
+            "ar": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِ ",
+            "tr": "fa bi'ayyi ālā'i rabbikumā tukażżibān(i).",
+            "idn": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+        },
+        {
+            "id": 4938,
+            "surah": 55,
+            "nomor": 37,
+            "ar": "فَاِذَا انْشَقَّتِ السَّمَاۤءُ فَكَانَتْ وَرْدَةً كَالدِّهَانِۚ ",
+            "tr": "fa iżansyaqqatis-samā'u fa kānat wardatan kad-dihān(i).",
+            "idn": "Maka apabila langit telah terbelah dan menjadi merah mawar seperti (kilauan) minyak. "
+        },
+        {
+            "id": 4939,
+            "surah": 55,
+            "nomor": 38,
+            "ar": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِ ",
+            "tr": "fa bi'ayyi ālā'i rabbikumā tukażżibān(i).",
+            "idn": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+        },
+        {
+            "id": 4940,
+            "surah": 55,
+            "nomor": 39,
+            "ar": "فَيَوْمَئِذٍ لَّا يُسْـَٔلُ عَنْ ذَنْۢبِهٖٓ اِنْسٌ وَّلَا جَاۤنٌّۚ  ",
+            "tr": "fa yauma'iżil lā yus'alu ‘an żambihī insuw wa lā jānn(un).",
+            "idn": "Maka pada hari itu manusia dan jin tidak ditanya tentang dosanya. "
+        },
+        {
+            "id": 4941,
+            "surah": 55,
+            "nomor": 40,
+            "ar": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِ  ",
+            "tr": "fa bi'ayyi ālā'i rabbikumā tukażżibān(i).",
+            "idn": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+        },
+        {
+            "id": 4942,
+            "surah": 55,
+            "nomor": 41,
+            "ar": "يُعْرَفُ الْمُجْرِمُوْنَ بِسِيْمٰهُمْ فَيُؤْخَذُ بِالنَّوَاصِيْ وَالْاَقْدَامِۚ  ",
+            "tr": "yu‘raful-mujrimūna bisīmāhum fa yu'khażu bin-nawāṣī wal-iqdām(i).",
+            "idn": "Orang-orang yang berdosa itu diketahui dengan tanda-tandanya, lalu direnggut ubun-ubun dan kakinya."
+        },
+        {
+            "id": 4943,
+            "surah": 55,
+            "nomor": 42,
+            "ar": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِ ",
+            "tr": "fa bi'ayyi ālā'i rabbikumā tukażżibān(i).",
+            "idn": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+        },
+        {
+            "id": 4944,
+            "surah": 55,
+            "nomor": 43,
+            "ar": "هٰذِهٖ جَهَنَّمُ الَّتِيْ يُكَذِّبُ بِهَا الْمُجْرِمُوْنَۘ ",
+            "tr": "hāżihī jahannamul-latī yukażżibu bihal-mujrimūn(a).",
+            "idn": "Inilah neraka Jahanam yang didustakan oleh orang-orang yang berdosa."
+        },
+        {
+            "id": 4945,
+            "surah": 55,
+            "nomor": 44,
+            "ar": "يَطُوْفُوْنَ بَيْنَهَا وَبَيْنَ حَمِيْمٍ اٰنٍۚ  ",
+            "tr": "yaṭūfūna bainahā wa baina ḥamīmin ān(in).",
+            "idn": "Mereka berkeliling di sana dan di antara air yang mendidih. "
+        },
+        {
+            "id": 4946,
+            "surah": 55,
+            "nomor": 45,
+            "ar": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِ ࣖ",
+            "tr": "fa bi'ayyi ālā'i rabbikumā tukażżibān(i).",
+            "idn": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+        },
+        {
+            "id": 4947,
+            "surah": 55,
+            "nomor": 46,
+            "ar": "وَلِمَنْ خَافَ مَقَامَ رَبِّهٖ جَنَّتٰنِۚ",
+            "tr": "wa liman khāfa maqāma rabbihī jannatān(i).",
+            "idn": "Dan bagi siapa yang takut akan saat menghadap Tuhannya ada dua surga."
+        },
+        {
+            "id": 4948,
+            "surah": 55,
+            "nomor": 47,
+            "ar": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِۙ ",
+            "tr": "fa bi'ayyi ālā'i rabbikumā tukażżibān(i).",
+            "idn": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+        },
+        {
+            "id": 4949,
+            "surah": 55,
+            "nomor": 48,
+            "ar": "ذَوَاتَآ اَفْنَانٍۚ ",
+            "tr": "Żawātā afnān(in).",
+            "idn": "kedua surga itu mempunyai aneka pepohonan dan buah-buahan."
+        },
+        {
+            "id": 4950,
+            "surah": 55,
+            "nomor": 49,
+            "ar": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِ ",
+            "tr": "fabi'ayyi ālā'i rabbikumā tukażżibān(i).",
+            "idn": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+        },
+        {
+            "id": 4951,
+            "surah": 55,
+            "nomor": 50,
+            "ar": "فِيْهِمَا عَيْنٰنِ تَجْرِيٰنِۚ ",
+            "tr": "fīhimā ‘aināni tajriyān(i).",
+            "idn": "Di dalam kedua surga itu ada dua buah mata air yang memancar."
+        },
+        {
+            "id": 4952,
+            "surah": 55,
+            "nomor": 51,
+            "ar": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِ ",
+            "tr": "fa bi'ayyi ālā'i rabbikumā tukażżibān(i).",
+            "idn": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+        },
+        {
+            "id": 4953,
+            "surah": 55,
+            "nomor": 52,
+            "ar": "فِيْهِمَا مِنْ كُلِّ فَاكِهَةٍ زَوْجٰنِۚ ",
+            "tr": "fīhimā min kulli fākihatin zaujān(i).",
+            "idn": "Di dalam kedua surga itu terdapat aneka buah-buahan yang berpasang-pasangan. "
+        },
+        {
+            "id": 4954,
+            "surah": 55,
+            "nomor": 53,
+            "ar": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِۚ ",
+            "tr": "fa bi'ayyi ālā'i rabbikumā tukażżibān(i).",
+            "idn": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+        },
+        {
+            "id": 4955,
+            "surah": 55,
+            "nomor": 54,
+            "ar": "مُتَّكِـِٕيْنَ عَلٰى فُرُشٍۢ بَطَاۤىِٕنُهَا مِنْ اِسْتَبْرَقٍۗ وَجَنَا الْجَنَّتَيْنِ دَانٍۚ ",
+            "tr": "muttaki'īna ‘alā furusyim baṭā'inuhā min istabraq(in), wa janal-jannataini dān(in).",
+            "idn": "Mereka bersandar di atas permadani yang bagian dalamnya dari sutera tebal. Dan buah-buahan di kedua surga itu dapat (dipetik) dari dekat. "
+        },
+        {
+            "id": 4956,
+            "surah": 55,
+            "nomor": 55,
+            "ar": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِ ",
+            "tr": "fa bi'ayyi ālā'i rabbikumā tukażżibān(i).",
+            "idn": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+        },
+        {
+            "id": 4957,
+            "surah": 55,
+            "nomor": 56,
+            "ar": "فِيْهِنَّ قٰصِرٰتُ الطَّرْفِۙ لَمْ يَطْمِثْهُنَّ اِنْسٌ قَبْلَهُمْ وَلَا جَاۤنٌّۚ  ",
+            "tr": "fīhinna qāṣirātuṭ-ṭarf(i), lam yaṭmiṡhunna insun qablahum wa lā jānn(un).",
+            "idn": "Di dalam surga itu ada bidadari-bidadari yang membatasi pandangan, yang tidak pernah disentuh oleh manusia maupun jin sebelumnya. "
+        },
+        {
+            "id": 4958,
+            "surah": 55,
+            "nomor": 57,
+            "ar": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِۚ ",
+            "tr": "fa bi'ayyi ālā'i rabbikumā tukażżibān(i).",
+            "idn": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+        },
+        {
+            "id": 4959,
+            "surah": 55,
+            "nomor": 58,
+            "ar": "كَاَنَّهُنَّ الْيَاقُوْتُ وَالْمَرْجَانُۚ ",
+            "tr": "ka'annahunnal-yāqūtu wal-marjān(u).",
+            "idn": "Seakan-akan mereka itu permata yakut dan marjan. "
+        },
+        {
+            "id": 4960,
+            "surah": 55,
+            "nomor": 59,
+            "ar": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِ",
+            "tr": "fa bi'ayyi ālā'i rabbikumā tukażżibān(i).",
+            "idn": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+        },
+        {
+            "id": 4961,
+            "surah": 55,
+            "nomor": 60,
+            "ar": "هَلْ جَزَاۤءُ الْاِحْسَانِ اِلَّا الْاِحْسَانُۚ ",
+            "tr": "hal jazā'ul-iḥsāni illal-iḥsān(u).",
+            "idn": "Tidak ada balasan untuk kebaikan selain kebaikan (pula)."
+        },
+        {
+            "id": 4962,
+            "surah": 55,
+            "nomor": 61,
+            "ar": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِ ",
+            "tr": "fa bi'ayyi ālā'i rabbikumā tukażżibān(i).",
+            "idn": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+        },
+        {
+            "id": 4963,
+            "surah": 55,
+            "nomor": 62,
+            "ar": "وَمِنْ دُوْنِهِمَا جَنَّتٰنِۚ ",
+            "tr": "wa min dūnihimā jannatān(i).",
+            "idn": "Dan selain dari dua surga itu ada dua surga lagi."
+        },
+        {
+            "id": 4964,
+            "surah": 55,
+            "nomor": 63,
+            "ar": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِۙ ",
+            "tr": "fa bi'ayyi ālā'i rabbikumā tukażżibān(i).",
+            "idn": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan,"
+        },
+        {
+            "id": 4965,
+            "surah": 55,
+            "nomor": 64,
+            "ar": "مُدْهَاۤمَّتٰنِۚ  ",
+            "tr": "mudhāmmatān(i).",
+            "idn": "kedua surga itu (kelihatan) hijau tua warnanya."
+        },
+        {
+            "id": 4966,
+            "surah": 55,
+            "nomor": 65,
+            "ar": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِ ",
+            "tr": "fa bi'ayyi ālā'i rabbikumā tukażżibān(i).",
+            "idn": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+        },
+        {
+            "id": 4967,
+            "surah": 55,
+            "nomor": 66,
+            "ar": "فِيْهِمَا عَيْنٰنِ نَضَّاخَتٰنِۚ ",
+            "tr": "fīhimā ‘aināni naḍḍākhatān(i).",
+            "idn": "Di dalam keduanya (surga itu) ada dua buah mata air yang memancar."
+        },
+        {
+            "id": 4968,
+            "surah": 55,
+            "nomor": 67,
+            "ar": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِۚ  ",
+            "tr": "fa bi'ayyi ālā'i rabbikumā tukażżibān(i).",
+            "idn": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+        },
+        {
+            "id": 4969,
+            "surah": 55,
+            "nomor": 68,
+            "ar": "فِيْهِمَا فَاكِهَةٌ وَّنَخْلٌ وَّرُمَّانٌۚ  ",
+            "tr": "fīhimā fākihatuw wa nakhluw wa rummān(un).",
+            "idn": "Di dalam kedua surga itu ada buah-buahan, kurma dan delima."
+        },
+        {
+            "id": 4970,
+            "surah": 55,
+            "nomor": 69,
+            "ar": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِۚ ",
+            "tr": "fa bi'ayyi ālā'i rabbikumā tukażżibān(i).",
+            "idn": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+        },
+        {
+            "id": 4971,
+            "surah": 55,
+            "nomor": 70,
+            "ar": "فِيْهِنَّ خَيْرٰتٌ حِسَانٌۚ  ",
+            "tr": "fīhinna khairātun ḥisān(un).",
+            "idn": "Di dalam surga-surga itu ada bidadari-bidadari yang baik-baik dan jelita."
+        },
+        {
+            "id": 4972,
+            "surah": 55,
+            "nomor": 71,
+            "ar": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِۚ ",
+            "tr": "fa bi'ayyi ālā'i rabbikumā tukażżibān(i).",
+            "idn": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+        },
+        {
+            "id": 4973,
+            "surah": 55,
+            "nomor": 72,
+            "ar": "حُوْرٌ مَّقْصُوْرٰتٌ فِى الْخِيَامِۚ  ",
+            "tr": "Ḥūrum maqṣūrātun fil-khiyām(i).",
+            "idn": "Bidadari-bidadari yang dipelihara di dalam kemah-kemah."
+        },
+        {
+            "id": 4974,
+            "surah": 55,
+            "nomor": 73,
+            "ar": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِۚ  ",
+            "tr": "fa bi'ayyi ālā'i rabbikumā tukażżibān(i).",
+            "idn": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+        },
+        {
+            "id": 4975,
+            "surah": 55,
+            "nomor": 74,
+            "ar": "لَمْ يَطْمِثْهُنَّ اِنْسٌ قَبْلَهُمْ وَلَا جَاۤنٌّۚ  ",
+            "tr": "lam yaṭmiṡhunna insun qablahum wa lā jānn(un).",
+            "idn": "Mereka tidak pernah disentuh oleh manusia maupun oleh jin sebelumnya."
+        },
+        {
+            "id": 4976,
+            "surah": 55,
+            "nomor": 75,
+            "ar": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِۚ  ",
+            "tr": "fa bi'ayyi ālā'i rabbikumā tukażżibān(i).",
+            "idn": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+        },
+        {
+            "id": 4977,
+            "surah": 55,
+            "nomor": 76,
+            "ar": "مُتَّكِـِٕيْنَ عَلٰى رَفْرَفٍ خُضْرٍ وَّعَبْقَرِيٍّ حِسَانٍۚ  ",
+            "tr": "muttaki'īna ‘alā rafrafin khuḍriw wa ‘abqariyyin ḥisān(in).",
+            "idn": "Mereka bersandar pada bantal-bantal yang hijau dan permadani-permadani yang indah."
+        },
+        {
+            "id": 4978,
+            "surah": 55,
+            "nomor": 77,
+            "ar": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِۚ ",
+            "tr": "fa bi'ayyi ālā'i rabbikumā tukażżibān(i).",
+            "idn": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+        },
+        {
+            "id": 4979,
+            "surah": 55,
+            "nomor": 78,
+            "ar": "تَبٰرَكَ اسْمُ رَبِّكَ ذِى الْجَلٰلِ وَالْاِكْرَامِ ࣖ ",
+            "tr": "tabārakasmu rabbika żil-jalāli wal-ikrām(i).",
+            "idn": "Mahasuci nama Tuhanmu Pemilik Keagungan dan Kemuliaan."
+        }
+    ],
+    "surat_selanjutnya": {
+        "id": 56,
+        "nomor": 56,
+        "nama": "الواقعة",
+        "nama_latin": "Al-Waqi'ah",
+        "jumlah_ayat": 96,
+        "tempat_turun": "mekah",
+        "arti": "Hari Kiamat",
+        "deskripsi": "Surat Al Waaqi'ah terdiri atas 96 ayat, termasuk golongan surat-surat Makkiyah, diturunkan sesudah surat Thaa Haa. \tDinamai dengan <i>Al Waaqi'ah</i> (Hari Kiamat), diambil dari perkataan <i>Al Waaqi'ah</i> yang terdapat pada ayat pertama surat ini.",
+        "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/056.mp3"
+    },
+    "surat_sebelumnya": {
+        "id": 54,
+        "nomor": 54,
+        "nama": "القمر",
+        "nama_latin": "Al-Qamar",
+        "jumlah_ayat": 55,
+        "tempat_turun": "mekah",
+        "arti": "Bulan",
+        "deskripsi": "Surat Al Qamar terdiri atas 55 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesedah surat Ath Thaariq. Nama <i>Al Qamar</i> (bulan) diambil dari perkataan <i>Al Qamar</i> yang terdapat pada ayat pertama surat ini. Pada ayat ini diterangkan tentang terbelahnya bulan sebagai mukjizat Nabi Muhammad s.a.w.",
+        "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/054.mp3"
+    }
+}

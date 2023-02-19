@@ -1,0 +1,267 @@
+{
+    "nomor": 81,
+    "nama": "التكوير",
+    "nama_latin": "At-Takwir",
+    "jumlah_ayat": 29,
+    "tempat_turun": "mekah",
+    "arti": "Penggulungan",
+    "deskripsi": "Surat At Takwir terdiri atas 29 ayat dan termasuk golongan surat-surat Makkiyah, diturunkan sesudah surat Al Masadd. Kata <i>At Takwir</i> (terbelah) yang menjadi nama bagi surat ini adalah dari kata asal (mashdar) dari kata kerja <i>kuwwirat</i> (digulung) yang terdapat pada ayat pertama surat ini.",
+    "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/081.mp3",
+    "status": true,
+    "ayat": [
+        {
+            "id": 5801,
+            "surah": 81,
+            "nomor": 1,
+            "ar": "اِذَا الشَّمْسُ كُوِّرَتْۖ",
+            "tr": "iżasy-syamsu kuwwirat.",
+            "idn": "Apabila matahari digulung,"
+        },
+        {
+            "id": 5802,
+            "surah": 81,
+            "nomor": 2,
+            "ar": "وَاِذَا النُّجُوْمُ انْكَدَرَتْۖ",
+            "tr": "wa iżan-nujūmunkadarat.",
+            "idn": "dan apabila bintang-bintang berjatuhan,"
+        },
+        {
+            "id": 5803,
+            "surah": 81,
+            "nomor": 3,
+            "ar": "وَاِذَا الْجِبَالُ سُيِّرَتْۖ",
+            "tr": "wa iżal-jibālu suyyirat.",
+            "idn": "dan apabila gunung-gunung dihancurkan,"
+        },
+        {
+            "id": 5804,
+            "surah": 81,
+            "nomor": 4,
+            "ar": "وَاِذَا الْعِشَارُ عُطِّلَتْۖ",
+            "tr": "wa iżal-‘isyāru ‘uṭṭilat.",
+            "idn": "dan apabila unta-unta yang bunting ditinggalkan (tidak terurus),"
+        },
+        {
+            "id": 5805,
+            "surah": 81,
+            "nomor": 5,
+            "ar": "وَاِذَا الْوُحُوْشُ حُشِرَتْۖ",
+            "tr": "wa iżal-wuḥūsy ḥusyirat.",
+            "idn": "dan apabila binatang-binatang liar dikumpulkan,"
+        },
+        {
+            "id": 5806,
+            "surah": 81,
+            "nomor": 6,
+            "ar": "وَاِذَا الْبِحَارُ سُجِّرَتْۖ",
+            "tr": "wa iżal-biḥāru sujjirat.",
+            "idn": "dan apabila lautan dipanaskan,"
+        },
+        {
+            "id": 5807,
+            "surah": 81,
+            "nomor": 7,
+            "ar": "وَاِذَا النُّفُوْسُ زُوِّجَتْۖ",
+            "tr": "wa iżan-nufūsu zuwwijat.",
+            "idn": "dan apabila roh-roh dipertemukan (dengan tubuh), "
+        },
+        {
+            "id": 5808,
+            "surah": 81,
+            "nomor": 8,
+            "ar": "وَاِذَا الْمَوْءٗدَةُ سُىِٕلَتْۖ ",
+            "tr": "wa iżal-mau'ūdatu su'ilat.",
+            "idn": "dan apabila bayi-bayi perempuan yang dikubur hidup-hidup ditanya, "
+        },
+        {
+            "id": 5809,
+            "surah": 81,
+            "nomor": 9,
+            "ar": "بِاَيِّ ذَنْۢبٍ قُتِلَتْۚ",
+            "tr": "bi'ayyi żambin qutilat.",
+            "idn": "karena dosa apa dia dibunuh? "
+        },
+        {
+            "id": 5810,
+            "surah": 81,
+            "nomor": 10,
+            "ar": "وَاِذَا الصُّحُفُ نُشِرَتْۖ",
+            "tr": "wa iżaṣ-ṣuḥufu nusyirat.",
+            "idn": "Dan apabila lembaran-lembaran (catatan amal) telah dibuka lebar-lebar, "
+        },
+        {
+            "id": 5811,
+            "surah": 81,
+            "nomor": 11,
+            "ar": "وَاِذَا السَّمَاۤءُ كُشِطَتْۖ",
+            "tr": "wa iżas-samā'u kusyiṭat.",
+            "idn": "dan apabila langit dilenyapkan, "
+        },
+        {
+            "id": 5812,
+            "surah": 81,
+            "nomor": 12,
+            "ar": "وَاِذَا الْجَحِيْمُ سُعِّرَتْۖ",
+            "tr": "wa iżal-jaḥīmu su‘‘irat.",
+            "idn": "dan apabila neraka Jahim dinyalakan, "
+        },
+        {
+            "id": 5813,
+            "surah": 81,
+            "nomor": 13,
+            "ar": "وَاِذَا الْجَنَّةُ اُزْلِفَتْۖ",
+            "tr": "wa iżal-jannatu uzlifat.",
+            "idn": "dan apabila surga didekatkan, "
+        },
+        {
+            "id": 5814,
+            "surah": 81,
+            "nomor": 14,
+            "ar": "عَلِمَتْ نَفْسٌ مَّآ اَحْضَرَتْۗ",
+            "tr": "‘alimat nafsum mā aḥḍarat.",
+            "idn": "setiap jiwa akan mengetahui apa yang telah dikerjakannya. "
+        },
+        {
+            "id": 5815,
+            "surah": 81,
+            "nomor": 15,
+            "ar": "فَلَآ اُقْسِمُ بِالْخُنَّسِۙ",
+            "tr": "falā uqsimu bil-khunnas(i).",
+            "idn": "Aku bersumpah demi bintang-bintang,"
+        },
+        {
+            "id": 5816,
+            "surah": 81,
+            "nomor": 16,
+            "ar": "الْجَوَارِ الْكُنَّسِۙ",
+            "tr": "al-jawāril-kunnas(i).",
+            "idn": "yang beredar dan terbenam, "
+        },
+        {
+            "id": 5817,
+            "surah": 81,
+            "nomor": 17,
+            "ar": "وَالَّيْلِ اِذَا عَسْعَسَۙ",
+            "tr": "wal-laili iżā ‘as‘as(a).",
+            "idn": "demi malam apabila telah larut, "
+        },
+        {
+            "id": 5818,
+            "surah": 81,
+            "nomor": 18,
+            "ar": "وَالصُّبْحِ اِذَا تَنَفَّسَۙ",
+            "tr": "waṣ-ṣubḥi iżā tanaffas(a).",
+            "idn": "dan demi subuh apabila fajar telah menyingsing, "
+        },
+        {
+            "id": 5819,
+            "surah": 81,
+            "nomor": 19,
+            "ar": "اِنَّهٗ لَقَوْلُ رَسُوْلٍ كَرِيْمٍۙ",
+            "tr": "innahū laqaulu rasūlin karīm(in).",
+            "idn": "sesungguhnya (Al-Qur'an) itu benar-benar firman (Allah yang dibawa oleh) utusan yang mulia (Jibril),"
+        },
+        {
+            "id": 5820,
+            "surah": 81,
+            "nomor": 20,
+            "ar": "ذِيْ قُوَّةٍ عِنْدَ ذِى الْعَرْشِ مَكِيْنٍۙ",
+            "tr": "Żī quwwatin ‘inda żil-‘arsyi makīn(in).",
+            "idn": "yang memiliki kekuatan, memiliki kedudukan tinggi di sisi (Allah) yang memiliki ‘Arsy,"
+        },
+        {
+            "id": 5821,
+            "surah": 81,
+            "nomor": 21,
+            "ar": "مُّطَاعٍ ثَمَّ اَمِيْنٍۗ",
+            "tr": "muṭā‘in ṡamma amīn(in).",
+            "idn": "yang di sana (di alam malaikat) ditaati dan dipercaya."
+        },
+        {
+            "id": 5822,
+            "surah": 81,
+            "nomor": 22,
+            "ar": "وَمَا صَاحِبُكُمْ بِمَجْنُوْنٍۚ",
+            "tr": "wa mā ṣāḥibukum bimajnūn(in).",
+            "idn": "Dan temanmu (Muhammad) itu bukanlah orang gila. "
+        },
+        {
+            "id": 5823,
+            "surah": 81,
+            "nomor": 23,
+            "ar": "وَلَقَدْ رَاٰهُ بِالْاُفُقِ الْمُبِيْنِۚ",
+            "tr": "wa laqad ra'āhu bil-ufuqil-mubīn(i).",
+            "idn": "Dan sungguh, dia (Muhammad) telah melihatnya (Jibril) di ufuk yang terang. "
+        },
+        {
+            "id": 5824,
+            "surah": 81,
+            "nomor": 24,
+            "ar": "وَمَا هُوَ عَلَى الْغَيْبِ بِضَنِيْنٍۚ",
+            "tr": "wa mā huwa ‘alal-gaibi biḍanīn(in).",
+            "idn": "Dan dia (Muhammad) bukanlah seorang yang kikir (enggan) untuk menerangkan yang gaib."
+        },
+        {
+            "id": 5825,
+            "surah": 81,
+            "nomor": 25,
+            "ar": "وَمَا هُوَ بِقَوْلِ شَيْطٰنٍ رَّجِيْمٍۚ",
+            "tr": "wa mā huwa biqauli syaiṭānir rajīm(in).",
+            "idn": "Dan (Al-Qur'an) itu bukanlah perkataan setan yang terkutuk,"
+        },
+        {
+            "id": 5826,
+            "surah": 81,
+            "nomor": 26,
+            "ar": "فَاَيْنَ تَذْهَبُوْنَۗ",
+            "tr": "fa aina tażhabūn(a).",
+            "idn": "maka ke manakah kamu akan pergi?"
+        },
+        {
+            "id": 5827,
+            "surah": 81,
+            "nomor": 27,
+            "ar": "اِنْ هُوَ اِلَّا ذِكْرٌ لِّلْعٰلَمِيْنَۙ",
+            "tr": "in huwa illā żikrul lil-‘ālamīn(a).",
+            "idn": "(Al-Qur'an) itu tidak lain adalah peringatan bagi seluruh alam, "
+        },
+        {
+            "id": 5828,
+            "surah": 81,
+            "nomor": 28,
+            "ar": "لِمَنْ شَاۤءَ مِنْكُمْ اَنْ يَّسْتَقِيْمَۗ",
+            "tr": "liman syā'a minkum ay yastaqīm(a).",
+            "idn": "(yaitu) bagi siapa di antara kamu yang menghendaki menempuh jalan yang lurus. "
+        },
+        {
+            "id": 5829,
+            "surah": 81,
+            "nomor": 29,
+            "ar": "وَمَا تَشَاۤءُوْنَ اِلَّآ اَنْ يَّشَاۤءَ اللّٰهُ رَبُّ الْعٰلَمِيْنَ ࣖ",
+            "tr": "wa mā tasyā'ūna illā ay yasyā'allāhu rabbul-‘ālamīn(a).",
+            "idn": "Dan kamu tidak dapat menghendaki (menempuh jalan itu) kecuali apabila dikehendaki Allah, Tuhan seluruh alam."
+        }
+    ],
+    "surat_selanjutnya": {
+        "id": 82,
+        "nomor": 82,
+        "nama": "الانفطار",
+        "nama_latin": "Al-Infitar",
+        "jumlah_ayat": 19,
+        "tempat_turun": "mekah",
+        "arti": "Terbelah",
+        "deskripsi": "Surat ini terdiri atas 19 ayat, termasuk golongan surat-surat Makkiyah dan diturunkan sesudah surat An Naazi'aat. Al Infithaar yang dijadikan  nama untuk surat ini adalah kata asal dari kata <i>Infatharat</i> (terbelah)  yang terdapat pada ayat pertama.",
+        "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/082.mp3"
+    },
+    "surat_sebelumnya": {
+        "id": 80,
+        "nomor": 80,
+        "nama": "عبس",
+        "nama_latin": "'Abasa",
+        "jumlah_ayat": 42,
+        "tempat_turun": "mekah",
+        "arti": "Bermuka Masam",
+        "deskripsi": "Surat 'Abasa terdiri atas 42 ayat, termasuk golongan surat-surat Makkiyah, diturunkan sesudah surat An Najm. Dinamai <i>'Abasa</i>  diambil dari perkataan <i>'Abasa</i> yang terdapat pada ayat pertama surat ini.<br> Menurut riwayat, pada suatu ketika Rasulullah s.a.w. menerima dan berbicara dengan pemuka-pemuka Quraisy yang beliau harapkan agar mereka masuk Islam. Dalam pada itu datanglah Ibnu Ummi Maktum, seorang sahabat yang buta yang mengharap agar Rasulullah s.a.w. membacakan kepadanya ayat- ayat Al Quran yang telah diturunkan Allah. tetapi Rasulullah s.a.w. bermuka masam dan memalingkan muka dari Ibnu Ummi Maktum yang buta itu, lalu Allah menurunkan surat ini sebagai teguran atas sikap Rasulullah terhadap ibnu Ummi Maktum itu.",
+        "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/080.mp3"
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "nomor": 108,
+    "nama": "الكوثر",
+    "nama_latin": "Al-Kausar",
+    "jumlah_ayat": 3,
+    "tempat_turun": "mekah",
+    "arti": "Pemberian Yang Banyak",
+    "deskripsi": "Surat Al Kautsar terdiri atas 3 ayat, termasuk golongan surat-surat  Makkiyyah diturunkan sesudah surat Al 'Aadiyaat. Dinamai <i>Al Kautsar</i> (nikmat yang banyak) diambil dari perkataan <i>Al Kautsar</i> yang terdapat pada ayat pertama surat ini.<br>Surat ini sebagai penghibur hati Nabi Muhammad s.a.w.",
+    "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/108.mp3",
+    "status": true,
+    "ayat": [
+        {
+            "id": 6205,
+            "surah": 108,
+            "nomor": 1,
+            "ar": "اِنَّآ اَعْطَيْنٰكَ الْكَوْثَرَۗ",
+            "tr": "innā a‘ṭainākal-kauṡar(a).",
+            "idn": "Sungguh, Kami telah memberimu (Muhammad) nikmat yang banyak."
+        },
+        {
+            "id": 6206,
+            "surah": 108,
+            "nomor": 2,
+            "ar": "فَصَلِّ لِرَبِّكَ وَانْحَرْۗ",
+            "tr": "faṣalli lirabbika wanḥar.",
+            "idn": "Maka laksanakanlah salat karena Tuhanmu, dan berkurbanlah (sebagai ibadah dan mendekatkan diri kepada Allah)."
+        },
+        {
+            "id": 6207,
+            "surah": 108,
+            "nomor": 3,
+            "ar": "اِنَّ شَانِئَكَ هُوَ الْاَبْتَرُ ࣖ",
+            "tr": "inna syāni'aka huwal-abtar(u).",
+            "idn": "Sungguh, orang-orang yang membencimu dialah yang terputus (dari rahmat Allah)."
+        }
+    ],
+    "surat_selanjutnya": {
+        "id": 109,
+        "nomor": 109,
+        "nama": "الكٰفرون",
+        "nama_latin": "Al-Kafirun",
+        "jumlah_ayat": 6,
+        "tempat_turun": "mekah",
+        "arti": "Orang-Orang kafir",
+        "deskripsi": "Surat Al Kaafiruun terdiri atas 6 ayat, termasuk golongan surat-surat  Makkiyyah, diturunkan sesudah surat Al Maa'uun. Dinamai <i>Al Kaafiruun</i> (orang-orang kafir), diambil dari perkataan  <i>Al Kaafiruun</i> yang terdapat pada ayat pertama surat ini.",
+        "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/109.mp3"
+    },
+    "surat_sebelumnya": {
+        "id": 107,
+        "nomor": 107,
+        "nama": "الماعون",
+        "nama_latin": "Al-Ma'un",
+        "jumlah_ayat": 7,
+        "tempat_turun": "mekah",
+        "arti": "Barang Yang Berguna",
+        "deskripsi": "Surat ini terdiri atas 7 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat At Taakatsur. Nama <i>Al Maa'uun</i> diambil dari kata <i>Al Maa'uun</i> yang terdapat pada ayat 7, artinya barang-barang yang berguna.",
+        "audio": "https://equran.nos.wjv-1.neo.id/audio-full/Misyari-Rasyid-Al-Afasi/107.mp3"
+    }
+}
