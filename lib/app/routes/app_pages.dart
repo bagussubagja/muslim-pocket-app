@@ -12,13 +12,15 @@ import '../modules/quran/detail_quran/views/detail_quran_view.dart';
 import '../modules/quran/views/quran_view.dart';
 import '../modules/setting/bindings/setting_binding.dart';
 import '../modules/setting/views/setting_view.dart';
+import '../modules/yufid_search_engine/bindings/yufid_search_engine_binding.dart';
+import '../modules/yufid_search_engine/views/yufid_search_engine_view.dart';
 
 part 'app_routes.dart';
 
 class AppPages {
   AppPages._();
 
-  static const INITIAL = Routes.HOME;
+  static const INITIAL = Routes.MAIN_PAGE;
 
   static final routes = [
     GetPage(
@@ -52,6 +54,11 @@ class AppPages {
       name: _Paths.SETTING,
       page: () => const SettingView(),
       binding: SettingBinding(),
+    ),
+    GetPage(
+      name: _Paths.YUFID_SEARCH_ENGINE,
+      page: () => const YufidSearchEngineView(),
+      binding: YufidSearchEngineBinding(),
     ),
   ];
 }

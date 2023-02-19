@@ -9,6 +9,7 @@ abstract class Routes {
   static const KAJIAN = _Paths.KAJIAN;
   static const SETTING = _Paths.SETTING;
   static const DETAIL_QURAN = _Paths.QURAN + _Paths.DETAIL_QURAN;
+  static const YUFID_SEARCH_ENGINE = _Paths.YUFID_SEARCH_ENGINE;
 }
 
 abstract class _Paths {
@@ -19,4 +20,5 @@ abstract class _Paths {
   static const KAJIAN = '/kajian';
   static const SETTING = '/setting';
   static const DETAIL_QURAN = '/detail-quran';
+  static const YUFID_SEARCH_ENGINE = '/yufid-search-engine';
 }
