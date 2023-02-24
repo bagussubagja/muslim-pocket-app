@@ -10,7 +10,7 @@ class MainPageController extends GetxController {
 
   final index = 0.obs;
 
-  final List<Widget> bodyScreenList = const [
+  final List<Widget> bodyScreenList = [
     HomeView(),
     QuranView(),
     YufidSearchEngineView(),
