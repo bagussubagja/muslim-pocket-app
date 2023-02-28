@@ -32,22 +32,22 @@ class HomeController extends GetxController {
     Icon(
       FlutterIslamicIcons.lantern,
       color: Colors.white,
-      size: 50,
+      size: 45,
     ),
     Icon(
       FlutterIslamicIcons.prayingPerson,
       color: Colors.white,
-      size: 50,
+      size: 45,
     ),
     Icon(
       FlutterIslamicIcons.quran,
       color: Colors.white,
-      size: 50,
+      size: 45,
     ),
     Icon(
       FlutterIslamicIcons.locationMosque,
       color: Colors.white,
-      size: 50,
+      size: 45,
     ),
   ];
 

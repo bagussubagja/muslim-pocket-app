@@ -35,7 +35,7 @@ class AppPages {
     ),
     GetPage(
       name: _Paths.QURAN,
-      page: () => const QuranView(),
+      page: () => QuranView(),
       binding: QuranBinding(),
       children: [
         GetPage(
