@@ -1,12 +1,31 @@
 import 'package:get/get.dart';
 
+import '../../../../data/models/quran_model.dart';
+import '../providers/detail_quran_provider.dart';
+import 'package:audioplayers/audioplayers.dart';
+
 class DetailQuranController extends GetxController {
-  //TODO: Implement DetailQuranController
+
+
+  var dataParams = Get.arguments;
+  /*
+  dataParams[0] = Surah Alquran (Name)
+  dataParams[1] = Surah Alquran (Number)
+   */
+
+  var quranData = QuranModel().obs;
+  var detailQuranProvider = Get.put(DetailQuranProvider());
+  final audioPlayer = Get.put(AudioPlayer());
+
+  loadQuranData({required int numberSurah}) async{
+    quranData(await detailQuranProvider.getQuranSurahData(numberSurah: numberSurah));
+  }
 
   final count = 0.obs;
   @override
   void onInit() {
     super.onInit();
+    loadQuranData(numberSurah: dataParams[1]);
   }
 
   @override

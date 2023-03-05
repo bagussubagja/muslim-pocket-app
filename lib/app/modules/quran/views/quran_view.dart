@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 
 import 'package:get/get.dart';
+import 'package:muslim_pocket_app/app/routes/app_pages.dart';
 import 'package:muslim_pocket_app/app/utils/constant_layout.dart';
 import 'package:muslim_pocket_app/app/utils/constant_theme.dart';
 import 'package:sizer/sizer.dart';
@@ -81,7 +82,13 @@ class QuranView extends GetView<QuranController> {
             primary: false,
             itemBuilder: (context, index) {
               return InkWell(
-                onTap: () {},
+                onTap: () {
+                  print(controller.quranSurahList[index]!.nomor);
+                  Get.toNamed(Routes.DETAIL_QURAN, arguments: [
+                    controller.quranSurahList[index]!.namaLatin,
+                    controller.quranSurahList[index]!.nomor,
+                  ]);
+                },
                 child: Obx(() => Container(
                       padding: const EdgeInsets.all(20),
                       width: 100.w,

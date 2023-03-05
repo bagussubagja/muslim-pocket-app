@@ -231,6 +231,45 @@ class HomeView extends GetView<HomeController> {
           )
         ],
       );
-  Widget _surahOfTheDay() => Container();
+  Widget _surahOfTheDay() => Column(
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children: [
+          Text(
+            'surah_of_the_day'.tr,
+            style: boldStyle,
+          ),
+          Container(
+            width: 100.w,
+            padding: const EdgeInsets.all(12),
+            decoration: BoxDecoration(
+              color: greyLightColor,
+              borderRadius: BorderRadius.circular(8),
+            ),
+            child: Column(
+              children: [
+                Row(
+                  mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                  children: [
+                    Text(
+                      'Nama Surah Indo',
+                      style: regularStyle.copyWith(
+                        fontWeight: FontWeight.w800,
+                      ),
+                    ),
+                    Text(
+                      'Nama Surah Arab',
+                      style: regularStyle.copyWith(
+                        fontWeight: FontWeight.w800,
+                      ),
+                    )
+                  ],
+                ),
+                Text(
+                    'Lorem Ipsum Dolor Sit Amet. Lorem Ipsum Dolor Sit Amet. Lorem Ipsum Dolor Sit Amet.')
+              ],
+            ),
+          )
+        ],
+      );
   Widget _islamicWebsite() => Container();
 }

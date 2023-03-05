@@ -4,9 +4,19 @@ import 'package:muslim_pocket_app/app/utils/constant_url.dart';
 import 'package:muslim_pocket_app/app/utils/constant_directory.dart';
 import 'package:hijriyah_indonesia/hijriyah_indonesia.dart';
 import 'package:flutter_islamic_icons/flutter_islamic_icons.dart';
+import 'package:muslim_pocket_app/app/modules/home/providers/home_provider.dart';
+
+import '../../../data/models/surah_quran_list_model.dart';
 
 class HomeController extends GetxController {
   //TODO: Implement HomeController
+
+  final homeProvider = Get.put(HomeProvider());
+
+  var quranSurahList = <SurahQuranListModel?>[].obs;
+  loadQuranSurahList() async{
+    quranSurahList(await homeProvider.getQuranSurahList());
+  }
 
   var urlClass = ConstantURL();
   var dirClass = ConstantDirectory();
@@ -62,6 +72,7 @@ class HomeController extends GetxController {
   @override
   void onInit() {
     super.onInit();
+    loadQuranSurahList();
   }
 
   @override

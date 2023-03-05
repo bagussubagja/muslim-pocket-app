@@ -1,9 +1,13 @@
 import 'package:get/get.dart';
+import 'package:webview_flutter/webview_flutter.dart';
 
 class YufidSearchEngineController extends GetxController {
-  //TODO: Implement YufidSearchEngineController
 
-  final count = 0.obs;
+  late WebViewController webViewController;
+
+  final persentage = 0.obs;
+  var isLoaded = false.obs;
+
   @override
   void onInit() {
     super.onInit();
@@ -18,6 +22,11 @@ class YufidSearchEngineController extends GetxController {
   void onClose() {
     super.onClose();
   }
-
-  void increment() => count.value++;
+  void progressUpdate(int progress){
+    persentage.value++;
+    if(progress == 100){
+      isLoaded.value = true;
+      update();
+    }
+  }
 }

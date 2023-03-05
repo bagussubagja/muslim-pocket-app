@@ -17,6 +17,9 @@ dependencies:
   slide_digital_clock: ^1.0.3
   flutter_islamic_icons: ^1.0.2
   get_cli: ^1.8.1
+  audioplayers: ^0.20.1
+  webview_flutter: ^2.0.12
+  simple_progress_indicators: ^0.2.0
 
 dev_dependencies: 
   flutter_lints: ^2.0.0

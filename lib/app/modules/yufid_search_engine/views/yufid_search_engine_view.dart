@@ -1,24 +1,42 @@
 import 'package:flutter/material.dart';
 
 import 'package:get/get.dart';
-
+import 'package:muslim_pocket_app/app/utils/constant_theme.dart';
+import 'package:webview_flutter/webview_flutter.dart';
 import '../controllers/yufid_search_engine_controller.dart';
 
 class YufidSearchEngineView extends GetView<YufidSearchEngineController> {
-  const YufidSearchEngineView({Key? key}) : super(key: key);
+  YufidSearchEngineView({Key? key}) : super(key: key);
+  final yufidController = Get.put(YufidSearchEngineController());
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('YufidSearchEngineView'),
+        leading: IconButton(
+          onPressed: () {},
+          icon: Icon(Icons.arrow_back),
+        ),
+        actions: [
+          IconButton(
+            onPressed: (){},
+            icon: Icon(Icons.refresh_rounded),
+          )
+        ],
+        elevation: 0,
+        backgroundColor: greenPrimaryColor,
+        title: Text('yufid_search_engine'.tr, style: regularStyle.copyWith(color: Colors.white),),
         centerTitle: true,
       ),
-      body: Center(
-        child: Text(
-          'YufidSearchEngineView is working',
-          style: TextStyle(fontSize: 20),
-        ),
-      ),
+      body: WebView(
+        initialUrl: 'https://yufid.com/',
+        onProgress: (progress) {
+          yufidController.progressUpdate(progress);
+        },
+        javascriptMode: JavascriptMode.unrestricted,
+        onWebViewCreated: (controller) {
+          yufidController.webViewController = controller;
+        },
+      )
     );
   }
 }

@@ -40,7 +40,7 @@ class AppPages {
       children: [
         GetPage(
           name: _Paths.DETAIL_QURAN,
-          page: () => const DetailQuranView(),
+          page: () => DetailQuranView(),
           binding: DetailQuranBinding(),
         ),
       ],
@@ -57,7 +57,7 @@ class AppPages {
     ),
     GetPage(
       name: _Paths.YUFID_SEARCH_ENGINE,
-      page: () => const YufidSearchEngineView(),
+      page: () => YufidSearchEngineView(),
       binding: YufidSearchEngineBinding(),
     ),
   ];
