@@ -2,18 +2,19 @@ import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
 
 import 'package:get/get.dart';
-import 'package:muslim_pocket_app/app/utils/constant_layout.dart';
-import 'package:muslim_pocket_app/app/utils/constant_theme.dart';
+import 'package:muslim_pocket_app/app/utils/constants/constant_layout.dart';
 import 'package:muslim_pocket_app/app/widgets/margin_widget.dart';
 import 'package:sizer/sizer.dart';
 import 'package:slide_digital_clock/slide_digital_clock.dart';
 
+import '../../../utils/constants/constant_theme.dart';
 import '../controllers/home_controller.dart';
 
 class HomeView extends GetView<HomeController> {
   HomeView({Key? key}) : super(key: key);
   @override
   final controller = Get.put(HomeController());
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -73,6 +74,7 @@ class HomeView extends GetView<HomeController> {
           )
         ],
       );
+
   Widget _prayerTimeDate(BuildContext context) => Container(
         margin: EdgeInsets.only(top: 2.h),
         padding: const EdgeInsets.all(20),
@@ -143,6 +145,7 @@ class HomeView extends GetView<HomeController> {
           ],
         ),
       );
+
   Widget _prayerTimeSchedule() => Column(
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
@@ -187,6 +190,7 @@ class HomeView extends GetView<HomeController> {
           )
         ],
       );
+
   Widget _featuresCategory() => Column(
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
@@ -231,6 +235,7 @@ class HomeView extends GetView<HomeController> {
           )
         ],
       );
+
   Widget _surahOfTheDay() => Column(
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
@@ -271,5 +276,6 @@ class HomeView extends GetView<HomeController> {
           )
         ],
       );
+
   Widget _islamicWebsite() => Container();
 }

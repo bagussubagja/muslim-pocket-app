@@ -33,7 +33,8 @@ flutter:
     - assets/fonts/
     - assets/icons/
     - assets/images/
-    - assets/logo/
+    - assets/logo/channel-logos/
+    - assets/logo/website-logos/
     - assets/lotties/
     - assets/prayers/
     - assets/quran/

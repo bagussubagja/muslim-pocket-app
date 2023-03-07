@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:muslim_pocket_app/app/utils/locale.dart';
+import 'package:muslim_pocket_app/app/translations/translations.dart';
 import 'package:sizer/sizer.dart';
 
 import 'package:get/get.dart';

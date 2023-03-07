@@ -2,12 +2,13 @@ import 'package:curved_navigation_bar/curved_navigation_bar.dart';
 import 'package:flutter/material.dart';
 
 import 'package:get/get.dart';
-import 'package:muslim_pocket_app/app/utils/constant_theme.dart';
 
+import '../../../utils/constants/constant_theme.dart';
 import '../controllers/main_page_controller.dart';
 
 class MainPageView extends GetView<MainPageController> {
   const MainPageView({Key? key}) : super(key: key);
+
   @override
   Widget build(BuildContext context) {
     return Obx(() => Scaffold(

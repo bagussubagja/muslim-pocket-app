@@ -47,7 +47,7 @@ class AppPages {
     ),
     GetPage(
       name: _Paths.KAJIAN,
-      page: () => const KajianView(),
+      page: () => KajianView(),
       binding: KajianBinding(),
     ),
     GetPage(

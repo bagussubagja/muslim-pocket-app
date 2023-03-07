@@ -3,15 +3,16 @@
 import 'package:flutter/material.dart';
 
 import 'package:get/get.dart';
-import 'package:muslim_pocket_app/app/utils/constant_theme.dart';
 import 'package:sizer/sizer.dart';
 
+import '../../../../utils/constants/constant_theme.dart';
 import '../controllers/detail_quran_controller.dart';
 
 class DetailQuranView extends GetView<DetailQuranController> {
   DetailQuranView({Key? key}) : super(key: key);
 
   final controller = Get.put(DetailQuranController());
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -86,8 +87,7 @@ class DetailQuranView extends GetView<DetailQuranController> {
   Widget _playAudioSurah(BuildContext context) {
     return IconButton(
       onPressed: () async {
-        await controller.audioPlayer
-            .play(controller.quranData.value.audio!);
+        await controller.audioPlayer.play(controller.quranData.value.audio!);
         showDialog(
             context: context,
             barrierDismissible: false,

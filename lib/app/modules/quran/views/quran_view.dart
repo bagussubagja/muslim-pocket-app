@@ -2,10 +2,10 @@ import 'package:flutter/material.dart';
 
 import 'package:get/get.dart';
 import 'package:muslim_pocket_app/app/routes/app_pages.dart';
-import 'package:muslim_pocket_app/app/utils/constant_layout.dart';
-import 'package:muslim_pocket_app/app/utils/constant_theme.dart';
+import 'package:muslim_pocket_app/app/utils/constants/constant_layout.dart';
 import 'package:sizer/sizer.dart';
 
+import '../../../utils/constants/constant_theme.dart';
 import '../../../widgets/margin_widget.dart';
 import '../controllers/quran_controller.dart';
 
@@ -14,6 +14,7 @@ class QuranView extends GetView<QuranController> {
 
   @override
   final controller = Get.put(QuranController());
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -36,6 +37,7 @@ class QuranView extends GetView<QuranController> {
         "quran".tr,
         style: boldStyle,
       );
+
   Widget _bannerAyatofTheDay() => Container(
         margin: EdgeInsets.all(1.h),
         padding: EdgeInsets.all(1.75.h),
@@ -68,7 +70,9 @@ class QuranView extends GetView<QuranController> {
           ],
         ),
       );
+
   Widget _ayatofTheDaySection() => Container();
+
   Widget _surahQuranList() => Column(
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [

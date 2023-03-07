@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:muslim_pocket_app/app/utils/constant_url.dart';
-import 'package:muslim_pocket_app/app/utils/constant_directory.dart';
+import 'package:muslim_pocket_app/app/utils/constants/constant_url.dart';
+import 'package:muslim_pocket_app/app/utils/constants/constant_directory.dart';
 import 'package:hijriyah_indonesia/hijriyah_indonesia.dart';
 import 'package:flutter_islamic_icons/flutter_islamic_icons.dart';
 import 'package:muslim_pocket_app/app/modules/home/providers/home_provider.dart';
@@ -14,7 +14,8 @@ class HomeController extends GetxController {
   final homeProvider = Get.put(HomeProvider());
 
   var quranSurahList = <SurahQuranListModel?>[].obs;
-  loadQuranSurahList() async{
+
+  loadQuranSurahList() async {
     quranSurahList(await homeProvider.getQuranSurahList());
   }
 
@@ -69,6 +70,7 @@ class HomeController extends GetxController {
   ];
 
   final count = 0.obs;
+
   @override
   void onInit() {
     super.onInit();
