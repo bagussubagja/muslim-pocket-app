@@ -1,6 +1,14 @@
 import 'package:get/get.dart';
 
 import '../modules/home/bindings/home_binding.dart';
+import '../modules/home/feat_hadits/bindings/feat_hadits_binding.dart';
+import '../modules/home/feat_hadits/detail_feat_hadits/bindings/detail_feat_hadits_binding.dart';
+import '../modules/home/feat_hadits/detail_feat_hadits/views/detail_feat_hadits_view.dart';
+import '../modules/home/feat_hadits/views/feat_hadits_view.dart';
+import '../modules/home/feat_prayer_collection/bindings/feat_prayer_collection_binding.dart';
+import '../modules/home/feat_prayer_collection/views/feat_prayer_collection_view.dart';
+import '../modules/home/feat_tafsir/bindings/feat_tafsir_binding.dart';
+import '../modules/home/feat_tafsir/views/feat_tafsir_view.dart';
 import '../modules/home/views/home_view.dart';
 import '../modules/kajian/bindings/kajian_binding.dart';
 import '../modules/kajian/views/kajian_view.dart';
@@ -27,6 +35,30 @@ class AppPages {
       name: _Paths.HOME,
       page: () => HomeView(),
       binding: HomeBinding(),
+      children: [
+        GetPage(
+          name: _Paths.FEAT_HADITS,
+          page: () => FeatHaditsView(),
+          binding: FeatHaditsBinding(),
+          children: [
+            GetPage(
+              name: _Paths.DETAIL_FEAT_HADITS,
+              page: () => DetailFeatHaditsView(),
+              binding: DetailFeatHaditsBinding(),
+            ),
+          ],
+        ),
+        GetPage(
+          name: _Paths.FEAT_TAFSIR,
+          page: () => const FeatTafsirView(),
+          binding: FeatTafsirBinding(),
+        ),
+        GetPage(
+          name: _Paths.FEAT_PRAYER_COLLECTION,
+          page: () => const FeatPrayerCollectionView(),
+          binding: FeatPrayerCollectionBinding(),
+        ),
+      ],
     ),
     GetPage(
       name: _Paths.MAIN_PAGE,
@@ -52,7 +84,7 @@ class AppPages {
     ),
     GetPage(
       name: _Paths.SETTING,
-      page: () => const SettingView(),
+      page: () => SettingView(),
       binding: SettingBinding(),
     ),
     GetPage(

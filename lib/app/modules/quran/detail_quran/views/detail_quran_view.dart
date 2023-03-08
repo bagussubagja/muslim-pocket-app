@@ -11,6 +11,7 @@ import '../controllers/detail_quran_controller.dart';
 class DetailQuranView extends GetView<DetailQuranController> {
   DetailQuranView({Key? key}) : super(key: key);
 
+  @override
   final controller = Get.put(DetailQuranController());
 
   @override
@@ -160,9 +161,8 @@ class DetailQuranView extends GetView<DetailQuranController> {
           builder: (context) {
             return AlertDialog(
               title: Text(controller.dataParams[0]),
-              content: Text(controller.quranData.value.deskripsi!
-                  .replaceAll("<i>", "")
-                  .replaceAll("</i>", "")),
+              content: Text(controller
+                  .parseHtmlString(controller.quranData.value.deskripsi!)),
             );
           },
         );

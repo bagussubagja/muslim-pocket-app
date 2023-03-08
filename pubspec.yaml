@@ -2,13 +2,13 @@ name: muslim_pocket_app
 version: 1.0.0+1
 publish_to: none
 description: A new Flutter project.
-environment: 
+environment:
   sdk: '>=2.19.2 <3.0.0'
 
-dependencies: 
+dependencies:
   cupertino_icons: ^1.0.2
   get: 4.6.5
-  flutter: 
+  flutter:
     sdk: flutter
   curved_navigation_bar: ^1.0.3
   sizer: ^2.0.15
@@ -20,13 +20,19 @@ dependencies:
   audioplayers: ^0.20.1
   webview_flutter: ^2.0.12
   simple_progress_indicators: ^0.2.0
+  intl: ^0.18.0
+  html: ^0.15.2
+  lottie: ^1.4.2
+  url_launcher: ^6.1.7
+  permission_handler: ^9.2.0
+  geolocator: ^8.2.1
 
-dev_dependencies: 
+dev_dependencies:
   flutter_lints: ^2.0.0
-  flutter_test: 
+  flutter_test:
     sdk: flutter
 
-flutter: 
+flutter:
   uses-material-design: true
 
   assets:

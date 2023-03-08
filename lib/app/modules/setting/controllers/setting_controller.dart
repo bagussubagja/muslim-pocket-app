@@ -1,9 +1,18 @@
 import 'package:get/get.dart';
+import 'package:muslim_pocket_app/app/utils/constants/constant_url.dart';
 
 class SettingController extends GetxController {
   //TODO: Implement SettingController
 
-  final count = 0.obs;
+  var url = ConstantURL();
+
+  final List<String> settingLabelOptions = [
+    'akun'.tr,
+    'tentang_kami'.tr,
+    'pusat_bantuan'.tr,
+    'log_out'.tr,
+  ];
+
   @override
   void onInit() {
     super.onInit();
@@ -18,6 +27,4 @@ class SettingController extends GetxController {
   void onClose() {
     super.onClose();
   }
-
-  void increment() => count.value++;
 }
