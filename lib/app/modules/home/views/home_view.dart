@@ -218,7 +218,7 @@ class HomeView extends GetView<HomeController> {
                     if (index == 0) {
                       Get.toNamed(Routes.FEAT_HADITS);
                     } else if (index == 1) {
-                      Get.toNamed(Routes.FEAT_PRAYER_COLLECTION);
+                      Get.toNamed(Routes.FEAT_DOA_COLLECTION);
                     } else if (index == 2) {
                       Get.toNamed(Routes.FEAT_TAFSIR);
                     } else if (index == 3) {

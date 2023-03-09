@@ -1,12 +1,12 @@
 import 'package:get/get.dart';
 
 import '../modules/home/bindings/home_binding.dart';
+import '../modules/home/feat_doa_collection/bindings/feat_doa_collection_binding.dart';
+import '../modules/home/feat_doa_collection/views/feat_doa_collection_view.dart';
 import '../modules/home/feat_hadits/bindings/feat_hadits_binding.dart';
 import '../modules/home/feat_hadits/detail_feat_hadits/bindings/detail_feat_hadits_binding.dart';
 import '../modules/home/feat_hadits/detail_feat_hadits/views/detail_feat_hadits_view.dart';
 import '../modules/home/feat_hadits/views/feat_hadits_view.dart';
-import '../modules/home/feat_prayer_collection/bindings/feat_prayer_collection_binding.dart';
-import '../modules/home/feat_prayer_collection/views/feat_prayer_collection_view.dart';
 import '../modules/home/feat_tafsir/bindings/feat_tafsir_binding.dart';
 import '../modules/home/feat_tafsir/views/feat_tafsir_view.dart';
 import '../modules/home/views/home_view.dart';
@@ -54,9 +54,9 @@ class AppPages {
           binding: FeatTafsirBinding(),
         ),
         GetPage(
-          name: _Paths.FEAT_PRAYER_COLLECTION,
-          page: () => const FeatPrayerCollectionView(),
-          binding: FeatPrayerCollectionBinding(),
+          name: _Paths.FEAT_DOA_COLLECTION,
+          page: () => FeatDoaCollectionView(),
+          binding: FeatDoaCollectionBinding(),
         ),
       ],
     ),

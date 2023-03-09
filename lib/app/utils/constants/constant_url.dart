@@ -3,6 +3,7 @@ class ConstantURL {
       'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_640.png';
   String contentNotFound =
       'https://matob.web.id/random/wp-content/uploads/sites/2/2021/12/error-404.jpg';
+  String doaEndpoint = 'https://doa-doa-api-ahmadramadhan.fly.dev/api/';
 
   haditsUrlEndpoint(String narator, int page) {
     return 'https://hadis-api-id.vercel.app/hadith/$narator/?page=$page&limit=20';
