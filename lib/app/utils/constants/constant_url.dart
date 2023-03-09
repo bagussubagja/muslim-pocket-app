@@ -12,4 +12,8 @@ class ConstantURL {
   nearbyMosqueEndpoint(String lat, String long) {
     return 'https://www.google.co.id/maps/search/masjid+terdekat/@$lat,$long,15z/data=!3m1!4b1';
   }
+
+  tafsirEndpoint(int surah) {
+    return 'https://equran.id/api/tafsir/$surah';
+  }
 }

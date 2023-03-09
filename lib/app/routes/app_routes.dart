@@ -22,6 +22,8 @@ abstract class Routes {
   static const DETAIL_FEAT_HADITS =
       _Paths.HOME + _Paths.FEAT_HADITS + _Paths.DETAIL_FEAT_HADITS;
   static const FEAT_DOA_COLLECTION = _Paths.HOME + _Paths.FEAT_DOA_COLLECTION;
+  static const DETAIL_FEAT_TAFSIR =
+      _Paths.HOME + _Paths.FEAT_TAFSIR + _Paths.DETAIL_FEAT_TAFSIR;
 }
 
 abstract class _Paths {
@@ -43,4 +45,5 @@ abstract class _Paths {
   static const FEAT_NEARBY_MOSQUE = '/feat-nearby-mosque';
   static const DETAIL_FEAT_HADITS = '/detail-feat-hadits';
   static const FEAT_DOA_COLLECTION = '/feat-doa-collection';
+  static const DETAIL_FEAT_TAFSIR = '/detail-feat-tafsir';
 }

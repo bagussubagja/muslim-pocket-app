@@ -8,6 +8,8 @@ import '../modules/home/feat_hadits/detail_feat_hadits/bindings/detail_feat_hadi
 import '../modules/home/feat_hadits/detail_feat_hadits/views/detail_feat_hadits_view.dart';
 import '../modules/home/feat_hadits/views/feat_hadits_view.dart';
 import '../modules/home/feat_tafsir/bindings/feat_tafsir_binding.dart';
+import '../modules/home/feat_tafsir/detail_feat_tafsir/bindings/detail_feat_tafsir_binding.dart';
+import '../modules/home/feat_tafsir/detail_feat_tafsir/views/detail_feat_tafsir_view.dart';
 import '../modules/home/feat_tafsir/views/feat_tafsir_view.dart';
 import '../modules/home/views/home_view.dart';
 import '../modules/kajian/bindings/kajian_binding.dart';
@@ -50,8 +52,15 @@ class AppPages {
         ),
         GetPage(
           name: _Paths.FEAT_TAFSIR,
-          page: () => const FeatTafsirView(),
+          page: () => FeatTafsirView(),
           binding: FeatTafsirBinding(),
+          children: [
+            GetPage(
+              name: _Paths.DETAIL_FEAT_TAFSIR,
+              page: () => const DetailFeatTafsirView(),
+              binding: DetailFeatTafsirBinding(),
+            ),
+          ],
         ),
         GetPage(
           name: _Paths.FEAT_DOA_COLLECTION,
