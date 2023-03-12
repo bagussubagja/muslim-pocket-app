@@ -139,7 +139,7 @@ class QuranView extends GetView<QuranController> {
                             ],
                           ),
                           Text(
-                            controller.quranSurahList[index]!.nama,
+                            controller.quranSurahList[index]!.nama!,
                             style: regularStyle.copyWith(
                               color: Colors.white,
                               fontSize: 14.sp,

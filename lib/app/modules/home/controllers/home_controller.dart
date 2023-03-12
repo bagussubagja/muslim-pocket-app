@@ -12,7 +12,9 @@ import 'package:hijriyah_indonesia/hijriyah_indonesia.dart';
 import 'package:flutter_islamic_icons/flutter_islamic_icons.dart';
 import 'package:muslim_pocket_app/app/modules/home/providers/home_provider.dart';
 import 'package:html/parser.dart';
+import 'package:muslim_pocket_app/app/utils/storage/local_storage_path.dart';
 import '../../../data/models/surah_quran_list_model.dart';
+import 'package:get_storage/get_storage.dart';
 
 class HomeController extends GetxController {
   /*
@@ -26,10 +28,8 @@ class HomeController extends GetxController {
   var urlClass = ConstantURL();
   var dirClass = ConstantDirectory();
   var hijriyah = Hijriyah.now();
-
-  /*
-  Date Service
-   */
+  var localStoragePath = LocalStoragePath();
+  final box = GetStorage();
 
   /*
   Location Service
@@ -38,26 +38,23 @@ class HomeController extends GetxController {
   Future<Position> getCurrentLocation() async {
     bool serviceEnabled = await Geolocator.isLocationServiceEnabled();
     if (!serviceEnabled) {
-      // TODO: Tambahkan ke translation
-      return Future.error('Akses Lokasi Tidak diizinkan');
+      return Future.error('location_not_allowed'.tr);
     }
     LocationPermission permission = await Geolocator.checkPermission();
     if (permission == LocationPermission.denied) {
       permission = await Geolocator.requestPermission();
       if (permission == LocationPermission.denied) {
-        return Future.error('Akses Lokasi ditolak!');
+        return Future.error('location_permission_denied'.tr);
       }
     }
     if (permission == LocationPermission.deniedForever) {
-      return Future.error(
-          'Akses lokasi dilarang, tidak bisa meneruskan proses permintaan pengguna');
+      return Future.error('cant_proccess_user_request_location_forbidden'.tr);
     }
     return await Geolocator.getCurrentPosition();
   }
 
   var lat = "".obs;
   var long = "".obs;
-
   var locationEndpoint = "".obs;
 
   /*
@@ -119,7 +116,6 @@ class HomeController extends GetxController {
           convertTo24HourFormat(prayerTime.value.items![0].maghrib!);
       isya.value = convertTo24HourFormat(prayerTime.value.items![0].isha!);
     }
-    print('subuh : ${shubuh.value}');
     prayerTimeList.add(shubuh.value);
     prayerTimeList.add(dzuhur.value);
     prayerTimeList.add(ashar.value);
@@ -162,8 +158,81 @@ class HomeController extends GetxController {
   ];
 
   /*
+  Surah of the Day
+   */
+
+  var isSurahOfTheDayRequested = false.obs;
+
+  requestSurahOfTheDay() {
+    isSurahOfTheDayRequested.value = true;
+    box.write(localStoragePath.surahOfTheDayPath, true);
+  }
+
+  var surahOfTheDayData = SurahQuranListModel().obs;
+
+  loadSurahOfTheDay() async {
+    surahOfTheDayData(await homeProvider.getSurahOfTheDay());
+  }
+
+  /*
+  Islamic Website
+   */
+
+  final List<String> websiteLogo = [
+    'assets/logo/website-logos/bimbingan-islam.png',
+    'assets/logo/website-logos/khotbah-jumat.jpg',
+    'assets/logo/website-logos/kisah-muslim.png',
+    'assets/logo/website-logos/konsultasi-syariah.jpg',
+    'assets/logo/website-logos/muslim-or-id.jpg',
+    'assets/logo/website-logos/muslimah-or-id.png',
+    'assets/logo/website-logos/rumaysho.jpg',
+    'assets/logo/website-logos/yufid-edu.jpg',
+    'assets/logo/website-logos/yufid-tv.png',
+    'assets/logo/website-logos/yufidia.jpg',
+  ];
+
+  final List<String> websiteName = [
+    'Bimbingan Islam',
+    'Khotbah Jumat',
+    'Kisah Muslim',
+    'Konsultasi Syariah',
+    'Muslim.or.id',
+    'Muslimah.or.id',
+    'Rumaysho',
+    'Yufid Edu',
+    'Yufid TV',
+    'Yufidia',
+  ];
+
+  final List<String> websiteUrl = [
+    'https://bimbinganislam.com/',
+    "https://khotbahjumat.com/",
+    "https://kisahmuslim.com/",
+    "https://konsultasisyariah.com/",
+    "https://muslim.or.id/",
+    "https://muslimah.or.id/",
+    "https://rumaysho.com/",
+    "https://yufidedu.com/",
+    "https://yufid.tv/",
+    "https://yufidia.com/",
+  ];
+
+  /*
   Others
    */
+
+  isPrayerScheduleDataExist() {
+    return prayerTime.value.isBlank;
+  }
+
+  isSurahOfTheDayDataExist() {
+    return box.read(localStoragePath.surahOfTheDayPath) != null ||
+        isSurahOfTheDayRequested.value == true;
+  }
+
+  isDataLoaded() {
+    return isLoading.value;
+  }
 
   @override
   void onInit() {
@@ -173,6 +242,7 @@ class HomeController extends GetxController {
     });
     locationEndpoint.value =
         urlClass.nearbyMosqueEndpoint(lat.value, long.value);
+    loadSurahOfTheDay();
     loadPrayerTime();
     super.onInit();
   }

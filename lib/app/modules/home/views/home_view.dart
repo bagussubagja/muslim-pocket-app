@@ -25,16 +25,20 @@ class HomeView extends GetView<HomeController> {
         body: SafeArea(
           child: Padding(
               padding: defaultPaddingScreen,
-              child: controller.isLoading.value == true
+              child: controller.isDataLoaded()
                   ? loadingWidget(greenPrimaryColor)
                   : ListView(
                       physics: const BouncingScrollPhysics(),
                       children: [
                         _userInformation(),
                         _dateNowSection(context),
-                        _prayerTimeSchedule(),
+                        controller.isPrayerScheduleDataExist()
+                            ? _bannerPrayerTimeSchedule()
+                            : _prayerTimeSchedule(),
                         _featuresCategory(),
-                        // _surahOfTheDay(),
+                        controller.isSurahOfTheDayDataExist()
+                            ? _surahOfTheDay()
+                            : _bannerSurahOfTheDay(),
                         _islamicWebsite(),
                       ],
                     )),
@@ -153,6 +157,29 @@ class HomeView extends GetView<HomeController> {
         ),
       );
 
+  Widget _bannerPrayerTimeSchedule() => Container(
+        width: Get.width,
+        margin: EdgeInsets.only(top: 2.h),
+        padding: const EdgeInsets.all(12),
+        decoration: BoxDecoration(
+            color: greyLightColor, borderRadius: BorderRadius.circular(15)),
+        child: Row(
+          mainAxisAlignment: MainAxisAlignment.spaceBetween,
+          children: [
+            Text(
+              "Dapatkan Jadwal Shalat",
+              style: regularStyle,
+            ),
+            IconButton(
+              onPressed: () {},
+              icon: Icon(
+                Icons.get_app,
+              ),
+            )
+          ],
+        ),
+      );
+
   Widget _prayerTimeSchedule() => Column(
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
@@ -203,7 +230,7 @@ class HomeView extends GetView<HomeController> {
         children: [
           marginWidget(2.h, 0),
           Text(
-            '${'kategori'.tr}',
+            'kategori'.tr,
             style: boldStyle,
           ),
           marginWidget(2.h, 0),
@@ -223,8 +250,10 @@ class HomeView extends GetView<HomeController> {
                       Get.toNamed(Routes.FEAT_TAFSIR);
                     } else if (index == 3) {
                       if (await canLaunch(controller.locationEndpoint.value)) {
-                        await launch(controller.locationEndpoint.value,
-                            forceWebView: false);
+                        await launch(
+                          controller.locationEndpoint.value,
+                          forceWebView: false,
+                        );
                       }
                     }
                   },
@@ -256,52 +285,156 @@ class HomeView extends GetView<HomeController> {
         ],
       );
 
-  // Widget _surahOfTheDay() => Column(
-  //       crossAxisAlignment: CrossAxisAlignment.start,
-  //       children: [
-  //         Text(
-  //           'surah_of_the_day'.tr,
-  //           style: boldStyle,
-  //         ),
-  //         ListView.builder(
-  //             itemCount: controller.surahofTheDayData.length,
-  //             shrinkWrap: true,
-  //             primary: false,
-  //             itemBuilder: (context, index) {
-  //               return Container(
-  //                 width: 100.w,
-  //                 padding: const EdgeInsets.all(12),
-  //                 decoration: BoxDecoration(
-  //                   color: greyLightColor,
-  //                   borderRadius: BorderRadius.circular(8),
-  //                 ),
-  //                 child: Column(
-  //                   children: [
-  //                     Row(
-  //                       mainAxisAlignment: MainAxisAlignment.spaceBetween,
-  //                       children: [
-  //                         Text(
-  //                           "${controller.quranSurahList[0]?.namaLatin}",
-  //                           style: regularStyle.copyWith(
-  //                             fontWeight: FontWeight.w800,
-  //                           ),
-  //                         ),
-  //                         Text(
-  //                           "${controller.quranSurahList[0]?.nama}",
-  //                           style: regularStyle.copyWith(
-  //                             fontWeight: FontWeight.w800,
-  //                           ),
-  //                         )
-  //                       ],
-  //                     ),
-  //                     Text(
-  //                         "${controller.parseHtmlString(controller.quranSurahList[0]!.deskripsi.substring(0, 100))}...")
-  //                   ],
-  //                 ),
-  //               );
-  //             })
-  //       ],
-  //     );
+  Widget _bannerSurahOfTheDay() => Container(
+        margin: EdgeInsets.only(top: 2.h),
+        width: Get.width,
+        padding: EdgeInsets.all(1.75.h),
+        decoration: BoxDecoration(
+          color: greyLightColor,
+          borderRadius: BorderRadius.circular(15),
+        ),
+        child: Column(
+          crossAxisAlignment: CrossAxisAlignment.center,
+          children: [
+            Text(
+              'activate_surahOfTheDay_feature'.tr,
+              style: regularStyle,
+              textAlign: TextAlign.center,
+            ),
+            ElevatedButton(
+              onPressed: () {
+                controller.requestSurahOfTheDay();
+              },
+              style: ElevatedButton.styleFrom(
+                backgroundColor: greenPrimaryColor,
+                elevation: 0,
+              ),
+              child: Text(
+                'activated_surahOfTheDay_feature'.tr,
+              ),
+            )
+          ],
+        ),
+      );
 
-  Widget _islamicWebsite() => Container();
+  Widget _surahOfTheDay() => Column(
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children: [
+          marginWidget(2.h, 0),
+          Row(
+            mainAxisAlignment: MainAxisAlignment.spaceBetween,
+            children: [
+              Text(
+                'surah_of_the_day'.tr,
+                style: boldStyle,
+              ),
+              IconButton(
+                onPressed: () {
+                  controller.loadSurahOfTheDay();
+                },
+                icon: Icon(
+                  Icons.refresh,
+                  color: greyColor,
+                ),
+              )
+            ],
+          ),
+          marginWidget(1.h, 0),
+          InkWell(
+            onTap: () {
+              Get.toNamed(
+                Routes.DETAIL_QURAN,
+                arguments: [
+                  controller.surahOfTheDayData.value.namaLatin,
+                  controller.surahOfTheDayData.value.nomor
+                ],
+              );
+            },
+            child: Container(
+              width: Get.width,
+              padding: EdgeInsets.all(1.75.h),
+              decoration: BoxDecoration(
+                color: greyLightColor,
+                borderRadius: BorderRadius.circular(15),
+              ),
+              child: Column(
+                children: [
+                  Row(
+                    mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                    children: [
+                      Text(
+                        controller.surahOfTheDayData.value.namaLatin!,
+                        style: mediumStyle,
+                      ),
+                      Text(
+                        controller.surahOfTheDayData.value.nama!,
+                        style: mediumStyle,
+                      ),
+                    ],
+                  ),
+                  Text(
+                    '${controller.surahOfTheDayData.value.deskripsi!.substring(0, 100)}...',
+                    style: regularStyle,
+                  )
+                ],
+              ),
+            ),
+          )
+        ],
+      );
+
+  Widget _islamicWebsite() => Column(
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children: [
+          marginWidget(2.h, 0),
+          Text(
+            'islamic_website'.tr,
+            style: boldStyle,
+          ),
+          marginWidget(2.h, 0),
+          SizedBox(
+            height: 10.h,
+            width: Get.width,
+            child: ListView.separated(
+              scrollDirection: Axis.horizontal,
+              separatorBuilder: (context, _) {
+                return marginWidget(0, 4.w);
+              },
+              itemBuilder: (context, index) {
+                return InkWell(
+                  onTap: () async {
+                    if (await canLaunch(controller.websiteUrl[index])) {
+                      await launch(
+                        controller.websiteUrl[index],
+                        forceWebView: false,
+                      );
+                    }
+                  },
+                  onLongPress: () {
+                    Get.snackbar(
+                      controller.websiteName[index],
+                      controller.websiteUrl[index],
+                      backgroundColor: Colors.white,
+                      isDismissible: true,
+                      snackPosition: SnackPosition.TOP,
+                    );
+                  },
+                  child: Container(
+                    padding: const EdgeInsets.all(12),
+                    width: 10.h,
+                    decoration: BoxDecoration(
+                        borderRadius: BorderRadius.circular(100),
+                        image: DecorationImage(
+                          image: AssetImage(controller.websiteLogo[index]),
+                          fit: BoxFit.cover,
+                        )),
+                  ),
+                );
+              },
+              itemCount: controller.websiteLogo.length,
+              shrinkWrap: true,
+            ),
+          )
+        ],
+      );
 }

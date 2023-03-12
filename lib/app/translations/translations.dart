@@ -19,6 +19,10 @@ class LocaleLanguage extends Translations {
           'tafsir_alquran': 'Tafsir Al-quran',
           'masjid_terdekat': 'Masjid Terdekat',
           'surah_of_the_day': "Surah Hari Ini",
+          'activate_surahOfTheDay_feature':
+              'Dapatkan Rekomendasi Surah Alquran Untuk dibaca Hari Ini!',
+          'activated_surahOfTheDay_feature': 'Dapatkan Rekomendasi!',
+          'islamic_website': 'Website Islami',
           'ayat_of_the_day': "Ayat Hari Ini",
           'text_banner_ayat_of_the_day':
               'Dapatkan ayat pilihan agar menjadi pengingat bagimu!',
@@ -35,7 +39,14 @@ class LocaleLanguage extends Translations {
           'akun': 'Akun',
           'tentang_kami': 'Tentang Kami',
           'pusat_bantuan': 'Pusat Bantuan',
-          'log_out': 'Log Out'
+          'log_out': 'Log Out',
+          'location_not_allowed': 'Akses Lokasi Tidak diizinkan!',
+          'location_permission_denied': 'Akses Lokasi ditolak!',
+          'cant_proccess_user_request_location_forbidden':
+              'Akses lokasi dilarang, tidak bisa meneruskan proses permintaan pengguna!',
+          'refresh': 'Muat Ulang',
+          'dummy':
+              'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus tristique nunc sit amet mattis lobortis. Vivamus egestas nulla turpis, sit amet blandit lorem venenatis sed. Nullam quam lacus, lobortis nec purus sit amet, fringilla condimentum arcu. Nunc tincidunt elit id enim rutrum eleifend. Suspendisse elementum risus at erat viverra, vitae tincidunt metus placerat. Aliquam dapibus vulputate consectetur. Ut vel tincidunt tortor. Etiam pharetra maximus nisl, placerat lacinia augue dignissim eu. Donec cursus velit sed sapien bibendum, et consectetur arcu ultricies. Pellentesque vehicula ligula neque, at commodo orci ultrices nec. Etiam dolor risus, facilisis at facilisis ut, condimentum et est. Cras tempor turpis quis dui hendrerit venenatis. Nullam quis scelerisque dolor. Suspendisse a ullamcorper metus.',
         },
         'en_US': {
           'salam': 'Assalamualaikum',
@@ -52,6 +63,12 @@ class LocaleLanguage extends Translations {
           'tafsir_alquran': 'Tafsir Al-quran',
           'masjid_terdekat': 'Mosque Nearby',
           'surah_of_the_day': "Surah of The Day",
+          'activate_surahOfTheDay_feature':
+              'Get Surah Quran Recommendations To Read Today!',
+          'activated_surahOfTheDay_feature': 'Activate this Feature!',
+          'islamic_website': 'Islamic Website',
+          'activated_feature_surahOfTheDay':
+              'Activate Surah of The Day Feature to Get Surah Recommended!',
           'ayat_of_the_day': "Ayat of The Day",
           'text_banner_ayat_of_the_day':
               'Get selected verses to serve as a reminder to you!',
@@ -68,7 +85,14 @@ class LocaleLanguage extends Translations {
           'akun': 'Account',
           'tentang_kami': 'About Us',
           'pusat_bantuan': 'Help Center',
-          'log_out': 'Log Out'
+          'log_out': 'Log Out',
+          'location_not_allowed': 'Location Access Not Allowed!',
+          'location_permission_denied': 'Location Access denied!',
+          'cant_proccess_user_request_location_forbidden':
+              'Location access is prohibited, cannot continue processing user requests!',
+          'refresh': 'Refresh',
+          'dummy':
+              'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus tristique nunc sit amet mattis lobortis. Vivamus egestas nulla turpis, sit amet blandit lorem venenatis sed. Nullam quam lacus, lobortis nec purus sit amet, fringilla condimentum arcu. Nunc tincidunt elit id enim rutrum eleifend. Suspendisse elementum risus at erat viverra, vitae tincidunt metus placerat. Aliquam dapibus vulputate consectetur. Ut vel tincidunt tortor. Etiam pharetra maximus nisl, placerat lacinia augue dignissim eu. Donec cursus velit sed sapien bibendum, et consectetur arcu ultricies. Pellentesque vehicula ligula neque, at commodo orci ultrices nec. Etiam dolor risus, facilisis at facilisis ut, condimentum et est. Cras tempor turpis quis dui hendrerit venenatis. Nullam quis scelerisque dolor. Suspendisse a ullamcorper metus.',
         }
       };
 }

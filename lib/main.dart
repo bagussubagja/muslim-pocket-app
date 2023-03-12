@@ -10,11 +10,11 @@ import 'app/routes/app_pages.dart';
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await GetStorage.init();
-  final box = GetStorage();
   runApp(
     Sizer(
       builder: (context, orientation, deviceType) {
         return GetMaterialApp(
+          debugShowCheckedModeBanner: false,
           title: "Application",
           translations: LocaleLanguage(),
           locale: Locale('id', 'ID'),

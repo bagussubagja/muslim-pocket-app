@@ -8,20 +8,12 @@ import '../../../data/models/prayer_time_model.dart';
 import '../../../data/models/surah_quran_list_model.dart';
 
 class HomeProvider extends GetConnect {
-  Future<List<SurahQuranListModel?>?> getSurahOfTheDay() async {
-    var client = http.Client();
-    var uri = Uri.parse('https://equran.id/api/surat');
-    try {
-      var respone = await client.get(uri);
-      if (respone.statusCode == 200) {
-        var json = respone.body;
-
-        return quranModelFromJson(json);
-      }
-    } catch (e) {
-      debugPrint(e.toString());
-    }
-    return [];
+  Future<SurahQuranListModel> getSurahOfTheDay() async {
+    final quranSurahListData =
+        await rootBundle.loadString('assets/quran/quran-surah-list.json');
+    final dataList = json.decode(quranSurahListData) as List<dynamic>;
+    final randomIndex = Random().nextInt(dataList.length);
+    return SurahQuranListModel.fromJson(dataList[randomIndex]);
   }
 
   Future<PrayerTimeModel?> getPrayerTime() async {
@@ -33,7 +25,6 @@ class HomeProvider extends GetConnect {
 
       if (response.statusCode == 200) {
         var json = response.body;
-        print(json);
         return prayerTimeModelFromJson(json);
       }
     } catch (e) {

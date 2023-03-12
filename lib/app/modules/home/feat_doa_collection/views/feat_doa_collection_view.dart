@@ -22,14 +22,6 @@ class FeatDoaCollectionView extends GetView<FeatDoaCollectionController> {
         centerTitle: true,
         elevation: 0,
         backgroundColor: greenPrimaryColor,
-        actions: [
-          IconButton(
-            onPressed: () {},
-            icon: const Icon(
-              Icons.search_rounded,
-            ),
-          )
-        ],
       ),
       body: SafeArea(
         child: Padding(
