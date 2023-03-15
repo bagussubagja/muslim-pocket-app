@@ -11,13 +11,17 @@ class SettingController extends GetxController {
   var box = GetStorage();
   var localStoragePath = Get.put(LocalStoragePath());
   var isLightMode = true.obs;
+  var isLogged = true.obs;
 
   final List<String> settingLabelOptions = [
-    'akun'.tr,
     'tentang_kami'.tr,
     'pusat_bantuan'.tr,
     'log_out'.tr,
   ];
+
+  changeLogInStatus() {
+    isLogged.value = !isLogged.value;
+  }
 
   changeThemeState() {
     Get.changeTheme(

@@ -25,8 +25,12 @@ class SettingView extends GetView<SettingController> {
                 shrinkWrap: true,
                 children: [
                   _headerSection(),
-                  _avatarSection(),
-                  _userDataSection(),
+                  !controller.isLogged.value
+                      ? _avatarSection()
+                      : _loginWidget(),
+                  !controller.isLogged.value
+                      ? _userDataSection()
+                      : const SizedBox.shrink(),
                   _settingOptions(),
                 ],
               ),
@@ -52,6 +56,47 @@ class SettingView extends GetView<SettingController> {
                 : const Icon(Icons.dark_mode),
           )
         ],
+      );
+
+  Widget _loginWidget() => Container(
+        width: 100.w,
+        padding: const EdgeInsets.all(12),
+        decoration: BoxDecoration(
+            color: greenDarkerColor,
+            borderRadius: BorderRadius.circular(1.5.h)),
+        child: Row(
+          mainAxisAlignment: MainAxisAlignment.spaceBetween,
+          children: [
+            Column(
+              children: [
+                Text(
+                  'Belum login?',
+                  style: mediumStyle.copyWith(color: Colors.white),
+                ),
+                ElevatedButton(
+                  onPressed: () {
+                    controller.changeLogInStatus();
+                  },
+                  style: ElevatedButton.styleFrom(
+                    backgroundColor: greenPrimaryColor,
+                    elevation: 0,
+                  ),
+                  child: Text("Login Sekarang!"),
+                )
+              ],
+            ),
+            Container(
+              height: 20.h,
+              width: 15.h,
+              decoration: const BoxDecoration(
+                image: DecorationImage(
+                  image: AssetImage('assets/illustrations/login_banner.png'),
+                  fit: BoxFit.cover,
+                ),
+              ),
+            )
+          ],
+        ),
       );
 
   Widget _avatarSection() => Padding(
@@ -95,25 +140,26 @@ class SettingView extends GetView<SettingController> {
         ],
       );
 
-  Widget _settingOptions() => ListView.builder(
+  Widget _settingOptions() => ListView.separated(
       shrinkWrap: true,
-      itemBuilder: (context, index) => Container(
-            width: Get.width,
-            margin: EdgeInsets.only(top: 2.h),
-            padding: const EdgeInsets.all(15),
-            decoration: BoxDecoration(
-              borderRadius: BorderRadius.circular(12),
-              color: greyLightColor,
-            ),
-            child: Row(
-              mainAxisAlignment: MainAxisAlignment.spaceBetween,
-              children: [
-                Text(
-                  controller.settingLabelOptions[index],
-                  style: regularStyle,
-                ),
-                const Icon(Icons.keyboard_arrow_right)
-              ],
+      separatorBuilder: (context, _) => const Divider(),
+      itemBuilder: (context, index) => InkWell(
+            onTap: () {},
+            borderRadius: BorderRadius.circular(2.h),
+            child: Container(
+              width: Get.width,
+              margin: index == 0 ? EdgeInsets.only(top: 4.h) : null,
+              padding: const EdgeInsets.all(15),
+              child: Row(
+                mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                children: [
+                  Text(
+                    controller.settingLabelOptions[index],
+                    style: regularStyle,
+                  ),
+                  const Icon(Icons.keyboard_arrow_right)
+                ],
+              ),
             ),
           ),
       itemCount: controller.settingLabelOptions.length);

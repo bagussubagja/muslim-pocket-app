@@ -46,6 +46,7 @@ flutter:
     - assets/prayers/
     - assets/quran/
     - assets/tafsir/
+    - assets/illustrations/
 
   fonts:
     - family: Nunito
