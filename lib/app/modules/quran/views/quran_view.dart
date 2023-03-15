@@ -101,7 +101,10 @@ class QuranView extends GetView<QuranController> {
                     onPressed: () {
                       controller.loadAyatOfTheDayData();
                     },
-                    icon: const Icon(Icons.refresh),
+                    icon: Icon(
+                      Icons.refresh,
+                      color: greyColor,
+                    ),
                   )
                 ],
               ),

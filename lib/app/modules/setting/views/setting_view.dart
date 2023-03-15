@@ -17,22 +17,22 @@ class SettingView extends GetView<SettingController> {
 
   @override
   Widget build(BuildContext context) {
-    return Scaffold(
-      body: SafeArea(
-        child: Padding(
-          padding: defaultPaddingScreen,
-          child: ListView(
-            shrinkWrap: true,
-            children: [
-              _headerSection(),
-              _avatarSection(),
-              _userDataSection(),
-              _settingOptions(),
-            ],
+    return Obx(() => Scaffold(
+          body: SafeArea(
+            child: Padding(
+              padding: defaultPaddingScreen,
+              child: ListView(
+                shrinkWrap: true,
+                children: [
+                  _headerSection(),
+                  _avatarSection(),
+                  _userDataSection(),
+                  _settingOptions(),
+                ],
+              ),
+            ),
           ),
-        ),
-      ),
-    );
+        ));
   }
 
   Widget _headerSection() => Row(
@@ -42,7 +42,15 @@ class SettingView extends GetView<SettingController> {
             'pengaturan'.tr,
             style: boldStyle,
           ),
-          IconButton(onPressed: () {}, icon: Icon(Icons.dark_mode))
+          IconButton(
+            onPressed: () {
+              controller.changeThemeState();
+              controller.getCurrentThemeValue();
+            },
+            icon: controller.isLightMode.value == true
+                ? const Icon(Icons.light_mode)
+                : const Icon(Icons.dark_mode),
+          )
         ],
       );
 
