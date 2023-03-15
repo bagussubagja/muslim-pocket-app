@@ -4,6 +4,7 @@ import '../../../../data/models/quran_model.dart';
 import '../providers/detail_quran_provider.dart';
 import 'package:audioplayers/audioplayers.dart';
 import 'package:html/parser.dart';
+import '../../../../utils/function/string_function.dart';
 
 class DetailQuranController extends GetxController {
   var dataParams = Get.arguments;
@@ -16,14 +17,7 @@ class DetailQuranController extends GetxController {
   var quranData = QuranModel().obs;
   var detailQuranProvider = Get.put(DetailQuranProvider());
   final audioPlayer = Get.put(AudioPlayer());
-
-  String parseHtmlString(String htmlString) {
-    final document = parse(htmlString);
-    final String parsedString =
-        parse(document.body?.text).documentElement?.text ?? "";
-
-    return parsedString;
-  }
+  var stringFunction = Get.put(StringFunction());
 
   loadQuranData({required int numberSurah}) async {
     quranData(

@@ -161,8 +161,11 @@ class DetailQuranView extends GetView<DetailQuranController> {
           builder: (context) {
             return AlertDialog(
               title: Text(controller.dataParams[0]),
-              content: Text(controller
-                  .parseHtmlString(controller.quranData.value.deskripsi!)),
+              content: Text(
+                controller.stringFunction.parseHtmlString(
+                  controller.quranData.value.deskripsi!,
+                ),
+              ),
             );
           },
         );

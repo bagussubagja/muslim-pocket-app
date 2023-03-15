@@ -4,6 +4,8 @@ class ConstantURL {
   String contentNotFound =
       'https://matob.web.id/random/wp-content/uploads/sites/2/2021/12/error-404.jpg';
   String doaEndpoint = 'https://doa-doa-api-ahmadramadhan.fly.dev/api/';
+  String ayatOfTheDayEndpoint =
+      'https://api.banghasan.com/quran/format/json/acak';
 
   haditsUrlEndpoint(String narator, int page) {
     return 'https://hadis-api-id.vercel.app/hadith/$narator/?page=$page&limit=20';

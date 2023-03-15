@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:muslim_pocket_app/app/routes/app_pages.dart';
 import 'package:muslim_pocket_app/app/utils/constants/constant_layout.dart';
+import 'package:muslim_pocket_app/app/widgets/loading_widget.dart';
 import 'package:sizer/sizer.dart';
 
 import '../../../utils/constants/constant_theme.dart';
@@ -17,16 +18,21 @@ class QuranView extends GetView<QuranController> {
 
   @override
   Widget build(BuildContext context) {
-    return Scaffold(
-      body: SafeArea(
-        child: Padding(
-          padding: defaultPaddingScreen,
-          child: ListView(
-            children: [
-              _titleSection(),
-              _bannerAyatofTheDay(),
-              _surahQuranList(),
-            ],
+    return Obx(
+      () => Scaffold(
+        body: SafeArea(
+          child: Padding(
+            padding: defaultPaddingScreen,
+            child: ListView(
+              children: [
+                _titleSection(),
+                controller.isAyatOfTheDayFeatureEnable() == null ||
+                        controller.isAyatOfTheDayFeatureEnable() == false
+                    ? _ayatOfTheDaySection()
+                    : _bannerAyatofTheDay(),
+                _surahQuranList(),
+              ],
+            ),
           ),
         ),
       ),
@@ -58,7 +64,9 @@ class QuranView extends GetView<QuranController> {
               style: regularStyle.copyWith(color: Colors.white),
             ),
             ElevatedButton(
-                onPressed: () {},
+                onPressed: () {
+                  controller.isAyatOfTheDayFeatureEnable();
+                },
                 style: ElevatedButton.styleFrom(
                   backgroundColor: greenDarkerColor,
                   elevation: 0,
@@ -71,7 +79,58 @@ class QuranView extends GetView<QuranController> {
         ),
       );
 
-  Widget _ayatofTheDaySection() => Container();
+  Widget _ayatOfTheDaySection() {
+    return Obx(
+      () {
+        return Container(
+          width: Get.width,
+          padding: const EdgeInsets.all(8),
+          decoration: BoxDecoration(
+            borderRadius: BorderRadius.circular(12),
+          ),
+          child: Column(
+            children: [
+              Row(
+                mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                children: [
+                  Text(
+                    'ayat_of_the_day'.tr,
+                    style: boldStyle.copyWith(color: Colors.grey),
+                  ),
+                  IconButton(
+                    onPressed: () {
+                      controller.loadAyatOfTheDayData();
+                    },
+                    icon: const Icon(Icons.refresh),
+                  )
+                ],
+              ),
+              Text(
+                '"${controller.ayatOfTheDayData.value.acak?.id?.teks!.replaceAll("\n", "")}"',
+                style: regularStyle.copyWith(
+                  color: Colors.grey,
+                ),
+              ),
+              marginWidget(1.h, 0),
+              Row(
+                mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                children: [
+                  Text(
+                    '${controller.ayatOfTheDayData.value.surat?.nama}',
+                    style: regularStyle.copyWith(color: greyColor),
+                  ),
+                  Text(
+                    'Ayat ${controller.ayatOfTheDayData.value.acak?.id?.ayat}/${controller.ayatOfTheDayData.value.surat?.ayat}',
+                    style: regularStyle.copyWith(color: greyColor),
+                  )
+                ],
+              )
+            ],
+          ),
+        );
+      },
+    );
+  }
 
   Widget _surahQuranList() => Column(
         crossAxisAlignment: CrossAxisAlignment.start,
