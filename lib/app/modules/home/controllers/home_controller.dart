@@ -30,6 +30,7 @@ class HomeController extends GetxController {
   var hijriyah = Hijriyah.now();
   var localStoragePath = LocalStoragePath();
   final box = GetStorage();
+  var isLightMode = true.obs;
 
   /*
   Location Service
@@ -232,6 +233,11 @@ class HomeController extends GetxController {
 
   isDataLoaded() {
     return isLoading.value;
+  }
+
+  getCurrentThemeValue() {
+    isLightMode.value = box.read(localStoragePath.themePath);
+    return isLightMode.value;
   }
 
   @override

@@ -1,4 +1,5 @@
 import 'package:cached_network_image/cached_network_image.dart';
+import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 
 import 'package:get/get.dart';
@@ -20,34 +21,38 @@ class HomeView extends GetView<HomeController> {
 
   @override
   Widget build(BuildContext context) {
-    return Obx(() {
-      return Scaffold(
-        body: SafeArea(
-          child: Padding(
-              padding: defaultPaddingScreen,
-              child: controller.isDataLoaded()
-                  ? loadingWidget(greenPrimaryColor)
-                  : ListView(
-                      physics: const BouncingScrollPhysics(),
-                      children: [
-                        _userInformation(),
-                        _dateNowSection(context),
-                        controller.isPrayerScheduleDataExist()
-                            ? _bannerPrayerTimeSchedule()
-                            : _prayerTimeSchedule(),
-                        _featuresCategory(),
-                        controller.isSurahOfTheDayDataExist()
-                            ? _surahOfTheDay()
-                            : _bannerSurahOfTheDay(),
-                        _islamicWebsite(),
-                      ],
-                    )),
-        ),
-      );
-    });
+    return Scaffold(
+      body: SafeArea(
+          child: StreamBuilder(
+              stream: FirebaseAuth.instance.authStateChanges(),
+              builder: (context, snapshot) {
+                return Obx(
+                  () => Padding(
+                    padding: defaultPaddingScreen,
+                    child: controller.isDataLoaded()
+                        ? loadingWidget(greenPrimaryColor)
+                        : ListView(
+                            physics: const BouncingScrollPhysics(),
+                            children: [
+                              _userInformation(snapshot: snapshot),
+                              _dateNowSection(context),
+                              controller.isPrayerScheduleDataExist()
+                                  ? _bannerPrayerTimeSchedule()
+                                  : _prayerTimeSchedule(),
+                              _featuresCategory(),
+                              controller.isSurahOfTheDayDataExist()
+                                  ? _surahOfTheDay()
+                                  : _bannerSurahOfTheDay(),
+                              _islamicWebsite(),
+                            ],
+                          ),
+                  ),
+                );
+              })),
+    );
   }
 
-  Widget _userInformation() => Row(
+  Widget _userInformation({required AsyncSnapshot<User?> snapshot}) => Row(
         mainAxisAlignment: MainAxisAlignment.spaceBetween,
         children: [
           Column(
@@ -58,7 +63,7 @@ class HomeView extends GetView<HomeController> {
                 style: regularStyle,
               ),
               Text(
-                'Bagus Subagja',
+                snapshot.data?.displayName ?? 'Pengguna',
                 style: regularStyle.copyWith(fontWeight: FontWeight.w800),
               )
             ],
@@ -81,7 +86,8 @@ class HomeView extends GetView<HomeController> {
                 ),
               );
             },
-            imageUrl: controller.urlClass.emptyAvatar,
+            imageUrl:
+                snapshot.data?.photoURL ?? controller.urlClass.emptyAvatar,
           )
         ],
       );
@@ -162,7 +168,10 @@ class HomeView extends GetView<HomeController> {
         margin: EdgeInsets.only(top: 2.h),
         padding: const EdgeInsets.all(12),
         decoration: BoxDecoration(
-            color: greyLightColor, borderRadius: BorderRadius.circular(15)),
+            color: controller.getCurrentThemeValue()
+                ? greyLightColor
+                : Colors.black12,
+            borderRadius: BorderRadius.circular(15)),
         child: Row(
           mainAxisAlignment: MainAxisAlignment.spaceBetween,
           children: [
@@ -354,7 +363,9 @@ class HomeView extends GetView<HomeController> {
               width: Get.width,
               padding: EdgeInsets.all(1.75.h),
               decoration: BoxDecoration(
-                color: greyLightColor,
+                color: controller.getCurrentThemeValue()
+                    ? greyLightColor
+                    : Colors.black12,
                 borderRadius: BorderRadius.circular(15),
               ),
               child: Column(

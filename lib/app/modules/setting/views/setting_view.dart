@@ -1,9 +1,11 @@
 import 'package:cached_network_image/cached_network_image.dart';
+import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 
 import 'package:get/get.dart';
 import 'package:muslim_pocket_app/app/utils/constants/constant_layout.dart';
 import 'package:muslim_pocket_app/app/utils/constants/constant_theme.dart';
+import 'package:muslim_pocket_app/app/widgets/loading_widget.dart';
 import 'package:muslim_pocket_app/app/widgets/margin_widget.dart';
 import 'package:sizer/sizer.dart';
 
@@ -17,26 +19,40 @@ class SettingView extends GetView<SettingController> {
 
   @override
   Widget build(BuildContext context) {
-    return Obx(() => Scaffold(
-          body: SafeArea(
-            child: Padding(
-              padding: defaultPaddingScreen,
-              child: ListView(
-                shrinkWrap: true,
-                children: [
-                  _headerSection(),
-                  !controller.isLogged.value
-                      ? _avatarSection()
-                      : _loginWidget(),
-                  !controller.isLogged.value
-                      ? _userDataSection()
-                      : const SizedBox.shrink(),
-                  _settingOptions(),
-                ],
-              ),
-            ),
+    return Scaffold(
+      body: SafeArea(
+        child: Padding(
+          padding: defaultPaddingScreen,
+          child: StreamBuilder(
+            stream: FirebaseAuth.instance.authStateChanges(),
+            builder: (context, snapshot) {
+              return Obx(() {
+                if (snapshot.hasData) {
+                  return ListView(
+                    shrinkWrap: true,
+                    children: [
+                      _headerSection(),
+                      _avatarSection(snapshot),
+                      _userDataSection(snapshot),
+                      _settingOptions(snapshot: snapshot),
+                    ],
+                  );
+                } else {
+                  return ListView(
+                    shrinkWrap: true,
+                    children: [
+                      _headerSection(),
+                      _loginWidget(context: context),
+                      _settingOptions(snapshot: snapshot),
+                    ],
+                  );
+                }
+              });
+            },
           ),
-        ));
+        ),
+      ),
+    );
   }
 
   Widget _headerSection() => Row(
@@ -58,7 +74,7 @@ class SettingView extends GetView<SettingController> {
         ],
       );
 
-  Widget _loginWidget() => Container(
+  Widget _loginWidget({required BuildContext context}) => Container(
         width: 100.w,
         padding: const EdgeInsets.all(12),
         decoration: BoxDecoration(
@@ -74,8 +90,10 @@ class SettingView extends GetView<SettingController> {
                   style: mediumStyle.copyWith(color: Colors.white),
                 ),
                 ElevatedButton(
-                  onPressed: () {
-                    controller.changeLogInStatus();
+                  onPressed: () async {
+                    controller.googleAuthProvider.signInWithGoogle();
+
+                    // controller.changeLogInStatus();
                   },
                   style: ElevatedButton.styleFrom(
                     backgroundColor: greenPrimaryColor,
@@ -99,12 +117,12 @@ class SettingView extends GetView<SettingController> {
         ),
       );
 
-  Widget _avatarSection() => Padding(
+  Widget _avatarSection(AsyncSnapshot<User?> snapshot) => Padding(
         padding: EdgeInsets.only(top: 5.h),
         child: Align(
           alignment: Alignment.center,
           child: CachedNetworkImage(
-            imageUrl: controller.url.emptyAvatar,
+            imageUrl: snapshot.data?.photoURL ?? controller.url.emptyAvatar,
             imageBuilder: (context, imageProvider) => Container(
               height: 20.h,
               width: 20.h,
@@ -127,40 +145,52 @@ class SettingView extends GetView<SettingController> {
         ),
       );
 
-  Widget _userDataSection() => Column(
+  Widget _userDataSection(AsyncSnapshot<User?> snapshot) => Column(
         children: [
           Text(
-            'Bagus Subagja',
+            snapshot.data?.displayName ?? '',
             style: regularStyle,
           ),
           Text(
-            'bagussubagja99@gmail.com',
+            snapshot.data?.email ?? '',
             style: regularStyle.copyWith(color: greyColor),
           )
         ],
       );
 
-  Widget _settingOptions() => ListView.separated(
-      shrinkWrap: true,
-      separatorBuilder: (context, _) => const Divider(),
-      itemBuilder: (context, index) => InkWell(
-            onTap: () {},
-            borderRadius: BorderRadius.circular(2.h),
-            child: Container(
-              width: Get.width,
-              margin: index == 0 ? EdgeInsets.only(top: 4.h) : null,
-              padding: const EdgeInsets.all(15),
-              child: Row(
-                mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                children: [
-                  Text(
-                    controller.settingLabelOptions[index],
-                    style: regularStyle,
+  Widget _settingOptions({required AsyncSnapshot<User?> snapshot}) =>
+      ListView.separated(
+          shrinkWrap: true,
+          separatorBuilder: (context, _) => const Divider(),
+          itemCount: controller.settingLabelOptions.length,
+          itemBuilder: (context, index) {
+            if (!snapshot.hasData) {
+              return const SizedBox.shrink();
+            } else {
+              return InkWell(
+                onTap: () async {
+                  if (index == 2) {
+                    controller.googleAuthProvider.logout();
+                    Get.snackbar("pesan".tr, "logout_success".tr);
+                  }
+                },
+                borderRadius: BorderRadius.circular(2.h),
+                child: Container(
+                  width: Get.width,
+                  margin: index == 0 ? EdgeInsets.only(top: 4.h) : null,
+                  padding: const EdgeInsets.all(15),
+                  child: Row(
+                    mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                    children: [
+                      Text(
+                        controller.settingLabelOptions[index],
+                        style: regularStyle,
+                      ),
+                      const Icon(Icons.keyboard_arrow_right)
+                    ],
                   ),
-                  const Icon(Icons.keyboard_arrow_right)
-                ],
-              ),
-            ),
-          ),
-      itemCount: controller.settingLabelOptions.length);
+                ),
+              );
+            }
+          });
 }
