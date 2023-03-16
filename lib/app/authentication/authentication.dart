@@ -17,8 +17,8 @@ class GoogleAuthentication {
   }
 
   Future<void> logout() async {
-    // final GoogleSignIn googleSignIn = GoogleSignIn();
-    // await googleSignIn.signOut();
+    final GoogleSignIn googleSignIn = GoogleSignIn();
+    await googleSignIn.signOut();
     FirebaseAuth.instance.signOut();
   }
 }
