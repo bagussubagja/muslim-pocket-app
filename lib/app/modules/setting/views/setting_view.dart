@@ -3,6 +3,7 @@ import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 
 import 'package:get/get.dart';
+import 'package:muslim_pocket_app/app/routes/app_pages.dart';
 import 'package:muslim_pocket_app/app/utils/constants/constant_layout.dart';
 import 'package:muslim_pocket_app/app/utils/constants/constant_theme.dart';
 import 'package:muslim_pocket_app/app/widgets/loading_widget.dart';
@@ -43,7 +44,6 @@ class SettingView extends GetView<SettingController> {
                     children: [
                       _headerSection(),
                       _loginWidget(context: context),
-                      _settingOptions(snapshot: snapshot),
                     ],
                   );
                 }
@@ -168,7 +168,11 @@ class SettingView extends GetView<SettingController> {
             } else {
               return InkWell(
                 onTap: () async {
-                  if (index == 2) {
+                  if (index == 0) {
+                    Get.toNamed(Routes.ABOUT_US);
+                  } else if (index == 1) {
+                    Get.toNamed(Routes.HELP_CENTER);
+                  } else if (index == 2) {
                     controller.googleAuthProvider.logout();
                     Get.snackbar("pesan".tr, "logout_success".tr);
                   }

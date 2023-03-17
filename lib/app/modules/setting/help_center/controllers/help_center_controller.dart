@@ -1,9 +1,9 @@
 import 'package:get/get.dart';
+import 'package:muslim_pocket_app/app/utils/constants/constant_url.dart';
 
 class HelpCenterController extends GetxController {
-  //TODO: Implement HelpCenterController
+  final url = Get.put(ConstantURL());
 
-  final count = 0.obs;
   @override
   void onInit() {
     super.onInit();
@@ -18,6 +18,4 @@ class HelpCenterController extends GetxController {
   void onClose() {
     super.onClose();
   }
-
-  void increment() => count.value++;
 }

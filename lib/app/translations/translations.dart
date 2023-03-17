@@ -6,6 +6,8 @@ class LocaleLanguage extends Translations {
   Map<String, Map<String, String>> get keys => {
         'id_ID': {
           'salam': 'Assalamualaikum',
+          'salam_full': 'Assalamualaikum Warahmatullahi Wabarakatuh',
+          'greeting': 'Ahlan wa Sahlan!',
           'shubuh': 'Shubuh',
           'dzuhur': 'Dzuhur',
           'ashar': 'Ashar',
@@ -44,17 +46,26 @@ class LocaleLanguage extends Translations {
           'logout_success': 'Logout berhasil dilakukan!',
           'tentang_kami': 'Tentang Kami',
           'pusat_bantuan': 'Pusat Bantuan',
+          'help_template': 'Saya mendapati sebuah bug pada aplikasi!',
           'log_out': 'Log Out',
           'location_not_allowed': 'Akses Lokasi Tidak diizinkan!',
           'location_permission_denied': 'Akses Lokasi ditolak!',
           'cant_proccess_user_request_location_forbidden':
               'Akses lokasi dilarang, tidak bisa meneruskan proses permintaan pengguna!',
           'refresh': 'Muat Ulang',
+          'is_bug_found':
+              'Jika kamu menemukan bug pada aplikasi ini, laporkan segera dengan tekan tombol dibawah!',
+          'send_bug_report': 'Laporkan Masalahmu',
+          'app_desc':
+              "Muslim Pocket App merupakan aplikasi yang menyediakan berbagai macam kebutuhan seorang muslim seperti Al-Quran, kumpulan hadits dan do'a, sampai kajian-kajian islami oleh para asatidz dari Salafush Shalih.",
+          'app_author': 'Dibuat oleh - Bagus Subagja ❤️',
           'dummy':
               'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus tristique nunc sit amet mattis lobortis. Vivamus egestas nulla turpis, sit amet blandit lorem venenatis sed. Nullam quam lacus, lobortis nec purus sit amet, fringilla condimentum arcu. Nunc tincidunt elit id enim rutrum eleifend. Suspendisse elementum risus at erat viverra, vitae tincidunt metus placerat. Aliquam dapibus vulputate consectetur. Ut vel tincidunt tortor. Etiam pharetra maximus nisl, placerat lacinia augue dignissim eu. Donec cursus velit sed sapien bibendum, et consectetur arcu ultricies. Pellentesque vehicula ligula neque, at commodo orci ultrices nec. Etiam dolor risus, facilisis at facilisis ut, condimentum et est. Cras tempor turpis quis dui hendrerit venenatis. Nullam quis scelerisque dolor. Suspendisse a ullamcorper metus.',
         },
         'en_US': {
           'salam': 'Assalamualaikum',
+          'salam_full': 'Assalamualaikum Warahmatullahi Wabarakatuh',
+          'greeting': 'Ahlan wa Sahlan!',
           'shubuh': 'Shubuh',
           'dzuhur': 'Dzuhur',
           'ashar': 'Ashar',
@@ -95,12 +106,19 @@ class LocaleLanguage extends Translations {
           'logout_success': 'Successfully Logout',
           'tentang_kami': 'About Us',
           'pusat_bantuan': 'Help Center',
+          'help_template': 'I Found a bug in this app!',
           'log_out': 'Log Out',
           'location_not_allowed': 'Location Access Not Allowed!',
           'location_permission_denied': 'Location Access denied!',
           'cant_proccess_user_request_location_forbidden':
               'Location access is prohibited, cannot continue processing user requests!',
           'refresh': 'Refresh',
+          'is_bug_found':
+              'If you find a bug in this application, report it immediately by pressing the button below!',
+          'send_bug_report': 'Report Your Problem',
+          'app_desc':
+              "My Muslim Pocket App is an application that provides various kinds of needs of a Muslim such as the Koran, collections of hadiths and prayers, to Islamic studies by asatidz from Salafush Shalih.",
+          'app_author': 'Created by - Bagus Subagja ❤️',
           'dummy':
               'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus tristique nunc sit amet mattis lobortis. Vivamus egestas nulla turpis, sit amet blandit lorem venenatis sed. Nullam quam lacus, lobortis nec purus sit amet, fringilla condimentum arcu. Nunc tincidunt elit id enim rutrum eleifend. Suspendisse elementum risus at erat viverra, vitae tincidunt metus placerat. Aliquam dapibus vulputate consectetur. Ut vel tincidunt tortor. Etiam pharetra maximus nisl, placerat lacinia augue dignissim eu. Donec cursus velit sed sapien bibendum, et consectetur arcu ultricies. Pellentesque vehicula ligula neque, at commodo orci ultrices nec. Etiam dolor risus, facilisis at facilisis ut, condimentum et est. Cras tempor turpis quis dui hendrerit venenatis. Nullam quis scelerisque dolor. Suspendisse a ullamcorper metus.',
         }

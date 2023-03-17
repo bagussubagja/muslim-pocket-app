@@ -2,6 +2,7 @@ import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:get_storage/get_storage.dart';
 import 'package:muslim_pocket_app/app/translations/translations.dart';
+import 'package:muslim_pocket_app/app/utils/constants/constant_theme.dart';
 import 'package:muslim_pocket_app/app/utils/storage/local_storage_path.dart';
 import 'package:sizer/sizer.dart';
 
@@ -33,7 +34,7 @@ void main() async {
           theme: box.read(localStoragePath.themePath)
               ? ThemeData.light()
               : ThemeData.dark(),
-          // darkTheme: ThemeData.dark(),
+          color: greenPrimaryColor,
           translations: LocaleLanguage(),
           locale: Locale('id', 'ID'),
           initialRoute: AppPages.INITIAL,
