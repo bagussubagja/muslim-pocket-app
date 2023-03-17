@@ -92,7 +92,6 @@ class SettingView extends GetView<SettingController> {
                 ElevatedButton(
                   onPressed: () async {
                     controller.googleAuthProvider.signInWithGoogle();
-
                     // controller.changeLogInStatus();
                   },
                   style: ElevatedButton.styleFrom(

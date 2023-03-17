@@ -19,6 +19,7 @@ class LocaleLanguage extends Translations {
           'tafsir_alquran': 'Tafsir Al-quran',
           'masjid_terdekat': 'Masjid Terdekat',
           'surah_of_the_day': "Surah Hari Ini",
+          'get_prayer_time': 'Dapatkan Jadwal Shalat',
           'activate_surahOfTheDay_feature':
               'Dapatkan Rekomendasi Surah Alquran Untuk dibaca Hari Ini!',
           'activated_surahOfTheDay_feature': 'Dapatkan Rekomendasi!',
@@ -34,6 +35,8 @@ class LocaleLanguage extends Translations {
               'Dengarkan Kajian Islam Terbaik dari Para Asatidz selama 24/7',
           'channel_islam': 'Kanal Islam',
           'playlist_kajian': 'Daftar Putar Video Kajian',
+          'more_videos': 'Video Lainnya',
+          'publish_time': 'Waktu Upload : ',
           'selengkapnya': 'Selengkapnya',
           'pengaturan': 'Pengaturan',
           'akun': 'Akun',
@@ -65,6 +68,7 @@ class LocaleLanguage extends Translations {
           'tafsir_alquran': 'Tafsir Al-quran',
           'masjid_terdekat': 'Mosque Nearby',
           'surah_of_the_day': "Surah of The Day",
+          'get_prayer_time': 'Get Prayer Time',
           'activate_surahOfTheDay_feature':
               'Get Surah Quran Recommendations To Read Today!',
           'activated_surahOfTheDay_feature': 'Activate this Feature!',
@@ -82,6 +86,8 @@ class LocaleLanguage extends Translations {
               'Listen to the Best Islamic Studies from Asatidz for 24/7',
           'channel_islam': 'Islamic Channel',
           'playlist_kajian': 'Playlist Islamic Studies Video',
+          'more_videos': 'More Videos',
+          'publish_time': 'Upload Time : ',
           'selengkapnya': 'More',
           'pengaturan': 'Setting',
           'akun': 'Account',

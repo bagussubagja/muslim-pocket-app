@@ -3,6 +3,7 @@ part of 'app_pages.dart';
 
 abstract class Routes {
   Routes._();
+
   static const HOME = _Paths.HOME;
   static const MAIN_PAGE = _Paths.MAIN_PAGE;
   static const QURAN = _Paths.QURAN;
@@ -24,10 +25,14 @@ abstract class Routes {
   static const FEAT_DOA_COLLECTION = _Paths.HOME + _Paths.FEAT_DOA_COLLECTION;
   static const DETAIL_FEAT_TAFSIR =
       _Paths.HOME + _Paths.FEAT_TAFSIR + _Paths.DETAIL_FEAT_TAFSIR;
+  static const DETAIL_KAJIAN = _Paths.KAJIAN + _Paths.DETAIL_KAJIAN;
+  static const ABOUT_US = _Paths.SETTING + _Paths.ABOUT_US;
+  static const HELP_CENTER = _Paths.SETTING + _Paths.HELP_CENTER;
 }
 
 abstract class _Paths {
   _Paths._();
+
   static const HOME = '/home';
   static const MAIN_PAGE = '/main-page';
   static const QURAN = '/quran';
@@ -46,4 +51,7 @@ abstract class _Paths {
   static const DETAIL_FEAT_HADITS = '/detail-feat-hadits';
   static const FEAT_DOA_COLLECTION = '/feat-doa-collection';
   static const DETAIL_FEAT_TAFSIR = '/detail-feat-tafsir';
+  static const DETAIL_KAJIAN = '/detail-kajian';
+  static const ABOUT_US = '/about-us';
+  static const HELP_CENTER = '/help-center';
 }

@@ -30,6 +30,7 @@ dependencies:
   firebase_core: ^2.7.1
   firebase_auth: ^4.2.2
   google_sign_in:
+  youtube_player_flutter:
 
 dev_dependencies:
   flutter_lints: ^2.0.0

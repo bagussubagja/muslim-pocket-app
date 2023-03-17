@@ -18,4 +18,8 @@ class ConstantURL {
   tafsirEndpoint(int surah) {
     return 'https://equran.id/api/tafsir/$surah';
   }
+
+  youtubeAPIEndpoint(String channelId, String key, int result) {
+    return 'https://youtube.googleapis.com/youtube/v3/search?part=snippet&channelId=$channelId&order=date&key=$key&maxResults=$result';
+  }
 }

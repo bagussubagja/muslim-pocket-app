@@ -176,12 +176,12 @@ class HomeView extends GetView<HomeController> {
           mainAxisAlignment: MainAxisAlignment.spaceBetween,
           children: [
             Text(
-              "Dapatkan Jadwal Shalat",
+              "get_prayer_time".tr,
               style: regularStyle,
             ),
             IconButton(
               onPressed: () {},
-              icon: Icon(
+              icon: const Icon(
                 Icons.get_app,
               ),
             )
@@ -299,7 +299,9 @@ class HomeView extends GetView<HomeController> {
         width: Get.width,
         padding: EdgeInsets.all(1.75.h),
         decoration: BoxDecoration(
-          color: greyLightColor,
+          color: controller.getCurrentThemeValue()
+              ? greyLightColor
+              : Colors.black12,
           borderRadius: BorderRadius.circular(15),
         ),
         child: Column(

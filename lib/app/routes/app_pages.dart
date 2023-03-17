@@ -13,6 +13,8 @@ import '../modules/home/feat_tafsir/detail_feat_tafsir/views/detail_feat_tafsir_
 import '../modules/home/feat_tafsir/views/feat_tafsir_view.dart';
 import '../modules/home/views/home_view.dart';
 import '../modules/kajian/bindings/kajian_binding.dart';
+import '../modules/kajian/detail_kajian/bindings/detail_kajian_binding.dart';
+import '../modules/kajian/detail_kajian/views/detail_kajian_view.dart';
 import '../modules/kajian/views/kajian_view.dart';
 import '../modules/main_page/bindings/main_page_binding.dart';
 import '../modules/main_page/views/main_page_view.dart';
@@ -20,7 +22,11 @@ import '../modules/quran/bindings/quran_binding.dart';
 import '../modules/quran/detail_quran/bindings/detail_quran_binding.dart';
 import '../modules/quran/detail_quran/views/detail_quran_view.dart';
 import '../modules/quran/views/quran_view.dart';
+import '../modules/setting/about_us/bindings/about_us_binding.dart';
+import '../modules/setting/about_us/views/about_us_view.dart';
 import '../modules/setting/bindings/setting_binding.dart';
+import '../modules/setting/help_center/bindings/help_center_binding.dart';
+import '../modules/setting/help_center/views/help_center_view.dart';
 import '../modules/setting/views/setting_view.dart';
 import '../modules/yufid_search_engine/bindings/yufid_search_engine_binding.dart';
 import '../modules/yufid_search_engine/views/yufid_search_engine_view.dart';
@@ -90,11 +96,30 @@ class AppPages {
       name: _Paths.KAJIAN,
       page: () => KajianView(),
       binding: KajianBinding(),
+      children: [
+        GetPage(
+          name: _Paths.DETAIL_KAJIAN,
+          page: () => DetailKajianView(),
+          binding: DetailKajianBinding(),
+        ),
+      ],
     ),
     GetPage(
       name: _Paths.SETTING,
       page: () => SettingView(),
       binding: SettingBinding(),
+      children: [
+        GetPage(
+          name: _Paths.ABOUT_US,
+          page: () => const AboutUsView(),
+          binding: AboutUsBinding(),
+        ),
+        GetPage(
+          name: _Paths.HELP_CENTER,
+          page: () => const HelpCenterView(),
+          binding: HelpCenterBinding(),
+        ),
+      ],
     ),
     GetPage(
       name: _Paths.YUFID_SEARCH_ENGINE,
