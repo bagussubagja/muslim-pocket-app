@@ -36,7 +36,7 @@ void main() async {
               : ThemeData.dark(),
           color: greenPrimaryColor,
           translations: LocaleLanguage(),
-          locale: Locale('id', 'ID'),
+          locale: const Locale('id', 'ID'),
           initialRoute: AppPages.INITIAL,
           getPages: AppPages.routes,
         );

@@ -386,7 +386,10 @@ class HomeView extends GetView<HomeController> {
                     ],
                   ),
                   Text(
-                    '${controller.surahOfTheDayData.value.deskripsi!.substring(0, 100)}...',
+                    '${controller.stringFunction.parseHtmlString(
+                      controller.surahOfTheDayData.value.deskripsi!
+                          .substring(0, 102),
+                    )}...',
                     style: regularStyle,
                   )
                 ],

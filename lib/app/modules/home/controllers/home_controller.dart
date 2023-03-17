@@ -12,6 +12,7 @@ import 'package:hijriyah_indonesia/hijriyah_indonesia.dart';
 import 'package:flutter_islamic_icons/flutter_islamic_icons.dart';
 import 'package:muslim_pocket_app/app/modules/home/providers/home_provider.dart';
 import 'package:html/parser.dart';
+import 'package:muslim_pocket_app/app/utils/function/string_function.dart';
 import 'package:muslim_pocket_app/app/utils/storage/local_storage_path.dart';
 import '../../../data/models/surah_quran_list_model.dart';
 import 'package:get_storage/get_storage.dart';
@@ -21,6 +22,7 @@ class HomeController extends GetxController {
   Dependency
    */
   final homeProvider = Get.put(HomeProvider());
+  final stringFunction = Get.put(StringFunction());
 
   /*
   Variables

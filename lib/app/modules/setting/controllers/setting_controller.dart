@@ -20,15 +20,11 @@ class SettingController extends GetxController {
   var isLightMode = true.obs;
   var isLogged = true.obs;
 
-  final List<String> settingLabelOptions = [
+  List<String> settingLabelOptions = [
     'tentang_kami'.tr,
     'pusat_bantuan'.tr,
     'log_out'.tr,
   ];
-
-  changeLogInStatus() {
-    isLogged.value = !isLogged.value;
-  }
 
   changeThemeState() {
     Get.changeTheme(
