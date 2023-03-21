@@ -1,35 +1,64 @@
 name: muslim_pocket_app
 version: 1.0.0+1
 publish_to: none
-description: A new Flutter project.
-environment: 
-  sdk: '>=2.17.3 <3.0.0'
+description: A daily muslim mobile app.
+environment:
+  sdk: ">=2.19.2 <3.0.0"
 
-dependencies: 
+dependencies:
   cupertino_icons: ^1.0.2
   get: 4.6.5
-  flutter: 
+  flutter:
     sdk: flutter
   curved_navigation_bar: ^1.0.3
   sizer: ^2.0.15
+  cached_network_image: ^3.2.1
+  hijriyah_indonesia: ^0.1.2
+  slide_digital_clock: ^1.0.3
+  flutter_islamic_icons: ^1.0.2
+  get_cli: ^1.8.1
+  audioplayers: ^0.20.1
+  webview_flutter: ^2.0.12
+  simple_progress_indicators: ^0.2.0
+  intl: ^0.18.0
+  html: ^0.15.2
+  lottie: ^1.4.2
+  url_launcher: ^6.1.7
+  permission_handler: ^9.2.0
+  geolocator: ^8.2.1
+  get_storage: ^2.0.3
+  firebase_core: ^2.7.1
+  firebase_auth: ^4.2.2
+  google_sign_in:
+  youtube_player_flutter:
+  geocoding: ^2.0.1
+  internet_connection_checker:
+  connectivity_plus:
 
-dev_dependencies: 
+dev_dependencies:
   flutter_lints: ^2.0.0
-  flutter_test: 
+  flutter_test:
     sdk: flutter
+  flutter_launcher_icons: ^0.9.2
 
-flutter: 
+flutter_icons:
+  android: true
+  image_path: "assets/logo/app-logo.png"
+
+flutter:
   uses-material-design: true
 
   assets:
     - assets/fonts/
     - assets/icons/
     - assets/images/
-    - assets/logo/
+    - assets/logo/channel-logos/
+    - assets/logo/website-logos/
     - assets/lotties/
     - assets/prayers/
     - assets/quran/
     - assets/tafsir/
+    - assets/illustrations/
 
   fonts:
     - family: Nunito
@@ -40,4 +69,3 @@ flutter:
           weight: 600
         - asset: assets/fonts/Nunito-Regular.ttf
           weight: 400
-

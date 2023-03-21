@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "779673532927",
+    "project_id": "muslim-pocket-app",
+    "storage_bucket": "muslim-pocket-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779673532927:android:2ccf1d9abf2dd649ca0fca",
+        "android_client_info": {
+          "package_name": "com.example.muslim_pocket_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779673532927-qh9m2vd6e19mg4h6nrvuibe4fdt7s74i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASertH8-8I5GVbQfnJ3uOnX-cFr8Tct_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "779673532927-qh9m2vd6e19mg4h6nrvuibe4fdt7s74i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

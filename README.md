@@ -1,16 +1,6 @@
-# muslim_pocket_app
+# Muslim Pocket App
 
-A new Flutter project.
+Muslim Pocket App is an application that provides various kinds of needs of a Muslim such as the Al-Quran, collections of hadiths and prayers, to Islamic videos by asatidz from Salafush Shalih.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Preview
+![6](https://user-images.githubusercontent.com/74639319/226599289-aa0ceb8f-b708-4eb7-9bbd-9543a4da6b66.png)

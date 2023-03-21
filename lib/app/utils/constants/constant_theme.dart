@@ -10,7 +10,7 @@ Color greyLightColor = const Color(0xffEEEEEE);
 Color redColor = const Color(0xffF47174);
 
 TextStyle boldStyle = TextStyle(
-    fontSize: 20.sp, fontWeight: FontWeight.w800, fontFamily: "Nunito");
+    fontSize: 19.sp, fontWeight: FontWeight.w800, fontFamily: "Nunito");
 TextStyle mediumStyle = TextStyle(
     fontSize: 17.sp, fontWeight: FontWeight.w600, fontFamily: "Nunito");
 TextStyle regularStyle = TextStyle(
