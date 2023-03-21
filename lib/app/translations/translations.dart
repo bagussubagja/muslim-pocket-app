@@ -2,7 +2,6 @@ import 'package:get/get.dart';
 
 class LocaleLanguage extends Translations {
   @override
-  // TODO: implement keys
   Map<String, Map<String, String>> get keys => {
         'id_ID': {
           'salam': 'Assalamualaikum',
@@ -48,6 +47,8 @@ class LocaleLanguage extends Translations {
           'pusat_bantuan': 'Pusat Bantuan',
           'pilih_bahasa': 'Pilih Bahasa',
           'help_template': 'Saya mendapati sebuah bug pada aplikasi!',
+          'not_login_yet': 'Dapatkan Pengalaman Terbaik dengan Akun Google Kamu!',
+          'login_now' : 'Login Sekarang',
           'log_out': 'Log Out',
           'location_not_allowed': 'Akses Lokasi Tidak diizinkan!',
           'location_permission_denied': 'Akses Lokasi ditolak!',
@@ -109,6 +110,8 @@ class LocaleLanguage extends Translations {
           'pusat_bantuan': 'Help Center',
           'pilih_bahasa': 'Select Language',
           'help_template': 'I Found a bug in this app!',
+             'not_login_yet': 'Get the best experience using this App!',
+          'login_now' : 'Login Now!',
           'log_out': 'Log Out',
           'location_not_allowed': 'Location Access Not Allowed!',
           'location_permission_denied': 'Location Access denied!',

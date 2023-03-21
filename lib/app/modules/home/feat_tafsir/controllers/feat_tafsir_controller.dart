@@ -117,18 +117,5 @@ class FeatTafsirController extends GetxController {
     "114.An-Nas (Umat Manusia)",
   ];
 
-  @override
-  void onInit() {
-    super.onInit();
-  }
 
-  @override
-  void onReady() {
-    super.onReady();
-  }
-
-  @override
-  void onClose() {
-    super.onClose();
-  }
 }

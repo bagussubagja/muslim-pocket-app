@@ -15,12 +15,12 @@ class YufidSearchEngineView extends GetView<YufidSearchEngineController> {
         appBar: AppBar(
           leading: IconButton(
             onPressed: () {},
-            icon: Icon(Icons.arrow_back),
+            icon: const Icon(Icons.arrow_back),
           ),
           actions: [
             IconButton(
               onPressed: () {},
-              icon: Icon(Icons.refresh_rounded),
+              icon: const Icon(Icons.refresh_rounded),
             )
           ],
           elevation: 0,

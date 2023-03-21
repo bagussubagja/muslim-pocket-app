@@ -10,6 +10,7 @@ import '../controllers/help_center_controller.dart';
 
 class HelpCenterView extends GetView<HelpCenterController> {
   HelpCenterView({Key? key}) : super(key: key);
+  @override
   final controller = Get.put(HelpCenterController());
   @override
   Widget build(BuildContext context) {
@@ -42,7 +43,7 @@ class HelpCenterView extends GetView<HelpCenterController> {
               ),
               ElevatedButton(
                 onPressed: () async {
-                  final Uri _emailLaunchUri = Uri(
+                  final Uri emailLaunchUri = Uri(
                     scheme: 'mailto',
                     path: controller.url.devEmail,
                     queryParameters: {
@@ -50,7 +51,8 @@ class HelpCenterView extends GetView<HelpCenterController> {
                       'body': 'help_template'.tr
                     },
                   );
-                  await launch(_emailLaunchUri.toString());
+                  // ignore: deprecated_member_use
+                  await launch(emailLaunchUri.toString());
                 },
                 style: ElevatedButton.styleFrom(
                   backgroundColor: greenPrimaryColor,

@@ -1,3 +1,5 @@
+// ignore_for_file: depend_on_referenced_packages
+
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:http/http.dart' as http;
@@ -17,7 +19,6 @@ class KajianProvider extends GetConnect {
       var response = await client.get(uri);
       if (response.statusCode == 200) {
         var json = response.body;
-        print("RESULT: ${json}");
         return kajianModelFromJson(json);
       }
     } catch (e) {

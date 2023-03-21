@@ -8,20 +8,6 @@ class YufidSearchEngineController extends GetxController {
   final persentage = 0.obs;
   var isLoaded = false.obs;
 
-  @override
-  void onInit() {
-    super.onInit();
-  }
-
-  @override
-  void onReady() {
-    super.onReady();
-  }
-
-  @override
-  void onClose() {
-    super.onClose();
-  }
   void progressUpdate(int progress){
     persentage.value++;
     if(progress == 100){

@@ -1,10 +1,11 @@
+// ignore_for_file: depend_on_referenced_packages
+
 import 'dart:convert';
 
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:get/get.dart';
 import 'package:muslim_pocket_app/app/data/models/surah_quran_list_model.dart';
-import 'package:muslim_pocket_app/app/utils/constants/constant_directory.dart';
 import 'package:http/http.dart' as http;
 import 'package:muslim_pocket_app/app/utils/constants/constant_url.dart';
 import '../../../data/models/ayat_of_the_day_model.dart';

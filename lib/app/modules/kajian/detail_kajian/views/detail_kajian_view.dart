@@ -14,6 +14,7 @@ import '../controllers/detail_kajian_controller.dart';
 
 class DetailKajianView extends GetView<DetailKajianController> {
   DetailKajianView({Key? key}) : super(key: key);
+  @override
   final controller = Get.put(DetailKajianController());
 
   @override
@@ -139,50 +140,5 @@ class DetailKajianView extends GetView<DetailKajianController> {
           return marginWidget(2.h, 0);
         },
         itemCount: controller.kajianVideo.value.items?.length ?? 0,
-      );
-
-  Widget _dummy() => SafeArea(
-        child: Padding(
-          padding: defaultPaddingScreen,
-          child: ListView(
-            children: [
-              YoutubePlayer(
-                controller: controller.ytController,
-              ),
-              Text(
-                controller.dataParams[0],
-                style: mediumStyle.copyWith(
-                  fontSize: 14.sp,
-                ),
-              ),
-              marginWidget(1.h, 0),
-              Text(
-                controller.dataParams[1],
-                style: regularStyle.copyWith(
-                  fontSize: 12.sp,
-                  color: greyColor,
-                ),
-              ),
-              Row(
-                mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                children: [
-                  Text(
-                    'publish_time'.tr,
-                    style: regularStyle,
-                  ),
-                  Text(
-                    controller.dataParams[3].toString().substring(0, 10),
-                    style: regularStyle,
-                  ),
-                ],
-              ),
-              marginWidget(2.h, 0),
-              Text(
-                'more_videos'.tr,
-                style: mediumStyle,
-              )
-            ],
-          ),
-        ),
       );
 }

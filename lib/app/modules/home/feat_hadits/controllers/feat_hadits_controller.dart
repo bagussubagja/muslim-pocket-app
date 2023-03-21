@@ -26,13 +26,4 @@ class FeatHaditsController extends GetxController {
     Timer(const Duration(seconds: 1), showContent);
   }
 
-  @override
-  void onReady() {
-    super.onReady();
-  }
-
-  @override
-  void onClose() {
-    super.onClose();
-  }
 }

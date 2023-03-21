@@ -1,3 +1,5 @@
+// ignore_for_file: depend_on_referenced_packages
+
 import 'package:flutter/cupertino.dart';
 import 'package:get/get.dart';
 import 'package:http/http.dart' as http;
@@ -12,7 +14,6 @@ class DetailFeatTafsirProvider extends GetConnect {
       var respone = await client.get(uri);
       if (respone.statusCode == 200) {
         var json = respone.body;
-        print(json);
         return tafsirModelFromJson(json);
       }
     } catch (e) {

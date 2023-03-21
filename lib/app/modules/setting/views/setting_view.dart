@@ -6,8 +6,6 @@ import 'package:get/get.dart';
 import 'package:muslim_pocket_app/app/routes/app_pages.dart';
 import 'package:muslim_pocket_app/app/utils/constants/constant_layout.dart';
 import 'package:muslim_pocket_app/app/utils/constants/constant_theme.dart';
-import 'package:muslim_pocket_app/app/widgets/loading_widget.dart';
-import 'package:muslim_pocket_app/app/widgets/margin_widget.dart';
 import 'package:sizer/sizer.dart';
 
 import '../controllers/setting_controller.dart';
@@ -92,13 +90,12 @@ class SettingView extends GetView<SettingController> {
                 ElevatedButton(
                   onPressed: () async {
                     controller.googleAuthProvider.signInWithGoogle();
-                    // controller.changeLogInStatus();
                   },
                   style: ElevatedButton.styleFrom(
                     backgroundColor: greenPrimaryColor,
                     elevation: 0,
                   ),
-                  child: Text("Login Sekarang!"),
+                  child: const Text("Login Sekarang!"),
                 )
               ],
             ),

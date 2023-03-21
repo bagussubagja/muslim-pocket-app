@@ -13,6 +13,7 @@ import '../controllers/kajian_controller.dart';
 
 class KajianView extends GetView<KajianController> {
   KajianView({Key? key}) : super(key: key);
+  @override
   final controller = Get.put(KajianController());
 
   @override

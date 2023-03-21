@@ -1,5 +1,4 @@
 import 'package:firebase_auth/firebase_auth.dart';
-import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:get_storage/get_storage.dart';
@@ -8,7 +7,6 @@ import 'package:muslim_pocket_app/app/utils/constants/constant_url.dart';
 import 'package:muslim_pocket_app/app/utils/storage/local_storage_path.dart';
 
 class SettingController extends GetxController {
-  //TODO: Implement SettingController
 
   final googleAuthProvider = Get.put(GoogleAuthentication());
   var userName = FirebaseAuth.instance.currentUser?.displayName;
@@ -45,13 +43,4 @@ class SettingController extends GetxController {
     getCurrentThemeValue();
   }
 
-  @override
-  void onReady() {
-    super.onReady();
-  }
-
-  @override
-  void onClose() {
-    super.onClose();
-  }
 }

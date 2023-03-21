@@ -18,7 +18,7 @@ class DetailFeatHaditsView extends GetView<DetailFeatHaditsController> {
       () {
         return Scaffold(
           appBar: AppBar(
-            title: Text('Hadits '),
+            title: Text('hadits'.tr),
             centerTitle: true,
             backgroundColor: greenPrimaryColor,
             elevation: 0,

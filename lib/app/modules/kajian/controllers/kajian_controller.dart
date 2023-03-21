@@ -74,13 +74,6 @@ class KajianController extends GetxController {
         channelId: channelId, key: key, result: result));
   }
 
-  isKajianVideoDataExist() {
-    if (kajianVideo.value == null) {
-      return true;
-    } else {
-      return false;
-    }
-  }
 
   @override
   void onInit() {
@@ -89,13 +82,4 @@ class KajianController extends GetxController {
     super.onInit();
   }
 
-  @override
-  void onReady() {
-    super.onReady();
-  }
-
-  @override
-  void onClose() {
-    super.onClose();
-  }
 }

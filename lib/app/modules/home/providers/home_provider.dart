@@ -1,3 +1,5 @@
+// ignore_for_file: depend_on_referenced_packages
+
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/services.dart';
 import 'package:get/get.dart';
@@ -22,7 +24,6 @@ class HomeProvider extends GetConnect {
         'https://muslimsalat.com/$subDistrict.json?key=610f59dc2c2a1999fa6cec4ccd9415ed');
     try {
       var response = await client.get(uri);
-      print(response.request);
       if (response.statusCode == 200) {
         var json = response.body;
         return prayerTimeModelFromJson(json);

@@ -3,7 +3,6 @@ import 'package:flutter/material.dart';
 import 'package:geocoding/geocoding.dart';
 import 'package:geolocator/geolocator.dart';
 import 'package:get_storage/get_storage.dart';
-import 'package:muslim_pocket_app/app/modules/home/controllers/home_controller.dart';
 import 'package:muslim_pocket_app/app/translations/translations.dart';
 import 'package:muslim_pocket_app/app/utils/constants/constant_theme.dart';
 import 'package:muslim_pocket_app/app/utils/storage/local_storage_path.dart';

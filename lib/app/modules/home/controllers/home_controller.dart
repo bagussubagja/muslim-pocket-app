@@ -1,10 +1,7 @@
 import 'dart:async';
-import 'dart:math';
 
 import 'package:flutter/material.dart';
-import 'package:geolocator/geolocator.dart';
 import 'package:get/get.dart';
-import 'package:geolocator/geolocator.dart' as geolocator;
 import 'package:muslim_pocket_app/app/data/models/prayer_time_model.dart';
 import 'package:muslim_pocket_app/app/utils/constants/constant_url.dart';
 import 'package:muslim_pocket_app/app/utils/constants/constant_directory.dart';
@@ -263,8 +260,5 @@ class HomeController extends GetxController {
     Timer(const Duration(seconds: 3), showContent);
   }
 
-  @override
-  void onClose() {
-    super.onClose();
-  }
+
 }

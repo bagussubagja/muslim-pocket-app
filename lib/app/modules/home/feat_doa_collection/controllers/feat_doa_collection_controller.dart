@@ -20,13 +20,4 @@ class FeatDoaCollectionController extends GetxController {
     loadDoasData();
   }
 
-  @override
-  void onReady() {
-    super.onReady();
-  }
-
-  @override
-  void onClose() {
-    super.onClose();
-  }
 }

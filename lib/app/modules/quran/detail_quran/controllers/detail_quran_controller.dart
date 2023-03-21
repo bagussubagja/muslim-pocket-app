@@ -3,7 +3,6 @@ import 'package:get/get.dart';
 import '../../../../data/models/quran_model.dart';
 import '../providers/detail_quran_provider.dart';
 import 'package:audioplayers/audioplayers.dart';
-import 'package:html/parser.dart';
 import '../../../../utils/function/string_function.dart';
 
 class DetailQuranController extends GetxController {
@@ -24,23 +23,12 @@ class DetailQuranController extends GetxController {
         await detailQuranProvider.getQuranSurahData(numberSurah: numberSurah));
   }
 
-  final count = 0.obs;
-
   @override
   void onInit() {
     super.onInit();
     loadQuranData(numberSurah: dataParams[1]);
   }
 
-  @override
-  void onReady() {
-    super.onReady();
-  }
 
-  @override
-  void onClose() {
-    super.onClose();
-  }
 
-  void increment() => count.value++;
 }
