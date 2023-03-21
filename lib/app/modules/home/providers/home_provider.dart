@@ -16,13 +16,13 @@ class HomeProvider extends GetConnect {
     return SurahQuranListModel.fromJson(dataList[randomIndex]);
   }
 
-  Future<PrayerTimeModel?> getPrayerTime() async {
+  Future<PrayerTimeModel?> getPrayerTime(String subDistrict) async {
     var client = http.Client();
     var uri = Uri.parse(
-        'https://muslimsalat.com/rancaekek.json?key=610f59dc2c2a1999fa6cec4ccd9415ed');
+        'https://muslimsalat.com/$subDistrict.json?key=610f59dc2c2a1999fa6cec4ccd9415ed');
     try {
       var response = await client.get(uri);
-
+      print(response.request);
       if (response.statusCode == 200) {
         var json = response.body;
         return prayerTimeModelFromJson(json);

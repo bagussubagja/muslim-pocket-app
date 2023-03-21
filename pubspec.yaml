@@ -1,9 +1,9 @@
 name: muslim_pocket_app
 version: 1.0.0+1
 publish_to: none
-description: A new Flutter project.
+description: A daily muslim mobile app.
 environment:
-  sdk: '>=2.19.2 <3.0.0'
+  sdk: ">=2.19.2 <3.0.0"
 
 dependencies:
   cupertino_icons: ^1.0.2
@@ -31,7 +31,7 @@ dependencies:
   firebase_auth: ^4.2.2
   google_sign_in:
   youtube_player_flutter:
-  geocoding:
+  geocoding: ^2.0.1
   internet_connection_checker:
   connectivity_plus:
 
@@ -39,6 +39,11 @@ dev_dependencies:
   flutter_lints: ^2.0.0
   flutter_test:
     sdk: flutter
+  flutter_launcher_icons: ^0.9.2
+
+flutter_icons:
+  android: true
+  image_path: "assets/logo/app-logo.png"
 
 flutter:
   uses-material-design: true
@@ -64,4 +69,3 @@ flutter:
           weight: 600
         - asset: assets/fonts/Nunito-Regular.ttf
           weight: 400
-

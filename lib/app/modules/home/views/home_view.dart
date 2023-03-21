@@ -155,7 +155,10 @@ class HomeView extends GetView<HomeController> {
                       marginWidget(0, 2.w),
                       Flexible(
                         child: Text(
-                          controller.prayerTime.value.title!,
+                          controller.prayerTime.value.title! != ""
+                              ? controller.prayerTime.value.title
+                              : controller.box.read(
+                                  controller.localStoragePath.subDistrictPath),
                           style: regularStyle.copyWith(color: Colors.white),
                           overflow: TextOverflow.visible,
                         ),
@@ -183,12 +186,10 @@ class HomeView extends GetView<HomeController> {
               "get_prayer_time".tr,
               style: regularStyle,
             ),
-            IconButton(
-              onPressed: () {
-                controller.loadPrayerTime();
-              },
-              icon: const Icon(
-                Icons.get_app_rounded,
+            const IconButton(
+              onPressed: null,
+              icon: Icon(
+                Icons.refresh,
               ),
             )
           ],

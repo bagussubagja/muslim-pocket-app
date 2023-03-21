@@ -38,23 +38,23 @@ class HomeController extends GetxController {
   Location Service
    */
 
-  Future<Position> getCurrentLocation() async {
-    bool serviceEnabled = await Geolocator.isLocationServiceEnabled();
-    if (!serviceEnabled) {
-      return Future.error('location_not_allowed'.tr);
-    }
-    LocationPermission permission = await Geolocator.checkPermission();
-    if (permission == LocationPermission.denied) {
-      permission = await Geolocator.requestPermission();
-      if (permission == LocationPermission.denied) {
-        return Future.error('location_permission_denied'.tr);
-      }
-    }
-    if (permission == LocationPermission.deniedForever) {
-      return Future.error('cant_proccess_user_request_location_forbidden'.tr);
-    }
-    return await Geolocator.getCurrentPosition();
-  }
+  // Future<Position> getCurrentLocation() async {
+  //   bool serviceEnabled = await Geolocator.isLocationServiceEnabled();
+  //   if (!serviceEnabled) {
+  //     return Future.error('location_not_allowed'.tr);
+  //   }
+  //   LocationPermission permission = await Geolocator.checkPermission();
+  //   if (permission == LocationPermission.denied) {
+  //     permission = await Geolocator.requestPermission();
+  //     if (permission == LocationPermission.denied) {
+  //       return Future.error('location_permission_denied'.tr);
+  //     }
+  //   }
+  //   if (permission == LocationPermission.deniedForever) {
+  //     return Future.error('cant_proccess_user_request_location_forbidden'.tr);
+  //   }
+  //   return await Geolocator.getCurrentPosition();
+  // }
 
   var lat = "".obs;
   var long = "".obs;
@@ -109,8 +109,8 @@ class HomeController extends GetxController {
     return parsedString;
   }
 
-  loadPrayerTime() async {
-    prayerTime(await homeProvider.getPrayerTime());
+  loadPrayerTime(String subDistrict) async {
+    prayerTime(await homeProvider.getPrayerTime(subDistrict.toLowerCase()));
     if (prayerTime.value.items != null) {
       shubuh.value = convertTo24HourFormat(prayerTime.value.items![0].fajr!);
       dzuhur.value = convertTo24HourFormat(prayerTime.value.items![0].dhuhr!);
@@ -153,7 +153,7 @@ class HomeController extends GetxController {
     ),
   ];
 
-  final List<String> featureCategoryLabel = [
+  List<String> featureCategoryLabel = [
     'hadist'.tr,
     'kumpulan_doa'.tr,
     'tafsir'.tr,
@@ -248,14 +248,12 @@ class HomeController extends GetxController {
 
   @override
   void onInit() {
-    getCurrentLocation().then((value) {
-      lat.value = '${value.latitude}';
-      long.value = '${value.longitude}';
-    });
-    locationEndpoint.value =
-        urlClass.nearbyMosqueEndpoint(lat.value, long.value);
+    locationEndpoint.value = urlClass.nearbyMosqueEndpoint(
+      box.read(localStoragePath.latitudePath).toString(),
+      box.read(localStoragePath.longitudePath).toString(),
+    );
     loadSurahOfTheDay();
-    loadPrayerTime();
+    loadPrayerTime(box.read(localStoragePath.subDistrictPath));
     super.onInit();
   }
 
