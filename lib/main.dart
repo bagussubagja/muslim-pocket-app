@@ -25,6 +25,7 @@ void main() async {
     debugPrint(
         'True = lightMode, False = darkMode => (${box.read(localStoragePath.themePath)})');
   }
+
   runApp(
     Sizer(
       builder: (context, orientation, deviceType) {
@@ -34,6 +35,7 @@ void main() async {
           theme: box.read(localStoragePath.themePath)
               ? ThemeData.light()
               : ThemeData.dark(),
+          darkTheme: ThemeData.dark(),
           color: greenPrimaryColor,
           translations: LocaleLanguage(),
           locale: const Locale('id', 'ID'),

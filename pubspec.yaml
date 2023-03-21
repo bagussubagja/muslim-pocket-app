@@ -31,6 +31,9 @@ dependencies:
   firebase_auth: ^4.2.2
   google_sign_in:
   youtube_player_flutter:
+  geocoding:
+  internet_connection_checker:
+  connectivity_plus:
 
 dev_dependencies:
   flutter_lints: ^2.0.0

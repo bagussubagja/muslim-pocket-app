@@ -26,7 +26,7 @@ class KajianView extends GetView<KajianController> {
               children: [
                 _headerSection(),
                 _islamicChannelSection(),
-                _listVideoSection(),
+                _listVideoSection()
               ],
             ),
           ),

@@ -225,7 +225,11 @@ class HomeController extends GetxController {
    */
 
   isPrayerScheduleDataExist() {
-    return prayerTime.value.isBlank;
+    return prayerTime.value.items == null;
+  }
+
+  isAddressDataExist() {
+    return prayerTime.value.items != null;
   }
 
   isSurahOfTheDayDataExist() {

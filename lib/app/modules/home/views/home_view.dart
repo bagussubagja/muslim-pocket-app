@@ -72,6 +72,8 @@ class HomeView extends GetView<HomeController> {
             placeholder: (context, url) {
               return const CircularProgressIndicator();
             },
+            errorWidget: (context, url, error) =>
+                const Icon(Icons.warning_rounded),
             useOldImageOnUrlChange: false,
             imageBuilder: (context, imageProvider) {
               return Container(
@@ -141,24 +143,26 @@ class HomeView extends GetView<HomeController> {
               ),
             ),
             marginWidget(2.h, 0),
-            Row(
-              mainAxisAlignment: MainAxisAlignment.spaceBetween,
-              crossAxisAlignment: CrossAxisAlignment.center,
-              children: [
-                const Icon(
-                  Icons.location_on,
-                  color: Colors.white,
-                ),
-                marginWidget(0, 2.w),
-                Flexible(
-                  child: Text(
-                    "${controller.prayerTime.value.title}",
-                    style: regularStyle.copyWith(color: Colors.white),
-                    overflow: TextOverflow.visible,
-                  ),
-                )
-              ],
-            )
+            controller.isAddressDataExist()
+                ? Row(
+                    mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                    crossAxisAlignment: CrossAxisAlignment.center,
+                    children: [
+                      const Icon(
+                        Icons.location_on,
+                        color: Colors.white,
+                      ),
+                      marginWidget(0, 2.w),
+                      Flexible(
+                        child: Text(
+                          controller.prayerTime.value.title!,
+                          style: regularStyle.copyWith(color: Colors.white),
+                          overflow: TextOverflow.visible,
+                        ),
+                      )
+                    ],
+                  )
+                : const SizedBox.shrink()
           ],
         ),
       );
@@ -180,9 +184,11 @@ class HomeView extends GetView<HomeController> {
               style: regularStyle,
             ),
             IconButton(
-              onPressed: () {},
+              onPressed: () {
+                controller.loadPrayerTime();
+              },
               icon: const Icon(
-                Icons.get_app,
+                Icons.get_app_rounded,
               ),
             )
           ],
