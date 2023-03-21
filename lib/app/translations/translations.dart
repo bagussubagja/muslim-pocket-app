@@ -119,7 +119,7 @@ class LocaleLanguage extends Translations {
               'If you find a bug in this application, report it immediately by pressing the button below!',
           'send_bug_report': 'Report Your Problem',
           'app_desc':
-              "My Muslim Pocket App is an application that provides various kinds of needs of a Muslim such as the Koran, collections of hadiths and prayers, to Islamic studies by asatidz from Salafush Shalih.",
+              "Muslim Pocket App is an application that provides various kinds of needs of a Muslim such as the Koran, collections of hadiths and prayers, to Islamic studies by asatidz from Salafush Shalih.",
           'app_author': 'Created by - Bagus Subagja ❤️',
           'dummy':
               'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus tristique nunc sit amet mattis lobortis. Vivamus egestas nulla turpis, sit amet blandit lorem venenatis sed. Nullam quam lacus, lobortis nec purus sit amet, fringilla condimentum arcu. Nunc tincidunt elit id enim rutrum eleifend. Suspendisse elementum risus at erat viverra, vitae tincidunt metus placerat. Aliquam dapibus vulputate consectetur. Ut vel tincidunt tortor. Etiam pharetra maximus nisl, placerat lacinia augue dignissim eu. Donec cursus velit sed sapien bibendum, et consectetur arcu ultricies. Pellentesque vehicula ligula neque, at commodo orci ultrices nec. Etiam dolor risus, facilisis at facilisis ut, condimentum et est. Cras tempor turpis quis dui hendrerit venenatis. Nullam quis scelerisque dolor. Suspendisse a ullamcorper metus.',
