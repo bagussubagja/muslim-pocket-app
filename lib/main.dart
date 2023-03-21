@@ -73,7 +73,6 @@ void main() async {
           theme: box.read(localStoragePath.themePath)
               ? ThemeData.light()
               : ThemeData.dark(),
-          darkTheme: ThemeData.dark(),
           color: greenPrimaryColor,
           translations: LocaleLanguage(),
           locale: const Locale('id', 'ID'),
