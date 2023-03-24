@@ -3,7 +3,7 @@
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
-
+import 'package:restart_app/restart_app.dart';
 import 'package:get/get.dart';
 import 'package:muslim_pocket_app/app/routes/app_pages.dart';
 import 'package:muslim_pocket_app/app/utils/constants/constant_layout.dart';
@@ -70,29 +70,29 @@ class HomeView extends GetView<HomeController> {
               )
             ],
           ),
-          CachedNetworkImage(
-            placeholder: (context, url) {
-              return const CircularProgressIndicator();
-            },
-            errorWidget: (context, url, error) =>
-                const Icon(Icons.warning_rounded),
-            useOldImageOnUrlChange: false,
-            imageBuilder: (context, imageProvider) {
-              return Container(
-                height: 6.h,
-                width: 6.h,
-                decoration: BoxDecoration(
-                  borderRadius: BorderRadius.circular(100),
-                  image: DecorationImage(
-                    image: imageProvider,
-                    fit: BoxFit.cover,
-                  ),
-                ),
-              );
-            },
-            imageUrl:
-                snapshot.data?.photoURL ?? controller.urlClass.emptyAvatar,
-          )
+          controller.hasInternet.value
+              ? CachedNetworkImage(
+                  placeholder: (context, url) {
+                    return const CircularProgressIndicator();
+                  },
+                  errorWidget: (context, url, error) => const Icon(Icons.error),
+                  imageBuilder: (context, imageProvider) {
+                    return Container(
+                      height: 6.h,
+                      width: 6.h,
+                      decoration: BoxDecoration(
+                        borderRadius: BorderRadius.circular(100),
+                        image: DecorationImage(
+                          image: imageProvider,
+                          fit: BoxFit.cover,
+                        ),
+                      ),
+                    );
+                  },
+                  imageUrl: snapshot.data?.photoURL ??
+                      controller.urlClass.emptyAvatar,
+                )
+              : const Icon(Icons.error)
         ],
       );
 
@@ -188,9 +188,35 @@ class HomeView extends GetView<HomeController> {
               "get_prayer_time".tr,
               style: regularStyle,
             ),
-            const IconButton(
-              onPressed: null,
-              icon: Icon(
+            IconButton(
+              onPressed: () async {
+                if (controller.hasInternet.value) {
+                  if (controller.box
+                      .hasData(controller.localStoragePath.subDistrictPath)) {
+                    await controller.loadPrayerTime(
+                        controller.localStoragePath.subDistrictPath);
+                    Restart.restartApp();
+                    Get.snackbar(
+                      'pesan'.tr,
+                      "Aplikasi sedang dimuat ulang",
+                    );
+                  } else {
+                    await controller
+                        .loadPrayerTime(controller.idKey.defaultSubdistrict);
+                    Restart.restartApp();
+                    Get.snackbar(
+                      'pesan'.tr,
+                      "Aplikasi sedang dimuat ulang",
+                    );
+                  }
+                } else {
+                  Get.snackbar(
+                    'pesan'.tr,
+                    "Ada Kendala dalam memuat jadwal shalat",
+                  );
+                }
+              },
+              icon: const Icon(
                 Icons.refresh,
               ),
             )
@@ -259,22 +285,32 @@ class HomeView extends GetView<HomeController> {
               children: List.generate(
                 controller.featureCategoryLabel.length,
                 (index) => InkWell(
-                  onTap: () async {
-                    if (index == 0) {
-                      Get.toNamed(Routes.FEAT_HADITS);
-                    } else if (index == 1) {
-                      Get.toNamed(Routes.FEAT_DOA_COLLECTION);
-                    } else if (index == 2) {
-                      Get.toNamed(Routes.FEAT_TAFSIR);
-                    } else if (index == 3) {
-                      if (await canLaunch(controller.locationEndpoint.value)) {
-                        await launch(
-                          controller.locationEndpoint.value,
-                          forceWebView: false,
-                        );
-                      }
-                    }
-                  },
+                  onTap: controller.hasInternet.value
+                      ? () async {
+                          if (index == 0) {
+                            Get.toNamed(Routes.FEAT_HADITS);
+                          } else if (index == 1) {
+                            Get.toNamed(Routes.FEAT_DOA_COLLECTION);
+                          } else if (index == 2) {
+                            Get.toNamed(Routes.FEAT_TAFSIR);
+                          } else if (index == 3) {
+                            if (await canLaunch(
+                                controller.locationEndpoint.value)) {
+                              await launch(
+                                controller.locationEndpoint.value,
+                                forceWebView: false,
+                              );
+                            }
+                          }
+                        }
+                      : () {
+                          Get.snackbar(
+                            "pesan".tr,
+                            "Kamu tidak tersambung pada koneksi internet!",
+                            isDismissible: true,
+                            snackStyle: SnackStyle.FLOATING,
+                          );
+                        },
                   child: Column(
                     crossAxisAlignment: CrossAxisAlignment.center,
                     children: [
@@ -427,14 +463,21 @@ class HomeView extends GetView<HomeController> {
               },
               itemBuilder: (context, index) {
                 return InkWell(
-                  onTap: () async {
-                    if (await canLaunch(controller.websiteUrl[index])) {
-                      await launch(
-                        controller.websiteUrl[index],
-                        forceWebView: false,
-                      );
-                    }
-                  },
+                  onTap: controller.hasInternet.value
+                      ? () async {
+                          if (await canLaunch(controller.websiteUrl[index])) {
+                            await launch(
+                              controller.websiteUrl[index],
+                              forceWebView: false,
+                            );
+                          }
+                        }
+                      : () {
+                          Get.snackbar(
+                            'pesan'.tr,
+                            'Kamu tidak tersambung pada koneksi internet!',
+                          );
+                        },
                   onLongPress: () {
                     Get.snackbar(
                       controller.websiteName[index],

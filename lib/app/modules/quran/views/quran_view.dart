@@ -25,8 +25,7 @@ class QuranView extends GetView<QuranController> {
             child: ListView(
               children: [
                 _titleSection(),
-                controller.isAyatOfTheDayFeatureEnable() == null ||
-                        controller.isAyatOfTheDayFeatureEnable() == false
+                controller.hasInternet.value
                     ? _ayatOfTheDaySection()
                     : _bannerAyatofTheDay(),
                 _surahQuranList(),
@@ -64,7 +63,14 @@ class QuranView extends GetView<QuranController> {
             ),
             ElevatedButton(
                 onPressed: () {
-                  controller.isAyatOfTheDayFeatureEnable();
+                  if (controller.hasInternet.value == true) {
+                    controller.loadAyatOfTheDayData();
+                  } else {
+                    Get.snackbar(
+                      'pesan'.tr,
+                      'Aktifkan Data Seluler / Wifi Perangkat kamu',
+                    );
+                  }
                 },
                 style: ElevatedButton.styleFrom(
                   backgroundColor: greenDarkerColor,
@@ -108,7 +114,7 @@ class QuranView extends GetView<QuranController> {
                 ],
               ),
               Text(
-                '"${controller.ayatOfTheDayData.value.acak?.id?.teks!.replaceAll("\n", "")}"',
+                '"${controller.ayatOfTheDayData.value.acak?.id?.teks! != null ? controller.ayatOfTheDayData.value.acak?.id?.teks!.replaceAll("\n", "") : 'Tekan Tombol Refresh untuk mendapatkan Ayat Hari Ini'}"',
                 style: regularStyle.copyWith(
                   color: Colors.grey,
                 ),
@@ -118,11 +124,11 @@ class QuranView extends GetView<QuranController> {
                 mainAxisAlignment: MainAxisAlignment.spaceBetween,
                 children: [
                   Text(
-                    '${controller.ayatOfTheDayData.value.surat?.nama}',
+                    controller.ayatOfTheDayData.value.surat?.nama ?? '-',
                     style: regularStyle.copyWith(color: greyColor),
                   ),
                   Text(
-                    'Ayat ${controller.ayatOfTheDayData.value.acak?.id?.ayat}/${controller.ayatOfTheDayData.value.surat?.ayat}',
+                    'Ayat ${controller.ayatOfTheDayData.value.acak?.id?.ayat ?? '-'}/${controller.ayatOfTheDayData.value.surat?.ayat ?? '-'}',
                     style: regularStyle.copyWith(color: greyColor),
                   )
                 ],

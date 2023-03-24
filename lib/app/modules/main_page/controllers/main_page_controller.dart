@@ -1,5 +1,4 @@
 import 'dart:async';
-
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:internet_connection_checker/internet_connection_checker.dart';
@@ -8,6 +7,7 @@ import 'package:muslim_pocket_app/app/modules/kajian/views/kajian_view.dart';
 import 'package:muslim_pocket_app/app/modules/quran/views/quran_view.dart';
 import 'package:muslim_pocket_app/app/modules/setting/views/setting_view.dart';
 import 'package:muslim_pocket_app/app/modules/yufid_search_engine/views/yufid_search_engine_view.dart';
+import 'package:muslim_pocket_app/app/utils/constants/constant_theme.dart';
 
 class MainPageController extends GetxController {
   final index = 0.obs;
@@ -39,7 +39,11 @@ class MainPageController extends GetxController {
       debugPrint('No Internet');
       Timer(const Duration(seconds: 2), () {
         Get.snackbar(
-            "pesan".tr, "Kamu tidak tersambung pada koneksi internet!");
+          "pesan".tr,
+          "Kamu tidak tersambung pada koneksi internet!",
+          showProgressIndicator: true,
+          progressIndicatorBackgroundColor: greenPrimaryColor,
+        );
       });
     }
     super.onInit();

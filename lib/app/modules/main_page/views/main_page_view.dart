@@ -2,7 +2,6 @@ import 'package:curved_navigation_bar/curved_navigation_bar.dart';
 import 'package:flutter/material.dart';
 
 import 'package:get/get.dart';
-import 'package:muslim_pocket_app/app/widgets/loading_widget.dart';
 
 import '../../../utils/constants/constant_theme.dart';
 import '../controllers/main_page_controller.dart';
@@ -50,9 +49,7 @@ class MainPageView extends GetView<MainPageController> {
               controller.changeIndex(index);
             },
           ),
-          body: controller.hasInternet.value
-              ? controller.bodyScreenList[controller.index.value]
-              : loadingWidget(greenPrimaryColor),
+          body: controller.bodyScreenList[controller.index.value],
         ));
   }
 }

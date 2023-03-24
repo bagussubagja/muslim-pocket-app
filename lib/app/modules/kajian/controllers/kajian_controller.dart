@@ -1,5 +1,9 @@
+import 'dart:async';
+
+import 'package:connectivity_plus/connectivity_plus.dart';
 import 'package:get/get.dart';
 import 'package:get_storage/get_storage.dart';
+import 'package:internet_connection_checker/internet_connection_checker.dart';
 import 'package:muslim_pocket_app/app/data/models/kajian_model.dart';
 import 'package:muslim_pocket_app/app/modules/kajian/providers/kajian_provider.dart';
 import 'package:muslim_pocket_app/app/utils/constants/constant_id_key.dart';
@@ -13,6 +17,7 @@ class KajianController extends GetxController {
   final box = GetStorage();
   final localStoragePath = Get.put(LocalStoragePath());
   var isLightMode = true.obs;
+  var hasInternet = false.obs;
 
   getCurrentThemeValue() {
     isLightMode.value = box.read(localStoragePath.themePath);
@@ -74,12 +79,44 @@ class KajianController extends GetxController {
         channelId: channelId, key: key, result: result));
   }
 
+  isKajianVideoDataExist() {
+    if (kajianVideo.value.items?.isNotEmpty == true) {
+      return true;
+    } else {
+      return false;
+    }
+  }
+
+  var isInternetActive = false
+      .obs; // to check if internet status is on or off when app already launched
+  late StreamSubscription subscription;
+
+  checkInternetConnectivity() => subscription = Connectivity()
+          .onConnectivityChanged
+          .listen((ConnectivityResult result) async {
+        isInternetActive.value =
+            await InternetConnectionChecker().hasConnection;
+        if (isInternetActive.value) {
+          hasInternet.value = true;
+        } else {
+          hasInternet.value = false;
+        }
+      });
 
   @override
-  void onInit() {
+  void onInit() async {
+    await checkInternetConnectivity();
     loadKajianVideo(
-        channelId: key.shahihFiqhChannelId, key: key.youtubeAPIKey, result: 50);
+      channelId: key.shahihFiqhChannelId,
+      key: key.youtubeAPIKey,
+      result: 50,
+    );
     super.onInit();
   }
 
+  @override
+  void onClose() {
+    subscription.cancel();
+    super.onClose();
+  }
 }
