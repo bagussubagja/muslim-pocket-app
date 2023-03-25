@@ -8,6 +8,8 @@ class ConstantURL {
   String ayatOfTheDayEndpoint =
       'https://api.banghasan.com/quran/format/json/acak';
 
+  String haditsEndpoint = 'https://hadis-api-id.vercel.app/hadith';
+
   haditsUrlEndpoint(String narator, int page) {
     return 'https://hadis-api-id.vercel.app/hadith/$narator/?page=$page&limit=20';
   }

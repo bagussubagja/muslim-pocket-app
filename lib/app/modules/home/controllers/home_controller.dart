@@ -211,7 +211,7 @@ class HomeController extends GetxController {
   */
 
   var hasInternet = false
-      .obs; // to checking if internet status is on or off when app launch for first time
+      .obs; // to check if internet status is on or off when app launch for first time
   var isInternetActive = false
       .obs; // to check if internet status is on or off when app already launched
   late StreamSubscription subscription;
