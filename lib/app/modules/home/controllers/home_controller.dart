@@ -2,7 +2,9 @@ import 'dart:async';
 
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
+import 'package:internet_connection_checker/internet_connection_checker.dart';
 import 'package:muslim_pocket_app/app/data/models/prayer_time_model.dart';
+import 'package:muslim_pocket_app/app/services/location_service.dart';
 import 'package:muslim_pocket_app/app/utils/constants/constant_url.dart';
 import 'package:muslim_pocket_app/app/utils/constants/constant_directory.dart';
 import 'package:hijriyah_indonesia/hijriyah_indonesia.dart';
@@ -13,6 +15,9 @@ import 'package:muslim_pocket_app/app/utils/function/string_function.dart';
 import 'package:muslim_pocket_app/app/utils/storage/local_storage_path.dart';
 import '../../../data/models/surah_quran_list_model.dart';
 import 'package:get_storage/get_storage.dart';
+import 'package:connectivity_plus/connectivity_plus.dart';
+
+import '../../../utils/constants/constant_id_key.dart';
 
 class HomeController extends GetxController {
   /*
@@ -20,11 +25,13 @@ class HomeController extends GetxController {
    */
   final homeProvider = Get.put(HomeProvider());
   final stringFunction = Get.put(StringFunction());
+  final locationService = Get.put(LocationService());
 
   /*
   Variables
    */
   var urlClass = ConstantURL();
+  var idKey = ConstantIdKey();
   var dirClass = ConstantDirectory();
   var hijriyah = Hijriyah.now();
   var localStoragePath = LocalStoragePath();
@@ -34,24 +41,6 @@ class HomeController extends GetxController {
   /*
   Location Service
    */
-
-  // Future<Position> getCurrentLocation() async {
-  //   bool serviceEnabled = await Geolocator.isLocationServiceEnabled();
-  //   if (!serviceEnabled) {
-  //     return Future.error('location_not_allowed'.tr);
-  //   }
-  //   LocationPermission permission = await Geolocator.checkPermission();
-  //   if (permission == LocationPermission.denied) {
-  //     permission = await Geolocator.requestPermission();
-  //     if (permission == LocationPermission.denied) {
-  //       return Future.error('location_permission_denied'.tr);
-  //     }
-  //   }
-  //   if (permission == LocationPermission.deniedForever) {
-  //     return Future.error('cant_proccess_user_request_location_forbidden'.tr);
-  //   }
-  //   return await Geolocator.getCurrentPosition();
-  // }
 
   var lat = "".obs;
   var long = "".obs;
@@ -218,11 +207,37 @@ class HomeController extends GetxController {
   ];
 
   /*
+  Internet Connectivity
+  */
+
+  var hasInternet = false
+      .obs; // to check if internet status is on or off when app launch for first time
+  var isInternetActive = false
+      .obs; // to check if internet status is on or off when app already launched
+  late StreamSubscription subscription;
+
+  checkInternetConnectivity() => subscription = Connectivity()
+          .onConnectivityChanged
+          .listen((ConnectivityResult result) async {
+        isInternetActive.value =
+            await InternetConnectionChecker().hasConnection;
+        if (isInternetActive.value) {
+          hasInternet.value = true;
+        } else {
+          hasInternet.value = false;
+        }
+      });
+
+  /*
   Others
    */
 
   isPrayerScheduleDataExist() {
-    return prayerTime.value.items == null;
+    if (prayerTime.value.items == null) {
+      return true;
+    } else {
+      return false;
+    }
   }
 
   isAddressDataExist() {
@@ -244,13 +259,24 @@ class HomeController extends GetxController {
   }
 
   @override
-  void onInit() {
+  void onInit() async {
+    await checkInternetConnectivity();
+    await locationService.getCurrentLocation().then((value) {
+      box.write(localStoragePath.latitudePath, value.latitude);
+      box.write(localStoragePath.longitudePath, value.longitude);
+    });
+    if (hasInternet.value) {
+      await locationService
+          .getSubDistrictLocation(box.read(localStoragePath.latitudePath),
+              box.read(localStoragePath.longitudePath))
+          .then((value) => box.write(localStoragePath.subDistrictPath, value));
+      loadPrayerTime(box.read(localStoragePath.subDistrictPath));
+    }
     locationEndpoint.value = urlClass.nearbyMosqueEndpoint(
       box.read(localStoragePath.latitudePath).toString(),
       box.read(localStoragePath.longitudePath).toString(),
     );
     loadSurahOfTheDay();
-    loadPrayerTime(box.read(localStoragePath.subDistrictPath));
     super.onInit();
   }
 
@@ -260,5 +286,9 @@ class HomeController extends GetxController {
     Timer(const Duration(seconds: 3), showContent);
   }
 
-
+  @override
+  void onClose() {
+    subscription.cancel();
+    super.onClose();
+  }
 }

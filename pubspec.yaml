@@ -34,6 +34,7 @@ dependencies:
   geocoding: ^2.0.1
   internet_connection_checker:
   connectivity_plus:
+  restart_app: ^1.1.2
 
 dev_dependencies:
   flutter_lints: ^2.0.0

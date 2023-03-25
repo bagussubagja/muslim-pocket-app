@@ -10,7 +10,7 @@ class FeatHaditsProvider extends GetConnect {
 
   Future<List<HaditsNaratorsModel?>?> getNaratorsData() async {
     var client = http.Client();
-    var uri = Uri.parse('https://hadis-api-id.vercel.app/hadith');
+    var uri = Uri.parse(url.haditsEndpoint);
     try {
       var respone = await client.get(uri);
       if (respone.statusCode == 200) {

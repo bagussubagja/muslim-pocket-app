@@ -88,9 +88,13 @@ class SettingView extends GetView<SettingController> {
                   style: mediumStyle.copyWith(color: Colors.white),
                 ),
                 ElevatedButton(
-                  onPressed: () async {
-                    controller.googleAuthProvider.signInWithGoogle();
-                  },
+                  onPressed: controller.hasInternet.value
+                      ? () async {
+                          controller.googleAuthProvider.signInWithGoogle();
+                        }
+                      : () {
+                          Get.snackbar('pesan'.tr, 'Aktifkan Data Seluler Terlebih Dahulu!');
+                        },
                   style: ElevatedButton.styleFrom(
                     backgroundColor: greenPrimaryColor,
                     elevation: 0,

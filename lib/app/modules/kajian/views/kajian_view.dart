@@ -4,8 +4,10 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:muslim_pocket_app/app/routes/app_pages.dart';
 import 'package:muslim_pocket_app/app/utils/constants/constant_layout.dart';
+import 'package:muslim_pocket_app/app/widgets/content_not_found.dart';
 import 'package:muslim_pocket_app/app/widgets/loading_widget.dart';
 import 'package:muslim_pocket_app/app/widgets/margin_widget.dart';
+import 'package:restart_app/restart_app.dart';
 import 'package:sizer/sizer.dart';
 
 import '../../../utils/constants/constant_theme.dart';
@@ -27,7 +29,9 @@ class KajianView extends GetView<KajianController> {
               children: [
                 _headerSection(),
                 _islamicChannelSection(),
-                _listVideoSection()
+                controller.hasInternet.value
+                    ? _listVideoSection()
+                    : contentNotFound()
               ],
             ),
           ),
@@ -36,9 +40,27 @@ class KajianView extends GetView<KajianController> {
     );
   }
 
-  Widget _headerSection() => Text(
-        'kajian_islami'.tr,
-        style: boldStyle,
+  Widget _headerSection() => Row(
+        mainAxisAlignment: MainAxisAlignment.spaceBetween,
+        children: [
+          Text(
+            'kajian_islami'.tr,
+            style: boldStyle,
+          ),
+          !controller.isKajianVideoDataExist()
+              ? IconButton(
+                  onPressed: () {
+                    if (controller.hasInternet.value) {
+                      Restart.restartApp();
+                    } else {
+                      Get.snackbar(
+                          'pesan'.tr, 'Aktifkan Data Seluler Terlebih Dahulu');
+                    }
+                  },
+                  icon: const Icon(Icons.refresh),
+                )
+              : const SizedBox.shrink()
+        ],
       );
 
   Widget _islamicChannelSection() => Container(

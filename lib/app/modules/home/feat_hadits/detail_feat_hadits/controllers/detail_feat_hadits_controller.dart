@@ -38,7 +38,6 @@ class DetailFeatHaditsController extends GetxController {
           page++;
           loadDetailHaditsData(dataParams[0], page);
         }
-        // loadDetailHaditsData(datas[0], 2);
       }
     });
   }
