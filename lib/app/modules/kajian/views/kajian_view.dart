@@ -1,7 +1,9 @@
 import 'package:cached_network_image/cached_network_image.dart';
+import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 
 import 'package:get/get.dart';
+import 'package:muslim_pocket_app/app/data/models/kajian_video_collection_model.dart';
 import 'package:muslim_pocket_app/app/routes/app_pages.dart';
 import 'package:muslim_pocket_app/app/utils/constants/constant_layout.dart';
 import 'package:muslim_pocket_app/app/widgets/content_not_found.dart';
@@ -22,6 +24,16 @@ class KajianView extends GetView<KajianController> {
   Widget build(BuildContext context) {
     return Obx(
       () => Scaffold(
+        floatingActionButton: FloatingActionButton(
+          onPressed: () {
+            Get.toNamed(Routes.KAJIAN_VIDEO_COLLECTION);
+          },
+          backgroundColor: greenPrimaryColor,
+          child: const Icon(
+            Icons.save_rounded,
+            color: Colors.white,
+          ),
+        ),
         body: SafeArea(
           child: Padding(
             padding: defaultPaddingScreen,
@@ -29,7 +41,7 @@ class KajianView extends GetView<KajianController> {
               children: [
                 _headerSection(),
                 _islamicChannelSection(),
-                controller.hasInternet.value
+                controller.hasInternet.value || controller.kajianVideo.isBlank!
                     ? _listVideoSection()
                     : contentNotFound()
               ],
@@ -113,6 +125,29 @@ class KajianView extends GetView<KajianController> {
                 controller.kajianVideo.value.items?[index].snippet?.publishTime,
               ]);
             },
+            onLongPress: () {
+              try {
+                final data = KajianVideoCollectionModel(
+                    title: controller
+                        .kajianVideo.value.items?[index].snippet?.title,
+                    description: controller
+                        .kajianVideo.value.items?[index].snippet?.description,
+                    idVideo:
+                        controller.kajianVideo.value.items?[index].id?.videoId,
+                    thumbnail: controller.kajianVideo.value.items?[index]
+                        .snippet?.thumbnails?.medium?.url,
+                    publishTime: controller
+                        .kajianVideo.value.items?[index].snippet?.publishTime
+                        .toString());
+                controller.saveKajianVideo(
+                    data, FirebaseAuth.instance.currentUser?.email ?? '');
+                Get.snackbar('pesan'.tr,
+                    "Berhasil Menambahkan Video Kajian ke koleksi!");
+              } catch (e) {
+                Get.snackbar('pesan'.tr, e.toString());
+              }
+            },
+            borderRadius: BorderRadius.circular(12),
             child: Container(
               padding: const EdgeInsets.all(12),
               decoration: BoxDecoration(

@@ -34,6 +34,8 @@ abstract class Routes {
       _Paths.FEAT_HADITS +
       _Paths.DETAIL_FEAT_HADITS +
       _Paths.SEARCH_HADITS;
+  static const KAJIAN_VIDEO_COLLECTION =
+      _Paths.KAJIAN + _Paths.KAJIAN_VIDEO_COLLECTION;
 }
 
 abstract class _Paths {
@@ -61,4 +63,6 @@ abstract class _Paths {
   static const ABOUT_US = '/about-us';
   static const HELP_CENTER = '/help-center';
   static const SEARCH_HADITS = '/search-hadits';
+  static const SAVED_KAJIAN_VIDEO = '/saved-kajian-video';
+  static const KAJIAN_VIDEO_COLLECTION = '/kajian-video-collection';
 }

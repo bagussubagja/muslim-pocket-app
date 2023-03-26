@@ -17,6 +17,8 @@ import '../modules/home/views/home_view.dart';
 import '../modules/kajian/bindings/kajian_binding.dart';
 import '../modules/kajian/detail_kajian/bindings/detail_kajian_binding.dart';
 import '../modules/kajian/detail_kajian/views/detail_kajian_view.dart';
+import '../modules/kajian/kajian_video_collection/bindings/kajian_video_collection_binding.dart';
+import '../modules/kajian/kajian_video_collection/views/kajian_video_collection_view.dart';
 import '../modules/kajian/views/kajian_view.dart';
 import '../modules/main_page/bindings/main_page_binding.dart';
 import '../modules/main_page/views/main_page_view.dart';
@@ -112,6 +114,11 @@ class AppPages {
           name: _Paths.DETAIL_KAJIAN,
           page: () => DetailKajianView(),
           binding: DetailKajianBinding(),
+        ),
+        GetPage(
+          name: _Paths.KAJIAN_VIDEO_COLLECTION,
+          page: () =>  KajianVideoCollectionView(),
+          binding: KajianVideoCollectionBinding(),
         ),
       ],
     ),

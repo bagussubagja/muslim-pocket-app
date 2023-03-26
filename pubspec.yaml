@@ -36,6 +36,7 @@ dependencies:
   connectivity_plus:
   restart_app: ^1.1.2
   scrollable_positioned_list: ^0.3.5
+  cloud_firestore: ^4.4.5
 
 dev_dependencies:
   flutter_lints: ^2.0.0

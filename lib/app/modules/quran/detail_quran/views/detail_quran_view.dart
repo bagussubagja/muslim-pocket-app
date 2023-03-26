@@ -165,11 +165,15 @@ class DetailQuranView extends GetView<DetailQuranController> {
           context: context,
           builder: (context) {
             return AlertDialog(
-              title: Text(controller.dataParams[0]),
+              title: Text(
+                controller.dataParams[0],
+                style: mediumStyle,
+              ),
               content: Text(
                 controller.stringFunction.parseHtmlString(
                   controller.quranData.value.deskripsi!,
                 ),
+                style: regularStyle,
               ),
             );
           },

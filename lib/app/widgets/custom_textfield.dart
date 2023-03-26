@@ -17,6 +17,7 @@ Widget customTextField({
       onEditingComplete: function,
       decoration: InputDecoration(
         hintText: hintText,
+        hintStyle: regularStyle,
         suffixIcon: IconButton(
             onPressed: () {
               controller.clear();
