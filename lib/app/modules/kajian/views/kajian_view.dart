@@ -22,33 +22,43 @@ class KajianView extends GetView<KajianController> {
 
   @override
   Widget build(BuildContext context) {
-    return Obx(
-      () => Scaffold(
-        floatingActionButton: FloatingActionButton(
-          onPressed: () {
-            Get.toNamed(Routes.KAJIAN_VIDEO_COLLECTION);
-          },
-          backgroundColor: greenPrimaryColor,
-          child: const Icon(
-            Icons.save_rounded,
-            color: Colors.white,
-          ),
-        ),
-        body: SafeArea(
-          child: Padding(
-            padding: defaultPaddingScreen,
-            child: ListView(
-              children: [
-                _headerSection(),
-                _islamicChannelSection(),
-                controller.hasInternet.value || controller.kajianVideo.isBlank!
-                    ? _listVideoSection()
-                    : contentNotFound()
-              ],
+    return StreamBuilder(
+      stream: FirebaseAuth.instance.authStateChanges(),
+      builder: (context, snapshot) {
+        if (snapshot.hasData) {
+          return Obx(
+            () => Scaffold(
+              floatingActionButton: FloatingActionButton(
+                onPressed: () {
+                  Get.toNamed(Routes.KAJIAN_VIDEO_COLLECTION);
+                },
+                backgroundColor: greenPrimaryColor,
+                child: const Icon(
+                  Icons.save_rounded,
+                  color: Colors.white,
+                ),
+              ),
+              body: SafeArea(
+                child: Padding(
+                  padding: defaultPaddingScreen,
+                  child: ListView(
+                    children: [
+                      _headerSection(),
+                      _islamicChannelSection(),
+                      controller.hasInternet.value ||
+                              controller.kajianVideo.isBlank!
+                          ? _listVideoSection()
+                          : contentNotFound()
+                    ],
+                  ),
+                ),
+              ),
             ),
-          ),
-        ),
-      ),
+          );
+        } else {
+          return SafeArea(child: _loginWidget(context: context));
+        }
+      },
     );
   }
 
@@ -200,5 +210,72 @@ class KajianView extends GetView<KajianController> {
           return marginWidget(2.h, 0);
         },
         itemCount: controller.kajianVideo.value.items?.length ?? 0,
+      );
+
+  Widget _loginWidget({required BuildContext context}) => Padding(
+        padding: defaultPaddingScreen,
+        child: Column(
+          mainAxisAlignment: MainAxisAlignment.center,
+          crossAxisAlignment: CrossAxisAlignment.center,
+          children: [
+            Text(
+              'kajian_islami'.tr,
+              style: mediumStyle,
+            ),
+            marginWidget(3.h, 0),
+            Container(
+              width: 100.w,
+              padding: const EdgeInsets.all(12),
+              decoration: BoxDecoration(
+                  color: greenDarkerColor,
+                  borderRadius: BorderRadius.circular(1.5.h)),
+              child: Row(
+                mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                children: [
+                  Column(
+                    mainAxisAlignment: MainAxisAlignment.start,
+                    crossAxisAlignment: CrossAxisAlignment.start,
+                    children: [
+                      SizedBox(
+                        width: 55.w,
+                        child: Text(
+                          'Nikmati Fitur Kajian Islam dengan login sekarang juga!',
+                          style: regularStyle.copyWith(color: Colors.white),
+                        ),
+                      ),
+                      ElevatedButton(
+                        onPressed: controller.hasInternet.value
+                            ? () async {
+                                controller.googleAuthProvider
+                                    .signInWithGoogle();
+                              }
+                            : () {
+                                Get.snackbar('pesan'.tr,
+                                    'Aktifkan Data Seluler Terlebih Dahulu!');
+                              },
+                        style: ElevatedButton.styleFrom(
+                          backgroundColor: greenPrimaryColor,
+                          elevation: 0,
+                        ),
+                        child: const Text("Login Sekarang!"),
+                      )
+                    ],
+                  ),
+                  Container(
+                    height: 20.h,
+                    width: 15.h,
+                    decoration: const BoxDecoration(
+                      image: DecorationImage(
+                        image:
+                            AssetImage('assets/illustrations/login_banner.png'),
+                        fit: BoxFit.cover,
+                      ),
+                    ),
+                  )
+                ],
+              ),
+            )
+          ],
+        ),
       );
 }

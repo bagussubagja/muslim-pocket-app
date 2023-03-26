@@ -11,6 +11,8 @@ import 'package:muslim_pocket_app/app/utils/constants/constant_id_key.dart';
 import 'package:muslim_pocket_app/app/utils/constants/constant_url.dart';
 import 'package:muslim_pocket_app/app/utils/storage/local_storage_path.dart';
 
+import '../../../authentication/authentication.dart';
+
 class KajianController extends GetxController {
   final key = Get.put(ConstantIdKey());
   final url = Get.put(ConstantURL());
@@ -19,6 +21,8 @@ class KajianController extends GetxController {
   final localStoragePath = Get.put(LocalStoragePath());
   var isLightMode = true.obs;
   var hasInternet = false.obs;
+
+   final googleAuthProvider = Get.put(GoogleAuthentication());
 
   getCurrentThemeValue() {
     isLightMode.value = box.read(localStoragePath.themePath);
