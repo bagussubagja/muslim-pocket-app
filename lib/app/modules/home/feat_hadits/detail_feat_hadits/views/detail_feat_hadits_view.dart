@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 
 import 'package:get/get.dart';
+import 'package:muslim_pocket_app/app/routes/app_pages.dart';
 import 'package:muslim_pocket_app/app/widgets/loading_widget.dart';
 import 'package:muslim_pocket_app/app/widgets/margin_widget.dart';
 import 'package:sizer/sizer.dart';
@@ -18,10 +19,21 @@ class DetailFeatHaditsView extends GetView<DetailFeatHaditsController> {
       () {
         return Scaffold(
           appBar: AppBar(
-            title: Text('hadits'.tr),
+            title: Text("${'hadist'.tr} ${controller.dataParams[2]}"),
             centerTitle: true,
             backgroundColor: greenPrimaryColor,
             elevation: 0,
+          ),
+          floatingActionButton: FloatingActionButton(
+            onPressed: () {
+              Get.toNamed(Routes.SEARCH_HADITS,
+                  arguments: controller.dataParams[0]);
+            },
+            backgroundColor: greenPrimaryColor,
+            child: const Icon(
+              Icons.search,
+              color: Colors.white,
+            ),
           ),
           body: Padding(
             padding: const EdgeInsets.all(10.0),

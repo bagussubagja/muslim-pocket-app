@@ -1,5 +1,3 @@
-// ignore_for_file: constant_identifier_names
-
 import 'package:get/get.dart';
 
 import '../modules/home/bindings/home_binding.dart';
@@ -7,6 +5,8 @@ import '../modules/home/feat_doa_collection/bindings/feat_doa_collection_binding
 import '../modules/home/feat_doa_collection/views/feat_doa_collection_view.dart';
 import '../modules/home/feat_hadits/bindings/feat_hadits_binding.dart';
 import '../modules/home/feat_hadits/detail_feat_hadits/bindings/detail_feat_hadits_binding.dart';
+import '../modules/home/feat_hadits/detail_feat_hadits/search_hadits/bindings/search_hadits_binding.dart';
+import '../modules/home/feat_hadits/detail_feat_hadits/search_hadits/views/search_hadits_view.dart';
 import '../modules/home/feat_hadits/detail_feat_hadits/views/detail_feat_hadits_view.dart';
 import '../modules/home/feat_hadits/views/feat_hadits_view.dart';
 import '../modules/home/feat_tafsir/bindings/feat_tafsir_binding.dart';
@@ -33,6 +33,8 @@ import '../modules/setting/views/setting_view.dart';
 import '../modules/yufid_search_engine/bindings/yufid_search_engine_binding.dart';
 import '../modules/yufid_search_engine/views/yufid_search_engine_view.dart';
 
+// ignore_for_file: constant_identifier_names
+
 part 'app_routes.dart';
 
 class AppPages {
@@ -55,6 +57,13 @@ class AppPages {
               name: _Paths.DETAIL_FEAT_HADITS,
               page: () => DetailFeatHaditsView(),
               binding: DetailFeatHaditsBinding(),
+              children: [
+                GetPage(
+                  name: _Paths.SEARCH_HADITS,
+                  page: () => SearchHaditsView(),
+                  binding: SearchHaditsBinding(),
+                ),
+              ],
             ),
           ],
         ),
