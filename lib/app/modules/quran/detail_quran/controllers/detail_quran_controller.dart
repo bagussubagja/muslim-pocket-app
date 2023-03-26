@@ -57,10 +57,12 @@ class DetailQuranController extends GetxController {
                     scrollToAyat(int.parse(ayatIndexController.text));
                     ayatIndexController.clear();
                     Get.back();
+                    print('a');
                   } catch (e) {
                     Get.snackbar('pesan'.tr,
                         'Kamu tidak bisa mencari ayat dengan karakter alpabet!');
                     ayatIndexController.clear();
+                    print('b');
                   }
                 },
                 child: Text(
