@@ -3,6 +3,7 @@
 import 'package:flutter/material.dart';
 
 import 'package:get/get.dart';
+import 'package:scrollable_positioned_list/scrollable_positioned_list.dart';
 import 'package:sizer/sizer.dart';
 
 import '../../../../utils/constants/constant_theme.dart';
@@ -27,63 +28,67 @@ class DetailQuranView extends GetView<DetailQuranController> {
           _infoSurah(context),
         ],
       ),
+      floatingActionButton: FloatingActionButton(
+        onPressed: () {
+          controller.scrollToAyatDialogue(context);
+        },
+        backgroundColor: greenPrimaryColor,
+        child: const Icon(
+          Icons.keyboard_double_arrow_down_rounded,
+          color: Colors.white,
+        ),
+      ),
       body: _bodyWidget(),
     );
   }
 
-  Widget _bodyWidget() => SingleChildScrollView(
-        child: Column(
-          children: [
-            Obx(() => ListView.builder(
-                  shrinkWrap: true,
-                  primary: false,
-                  itemCount: controller.quranData.value.ayat?.length ?? 0,
-                  itemBuilder: (context, index) {
-                    return Container(
-                      margin: const EdgeInsets.all(8),
-                      padding: const EdgeInsets.all(15),
-                      decoration: BoxDecoration(
-                        borderRadius: BorderRadius.circular(12),
-                        color: greenDarkerColor,
+  Widget _bodyWidget() => Obx(() => ScrollablePositionedList.builder(
+        shrinkWrap: true,
+        itemScrollController: controller.itemController,
+        itemCount: controller.quranData.value.ayat?.length ?? 0,
+        itemBuilder: (context, index) {
+          return Container(
+            margin: const EdgeInsets.all(8),
+            padding: const EdgeInsets.all(15),
+            decoration: BoxDecoration(
+              borderRadius: BorderRadius.circular(12),
+              color: greenDarkerColor,
+            ),
+            child: Row(
+              mainAxisAlignment: MainAxisAlignment.end,
+              crossAxisAlignment: CrossAxisAlignment.end,
+              children: [
+                Column(
+                  children: [
+                    SizedBox(
+                      width: 80.w,
+                      child: Text(
+                        controller.quranData.value.ayat![index]!.ar!,
+                        style: regularStyle.copyWith(
+                          fontSize: 18.sp,
+                          color: Colors.white,
+                        ),
+                        textAlign: TextAlign.end,
                       ),
-                      child: Row(
-                        mainAxisAlignment: MainAxisAlignment.end,
-                        crossAxisAlignment: CrossAxisAlignment.end,
-                        children: [
-                          Column(
-                            children: [
-                              SizedBox(
-                                width: 80.w,
-                                child: Text(
-                                  controller.quranData.value.ayat![index]!.ar!,
-                                  style: regularStyle.copyWith(
-                                    fontSize: 18.sp,
-                                    color: Colors.white,
-                                  ),
-                                  textAlign: TextAlign.end,
-                                ),
-                              ),
-                              SizedBox(
-                                width: 85.w,
-                                child: Text(
-                                  "${controller.quranData.value.ayat![index]!.nomor!} - ${controller.quranData.value.ayat![index]!.idn!}",
-                                  style: regularStyle.copyWith(
-                                    fontSize: 12.sp,
-                                    color: Colors.white,
-                                  ),
-                                  textAlign: TextAlign.start,
-                                ),
-                              ),
-                            ],
-                          )
-                        ],
+                    ),
+                    SizedBox(
+                      width: 85.w,
+                      child: Text(
+                        "${controller.quranData.value.ayat![index]!.nomor!} - ${controller.quranData.value.ayat![index]!.idn!}",
+                        style: regularStyle.copyWith(
+                          fontSize: 12.sp,
+                          color: Colors.white,
+                        ),
+                        textAlign: TextAlign.start,
                       ),
-                    );
-                  },
-                ))
-          ],
-        ),
-      );
+                    ),
+                  ],
+                )
+              ],
+            ),
+          );
+        },
+      ));
 
   Widget _playAudioSurah(BuildContext context) {
     return IconButton(
@@ -160,11 +165,15 @@ class DetailQuranView extends GetView<DetailQuranController> {
           context: context,
           builder: (context) {
             return AlertDialog(
-              title: Text(controller.dataParams[0]),
+              title: Text(
+                controller.dataParams[0],
+                style: mediumStyle,
+              ),
               content: Text(
                 controller.stringFunction.parseHtmlString(
                   controller.quranData.value.deskripsi!,
                 ),
+                style: regularStyle,
               ),
             );
           },

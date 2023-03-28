@@ -30,6 +30,12 @@ abstract class Routes {
   static const DETAIL_KAJIAN = _Paths.KAJIAN + _Paths.DETAIL_KAJIAN;
   static const ABOUT_US = _Paths.SETTING + _Paths.ABOUT_US;
   static const HELP_CENTER = _Paths.SETTING + _Paths.HELP_CENTER;
+  static const SEARCH_HADITS = _Paths.HOME +
+      _Paths.FEAT_HADITS +
+      _Paths.DETAIL_FEAT_HADITS +
+      _Paths.SEARCH_HADITS;
+  static const KAJIAN_VIDEO_COLLECTION =
+      _Paths.KAJIAN + _Paths.KAJIAN_VIDEO_COLLECTION;
 }
 
 abstract class _Paths {
@@ -56,4 +62,7 @@ abstract class _Paths {
   static const DETAIL_KAJIAN = '/detail-kajian';
   static const ABOUT_US = '/about-us';
   static const HELP_CENTER = '/help-center';
+  static const SEARCH_HADITS = '/search-hadits';
+  static const SAVED_KAJIAN_VIDEO = '/saved-kajian-video';
+  static const KAJIAN_VIDEO_COLLECTION = '/kajian-video-collection';
 }

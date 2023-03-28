@@ -52,8 +52,11 @@ class FeatHaditsView extends GetView<FeatHaditsController> {
             itemBuilder: (context, index) {
               return InkWell(
                 onTap: () {
-                  Get.toNamed(Routes.DETAIL_FEAT_HADITS,
-                      arguments: [controller.naratorsList[index]!.slug!, 1]);
+                  Get.toNamed(Routes.DETAIL_FEAT_HADITS, arguments: [
+                    controller.naratorsList[index]!.slug!,
+                    1,
+                    controller.naratorsList[index]!.name!,
+                  ]);
                 },
                 child: Container(
                   width: Get.width,

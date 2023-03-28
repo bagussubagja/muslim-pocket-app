@@ -82,10 +82,14 @@ class SettingView extends GetView<SettingController> {
           mainAxisAlignment: MainAxisAlignment.spaceBetween,
           children: [
             Column(
+              crossAxisAlignment: CrossAxisAlignment.start,
               children: [
-                Text(
-                  'Belum login?',
-                  style: mediumStyle.copyWith(color: Colors.white),
+                SizedBox(
+                  width: 50.w,
+                  child: Text(
+                    'Nikmati Semua Fitur di aplikasi ini dengan login sekarang juga!',
+                    style: regularStyle.copyWith(color: Colors.white),
+                  ),
                 ),
                 ElevatedButton(
                   onPressed: controller.hasInternet.value
@@ -93,7 +97,8 @@ class SettingView extends GetView<SettingController> {
                           controller.googleAuthProvider.signInWithGoogle();
                         }
                       : () {
-                          Get.snackbar('pesan'.tr, 'Aktifkan Data Seluler Terlebih Dahulu!');
+                          Get.snackbar('pesan'.tr,
+                              'Aktifkan Data Seluler Terlebih Dahulu!');
                         },
                   style: ElevatedButton.styleFrom(
                     backgroundColor: greenPrimaryColor,

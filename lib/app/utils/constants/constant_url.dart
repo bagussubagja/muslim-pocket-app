@@ -14,6 +14,10 @@ class ConstantURL {
     return 'https://hadis-api-id.vercel.app/hadith/$narator/?page=$page&limit=20';
   }
 
+   singleHaditsUrlEndpoint(String narator, int numOfHadits) {
+    return 'https://hadis-api-id.vercel.app/hadith/$narator/$numOfHadits';
+  }
+
   nearbyMosqueEndpoint(String lat, String long) {
     return 'https://www.google.co.id/maps/search/masjid+terdekat/@$lat,$long,15z/data=!3m1!4b1';
   }

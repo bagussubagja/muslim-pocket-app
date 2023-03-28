@@ -1,5 +1,3 @@
-// ignore_for_file: constant_identifier_names
-
 import 'package:get/get.dart';
 
 import '../modules/home/bindings/home_binding.dart';
@@ -7,6 +5,8 @@ import '../modules/home/feat_doa_collection/bindings/feat_doa_collection_binding
 import '../modules/home/feat_doa_collection/views/feat_doa_collection_view.dart';
 import '../modules/home/feat_hadits/bindings/feat_hadits_binding.dart';
 import '../modules/home/feat_hadits/detail_feat_hadits/bindings/detail_feat_hadits_binding.dart';
+import '../modules/home/feat_hadits/detail_feat_hadits/search_hadits/bindings/search_hadits_binding.dart';
+import '../modules/home/feat_hadits/detail_feat_hadits/search_hadits/views/search_hadits_view.dart';
 import '../modules/home/feat_hadits/detail_feat_hadits/views/detail_feat_hadits_view.dart';
 import '../modules/home/feat_hadits/views/feat_hadits_view.dart';
 import '../modules/home/feat_tafsir/bindings/feat_tafsir_binding.dart';
@@ -17,6 +17,8 @@ import '../modules/home/views/home_view.dart';
 import '../modules/kajian/bindings/kajian_binding.dart';
 import '../modules/kajian/detail_kajian/bindings/detail_kajian_binding.dart';
 import '../modules/kajian/detail_kajian/views/detail_kajian_view.dart';
+import '../modules/kajian/kajian_video_collection/bindings/kajian_video_collection_binding.dart';
+import '../modules/kajian/kajian_video_collection/views/kajian_video_collection_view.dart';
 import '../modules/kajian/views/kajian_view.dart';
 import '../modules/main_page/bindings/main_page_binding.dart';
 import '../modules/main_page/views/main_page_view.dart';
@@ -32,6 +34,8 @@ import '../modules/setting/help_center/views/help_center_view.dart';
 import '../modules/setting/views/setting_view.dart';
 import '../modules/yufid_search_engine/bindings/yufid_search_engine_binding.dart';
 import '../modules/yufid_search_engine/views/yufid_search_engine_view.dart';
+
+// ignore_for_file: constant_identifier_names
 
 part 'app_routes.dart';
 
@@ -55,6 +59,13 @@ class AppPages {
               name: _Paths.DETAIL_FEAT_HADITS,
               page: () => DetailFeatHaditsView(),
               binding: DetailFeatHaditsBinding(),
+              children: [
+                GetPage(
+                  name: _Paths.SEARCH_HADITS,
+                  page: () => SearchHaditsView(),
+                  binding: SearchHaditsBinding(),
+                ),
+              ],
             ),
           ],
         ),
@@ -103,6 +114,11 @@ class AppPages {
           name: _Paths.DETAIL_KAJIAN,
           page: () => DetailKajianView(),
           binding: DetailKajianBinding(),
+        ),
+        GetPage(
+          name: _Paths.KAJIAN_VIDEO_COLLECTION,
+          page: () =>  KajianVideoCollectionView(),
+          binding: KajianVideoCollectionBinding(),
         ),
       ],
     ),

@@ -305,7 +305,7 @@ class HomeView extends GetView<HomeController> {
                         }
                       : () {
                           Get.snackbar(
-                            "pesan".tr,
+                            "Fitur Tidak Tersedia",
                             "Kamu tidak tersambung pada koneksi internet!",
                             isDismissible: true,
                             snackStyle: SnackStyle.FLOATING,
@@ -474,7 +474,7 @@ class HomeView extends GetView<HomeController> {
                         }
                       : () {
                           Get.snackbar(
-                            'pesan'.tr,
+                            'Fitur Tidak Tersedia',
                             'Kamu tidak tersambung pada koneksi internet!',
                           );
                         },

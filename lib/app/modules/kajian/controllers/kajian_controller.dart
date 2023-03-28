@@ -1,14 +1,17 @@
 import 'dart:async';
-
+import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:connectivity_plus/connectivity_plus.dart';
 import 'package:get/get.dart';
 import 'package:get_storage/get_storage.dart';
 import 'package:internet_connection_checker/internet_connection_checker.dart';
 import 'package:muslim_pocket_app/app/data/models/kajian_model.dart';
+import 'package:muslim_pocket_app/app/data/models/kajian_video_collection_model.dart';
 import 'package:muslim_pocket_app/app/modules/kajian/providers/kajian_provider.dart';
 import 'package:muslim_pocket_app/app/utils/constants/constant_id_key.dart';
 import 'package:muslim_pocket_app/app/utils/constants/constant_url.dart';
 import 'package:muslim_pocket_app/app/utils/storage/local_storage_path.dart';
+
+import '../../../authentication/authentication.dart';
 
 class KajianController extends GetxController {
   final key = Get.put(ConstantIdKey());
@@ -18,6 +21,8 @@ class KajianController extends GetxController {
   final localStoragePath = Get.put(LocalStoragePath());
   var isLightMode = true.obs;
   var hasInternet = false.obs;
+
+   final googleAuthProvider = Get.put(GoogleAuthentication());
 
   getCurrentThemeValue() {
     isLightMode.value = box.read(localStoragePath.themePath);
@@ -102,6 +107,14 @@ class KajianController extends GetxController {
           hasInternet.value = false;
         }
       });
+
+  // kajian video collection
+  Future saveKajianVideo(KajianVideoCollectionModel model, String email) async {
+    final data = FirebaseFirestore.instance.collection('kajian $email');
+
+    final json = model.toJson();
+    await data.add(json);
+  }
 
   @override
   void onInit() async {
